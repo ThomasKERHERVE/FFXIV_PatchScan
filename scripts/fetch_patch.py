@@ -25,14 +25,14 @@ def get_latest_patch_url():
     )
     res.raise_for_status()
 
-    matches = re.findall(
-        r'href="(/lodestone/topics/detail/[a-f0-9]+)"',
+    match = re.search(
+        r'class="btn_color"\s+href="(/lodestone/topics/detail/[a-f0-9]+)',
         res.text
     )
     if not matches:
         raise ValueError("No patch URL found")
     
-    patch_url = "https://fr.finalfantasyxiv.com" + matches[-1]
+    patch_url = "https://fr.finalfantasyxiv.com" + match.group(1)
 
     # Récupération de la page du patch
     patch_res = requests.get(patch_url, headers=HEADERS, timeout=10)
@@ -45,14 +45,15 @@ def get_latest_patch_url():
         re.IGNORECASE | re.DOTALL
     )
 
-    rss_title = (
-        title_match.group(1).strip()
-        if title_match
-        else "Unknown Patch"
+    rss_title = re.search(
+        r'class="btn_color"[^>]*>([^<]+)<',
+        res.text
     )
 
     for i, m in enumerate(matches[:50]):
         print(i, m)
+
+        
 
     return patch_url, rss_title
 
