@@ -1,0 +1,30 @@
+.card-wide {
+  grid-column: 1 / -1;
+}
+
+.content-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 10px;
+  max-height: none;
+}
+
+.content-entry {
+  background: var(--dark3);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 10px 12px;
+}
+
+.content-name {
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--gold-light);
+  margin-bottom: 4px;
+}
+
+.content-desc {
+  font-size: 0.75rem;
+  color: var(--text-dim);
+  line-height: 1.5;
+}

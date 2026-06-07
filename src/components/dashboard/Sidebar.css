@@ -1,0 +1,72 @@
+.sidebar {
+  position: relative;
+  z-index: 1;
+  width: var(--sidebar-width);
+  flex-shrink: 0;
+  border-right: 1px solid var(--border);
+  background: rgba(16,18,26,0.6);
+  backdrop-filter: blur(10px);
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: var(--dark3) transparent;
+}
+
+.sidebar-title {
+  padding: 20px 16px 10px;
+  font-family: 'Cinzel', serif;
+  font-size: 0.65rem;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--gold-dim);
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 8px;
+}
+
+.patch-list {
+  list-style: none;
+  padding: 0 8px;
+}
+
+.patch-empty {
+  font-size: 0.75rem;
+  color: var(--text-dim);
+  padding: 12px 8px;
+  font-style: italic;
+}
+
+.patch-item {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  padding: 10px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.15s;
+  margin-bottom: 2px;
+}
+
+.patch-item:hover {
+  background: rgba(255,255,255,0.04);
+}
+
+.patch-item.active {
+  background: rgba(74,158,190,0.08);
+  border-left: 2px solid var(--blue);
+  padding-left: 8px;
+}
+
+.patch-name {
+  font-size: 0.78rem;
+  color: var(--text);
+  font-weight: 400;
+}
+
+.patch-item.active .patch-name {
+  color: var(--gold-light);
+}
+
+.patch-date {
+  font-size: 0.65rem;
+  color: var(--text-dim);
+  letter-spacing: 0.08em;
+}

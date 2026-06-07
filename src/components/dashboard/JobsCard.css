@@ -1,0 +1,92 @@
+.card {
+  background: var(--dark2);
+  border: 1px solid var(--border);
+  border-top: 2px solid var(--accent);
+  border-radius: 6px;
+  overflow: hidden;
+  transition: box-shadow 0.2s;
+}
+
+.card:hover {
+  box-shadow: 0 4px 24px rgba(0,0,0,0.3);
+}
+
+.card-head {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 18px;
+  border-bottom: 1px solid var(--border);
+}
+
+.card-icon { font-size: 1rem; }
+
+.card-title {
+  font-family: 'Cinzel', serif;
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  color: var(--text);
+  flex: 1;
+}
+
+.card-badge {
+  font-size: 0.65rem;
+  padding: 2px 8px;
+  border-radius: 99px;
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.1);
+  color: var(--text-dim);
+}
+
+.card-body {
+  padding: 14px 18px;
+  max-height: 320px;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: var(--dark3) transparent;
+}
+
+.card-empty {
+  font-size: 0.78rem;
+  color: var(--text-dim);
+  font-style: italic;
+}
+
+.job-entry {
+  padding: 10px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.job-entry:last-child { border-bottom: none; }
+
+.job-name {
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--gold);
+  letter-spacing: 0.08em;
+  margin-bottom: 6px;
+}
+
+.job-changes {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.job-changes li {
+  font-size: 0.78rem;
+  color: var(--text);
+  line-height: 1.5;
+  padding-left: 14px;
+  position: relative;
+}
+
+.job-changes li::before {
+  content: '▸';
+  position: absolute;
+  left: 0;
+  color: var(--text-dim);
+  font-size: 0.6rem;
+  top: 3px;
+}

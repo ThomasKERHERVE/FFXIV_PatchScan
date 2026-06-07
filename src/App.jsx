@@ -1,122 +1,56 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
-import './App.css'
+import { useState, useEffect } from "react";
+import Header from "./components/Header";
+import Sidebar from "./components/Sidebar";
+import Dashboard from "./components/Dashboard/Dashboard";
+import "./App.css";
 
-function App() {
-  const [count, setCount] = useState(0)
+export default function App() {
+  const [patchList, setPatchList] = useState([]);
+  const [selectedPatch, setSelectedPatch] = useState(null);
+  const [patchData, setPatchData] = useState(null);
+  const [loading, setLoading] = useState(false);
+
+  // Load patch index on mount
+  useEffect(() => {
+    fetch("/data/index.json")
+      .then(res => res.json())
+      .then(data => {
+        setPatchList(data);
+        if (data.length > 0) setSelectedPatch(data[0]); // auto-select latest
+      })
+      .catch(() => setPatchList([]));
+  }, []);
+
+  // Load selected patch data
+  useEffect(() => {
+    if (!selectedPatch) return;
+    setLoading(true);
+    setPatchData(null);
+    fetch(`/data/patches/${selectedPatch.file}`)
+      .then(res => res.json())
+      .then(data => setPatchData(data))
+      .finally(() => setLoading(false));
+  }, [selectedPatch]);
 
   return (
-    <>
-      <section id="center">
-        <div className="hero">
-          <img src={heroImg} className="base" width="170" height="179" alt="" />
-          <img src={reactLogo} className="framework" alt="React logo" />
-          <img src={viteLogo} className="vite" alt="Vite logo" />
-        </div>
-        <div>
-          <h1>Get started</h1>
-          <p>
-            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
-          </p>
-        </div>
-        <button
-          type="button"
-          className="counter"
-          onClick={() => setCount((count) => count + 1)}
-        >
-          Count is {count}
-        </button>
-      </section>
-
-      <div className="ticks"></div>
-
-      <section id="next-steps">
-        <div id="docs">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#documentation-icon"></use>
-          </svg>
-          <h2>Documentation</h2>
-          <p>Your questions, answered</p>
-          <ul>
-            <li>
-              <a href="https://vite.dev/" target="_blank">
-                <img className="logo" src={viteLogo} alt="" />
-                Explore Vite
-              </a>
-            </li>
-            <li>
-              <a href="https://react.dev/" target="_blank">
-                <img className="button-icon" src={reactLogo} alt="" />
-                Learn more
-              </a>
-            </li>
-          </ul>
-        </div>
-        <div id="social">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#social-icon"></use>
-          </svg>
-          <h2>Connect with us</h2>
-          <p>Join the Vite community</p>
-          <ul>
-            <li>
-              <a href="https://github.com/vitejs/vite" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#github-icon"></use>
-                </svg>
-                GitHub
-              </a>
-            </li>
-            <li>
-              <a href="https://chat.vite.dev/" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#discord-icon"></use>
-                </svg>
-                Discord
-              </a>
-            </li>
-            <li>
-              <a href="https://x.com/vite_js" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#x-icon"></use>
-                </svg>
-                X.com
-              </a>
-            </li>
-            <li>
-              <a href="https://bsky.app/profile/vite.dev" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#bluesky-icon"></use>
-                </svg>
-                Bluesky
-              </a>
-            </li>
-          </ul>
-        </div>
-      </section>
-
-      <div className="ticks"></div>
-      <section id="spacer"></section>
-    </>
-  )
+    <div className="app">
+      <div className="bg-grid" />
+      <div className="bg-glow" />
+      <Header />
+      <div className="layout">
+        <Sidebar
+          patches={patchList}
+          selected={selectedPatch}
+          onSelect={setSelectedPatch}
+        />
+        <main className="main">
+          {loading && <div className="loading">Loading...</div>}
+          {patchData && <Dashboard data={patchData} />}
+          {!loading && !patchData && (
+            <div className="placeholder">Select a patch to view its details.</div>
+          )}
+        </main>
+      </div>
+    </div>
+  );
 }
-
-export default App

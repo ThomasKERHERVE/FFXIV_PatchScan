@@ -1,0 +1,52 @@
+.header {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 0 24px;
+  height: 80px;
+  border-bottom: 1px solid var(--border);
+  background: rgba(9,9,15,0.8);
+  backdrop-filter: blur(10px);
+  flex-shrink: 0;
+}
+
+.header-ornament {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.diamond {
+  width: 8px;
+  height: 8px;
+  background: var(--gold);
+  transform: rotate(45deg);
+  box-shadow: 0 0 10px rgba(200,169,110,0.6);
+  flex-shrink: 0;
+}
+
+.diamond.sm {
+  width: 4px;
+  height: 4px;
+  opacity: 0.4;
+}
+
+.line {
+  width: 1px;
+  height: 28px;
+  background: linear-gradient(to bottom, transparent, var(--gold-dim), transparent);
+}
+
+.header-title {
+  font-family: 'Cinzel', serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  color: var(--gold-light);
+}
+
+.header-title .accent {
+  color: var(--blue);
+}

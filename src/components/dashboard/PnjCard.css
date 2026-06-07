@@ -1,0 +1,36 @@
+.pnj-entry {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  padding: 9px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.pnj-entry:last-child { border-bottom: none; }
+
+.pnj-loc {
+  font-size: 0.65rem;
+  letter-spacing: 0.06em;
+  color: var(--green);
+  background: rgba(92,168,120,0.08);
+  border: 1px solid rgba(92,168,120,0.18);
+  padding: 2px 7px;
+  border-radius: 3px;
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.pnj-info {
+  font-size: 0.8rem;
+  line-height: 1.4;
+}
+
+.pnj-name {
+  color: var(--gold-light);
+  font-weight: 500;
+}
+
+.pnj-role {
+  color: var(--text-dim);
+}
