@@ -1,38 +1,51 @@
+cat > /mnt/user-data/outputs/FFXIV_PatchScan/scripts/fetch_patch.py << 'EOF'
 import os
 import re
 import json
 import datetime
 import requests
+import xml.etree.ElementTree as ET
 from anthropic import Anthropic
 
-BASE_URL = "https://fr.finalfantasyxiv.com"
-LODESTONE_NEWS = f"{BASE_URL}/lodestone/news/"
+BASE_URL = "https://na.finalfantasyxiv.com"
+RSS_URL = f"{BASE_URL}/lodestone/news/category/1?rss=1"  # Patch Notes category
 DATA_DIR = "public/data"
 PATCHES_DIR = f"{DATA_DIR}/patches"
 INDEX_FILE = f"{DATA_DIR}/index.json"
 
 client = Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
 
+HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; FFXIVPatchScan/1.0)"}
+
 
 def get_latest_patch_url():
-    """Scrape Lodestone to find the latest patch notes URL."""
-    res = requests.get(LODESTONE_NEWS, timeout=10)
+    res = requests.get(
+        "https://fr.finalfantasyxiv.com/lodestone/special/patchnote_log",
+        headers=HEADERS,
+        timeout=10,
+    )
     res.raise_for_status()
 
-    matches = re.findall(r'href="(/lodestone/topics/\d+/[^"]+)"', res.text)
-    for href in matches:
-        if "patch" in href.lower():
-            return BASE_URL + href
+    match = re.search(
+        r'href="(/lodestone/topics/detail/[a-f0-9]+)"',
+        res.text
+    )
 
-    raise ValueError("No patch notes URL found on Lodestone.")
+    if not match:
+        raise ValueError("No patch URL found")
+        print(res.status_code)
+        print(res.url)
+        print(res.text[:2000])
+
+    return "https://fr.finalfantasyxiv.com" + match.group(1)
 
 
 def fetch_patch_content(url):
     """Fetch and extract text content from a patch notes page."""
-    res = requests.get(url, timeout=10)
+    res = requests.get(url, headers=HEADERS, timeout=10)
     res.raise_for_status()
 
-    title_match = re.search(r'<title>(.*?)</title>', res.text)
+    title_match = re.search(r'<title>(.*?)</title>', res.text, re.IGNORECASE)
     title = title_match.group(1).strip() if title_match else "Patch Notes"
 
     content = re.sub(r'<[^>]+>', ' ', res.text)
@@ -105,8 +118,8 @@ def slugify(title):
 
 
 def main():
-    print("Fetching latest patch URL...")
-    patch_url = get_latest_patch_url()
+    print("Fetching latest patch URL from RSS...")
+    patch_url, rss_title = get_latest_patch_url()
     print(f"Found: {patch_url}")
 
     print("Fetching patch content...")
@@ -139,3 +152,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+EOF
