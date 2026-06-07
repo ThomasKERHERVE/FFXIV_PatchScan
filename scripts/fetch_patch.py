@@ -52,7 +52,7 @@ def get_latest_patch_url():
     )
 
     for i, m in enumerate(matches[:50]):
-    print(i, m)
+        print(i, m)
 
     return patch_url, rss_title
 
