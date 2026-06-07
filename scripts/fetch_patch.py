@@ -1,4 +1,3 @@
-cat > /mnt/user-data/outputs/FFXIV_PatchScan/scripts/fetch_patch.py << 'EOF'
 import os
 import re
 import json
