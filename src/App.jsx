@@ -12,11 +12,11 @@ export default function App() {
 
   // Load patch index on mount
   useEffect(() => {
-    fetch("/data/index.json")
+    fetch(`${import.meta.env.BASE_URL}data/index.json`)
       .then(res => res.json())
       .then(data => {
         setPatchList(data);
-        if (data.length > 0) setSelectedPatch(data[0]); // auto-select latest
+        if (data.length > 0) setSelectedPatch(data[0]);
       })
       .catch(() => setPatchList([]));
   }, []);
@@ -26,7 +26,7 @@ export default function App() {
     if (!selectedPatch) return;
     setLoading(true);
     setPatchData(null);
-    fetch(`/data/patches/${selectedPatch.file}`)
+    fetch(`${import.meta.env.BASE_URL}data/patches/${selectedPatch.file}`)      
       .then(res => res.json())
       .then(data => setPatchData(data))
       .finally(() => setLoading(false));
