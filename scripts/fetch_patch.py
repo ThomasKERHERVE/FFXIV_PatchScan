@@ -29,9 +29,10 @@ def get_latest_patch_url():
         r'class="btn_color"\s+href="(/lodestone/topics/detail/[a-f0-9]+)',
         res.text
     )
-    if not matches:
+
+    if not match:
         raise ValueError("No patch URL found")
-    
+
     patch_url = "https://fr.finalfantasyxiv.com" + match.group(1)
 
     # Récupération de la page du patch
