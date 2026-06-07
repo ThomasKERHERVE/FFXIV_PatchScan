@@ -118,6 +118,9 @@ def slugify(title):
 
 def main():
     print("Fetching latest patch URL from RSS...")
+    result = get_latest_patch_url()
+    print(result)
+    print(type(result))
     patch_url, rss_title = get_latest_patch_url()
     print(f"Found: {patch_url}")
 
