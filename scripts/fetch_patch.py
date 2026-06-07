@@ -31,8 +31,8 @@ def get_latest_patch_url():
     )
     if not matches:
         raise ValueError("No patch URL found")
-
-        return "https://fr.finalfantasyxiv.com" + matches[-1]
+    
+    patch_url = "https://fr.finalfantasyxiv.com" + matches[-1]
 
     # Récupération de la page du patch
     patch_res = requests.get(patch_url, headers=HEADERS, timeout=10)
@@ -166,4 +166,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-EOF
