@@ -32,11 +32,27 @@ def get_latest_patch_url():
 
     if not match:
         raise ValueError("No patch URL found")
-        print(res.status_code)
-        print(res.url)
-        print(res.text[:2000])
 
-    return "https://fr.finalfantasyxiv.com" + match.group(1)
+    patch_url = "https://fr.finalfantasyxiv.com" + match.group(1)
+
+    # Récupération de la page du patch
+    patch_res = requests.get(patch_url, headers=HEADERS, timeout=10)
+    patch_res.raise_for_status()
+
+    # Récupération du titre dans la balise <title>
+    title_match = re.search(
+        r"<title>(.*?)</title>",
+        patch_res.text,
+        re.IGNORECASE | re.DOTALL
+    )
+
+    rss_title = (
+        title_match.group(1).strip()
+        if title_match
+        else "Unknown Patch"
+    )
+
+    return patch_url, rss_title
 
 
 def fetch_patch_content(url):
@@ -118,9 +134,6 @@ def slugify(title):
 
 def main():
     print("Fetching latest patch URL from RSS...")
-    result = get_latest_patch_url()
-    print(result)
-    print(type(result))
     patch_url, rss_title = get_latest_patch_url()
     print(f"Found: {patch_url}")
 
