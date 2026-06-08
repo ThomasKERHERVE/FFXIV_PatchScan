@@ -3,57 +3,34 @@ import re
 import json
 import datetime
 import requests
-import xml.etree.ElementTree as ET
 from google import genai
 
-BASE_URL = "https://na.finalfantasyxiv.com"
-RSS_URL = f"{BASE_URL}/lodestone/news/category/1?rss=1"  # Patch Notes category
+BASE_URL = "https://fr.finalfantasyxiv.com"
+PATCHNOTE_LOG = f"{BASE_URL}/lodestone/special/patchnote_log"
 DATA_DIR = "public/data"
 PATCHES_DIR = f"{DATA_DIR}/patches"
 INDEX_FILE = f"{DATA_DIR}/index.json"
 
 client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
-
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; FFXIVPatchScan/1.0)"}
 
 
-def get_latest_patch_url():
-    res = requests.get(
-        "https://fr.finalfantasyxiv.com/lodestone/special/patchnote_log",
-        headers=HEADERS,
-        timeout=10,
-    )
+def get_patch_urls(limit=50):
+    """Get patch URLs from patchnote_log."""
+    res = requests.get(PATCHNOTE_LOG, headers=HEADERS, timeout=10)
     res.raise_for_status()
-
-    idx = res.text.find("btn__color")
 
     matches = re.findall(
         r'href="(/lodestone/topics/detail/[a-f0-9]+/)"[^>]*class="btn__color"',
         res.text
     )
 
-    if not matches:
-        raise ValueError("No patch URL found")
+    patches = []
+    for match in matches[:limit]:
+        patch_url = BASE_URL + match
+        patches.append(patch_url)
 
-    patch_url = "https://fr.finalfantasyxiv.com" + matches[1]
-
-    # Récupération de la page du patch
-    patch_res = requests.get(patch_url, headers=HEADERS, timeout=10)
-    patch_res.raise_for_status()
-
-    # Récupération du titre dans la balise <title>
-    title_match = re.search(
-        r"<title>(.*?)</title>",
-        patch_res.text,
-        re.IGNORECASE | re.DOTALL
-    )
-
-    rss_title = re.search(
-        r'class="btn__color"[^>]*>([^<]+)<',
-        res.text
-    )
-        
-    return patch_url, rss_title
+    return patches
 
 
 def fetch_patch_content(url):
@@ -70,7 +47,7 @@ def fetch_patch_content(url):
     return title, content[:15000]
 
 
-def analyze_with_gemini(title, content):
+def analyze_with_gemini(title, content, patch_url):
     """Send patch content to Gemini and get structured JSON back."""
     prompt = f"""You are a Final Fantasy XIV expert assistant. Here is raw patch notes content.
 
@@ -79,17 +56,40 @@ Extract ONLY the following into strict JSON (no markdown, no extra text):
 {{
   "patch_title": "exact patch title",
   "patch_date": "date if found, else null",
+  "patch_url": "{patch_url}",
   "jobs_pve": [{{"job": "JobName", "changes": ["change 1", "change 2"]}}],
   "jobs_pvp": [{{"job": "JobName", "changes": ["change 1"]}}],
-  "pnj_locations": [{{"npc_name": "NPC Name", "location": "Zone / Coords", "role": "short description"}}],
-  "new_content": [{{"name": "Content Name", "description": "short description"}}]
+  "new_content": [
+    {{
+      "name": "Raid/Dungeon Name",
+      "description": "brief description",
+      "location": "Zone (X:12.3, Y:45.6)",
+      "npc_location": "NPC Name at Location"
+    }}
+  ],
+  "housing": [
+    {{
+      "name": "Furniture Name",
+      "description": "brief description",
+      "image_url": null
+    }}
+  ],
+  "glamour": [
+    {{
+      "name": "Armor/Weapon Name",
+      "description": "brief description",
+      "image_url": null
+    }}
+  ]
 }}
 
 Rules:
-- Empty section = empty array []
-- jobs_pve/pvp: only gameplay changes (damage, cooldowns, effects), skip minor visual bug fixes
-- pnj_locations: NPCs for new main quests, raids, dungeons, important vendors
-- new_content: dungeons, raids, trials, main story quests, major features
+- Empty sections = empty arrays []
+- jobs_pve/pvp: only gameplay changes (damage, cooldowns, effects)
+- new_content: dungeons, raids, trials, main story quests, major features. Include location and npc_location if mentioned.
+- housing: new furniture/housing items
+- glamour: new armor/weapons/cosmetic items
+- image_url: always null for now
 - Reply ONLY with valid JSON
 
 Patch title: {title}
@@ -133,28 +133,44 @@ def slugify(title):
 
 
 def main():
-    patch_url, rss_title = get_latest_patch_url()
-
-    title, content = fetch_patch_content(patch_url)
+    print("Fetching patch URLs...")
+    patch_urls = get_patch_urls(limit=50)
+    print(f"Found {len(patch_urls)} patches")
 
     index = load_index()
-    filename = slugify(title)
-    if any(p["file"] == filename for p in index):
-        return
+    existing_files = {p["file"] for p in index}
 
-    data = analyze_with_gemini(title, content)
+    for patch_url in patch_urls:
+        try:
+            print(f"\nProcessing: {patch_url}")
+            title, content = fetch_patch_content(patch_url)
+            print(f"  Title: {title}")
 
-    today = datetime.date.today().isoformat()
-    patch_date = data.get("patch_date") or today
+            filename = slugify(title)
+            if filename in existing_files:
+                print(f"  Skipping (already in index)")
+                continue
 
-    save_patch(filename, data)
+            print(f"  Analyzing with Gemini...")
+            data = analyze_with_gemini(title, content, patch_url)
 
-    index.insert(0, {
-        "title": data.get("patch_title") or title,
-        "date": patch_date,
-        "file": filename
-    })
+            save_patch(filename, data)
+            print(f"  Saved: {filename}")
+
+            today = datetime.date.today().isoformat()
+            patch_date = data.get("patch_date") or today
+
+            index.insert(0, {
+                "title": data.get("patch_title") or title,
+                "date": patch_date,
+                "file": filename
+            })
+
+        except Exception as e:
+            print(f"  Error: {e}")
+
     save_index(index)
+    print("\nIndex updated.")
 
 
 if __name__ == "__main__":
