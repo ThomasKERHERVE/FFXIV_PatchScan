@@ -28,16 +28,16 @@ def get_latest_patch_url():
 
     idx = res.text.find("btn__color")
     print(res.text[idx-300:idx+500])
-    
-    match = re.search(
-        r'class="btn__color"\s+href="(/lodestone/topics/detail/[a-f0-9]+)',
+
+    matches = re.findall(
+        r'href="(/lodestone/topics/detail/[a-f0-9]+/)"[^>]*class="btn__color"',
         res.text
     )
 
     if not match:
         raise ValueError("No patch URL found")
 
-    patch_url = "https://fr.finalfantasyxiv.com" + match.group(1)
+    patch_url = "https://fr.finalfantasyxiv.com" + matches[1]
 
     # Récupération de la page du patch
     patch_res = requests.get(patch_url, headers=HEADERS, timeout=10)
@@ -54,12 +54,7 @@ def get_latest_patch_url():
         r'class="btn__color"[^>]*>([^<]+)<',
         res.text
     )
-
-    for i, m in enumerate(matches[:50]):
-        print(i, m)
-
         
-
     return patch_url, rss_title
 
 
