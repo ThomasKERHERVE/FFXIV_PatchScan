@@ -23,8 +23,7 @@ def get_latest_patch_url():
         headers=HEADERS,
         timeout=10,
     )
-    with open("debug.html", "w", encoding="utf-8") as f:
-        f.write(res.text)
+    print("btn_color présent ?", "btn_color" in res.text)
     res.raise_for_status()
 
     match = re.search(
