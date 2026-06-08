@@ -23,11 +23,11 @@ def get_latest_patch_url():
         headers=HEADERS,
         timeout=10,
     )
-    print("btn_color présent ?", "btn_color" in res.text)
+    print("btn__color présent ?", "btn__color" in res.text)
     res.raise_for_status()
 
     match = re.search(
-        r'class="btn_color"\s+href="(/lodestone/topics/detail/[a-f0-9]+)',
+        r'class="btn__color"\s+href="(/lodestone/topics/detail/[a-f0-9]+)',
         res.text
     )
 
@@ -48,7 +48,7 @@ def get_latest_patch_url():
     )
 
     rss_title = re.search(
-        r'class="btn_color"[^>]*>([^<]+)<',
+        r'class="btn__color"[^>]*>([^<]+)<',
         res.text
     )
 
