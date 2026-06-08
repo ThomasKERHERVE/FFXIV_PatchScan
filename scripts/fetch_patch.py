@@ -168,11 +168,11 @@ def main():
                 "file": filename
             })
 
-            time.sleep(20)  # ← 15s entre chaque appel pour rester sous la limite
+            time.sleep(60)  # ← 15s entre chaque appel pour rester sous la limite
 
         except Exception as e:
             print(f"  Error: {e}")
-            time.sleep(40)  # ← attendre plus longtemps en cas d'erreur
+            time.sleep(60)  # ← attendre plus longtemps en cas d'erreur
 
     # Trier par date décroissante avant de sauvegarder
     all_entries = index + new_entries
