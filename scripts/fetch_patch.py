@@ -16,8 +16,7 @@ client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; FFXIVPatchScan/1.0)"}
 
 
-def get_patch_urls(limit=50):
-    """Get patch URLs from patchnote_log."""
+def get_patch_urls():
     res = requests.get(PATCHNOTE_LOG, headers=HEADERS, timeout=10)
     res.raise_for_status()
 
@@ -26,12 +25,10 @@ def get_patch_urls(limit=50):
         res.text
     )
 
-    patches = []
-    for match in matches[:limit]:
-        patch_url = BASE_URL + match
-        patches.append(patch_url)
+    if not matches:
+        raise ValueError("No patch URL found")
 
-    return patches
+    return BASE_URL + matches[0]
 
 
 def fetch_patch_content(url):
@@ -134,64 +131,35 @@ def slugify(title):
 
 
 def main():
-    print("Fetching patch URLs...")
-    patch_urls = get_patch_urls(limit=50)
-    print(f"Found {len(patch_urls)} patches")
+    print("Fetching latest patch...")
+    patch_url = get_latest_patch_url()
 
     index = load_index()
-    existing_files = {p["file"] for p in index}
-    new_entries = []
 
-    for patch_url in patch_urls:
-        try:
-            print(f"\nProcessing: {patch_url}")
-            title, content = fetch_patch_content(patch_url)
-            print(f"  Title: {title}")
+    title, content = fetch_patch_content(patch_url)
+    filename = slugify(title)
 
-            filename = slugify(title)
-            if filename in existing_files:
-                print(f"  Skipping (already in index)")
-                continue
+    if any(p["file"] == filename for p in index):
+        print("Latest patch already processed.")
+        return
 
-            print(f"  Analyzing with Gemini...")
-            data = analyze_with_gemini(title, content, patch_url)
+    print(f"New patch detected: {title}")
 
-            save_patch(filename, data)
-            print(f"  Saved: {filename}")
+    data = analyze_with_gemini(title, content, patch_url)
 
-            today = datetime.date.today().isoformat()
-            patch_date = data.get("patch_date") or today
+    save_patch(filename, data)
 
-            for fmt in (
-                "%Y-%m-%d",
-                "%m/%d/%Y",
-                "%B %d, %Y",
-            ):
-                try:
-                    patch_date = datetime.datetime.strptime(
-                        patch_date, fmt
-                    ).date().isoformat()
-                    break
-                except ValueError:
-                    pass
+    patch_date = data.get("patch_date") or datetime.date.today().isoformat()
 
-            new_entries.append({
-                "title": data.get("patch_title") or title,
-                "date": patch_date,
-                "file": filename
-            })
+    index.insert(0, {
+        "title": data.get("patch_title") or title,
+        "date": patch_date,
+        "file": filename
+    })
 
-            time.sleep(30)  # ← 15s entre chaque appel pour rester sous la limite
+    save_index(index)
 
-        except Exception as e:
-            print(f"  Error: {e}")
-            time.sleep(60)  # ← attendre plus longtemps en cas d'erreur
-
-    # Trier par date décroissante avant de sauvegarder
-    all_entries = index + new_entries
-    all_entries.sort(key=lambda x: x["date"], reverse=True)
-    save_index(all_entries)
-    print("\nIndex updated.")
+    print("Patch added successfully.")
 
 
 if __name__ == "__main__":
