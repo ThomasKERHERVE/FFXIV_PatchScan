@@ -168,7 +168,7 @@ def main():
                 "file": filename
             })
 
-            time.sleep(60)  # ← 15s entre chaque appel pour rester sous la limite
+            time.sleep(180)  # ← 15s entre chaque appel pour rester sous la limite
 
         except Exception as e:
             print(f"  Error: {e}")
