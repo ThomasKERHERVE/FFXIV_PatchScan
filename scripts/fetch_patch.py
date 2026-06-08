@@ -98,7 +98,7 @@ Patch content:
 {content}"""
 
     response = client.models.generate_content(
-        model="Gemini 3.1 Flash Lite",
+        model="gemini-3.1-flash-lite",        
         contents=prompt
     )
 
