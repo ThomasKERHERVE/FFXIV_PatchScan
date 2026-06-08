@@ -3,9 +3,10 @@ import re
 import json
 import datetime
 import requests
+import time
 from google import genai
 
-BASE_URL = "https://fr.finalfantasyxiv.com"
+BASE_URL = "https://na.finalfantasyxiv.com"
 PATCHNOTE_LOG = f"{BASE_URL}/lodestone/special/patchnote_log"
 DATA_DIR = "public/data"
 PATCHES_DIR = f"{DATA_DIR}/patches"
