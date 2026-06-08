@@ -4,7 +4,7 @@ import json
 import datetime
 import requests
 import xml.etree.ElementTree as ET
-from anthropic import Anthropic
+from google import genai
 
 BASE_URL = "https://na.finalfantasyxiv.com"
 RSS_URL = f"{BASE_URL}/lodestone/news/category/1?rss=1"  # Patch Notes category
@@ -12,7 +12,7 @@ DATA_DIR = "public/data"
 PATCHES_DIR = f"{DATA_DIR}/patches"
 INDEX_FILE = f"{DATA_DIR}/index.json"
 
-client = Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; FFXIVPatchScan/1.0)"}
 
@@ -72,8 +72,8 @@ def fetch_patch_content(url):
     return title, content[:15000]
 
 
-def analyze_with_claude(title, content):
-    """Send patch content to Claude and get structured JSON back."""
+def analyze_with_gemini(title, content):
+    """Send patch content to Gemini and get structured JSON back."""
     prompt = f"""You are a Final Fantasy XIV expert assistant. Here is raw patch notes content.
 
 Extract ONLY the following into strict JSON (no markdown, no extra text):
@@ -98,11 +98,12 @@ Patch title: {title}
 Patch content:
 {content}"""
 
-    message = client.messages.create(
-        model="claude-sonnet-4-20250514",
-        max_tokens=2000,
-        messages=[{"role": "user", "content": prompt}]
+    response = client.models.generate_content(
+        model="gemini-2.5-flash",
+        contents=prompt
     )
+
+    raw = response.text
 
     raw = message.content[0].text
     clean = raw.replace("```json", "").replace("```", "").strip()
@@ -150,8 +151,8 @@ def main():
         print("Patch already in index, skipping.")
         return
 
-    print("Analyzing with Claude...")
-    data = analyze_with_claude(title, content)
+    print("Analyzing with Gemini...")
+    data = analyze_with_gemini(title, content)
 
     today = datetime.date.today().isoformat()
     patch_date = data.get("patch_date") or today
