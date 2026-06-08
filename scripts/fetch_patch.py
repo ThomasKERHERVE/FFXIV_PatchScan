@@ -26,6 +26,9 @@ def get_latest_patch_url():
     print("btn__color présent ?", "btn__color" in res.text)
     res.raise_for_status()
 
+    idx = res.text.find("btn__color")
+    print(res.text[idx-300:idx+500])
+    
     match = re.search(
         r'class="btn__color"\s+href="(/lodestone/topics/detail/[a-f0-9]+)',
         res.text
