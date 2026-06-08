@@ -105,7 +105,7 @@ Patch content:
 
     raw = response.text
 
-    raw = message.content[0].text
+    raw = message.text
     clean = raw.replace("```json", "").replace("```", "").strip()
     return json.loads(clean)
 
