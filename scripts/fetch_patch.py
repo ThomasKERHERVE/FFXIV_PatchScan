@@ -24,7 +24,7 @@ def get_latest_patch_url():
         timeout=10,
     )
     with open("debug.html", "w", encoding="utf-8") as f:
-    f.write(res.text)
+        f.write(res.text)
     res.raise_for_status()
 
     match = re.search(
