@@ -1,0 +1,135 @@
+{
+  "patch_title": "Patch 7.11 Notes | FINAL FANTASY XIV, The Lodestone",
+  "patch_date": "11/26/2024",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/f8506f4808c8db5d061b31eb511dc946902712f4/",
+  "jobs_pve": [
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Cast time of applicable actions reduced from 1.44 to 1.32 seconds",
+        "Spell recast time reduced from 2.4 to 2.2 seconds"
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Shield Smite recast time increased from 20 to 24 seconds",
+        "Imperator: HP restored by Sacred Claim reduced from 4,000 to 3,000",
+        "Holy Sheltron: Barrier strength reduced from 10,000 to 8,000 potency",
+        "Holy Sheltron: Unaspected damage dealt upon expiration increased from 100% to 150% of remaining barrier"
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "Onslaught potency increased from 400-4,000 to 500-5,000",
+        "Orogeny: HP consumed reduced from 20% to 10%",
+        "Orogeny: Potency increased from 800-8,000 to 1,000-10,000"
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Wind's Reply recast time reduced from 20 to 16 seconds"
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Meikyo Shisui effect duration reduced from 4 to 3 seconds",
+        "Tendo Setsugekka range increased from 5 to 8 yalms",
+        "Tendo Kaeshi Setsugekka range increased from 5 to 8 yalms"
+      ]
+    },
+    {
+      "job": "Viper",
+      "changes": [
+        "Bloodcoil recast time reduced from 16 to 12 seconds",
+        "Twinfang Bite potency increased from 3,000 to 4,000",
+        "Twinblood Bite potency increased from 3,000 to 4,000",
+        "Uncoiled Twinfang potency increased from 3,000 to 4,000",
+        "Uncoiled Twinblood potency increased from 3,000 to 4,000"
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Wildfire: Attacks needed to detonate reduced from 5 to 4",
+        "Wildfire: Potency per attack increased from 3,000 to 4,000",
+        "Full Metal Field recast time reduced from 40 to 32 seconds"
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Wreath of Fire additional damage potency increased from 4,000 to 4,500",
+        "Flare Star potency increased from 16,000 to 18,000",
+        "Flare Star damage over time duration increased from 6 to 9 seconds"
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Crimson Cyclone potency increased from 4,000 to 6,000",
+        "Necrotize recast time reduced from 12 to 10 seconds"
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Embolden damage buff reduced from 10% to 8%",
+        "Embolden damage reduction buff reduced from 10% to 8%",
+        "Displacement spell buff reduced from 20% to 15%",
+        "Prefulgence potency reduced from 12,000 to 10,000",
+        "Prefulgence self-healing reduced from 12,000 to 10,000",
+        "Prefulgence party-healing reduced from 12,000 to 10,000"
+      ]
+    },
+    {
+      "job": "Pictomancer",
+      "changes": [
+        "Creature Motif cast time reduced from 2.5 to 2s, recast from 3.5 to 3s",
+        "Pom Motif cast time reduced from 2.5 to 2s, recast from 3.5 to 3s",
+        "Wing Motif cast time reduced from 2.5 to 2s, recast from 3.5 to 3s",
+        "Claw Motif cast time reduced from 2.5 to 2s, recast from 3.5 to 3s",
+        "Maw Motif cast time reduced from 2.5 to 2s, recast from 3.5 to 3s",
+        "Pom/Winged/Clawed/Fanged Muse recast time reduced from 20 to 16 seconds"
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Gravity II heavy duration reduced (3 to 2s; with Double Cast 5 to 3s)",
+        "Macrocosmos potency reduced from 12,000 to 10,000",
+        "Macrocosmos healing potency reduced from 6,000 to 5,000",
+        "Epicycle barrier strength reduced from 8,000 to 6,000",
+        "Lady of Crowns healing potency reduced from 8,000 to 6,000",
+        "Lord of Crowns potency reduced from 8,000 to 6,000"
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Futures Rewritten (Ultimate)",
+      "description": "The sixth ultimate duty",
+      "location": "Tuliyollal (X:11.1, Y:14.6)",
+      "npc_location": "Wandering Minstrel at Tuliyollal"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Orchestrion Rolls",
+      "description": "New orchestrion rolls added",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Edenmorn weapons",
+      "description": "Ultimate weapons exchangeable for reward tokens",
+      "image_url": null
+    }
+  ]
+}

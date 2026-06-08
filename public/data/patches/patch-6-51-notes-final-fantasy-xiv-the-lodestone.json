@@ -1,0 +1,57 @@
+{
+  "patch_title": "Patch 6.51 Notes",
+  "patch_date": "11/07/2023",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/46ff678d764ec5b14996fcd2fae85a7170f385f0/",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Splendorous Tools",
+      "description": "Continuation of the tool enhancement quest series.",
+      "location": "The Crystarium (X:10.5, Y:7.7)",
+      "npc_location": "Grenoldt at The Crystarium"
+    },
+    {
+      "name": "Aloalo Island",
+      "description": "New Variant Dungeon for 1-4 players.",
+      "location": "Old Sharlayan (X:12.0, Y:13.3)",
+      "npc_location": "Shallow Moor at Old Sharlayan"
+    },
+    {
+      "name": "Another Aloalo Island",
+      "description": "New Criterion Dungeon for 4 players.",
+      "location": "Old Sharlayan (X:11.9, Y:13.3)",
+      "npc_location": "Osmon at Old Sharlayan"
+    },
+    {
+      "name": "Blunderville",
+      "description": "Fall Guys collaboration battle royale attraction.",
+      "location": "The Gold Saucer (X:4.8, Y:6.1)",
+      "npc_location": "Lewena at The Gold Saucer"
+    }
+  ],
+  "housing": [
+    {
+      "name": "New furnishings",
+      "description": "Additional housing items added to the game.",
+      "image_url": null
+    },
+    {
+      "name": "New orchestrion rolls",
+      "description": "Additional music tracks for housing.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "New hairstyles",
+      "description": "Additional character customization options.",
+      "image_url": null
+    },
+    {
+      "name": "New emotes",
+      "description": "Additional social actions.",
+      "image_url": null
+    }
+  ]
+}

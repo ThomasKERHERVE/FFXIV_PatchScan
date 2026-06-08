@@ -1,0 +1,63 @@
+{
+  "patch_title": "Patch 6.15 Notes",
+  "patch_date": "06/14/2022",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/91ca242abdbf0750db28d01f4f38d27c3aea617b/",
+  "jobs_pve": [],
+  "jobs_pvp": [
+    {
+      "job": "Ninja",
+      "changes": [
+        "Shukuchi: The Hidden effect will now end even when using Sprint.",
+        "Meisui: Base cure potency has been reduced from 10,000 to 8,000."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Paradox: This action no longer has charges.",
+        "Night Wing: Half-asleep effect no longer reduces target movement speed.",
+        "Soul Resonance: Damage reduction from the Apocatastasis effect has been changed from 20% to 10%."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Omega: Beyond the Rift",
+      "description": "Chronicles of a New Era quest series",
+      "location": "Old Sharlayan (X:10.9, Y:14.3)",
+      "npc_location": "Bespectacled Technician at Old Sharlayan"
+    },
+    {
+      "name": "Tataru's Grand Endeavor",
+      "description": "New side story quest series",
+      "location": "Old Sharlayan (X:11.8, Y:9.8)",
+      "npc_location": "Mehdjina at Old Sharlayan"
+    },
+    {
+      "name": "Somehow Further Hildibrand Adventures",
+      "description": "New side story quest series",
+      "location": "Radz-at-Han (X:11.8, Y:11.2)",
+      "npc_location": "Excitable Youth at Radz-at-Han"
+    },
+    {
+      "name": "Ameliance Custom Deliveries",
+      "description": "Custom deliveries for crafters and gatherers",
+      "location": "Old Sharlayan (X:12.6, Y:9.7)",
+      "npc_location": "Well-dressed Attendant at Old Sharlayan"
+    },
+    {
+      "name": "Arkasodara Tribal Quests",
+      "description": "New tribal quest series for Disciple of War or Magic",
+      "location": "Thavnair (X:25.3, Y:31.2)",
+      "npc_location": "Kancana at Thavnair"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Furnishing Design Contest items",
+      "description": "New furnishings added from the FFXIV Furnishing Design Contest 2019 and other selected entries.",
+      "image_url": null
+    }
+  ],
+  "glamour": []
+}

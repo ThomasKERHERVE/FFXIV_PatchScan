@@ -1,0 +1,40 @@
+{
+  "patch_title": "Patch 7.3 Notes",
+  "patch_date": "08/12/2025",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/c04405c6cbe8519a0b6c8aa5e4d88a5d447419c9/",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Main Scenario Quests: Targeted Tragedy",
+      "description": "The conclusion of the Dawntrail story involving Alexandria.",
+      "location": "The Backroom (X:6.0, Y:6.3)",
+      "npc_location": "Shale at The Backroom"
+    },
+    {
+      "name": "Chronicles of a New Era: Dreams of Paradise",
+      "description": "The second installment in the Echoes of Vana'diel alliance raid series.",
+      "location": "Tuliyollal (X:16.2, Y:3.9)",
+      "npc_location": "Landsguard messenger at Tuliyollal"
+    },
+    {
+      "name": "Vault Oneiron",
+      "description": "A new treasure dungeon accessed via Gargantuaskin Treasure Maps.",
+      "location": "Living Memory",
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "FFXIV Furnishing Design Contest items",
+      "description": "New furnishings based on the 2022 design contest.",
+      "image_url": null
+    },
+    {
+      "name": "Champa Seeds",
+      "description": "New seeds for flowerpots.",
+      "image_url": null
+    }
+  ],
+  "glamour": []
+}

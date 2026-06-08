@@ -1,0 +1,47 @@
+{
+  "patch_title": "Patch 7.4 Notes | FINAL FANTASY XIV, The Lodestone",
+  "patch_date": "12/23/2025",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/06944d892fd98cc00b2a28ff77edbafa4f7eef54/",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Main Scenario Quests",
+      "description": "New main scenario quests starting with 'With the Winds'.",
+      "location": "Solution Nine (X:11.9, Y:6.3)",
+      "npc_location": "Alphinaud at Solution Nine"
+    },
+    {
+      "name": "The Arcadion",
+      "description": "New Chronicles of a New Era raid series.",
+      "location": "Solution Nine (X:22.2, Y:16.6)",
+      "npc_location": "Yaana at Solution Nine"
+    },
+    {
+      "name": "Worqor Chirteh (Triumph)",
+      "description": "New campaign addition to Frontline.",
+      "location": "N/A",
+      "npc_location": "N/A"
+    },
+    {
+      "name": "Hell on Rails",
+      "description": "New trial.",
+      "location": "N/A",
+      "npc_location": "N/A"
+    },
+    {
+      "name": "Arcadion: Heavyweight Division",
+      "description": "New raid dungeon.",
+      "location": "N/A",
+      "npc_location": "N/A"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Tea Flower Seeds",
+      "description": "New seed for flowerpots.",
+      "image_url": null
+    }
+  ],
+  "glamour": []
+}

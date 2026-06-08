@@ -1,0 +1,30 @@
+{
+  "patch_title": "Patch 6.41 Notes",
+  "patch_date": "06/20/2023",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/6f516e5324d82e5781fcdf0c4d5c29497c2f477c/",
+  "jobs_pve": [],
+  "jobs_pvp": [
+    {
+      "job": "Reaper",
+      "changes": [
+        "Fixed an issue where the action Guillotine would not inflict damage to its main target."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Fixed an issue where the action Bioblaster failed to indicate that the additional effect of Analysis does not apply to its damage over time effect."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Pandæmonium: Abyssos (Savage)",
+      "description": "Implemented the Echo, increasing players' maximum HP, damage dealt, and healing potency by 10%.",
+      "location": "N/A",
+      "npc_location": "N/A"
+    }
+  ],
+  "housing": [],
+  "glamour": []
+}

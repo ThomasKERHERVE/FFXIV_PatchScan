@@ -1,0 +1,23 @@
+{
+  "patch_title": "Patch 6.57 Notes",
+  "patch_date": null,
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/b059cefcbd31366a4614b8e93ff1eef1288f6e60/",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Pandæmonium: Anabaseios (Savage)",
+      "description": "Weekly restrictions on rewards and entrance removed; Echo added (10% increase to HP, damage, and healing).",
+      "location": "N/A",
+      "npc_location": "N/A"
+    },
+    {
+      "name": "Thaleia",
+      "description": "Added to Duty Roulette: Alliance Raids.",
+      "location": "N/A",
+      "npc_location": "N/A"
+    }
+  ],
+  "housing": [],
+  "glamour": []
+}

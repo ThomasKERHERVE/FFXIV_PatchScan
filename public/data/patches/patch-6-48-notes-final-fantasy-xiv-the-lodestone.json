@@ -1,0 +1,51 @@
+{
+  "patch_title": "Patch 6.48 Notes",
+  "patch_date": null,
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/77ced00c8fc9b818f7a31b9925162a7007bf7882/",
+  "jobs_pve": [],
+  "jobs_pvp": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Blade of Faith potency increased from 4,000 to 6,000.",
+        "Blade of Truth potency increased from 6,000 to 7,000."
+      ]
+    },
+    {
+      "job": "Gunbreaker",
+      "changes": [
+        "Draw and Junction can now be used to target self and party members (Powder Barrel effect only granted when targeting an enemy)."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Soul Resonance now grants the effect Apocatastasis."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Miracle of Nature recast time increased from 25 to 30 seconds.",
+        "Afflatus Purgation: Cure potency of the Regen effect granted by Temperance reduced from 4,000 to 3,000."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Aspected Benefic: Cure potency of Diurnal Benefic increased from 1,000 to 2,000.",
+        "Aspected Benefic: Effect duration of Diurnal Benefic increased from 12 to 15 seconds.",
+        "Aspected Benefic: Barrier potency of Nocturnal Benefic increased from 4,000 to 5,000."
+      ]
+    },
+    {
+      "job": "Common Actions",
+      "changes": [
+        "Time until the Guard action can be manually disabled increased from 1 to 2.5 seconds."
+      ]
+    }
+  ],
+  "new_content": [],
+  "housing": [],
+  "glamour": []
+}

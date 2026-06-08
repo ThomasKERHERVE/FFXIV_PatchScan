@@ -1,0 +1,87 @@
+{
+  "patch_title": "Patch 6.38 Notes",
+  "patch_date": "April 13, 2023",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/99372e256a66b3103f633b1951efb38c9a050aab/",
+  "jobs_pve": [],
+  "jobs_pvp": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Phalanx: Reduced damage taken changed from 50% to 33%."
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "Blota: Heavy effect duration reduced from 5 to 3 seconds."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Phantom Rush: Potency increased from 10,000 to 12,000."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Sky Shatter: Potency reduced from 20,000 to 18,000.",
+        "Sky Shatter: Potency increase when targets are within 5 yalms changed from 30,000 to 32,000.",
+        "Sky Shatter: Barrier strength changed from absorbing damage totaling 25% of maximum HP to absorbing damage equivalent to a heal of 24,000 potency."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Fuma Shuriken: Range reduced from 25 to 20 yalms.",
+        "Hyosho Ranryu: Range reduced from 25 to 20 yalms.",
+        "Goka Mekkyaku: Range reduced from 25 to 20 yalms."
+      ]
+    },
+    {
+      "job": "Reaper",
+      "changes": [
+        "Plentiful Harvest: Maximum potency increased from 20,000 to 24,000."
+      ]
+    },
+    {
+      "job": "Dancer",
+      "changes": [
+        "Curing Waltz: Healing potency increased from 8,000 to 10,000."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Burst: Barrier strength increased from 12,000 to 16,000."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Magick Barrier: Effect duration increased from 8 to 10 seconds.",
+        "Frazzle: Effect duration increased from 8 to 10 seconds.",
+        "Southern Cross: Healing potency increased from 6,000 to 8,000.",
+        "Southern Cross: Damage potency increased from 6,000 to 8,000.",
+        "Southern Cross: Cure potency increase from White Shift reduced from 100% to 50%.",
+        "Southern Cross: Damage potency increase from Black Shift reduced from 100% to 50%."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Adloquium: Cure potency reduced from 4,000 to 3,000.",
+        "Adloquium: Barrier strength increased from 4,000 to 6,000."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Fall Malefic: Recast time reduction granted by additional effect 'Reduces the recast time of Double Cast' changed from 7.5 to 10 seconds."
+      ]
+    }
+  ],
+  "new_content": [],
+  "housing": [],
+  "glamour": []
+}

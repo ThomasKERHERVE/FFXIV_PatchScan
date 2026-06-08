@@ -1,0 +1,35 @@
+{
+  "patch_title": "Patch 6.2 Notes",
+  "patch_date": "08/23/2022",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/6eee1ca8a733856669d901d95d2fa9db46a466e6/",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Main Scenario Quests",
+      "description": "New main scenario quests starting with In Search of Azdaja.",
+      "location": "Radz-at-Han (X:4.4, Y:9.8)",
+      "npc_location": "Varshahn at Radz-at-Han"
+    },
+    {
+      "name": "Pandæmonium: Abyssos",
+      "description": "New raid dungeon content.",
+      "location": "Labyrinthos (X:8.6, Y:27.5)",
+      "npc_location": "Claudien at Labyrinthos"
+    },
+    {
+      "name": "Tataru's Grand Endeavor",
+      "description": "New side story quest: Soaring Profits.",
+      "location": "Old Sharlayan (X:11.8, Y:9.8)",
+      "npc_location": "Mehdjina at Old Sharlayan"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Sweet Pea Seeds",
+      "description": "A new seed for flowerpots.",
+      "image_url": null
+    }
+  ],
+  "glamour": []
+}

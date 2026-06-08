@@ -1,0 +1,47 @@
+{
+  "patch_title": "Patch 6.25 Notes",
+  "patch_date": "10/25/2022",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/0210a35806ead4c80482b12a3edd9eb5e4db5bb0/",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Somehow Further Hildibrand Adventures",
+      "description": "New side story quest line.",
+      "location": "Radz-at-Han (X:11.8, Y:11.2)",
+      "npc_location": "Nashu Mhakaracca at Radz-at-Han"
+    },
+    {
+      "name": "Manderville Weapons",
+      "description": "New relic weapon quest series.",
+      "location": "???",
+      "npc_location": "???"
+    },
+    {
+      "name": "The Sil'dihn Subterrane",
+      "description": "Variant dungeon following story threads in underground waterways.",
+      "location": "Old Sharlayan (X:12.0, Y:13.3)",
+      "npc_location": "Shallow Moor at Old Sharlayan"
+    },
+    {
+      "name": "Another Sil'dihn Subterrane",
+      "description": "Challenging criterion dungeon for a party of 1 tank, 1 healer, and 2 DPS.",
+      "location": "Old Sharlayan (X:11.9, Y:13.3)",
+      "npc_location": "Osmon at Old Sharlayan"
+    },
+    {
+      "name": "Omicron Tribal Quests",
+      "description": "New tribal quests for Disciples of the Land.",
+      "location": "Ultima Thule (X:25.4, Y:26.3)",
+      "npc_location": "Jammingway at Ultima Thule"
+    }
+  ],
+  "housing": [
+    {
+      "name": "FFXIV Furnishing Design Contest Items",
+      "description": "New furniture items based on the 2019 design contest.",
+      "image_url": null
+    }
+  ],
+  "glamour": []
+}

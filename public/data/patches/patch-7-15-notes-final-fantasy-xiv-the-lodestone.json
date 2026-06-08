@@ -1,0 +1,148 @@
+{
+  "patch_title": "Patch 7.15 Notes",
+  "patch_date": null,
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/864c7e51128b7a1dced4e193dcaefe7891620f8d/",
+  "jobs_pve": [],
+  "jobs_pvp": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Guardian: Recast time increased from 24 to 30 seconds.",
+        "Holy Sheltron: Sword Oath damage bonus increased from 10% to 15%; Shield Oath damage reduction reduced from 20% to 15%."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Wind's Reply: Movement speed duration increased from 3 to 4 seconds; Pressure Point potency increased from 8,000 to 10,000.",
+        "Earth's Reply: Potency increased from 2,000 + 25% damage to 3,000 + 25% damage; Cure potency increased from 4,000 + 50% damage to 6,000 + 50% damage."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "High Jump: Potency increased from 4,000 to 6,000.",
+        "Starcross: Potency increased from 10,000 to 12,000."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Hissatsu: Chiten: Counter attack potency reduced from 6,000 to 4,000.",
+        "Hissatsu: Soten: Potency reduced from 4,000 to 3,000.",
+        "Zanshin: Potency reduced from 6,000 to 5,000."
+      ]
+    },
+    {
+      "job": "Viper",
+      "changes": [
+        "Rattling Coil: Recast time reduced from 60 to 45 seconds; Recast reduction on kill/assist increased from 10 to 15 seconds.",
+        "Uncoiled Twinfang: Recast time reduced from 1 to 0.7 seconds.",
+        "Uncoiled Twinblood: Recast time reduced from 1 to 0.7 seconds.",
+        "World-swallower: Noxious Gnash damage bonus increased from 20% to 25%."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Repelling Shot: Potency increased from 4,000 to 4,500.",
+        "Pitch Perfect: First enemy potency increased from 8,000 to 9,000; subsequent enemies increased from 4,000 to 4,500."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Drill: Potency increased from 8,000 to 9,000."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Paradox: Potency increased from 6,000 to 9,000.",
+        "Xenoglossy: Added effect: Absorbs 50% of damage dealt as HP."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Radiant Aegis: Damage reduction increased from 20% to 25%."
+      ]
+    },
+    {
+      "job": "Pictomancer",
+      "changes": [
+        "Tempera Coat: Recast time reduced from 24 to 20 seconds; Recast reduction on barrier break reduced from 8s to 5s.",
+        "Tempera Grassa: Recast reduction on barrier break reduced from 8s to 5s.",
+        "Star Prism: Effect duration increased from 10 to 15 seconds."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Biolysis: DoT potency increased from 2,000 to 3,000; Recitation bonus reduced from 100% (doubled) to 50%.",
+        "Chain Stratagem: Duration increased from 6 to 10 seconds.",
+        "Seraphic Halo: Potency increased from 8,000 to 9,000."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Aspected Benefic: Diurnal Benefic HoT potency reduced from 4,000 to 3,000.",
+        "Gravity II: Potency reduced from 8,000 to 7,500; Heavy duration increased from 2 to 3 seconds; now only applies to first target.",
+        "Gravity II (After Double Cast): Potency reduced from 8,000 to 7,500; effect changed from Heavy to Bind; now only applies to first target.",
+        "Minor Arcana: Duration reduced from 20 to 10 seconds.",
+        "Epicycle: Barrier duration reduced from 10 to 5 seconds."
+      ]
+    },
+    {
+      "job": "Sage",
+      "changes": [
+        "Pneuma: Barrier strength increased from 3,000 to 4,000 heal potency.",
+        "Haimatinon: Expiration heal increased from 3,000 per stack to 4,000 per stack.",
+        "Eukrasia: Recast reduced from 16 to 12 seconds.",
+        "Psyche: Potency increased from 10,000 to 12,000.",
+        "Toxikon II: Subsequent target potency increased from 2,000 to 4,000."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Cloud of Darkness (Chaotic)",
+      "description": "A new 24-player alliance raid.",
+      "location": "Tuliyollal (X:11.1, Y:14.6)",
+      "npc_location": "Wandering Minstrel at Tuliyollal"
+    },
+    {
+      "name": "Appreciated Value",
+      "description": "New class quests for Disciples of the Hand or Land.",
+      "location": "Tuliyollal (X:16.1, Y:11.1)",
+      "npc_location": "Ropli at Tuliyollal"
+    },
+    {
+      "name": "The Case of the Displaced Inspector",
+      "description": "Inconceivably Further Hildibrand Adventures quest.",
+      "location": "Tuliyollal (X:14.5, Y:12.5)",
+      "npc_location": "Nashu Mhakaracca at Tuliyollal"
+    },
+    {
+      "name": "Laying New Tracks",
+      "description": "Custom Deliveries quest.",
+      "location": "Tuliyollal (X:14.1, Y:12.1)",
+      "npc_location": "Railroad Employee at Tuliyollal"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Furnishing Design Contest items",
+      "description": "New furnishings from the FFXIV Furnishing Design Contest.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Hairstyle",
+      "description": "New hairstyle inspired by the FFXIV Hairstyle Design Contest entry.",
+      "image_url": null
+    }
+  ]
+}

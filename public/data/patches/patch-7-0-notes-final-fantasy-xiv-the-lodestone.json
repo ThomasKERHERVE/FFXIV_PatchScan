@@ -1,0 +1,47 @@
+{
+  "patch_title": "Patch 7.0 Notes | FINAL FANTASY XIV, The Lodestone",
+  "patch_date": "08/11/2025",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/d7db61f938f9cea65e4c5cd261918edb036b3004/",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "A New World to Explore",
+      "description": "Main scenario quest to begin the Dawntrail journey.",
+      "location": "Old Sharlayan (X:9.2, Y:11.2)",
+      "npc_location": "Ojika Tsunjika at Old Sharlayan"
+    },
+    {
+      "name": "Bottled Fantasy",
+      "description": "Side story quest that rewards a phial of Fantasia.",
+      "location": "Ul'dah - Steps of Thal (X:13.4, Y:9.2)",
+      "npc_location": "Medicine Merchant at Ul'dah - Steps of Thal"
+    },
+    {
+      "name": "Uncouth Customers",
+      "description": "Initial quest for Dawntrail role quests.",
+      "location": "Tuliyollal (X:12.4, Y:14.5)",
+      "npc_location": "Br'uk Evu at Tuliyollal"
+    },
+    {
+      "name": "Enter the Viper",
+      "description": "Job quest for the new Viper job.",
+      "location": "Ul'dah - Steps of Nald (X:9.3, Y:9.2)",
+      "npc_location": "Worried Weaver at Ul'dah - Steps of Nald"
+    },
+    {
+      "name": "The Joy of Pictomancy",
+      "description": "Job quest for the new Pictomancer job.",
+      "location": "Old Gridania (X:8.0, Y:10.3)",
+      "npc_location": "Cheerless Hearer at Old Gridania"
+    },
+    {
+      "name": "Wachumeqimeqi Deliveries",
+      "description": "Crafting and gathering delivery quests.",
+      "location": "Tuliyollal (X:16.1, Y:11.1)",
+      "npc_location": "Ropli at Tuliyollal"
+    }
+  ],
+  "housing": [],
+  "glamour": []
+}

@@ -1,0 +1,105 @@
+{
+  "patch_title": "Patch 7.18 Notes",
+  "patch_date": "02/24/2025",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/5bf940a5cc288227434e21754f89eceb44805977/",
+  "jobs_pve": [],
+  "jobs_pvp": [
+    {
+      "job": "All Jobs",
+      "changes": [
+        "Guard: Effect duration reduced from 5 to 4 seconds.",
+        "Guard: Movement speed reduction decreased from 50% to 33%."
+      ]
+    },
+    {
+      "job": "Paladin",
+      "changes": [
+        "Holy Spirit: Healing potency reduced from 8,000 to 6,000.",
+        "Intervene: Recast time increased from 12 to 15 seconds."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Wind's Reply: Additional damage from Pressure Point effect increased from 10,000 to 12,000.",
+        "Meteodrive: Range increased from 15 to 20 yalms."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Fuma Shuriken: Recast time reduced from 12 to 10 seconds.",
+        "Dokumori: Recast time increased from 20 to 24 seconds.",
+        "Dokumori: Effect duration reduced from 10 to 8 seconds.",
+        "Bunshin: Additional damage for Forked/Fleeting Raiju reduced from 4,000 to 2,000.",
+        "Bunshin: Additional damage no longer ignores Guard when using Assassinate.",
+        "Doton: Damage reduction reduced from 20% to 15%.",
+        "Seiton Tenchu: Now ignores Guard effects when dealing damage."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "HP reduced from 63,000 to 61,500.",
+        "Zanshin: Potency increased from 5,000 to 6,000."
+      ]
+    },
+    {
+      "job": "Viper",
+      "changes": [
+        "HP increased from 60,000 to 61,500.",
+        "World-swallower: Movement speed increased from 25% to 50%.",
+        "Ouroboros: Damage converted to HP increased from 50% to 100%."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Powerful Shot: Reduction to Harmonic Arrow recast time increased from 4 to 5 seconds.",
+        "Pitch Perfect: Reduction to Harmonic Arrow recast time increased from 4 to 5 seconds.",
+        "Harmonic Arrow: Recast time reduced from 16 to 15 seconds."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Blast Charge: Heat stacks required for Overheated reduced from 5 to 4."
+      ]
+    },
+    {
+      "job": "Dancer",
+      "changes": [
+        "Saber Dance: Potency changed to 12,000 for first target and 8,000 for remaining when striking multiple.",
+        "Dance of the Dawn: Potency changed to 15,000 for first target and 10,000 for remaining when striking multiple."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Lethargy: Target damage dealt reduction increased from 25% to 33%.",
+        "Lethargy: Damage reduction duration increased from 4 to 5 seconds.",
+        "Lethargy: Heavy duration reduced from 4 to 3 seconds.",
+        "Lethargy: Recast time reduced from 16 to 15 seconds."
+      ]
+    },
+    {
+      "job": "Pictomancer",
+      "changes": [
+        "Holy in White: Potency increased from 8,000 to 9,000.",
+        "Smudge: Recast time reduced from 16 to 12 seconds.",
+        "Tempera Grassa: Barrier potency increased from 6,000 to 8,000.",
+        "Tempera Coat: Recast time no longer reduced when barrier is absorbed."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "AAC Light-heavyweight Tier (Savage) Adjustments",
+      "description": "Weekly restriction removed, treasure coffers now always appear, and direct access to areas enabled.",
+      "location": "Solution Nine",
+      "npc_location": "Uah'shepya (X:8.7 Y:13.5)"
+    }
+  ],
+  "housing": [],
+  "glamour": []
+}

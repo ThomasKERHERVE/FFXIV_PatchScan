@@ -1,0 +1,71 @@
+{
+  "patch_title": "Patch 7.25 Notes",
+  "patch_date": "06/03/2025",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/3c12f110983c5f4288d43aa5ac2ed3c022a75b48/",
+  "jobs_pve": [
+    {
+      "job": "Ninja",
+      "changes": [
+        "Phantom Kamaitachi: Potency is no longer reduced after the first enemy.",
+        "Hollow Nozuchi: Potency increased from 50 to 70.",
+        "Kunai's Bane: Potency is no longer reduced after the first enemy.",
+        "Tenri Jindo: Potency is no longer reduced after the first enemy."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Pitch Perfect: Reduction in potency after the first target changed from 55% to 50%.",
+        "Shadowbite: Potency increased from 180 to 200.",
+        "Barrage: Potency increased from 280 to 300.",
+        "Blast Arrow: Reduction in potency after the first target changed from 60% to 50%.",
+        "Resonant Arrow: Reduction in potency after the first target changed from 55% to 50%.",
+        "Radiant Encore: Reduction in potency after the first target changed from 55% to 50%."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Ricochet: Reduction in potency after the first target changed from 40% to 30%.",
+        "Chain Saw: Reduction in potency after the first target changed from 50% to 35%.",
+        "Double Check: Reduction in potency after the first target changed from 40% to 30%.",
+        "Checkmate: Reduction in potency after the first target changed from 40% to 30%.",
+        "Excavator: Reduction in potency after the first target changed from 50% to 35%.",
+        "Full Metal Field: Reduction in potency after the first target changed from 40% to 30%."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Deathflare: Reduction in potency after the first target changed from 60% to 50%.",
+        "Akh Morn: Reduction in potency after the first target changed from 60% to 50%.",
+        "Revelation: Reduction in potency after the first target changed from 60% to 50%.",
+        "Sunflare: Reduction in potency after the first target changed from 60% to 50%.",
+        "Exodus: Reduction in potency after the first target changed from 60% to 50%."
+      ]
+    }
+  ],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Occult Crescent: South Horn",
+      "description": "Large-scale instanced encounter for level 100 players involving exploration and skirmishes.",
+      "location": "The Phantom Village (X:4.5, Y:6.6)",
+      "npc_location": "Jeffroy at The Phantom Village"
+    },
+    {
+      "name": "Mamool Ja Allied Society Quests",
+      "description": "New allied society quests for Disciples of the Land.",
+      "location": "Yak T'el (X:35.6, Y:32.0)",
+      "npc_location": "Gotoll Ja at Yak T'el"
+    },
+    {
+      "name": "Inconceivably Further Hildibrand Adventures",
+      "description": "Continuation of the Hildibrand questline.",
+      "location": "Solution Nine (X:18.5, Y:13.6)",
+      "npc_location": "Nashu Mhakaracca at Solution Nine"
+    }
+  ],
+  "housing": [],
+  "glamour": []
+}

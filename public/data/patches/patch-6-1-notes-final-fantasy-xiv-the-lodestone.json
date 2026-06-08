@@ -1,0 +1,40 @@
+{
+  "patch_title": "Patch 6.1 Notes",
+  "patch_date": "04/12/2022",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/c73cd284013587066d8f9e697fab1db9f007372c/",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Newfound Adventure",
+      "description": "New main scenario quest",
+      "location": "The Rising Stones (X:6.0, Y:5.9)",
+      "npc_location": "Tataru at The Rising Stones"
+    },
+    {
+      "name": "Myths of the Realm",
+      "description": "First installment in the new alliance raid series",
+      "location": "Old Sharlayan (X:9.1, Y:11.5)",
+      "npc_location": "Fresh-faced Student at Old Sharlayan"
+    },
+    {
+      "name": "Bitter Snow",
+      "description": "New role quest",
+      "location": "Radz-at-Han (X:7.7, Y:9.4)",
+      "npc_location": "Shirabaht at Radz-at-Han"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Furnishings from the FFXIV Furnishing Design Contest",
+      "description": "New housing items based on the 2019 design contest",
+      "image_url": null
+    },
+    {
+      "name": "Byregotia Seeds",
+      "description": "New seed for flowerpots",
+      "image_url": null
+    }
+  ],
+  "glamour": []
+}

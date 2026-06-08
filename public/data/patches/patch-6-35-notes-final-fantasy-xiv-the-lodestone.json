@@ -1,0 +1,47 @@
+{
+  "patch_title": "Patch 6.35",
+  "patch_date": "03/14/2023",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/549b10141c2add85f11595f5ba39127cc0433327/",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Eureka Orthos",
+      "description": "A new deep dungeon with floors 1-30 for story and 31+ for challenge, starting at level 81.",
+      "location": "Mor Dhona (X:34.8, Y:19.2)",
+      "npc_location": "Khatun at Mor Dhona"
+    },
+    {
+      "name": "Loporrit Tribal Quests",
+      "description": "New crafting-based tribal quests for Disciples of the Hand level 80+.",
+      "location": "Old Sharlayan (X:11.7, Y:10.9)",
+      "npc_location": "Dreamingway at Old Sharlayan"
+    },
+    {
+      "name": "Splendorous Tools",
+      "description": "A new quest series for upgrading Disciple of the Hand and Land tools.",
+      "location": "Crystarium (X:7.8, Y:11.4)",
+      "npc_location": "Chora-Zoi at Crystarium"
+    },
+    {
+      "name": "Somehow Further Hildibrand Adventures",
+      "description": "Continuation of the Hildibrand questline.",
+      "location": "Radz-at-Han (X:11.9, Y:11.1)",
+      "npc_location": "Delion at Radz-at-Han"
+    },
+    {
+      "name": "Manderville Weapons",
+      "description": "Continuation of the Manderville weapon enhancement questline.",
+      "location": "Radz-at-Han (X:12.0, Y:7.1)",
+      "npc_location": "Gerolt at Radz-at-Han"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Furniture from FFXIV Furnishing Design Contest",
+      "description": "New items added based on the 2019 design contest.",
+      "image_url": null
+    }
+  ],
+  "glamour": []
+}

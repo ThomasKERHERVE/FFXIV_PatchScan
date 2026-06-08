@@ -1,0 +1,46 @@
+{
+  "patch_title": "Patch 6.5 Notes",
+  "patch_date": "10/03/2023",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/e17ce5b98068f6972379cef5adbc6c4b664f9780/",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Seeking the Light",
+      "description": "New main scenario quest",
+      "location": "Radz-at-Han (X:4.4, Y:9.8)",
+      "npc_location": "Varshahn at Radz-at-Han"
+    },
+    {
+      "name": "The Heart of the Myth",
+      "description": "Chronicles of a New Era quest (Myths of the Realm)",
+      "location": "Mor Dhona (X:23.9, Y:9.1)",
+      "npc_location": "Deryk at Mor Dhona"
+    },
+    {
+      "name": "A Request of One's Own",
+      "description": "New custom deliveries quest",
+      "location": "Old Sharlayan (X:13.8, Y:15.0)",
+      "npc_location": "Theopauldin at Old Sharlayan"
+    },
+    {
+      "name": "The Sweetest Thing",
+      "description": "New Island Sanctuary quest",
+      "location": "Unnamed Island (X:12.4, Y:28.7)",
+      "npc_location": "The Curious Courier at Unnamed Island"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Furniture from FFXIV Furnishing Design Contest",
+      "description": "New items added from the design contest",
+      "image_url": null
+    },
+    {
+      "name": "Lupin Seeds",
+      "description": "New seed for flowerpots",
+      "image_url": null
+    }
+  ],
+  "glamour": []
+}

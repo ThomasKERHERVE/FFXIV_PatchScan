@@ -1,0 +1,124 @@
+{
+  "patch_title": "Patch 7.01 Notes",
+  "patch_date": "07/31/2024",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/0ad1ca4bbafeb2ee244994bee15b3a74c0278e1d/",
+  "jobs_pve": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Total Eclipse: Added enmity increase.",
+        "Prominence: Added enmity increase."
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "Overpower: Added enmity increase.",
+        "Mythril Tempest: Added enmity increase.",
+        "Primal Rend: Primal Ruination Ready duration reduced (30s to 20s).",
+        "Primal Ruination: Potency increased (740 to 780)."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Unleash: Added enmity increase.",
+        "Stalwart Soul: Added enmity increase.",
+        "Shadowstride: Added enmity increase."
+      ]
+    },
+    {
+      "job": "Gunbreaker",
+      "changes": [
+        "Demon Slice: Added enmity increase.",
+        "Demon Slaughter: Added enmity increase.",
+        "Trajectory: Added enmity increase."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "True Strike: Potency increased.",
+        "Raptor's Fury: Potency increased, stack limit reduced to 1.",
+        "Snap Punch: Potency reduced.",
+        "Coeurl's Fury: Potency adjusted, stack limit reduced to 2.",
+        "Twin Snakes: Potency increased.",
+        "Arm of the Destroyer: Potency increased.",
+        "Demolish: Potency increased.",
+        "Rockbreaker: Potency increased.",
+        "Four-point Fury: Potency increased.",
+        "Dragon Kick: Opo-opo's Fury stack condition fixed.",
+        "Tornado Kick: Potency increased (850 to 1200).",
+        "Celestial Revolution: Potency increased (450 to 600).",
+        "Flint Strike: Potency increased (600 to 800).",
+        "Enlightenment: Potency increased (170 to 200).",
+        "Shadow of the Destroyer: Potency increased (110 to 120).",
+        "Rising Raptor: Potency increased (330 to 340).",
+        "Pouncing Coeurl: Potency adjusted."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Tendo Setsugekka: Recast time reduced (3.2s to 2.5s).",
+        "Tendo Kaeshi Setsugekka: Recast time reduced (3.2s to 2.5s)."
+      ]
+    },
+    {
+      "job": "Viper",
+      "changes": [
+        "Death Rattle: Range increased (3y to 5y).",
+        "Twinfang Bite: Range increased (3y to 5y).",
+        "Twinblood Bite: Range increased (3y to 5y).",
+        "First Legacy: Range increased (3y to 5y).",
+        "Second Legacy: Range increased (3y to 5y).",
+        "Third Legacy: Range increased (3y to 5y).",
+        "Fourth Legacy: Range increased (3y to 5y)."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Umbral Soul: Now acquired at level 35."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Manafication: Duration increased (15s to 30s)."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Lightspeed: Now has 2 charges, recast reduced (90s to 60s).",
+        "Astral Draw: Recast reduced (60s to 55s).",
+        "Umbral Draw: Recast reduced (60s to 55s).",
+        "Macrocosmos: Potency increased (250 to 270)."
+      ]
+    }
+  ],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "AAC Light-heavyweight Tier",
+      "description": "New raid dungeon (Normal).",
+      "location": "Solution Nine",
+      "npc_location": "Hhihwi at Solution Nine (X:8.7, Y:13.4)"
+    },
+    {
+      "name": "A New Challenger Appears",
+      "description": "Chronicles of a New Era quest.",
+      "location": "Solution Nine (X:19.1, Y:18.8)",
+      "npc_location": "Stylish Stranger at Solution Nine"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Orchestrion rolls",
+      "description": "New music items added.",
+      "image_url": null
+    }
+  ],
+  "glamour": []
+}

@@ -1,0 +1,101 @@
+{
+  "patch_title": "Patch 6.05 Notes",
+  "patch_date": null,
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/674bcc0a4da4caba1ded710a7af99389094d52a8/",
+  "jobs_pve": [
+    {
+      "job": "Monk",
+      "changes": [
+        "Arm of the Destroyer: grants Raptor Chakra even when missing a target under Perfect Balance",
+        "Rockbreaker: grants Opo-opo Chakra even when missing a target under Perfect Balance",
+        "Four-point Fury: grants Coeurl Chakra even when missing a target under Perfect Balance",
+        "Shadow of the Destroyer: grants Raptor Chakra even when missing a target under Perfect Balance",
+        "Elixir Field: grants Lunar Nadi and Formless Fist even when missing a target",
+        "Flint Strike: grants Solar Nadi and Formless Fist even when missing a target",
+        "Rising Phoenix: grants Solar Nadi and Formless Fist even when missing a target"
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Wyrmwind Thrust: Potency increased from 370 to 420",
+        "Geirskogul: Potency increased from 250 to 260",
+        "Nastrond: Potency increased from 350 to 360"
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Raiton: Status changed to Raiju Ready; duration increased to 30s",
+        "Bunshin: Phantom Kamaitachi Ready status no longer expires when Bunshin ends; changes to Phantom Kamaitachi upon execution; duration 45s",
+        "Phantom Kamaitachi: No longer consumes Bunshin stack; Ninki gauge increase changed from 5 to 10",
+        "Forked Raiju: Potency increased from 400 to 560; execution requirement changed to Raiju Ready",
+        "Fleeting Raiju: No longer rushes target; range reduced to 3 yalms; potency increased from 450 to 560; execution requirement changed to Raiju Ready"
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Higanbana: Range increased from 3 to 6 yalms",
+        "Kaeshi: Higanbana: Range increased from 3 to 6 yalms",
+        "Midare Setsugekka: Range increased from 3 to 6 yalms",
+        "Kaeshi: Setsugekka: Range increased from 3 to 6 yalms"
+      ]
+    },
+    {
+      "job": "Reaper",
+      "changes": [
+        "Arcane Crest: Cure potency of Crest of Time Returned reduced from 100 to 50"
+      ]
+    },
+    {
+      "job": "Dancer",
+      "changes": [
+        "Standard Finish: Category changed from ability to weaponskill",
+        "Technical Finish: Category changed from ability to weaponskill",
+        "Tillana: Category changed from ability to weaponskill"
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Fountain of Fire: Potency increased from 430 to 520",
+        "Brand of Purgatory: Potency increased from 180 to 240"
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Fey Union: Range increased from 15 to 30 yalms; tether range increased from 15 to 30 yalms"
+      ]
+    }
+  ],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "The Excitatron 6000",
+      "description": "A special treasure dungeon accessed via kumbhiraskin treasure maps.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Pandæmonium: Asphodelos (Savage)",
+      "description": "Savage version of the Pandæmonium raid.",
+      "location": "Labyrinthos (X:8.4, Y:27.4)",
+      "npc_location": "Nemjiji at Labyrinthos"
+    }
+  ],
+  "housing": [
+    {
+      "name": "FFXIV Furnishing Design Contest items",
+      "description": "New furnishings based on the 2019 design contest.",
+      "image_url": null
+    },
+    {
+      "name": "New Orchestrion Rolls",
+      "description": "Additional songs added to the game.",
+      "image_url": null
+    }
+  ],
+  "glamour": []
+}

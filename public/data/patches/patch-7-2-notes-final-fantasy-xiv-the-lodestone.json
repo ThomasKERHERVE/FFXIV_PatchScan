@@ -1,0 +1,44 @@
+{
+  "patch_title": "Patch 7.2 Notes | FINAL FANTASY XIV, The Lodestone",
+  "patch_date": "04/01/2025",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/3c4910f373e497acd3428c37f6358e341e4cc06d/",
+  "jobs_pve": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Total Eclipse potency increased from 100 to 120",
+        "Prominence combo potency increased from 170 to 220",
+        "Holy Circle Divine Might potency increased from 200 to 2"
+      ]
+    }
+  ],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "A Glimmer of the Past",
+      "description": "New main scenario quest",
+      "location": "The Backroom (X:6.0, Y:6.4)",
+      "npc_location": "Krile at The Backroom"
+    },
+    {
+      "name": "The Arcadion Souls under Siege",
+      "description": "Chronicles of a New Era quest",
+      "location": "Solution Nine (X:22.2, Y:16.6)",
+      "npc_location": "Yaana at Solution Nine"
+    },
+    {
+      "name": "When Death Comes to Dinner",
+      "description": "New sidequest",
+      "location": "Tuliyollal (X:16.4, Y:12.8)",
+      "npc_location": "The Cornservant at Tuliyollal"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Paperflower Seeds",
+      "description": "New seed for flowerpots",
+      "image_url": null
+    }
+  ],
+  "glamour": []
+}
