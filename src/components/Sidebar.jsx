@@ -1,14 +1,16 @@
 import "./Sidebar.css";
 
 export default function Sidebar({ patches, selected, onSelect }) {
+  const sorted = [...patches].sort((a, b) => b.date.localeCompare(a.date));
+
   return (
     <aside className="sidebar">
       <div className="sidebar-title">Patch History</div>
       <ul className="patch-list">
-        {patches.length === 0 && (
+        {sorted.length === 0 && (
           <li className="patch-empty">No patches yet.</li>
         )}
-        {patches.map((patch) => (
+        {sorted.map((patch) => (
           <li
             key={patch.file}
             className={`patch-item ${selected?.file === patch.file ? "active" : ""}`}
