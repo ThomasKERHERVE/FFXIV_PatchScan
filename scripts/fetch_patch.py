@@ -139,6 +139,7 @@ def main():
 
     index = load_index()
     existing_files = {p["file"] for p in index}
+    new_entries = []
 
     for patch_url in patch_urls:
         try:
@@ -160,16 +161,22 @@ def main():
             today = datetime.date.today().isoformat()
             patch_date = data.get("patch_date") or today
 
-            index.insert(0, {
+            new_entries.append({
                 "title": data.get("patch_title") or title,
                 "date": patch_date,
                 "file": filename
             })
 
+            time.sleep(15)  # ← 15s entre chaque appel pour rester sous la limite
+
         except Exception as e:
             print(f"  Error: {e}")
+            time.sleep(20)  # ← attendre plus longtemps en cas d'erreur
 
-    save_index(index)
+    # Trier par date décroissante avant de sauvegarder
+    all_entries = index + new_entries
+    all_entries.sort(key=lambda x: x["date"], reverse=True)
+    save_index(all_entries)
     print("\nIndex updated.")
 
 
