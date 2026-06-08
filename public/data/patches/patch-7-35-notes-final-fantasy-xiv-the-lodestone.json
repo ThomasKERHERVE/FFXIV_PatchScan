@@ -1,0 +1,63 @@
+{
+  "patch_title": "Patch 7.35 Notes | FINAL FANTASY XIV, The Lodestone",
+  "patch_date": "Tuesday, October 14, 2025 at 1:00 a.m. (PDT)",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/9d2cad7a1028016719060b5ae3caeb5e369c89e9/",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Pilgrim's Traverse",
+      "description": "A new deep dungeon challenging parties of one to four players with an ever-changing landscape.",
+      "location": "Il Mheg (X:29.9 Y:6.0)",
+      "npc_location": "Vanthau at Il Mheg (X:29.9 Y:6.0)"
+    },
+    {
+      "name": "The Windward Wilds",
+      "description": "A new 8-player trial, part of the Monster Hunter Wilds crossover event.",
+      "location": "Tuliyollal (X:13.3 Y:13.1)",
+      "npc_location": "Dawn Hunt Tracker at Tuliyollal (X:13.3 Y:13.1)"
+    },
+    {
+      "name": "The Windward Wilds (Extreme)",
+      "description": "An extreme difficulty version of The Windward Wilds trial.",
+      "location": "Tuliyollal (X:11.1 Y:14.6)",
+      "npc_location": "Wandering Minstrel at Tuliyollal (X:11.1 Y:14.6)"
+    },
+    {
+      "name": "Inconceivably Further Hildibrand Adventures",
+      "description": "New side story quests continuing the Hildibrand saga.",
+      "location": "Solution Nine (X:17.0 Y:18.3)",
+      "npc_location": "Hardiboiled at Solution Nine (X:17.0 Y:18.3)"
+    },
+    {
+      "name": "Yok Huy Allied Society Quests",
+      "description": "New crafter-focused allied society quests with main and daily quests.",
+      "location": "Urqopacha (X:32.1 Y:34.3)",
+      "npc_location": "Fahrafahr at Urqopacha (X:32.1 Y:34.3)"
+    }
+  ],
+  "housing": [
+    {
+      "name": "New furnishings",
+      "description": "Various new housing items.",
+      "image_url": null
+    },
+    {
+      "name": "New orchestrion rolls",
+      "description": "New musical arrangements for your orchestrion.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "New Hairstyle (Design Contest Entry)",
+      "description": "A new hairstyle inspired by an FFXIV Hairstyle Design Contest entry.",
+      "image_url": null
+    },
+    {
+      "name": "New Emotes",
+      "description": "New character emotes.",
+      "image_url": null
+    }
+  ]
+}

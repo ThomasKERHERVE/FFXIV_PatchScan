@@ -1,0 +1,35 @@
+{
+  "patch_title": "Patch 7.51 Notes | FINAL FANTASY XIV, The Lodestone",
+  "patch_date": "June 2, 2026",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/c46881a31a2c90d0965493c921b434eca09113f8/",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Dancing Mad (Ultimate)",
+      "description": "The seventh installment of the ultimate raid series. A high-end duty featuring a phantasmal harlequin.",
+      "location": "Tuliyollal (X:11.1, Y:14.6)",
+      "npc_location": "Wandering Minstrel at Tuliyollal (X:11.1, Y:14.6)"
+    },
+    {
+      "name": "Cosmic Exploration Sidequests",
+      "description": "New sidequests leading to new exploration on Auxesia for Disciples of the Hand or Land.",
+      "location": "Oizys (X:17.2, Y:22.8)",
+      "npc_location": "Searchingway at Oizys (X:17.2, Y:22.8)"
+    },
+    {
+      "name": "Custom Deliveries: Tiisol Ja",
+      "description": "New custom deliveries featuring Tiisol Ja for Disciples of the Hand or Land, starting with the quest 'Taco Time'.",
+      "location": "Tuliyollal (X:13.7, Y:12.1)",
+      "npc_location": "Hhuki at Tuliyollal (X:13.7, Y:12.1)"
+    }
+  ],
+  "housing": [],
+  "glamour": [
+    {
+      "name": "Palazzo Diamond weapons",
+      "description": "Weapons obtained as a reward for completing Dancing Mad (Ultimate).",
+      "image_url": null
+    }
+  ]
+}
