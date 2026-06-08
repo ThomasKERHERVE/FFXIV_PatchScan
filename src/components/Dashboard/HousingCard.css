@@ -1,0 +1,16 @@
+.item-entry {
+  padding: 10px 0;
+  border-bottom: 1px solid var(--border);
+}
+.item-entry:last-child { border-bottom: none; }
+.item-name {
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--gold);
+  margin-bottom: 4px;
+}
+.item-desc {
+  font-size: 0.75rem;
+  color: var(--text-dim);
+  line-height: 1.5;
+}
