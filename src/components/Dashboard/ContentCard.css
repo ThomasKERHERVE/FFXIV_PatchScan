@@ -28,3 +28,10 @@
   color: var(--text-dim);
   line-height: 1.5;
 }
+
+.content-location,
+.content-npc {
+  margin-top: 6px;
+  font-size: 0.9rem;
+  opacity: 0.85;
+}
