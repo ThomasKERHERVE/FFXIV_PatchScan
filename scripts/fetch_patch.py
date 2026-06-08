@@ -23,6 +23,8 @@ def get_latest_patch_url():
         headers=HEADERS,
         timeout=10,
     )
+    with open("debug.html", "w", encoding="utf-8") as f:
+    f.write(res.text)
     res.raise_for_status()
 
     match = re.search(
