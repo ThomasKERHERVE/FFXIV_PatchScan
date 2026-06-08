@@ -4,6 +4,19 @@ import Sidebar from "./components/Sidebar";
 import Dashboard from "./components/Dashboard/Dashboard";
 import "./App.css";
 
+function getPatchVersion(title) {
+  const match = title.match(/Patch\s+(\d+)(?:\.(\d+))?/i);
+
+  if (!match) {
+    return { major: 0, minor: 0 };
+  }
+
+  return {
+    major: parseInt(match[1], 10),
+    minor: parseInt(match[2] || "0", 10),
+  };
+}
+
 export default function App() {
   const [patchList, setPatchList] = useState([]);
   const [selectedPatch, setSelectedPatch] = useState(null);
@@ -13,10 +26,24 @@ export default function App() {
   // Load patch index on mount
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}data/index.json`)
-      .then(res => res.json())
-      .then(data => {
-        setPatchList(data);
-        if (data.length > 0) setSelectedPatch(data[0]);
+      .then((res) => res.json())
+      .then((data) => {
+        const sorted = [...data].sort((a, b) => {
+          const va = getPatchVersion(a.title);
+          const vb = getPatchVersion(b.title);
+
+          if (va.major !== vb.major) {
+            return vb.major - va.major;
+          }
+
+          return vb.minor - va.minor;
+        });
+
+        setPatchList(sorted);
+
+        if (sorted.length > 0) {
+          setSelectedPatch(sorted[0]);
+        }
       })
       .catch(() => setPatchList([]));
   }, []);
@@ -24,11 +51,15 @@ export default function App() {
   // Load selected patch data
   useEffect(() => {
     if (!selectedPatch) return;
+
     setLoading(true);
     setPatchData(null);
-    fetch(`${import.meta.env.BASE_URL}data/patches/${selectedPatch.file}`)      
-      .then(res => res.json())
-      .then(data => setPatchData(data))
+
+    fetch(
+      `${import.meta.env.BASE_URL}data/patches/${selectedPatch.file}`
+    )
+      .then((res) => res.json())
+      .then((data) => setPatchData(data))
       .finally(() => setLoading(false));
   }, [selectedPatch]);
 
@@ -36,18 +67,25 @@ export default function App() {
     <div className="app">
       <div className="bg-grid" />
       <div className="bg-glow" />
+
       <Header />
+
       <div className="layout">
         <Sidebar
           patches={patchList}
           selected={selectedPatch}
           onSelect={setSelectedPatch}
         />
+
         <main className="main">
           {loading && <div className="loading">Loading...</div>}
+
           {patchData && <Dashboard data={patchData} />}
+
           {!loading && !patchData && (
-            <div className="placeholder">Select a patch to view its details.</div>
+            <div className="placeholder">
+              Select a patch to view its details.
+            </div>
           )}
         </main>
       </div>
