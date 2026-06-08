@@ -23,11 +23,9 @@ def get_latest_patch_url():
         headers=HEADERS,
         timeout=10,
     )
-    print("btn__color présent ?", "btn__color" in res.text)
     res.raise_for_status()
 
     idx = res.text.find("btn__color")
-    print(res.text[idx-300:idx+500])
 
     matches = re.findall(
         r'href="(/lodestone/topics/detail/[a-f0-9]+/)"[^>]*class="btn__color"',
@@ -135,28 +133,21 @@ def slugify(title):
 
 
 def main():
-    print("Fetching latest patch URL from RSS...")
     patch_url, rss_title = get_latest_patch_url()
-    print(f"Found: {patch_url}")
 
-    print("Fetching patch content...")
     title, content = fetch_patch_content(patch_url)
-    print(f"Title: {title}")
 
     index = load_index()
     filename = slugify(title)
     if any(p["file"] == filename for p in index):
-        print("Patch already in index, skipping.")
         return
 
-    print("Analyzing with Gemini...")
     data = analyze_with_gemini(title, content)
 
     today = datetime.date.today().isoformat()
     patch_date = data.get("patch_date") or today
 
     save_patch(filename, data)
-    print(f"Saved patch: {filename}")
 
     index.insert(0, {
         "title": data.get("patch_title") or title,
@@ -164,7 +155,6 @@ def main():
         "file": filename
     })
     save_index(index)
-    print("Index updated.")
 
 
 if __name__ == "__main__":
