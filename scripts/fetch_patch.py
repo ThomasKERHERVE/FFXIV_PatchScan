@@ -34,7 +34,7 @@ def get_latest_patch_url():
         res.text
     )
 
-    if not match:
+    if not matches:
         raise ValueError("No patch URL found")
 
     patch_url = "https://fr.finalfantasyxiv.com" + matches[1]
