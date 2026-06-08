@@ -9,6 +9,8 @@
   overflow-y: auto;
   scrollbar-width: thin;
   scrollbar-color: var(--dark3) transparent;
+  height: calc(100vh - 120px);
+  overflow-y: auto;
 }
 
 .sidebar-title {
@@ -69,4 +71,9 @@
   font-size: 0.65rem;
   color: var(--text-dim);
   letter-spacing: 0.08em;
+}
+
+.main {
+  height: calc(100vh - 120px);
+  overflow-y: auto;
 }

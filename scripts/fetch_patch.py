@@ -162,6 +162,19 @@ def main():
             today = datetime.date.today().isoformat()
             patch_date = data.get("patch_date") or today
 
+            for fmt in (
+                "%Y-%m-%d",
+                "%m/%d/%Y",
+                "%B %d, %Y",
+            ):
+                try:
+                    patch_date = datetime.datetime.strptime(
+                        patch_date, fmt
+                    ).date().isoformat()
+                    break
+                except ValueError:
+                    pass
+
             new_entries.append({
                 "title": data.get("patch_title") or title,
                 "date": patch_date,
