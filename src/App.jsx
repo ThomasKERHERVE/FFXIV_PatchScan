@@ -4,6 +4,7 @@ import Sidebar from "./components/Sidebar";
 import Dashboard from "./components/Dashboard/Dashboard";
 import "./App.css";
 
+// Gather the patch version number
 function getPatchVersion(title) {
   const match = title.match(/Patch\s+(\d+)(?:\.(\d+))?/i);
 
