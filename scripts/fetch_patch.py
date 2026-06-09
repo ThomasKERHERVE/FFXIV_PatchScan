@@ -16,7 +16,7 @@ client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; FFXIVPatchScan/1.0)"}
 
 
-def get_patch_urls():
+def get_latest_patch_url():
     res = requests.get(PATCHNOTE_LOG, headers=HEADERS, timeout=10)
     res.raise_for_status()
 
@@ -132,9 +132,8 @@ def slugify(title):
 
 def main():
     print("Fetching latest patch...")
-    patch_url = get_patch_urls(limit=1)
-    patch_url = patch_urls[0] if patch_urls else None
-    if not patch_url:
+    patch_url = get_patch__latest_urls()
+    if patch_url == null:
         print("No patch URL found.")
         return
 
