@@ -133,7 +133,7 @@ def slugify(title):
 def main():
     print("Fetching latest patch...")
     patch_url = get_latest_patch_url()
-    if patch_url == null:
+    if patch_url == "":
         print("No patch URL found.")
         return
 
