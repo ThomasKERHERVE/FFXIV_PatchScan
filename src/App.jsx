@@ -41,7 +41,7 @@ export default function App() {
         });
 
          console.log("TOP 20 PATCHES :");
-          sorted.slice(0, 20).forEach((p) => {
+          sorted.slice(0, 45).forEach((p) => {
           console.log(p.title);
           });
 
