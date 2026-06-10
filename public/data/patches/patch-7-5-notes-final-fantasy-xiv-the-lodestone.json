@@ -1,0 +1,1487 @@
+{
+  "patch_title": "Patch 7.5 Notes",
+  "patch_date": "2026-05-13",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/07320affa7e0fcd9685afcbe54fbf55405b6d822/",
+  "jobs_pve": [
+    {
+      "job": "Warrior",
+      "changes": [
+        {
+          "action": "Inner Chaos",
+          "description": "Potency has been increased from 660 to 700."
+        },
+        {
+          "action": "Primal Rend",
+          "description": "Potency has been increased from 700 to 720."
+        },
+        {
+          "action": "Primal Ruination",
+          "description": "Potency has been increased from 780 to 800."
+        }
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        {
+          "action": "Midare Setsugekka",
+          "description": "Potency increase from the trait Way of the Samurai III has been changed from 640 to 680."
+        },
+        {
+          "action": "Kaeshi: Setsugekka",
+          "description": "Potency increase from the trait Way of the Samurai III has been changed from 640 to 680."
+        }
+      ]
+    },
+    {
+      "job": "Reaper",
+      "changes": [
+        {
+          "action": "Gluttony",
+          "description": "Potency has been increased from 520 to 560."
+        },
+        {
+          "action": "Void Reaping",
+          "description": "Potency increase from the trait Melee Mastery III has been changed from 560 to 580."
+        },
+        {
+          "action": "Enhanced Void Reaping",
+          "description": "Potency increase from the trait Melee Mastery III has been changed from 620 to 640."
+        },
+        {
+          "action": "Cross Reaping",
+          "description": "Potency increase from the trait Melee Mastery III has been changed from 560 to 580."
+        },
+        {
+          "action": "Enhanced Cross Reaping",
+          "description": "Potency increase from the trait Melee Mastery III has been changed from 620 to 640."
+        }
+      ]
+    },
+    {
+      "job": "Viper",
+      "changes": [
+        {
+          "action": "Vicewinder",
+          "description": "Potency has been increased from 500 to 540."
+        },
+        {
+          "action": "Hunter's Coil",
+          "description": "Potency has been increased from 570 to 630."
+        },
+        {
+          "action": "Hunter's Coil",
+          "description": "Flank potency has been increased from 620 to 680."
+        },
+        {
+          "action": "Swiftskin's Coil",
+          "description": "Potency has been increased from 570 to 630."
+        },
+        {
+          "action": "Swiftskin's Coil",
+          "description": "Rear potency has been increased from 620 to 680."
+        },
+        {
+          "action": "Reawaken",
+          "description": "Reduction in potency after the first target has been changed from 80% to 75%."
+        },
+        {
+          "action": "First Generation",
+          "description": "Reduction in potency after the first target has been changed from 80% to 75%."
+        },
+        {
+          "action": "Second Generation",
+          "description": "Reduction in potency after the first target has been changed from 80% to 75%."
+        },
+        {
+          "action": "Third Generation",
+          "description": "Reduction in potency after the first target has been changed from 80% to 75%."
+        },
+        {
+          "action": "Fourth Generation",
+          "description": "Reduction in potency after the first target has been changed from 80% to 75%."
+        },
+        {
+          "action": "Ouroboros",
+          "description": "Reduction in potency after the first target has been changed from 80% to 75%."
+        },
+        {
+          "action": "First Legacy",
+          "description": "Reduction in potency after the first target has been changed from 80% to 75%."
+        },
+        {
+          "action": "Second Legacy",
+          "description": "Reduction in potency after the first target has been changed from 80% to 75%."
+        },
+        {
+          "action": "Third Legacy",
+          "description": "Reduction in potency after the first target has been changed from 80% to 75%."
+        },
+        {
+          "action": "Fourth Legacy",
+          "description": "Reduction in potency after the first target has been changed from 80% to 75%."
+        }
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        {
+          "action": "Painflare",
+          "description": "Potency has been increased from 150 to 220."
+        },
+        {
+          "action": "Ruby Rite",
+          "description": "Potency upon learning the trait Arcane Mastery has been changed from 580 to 620."
+        },
+        {
+          "action": "Crimson Cyclone",
+          "description": "Potency upon learning the trait Arcane Mastery has been changed from 520 to 560."
+        },
+        {
+          "action": "Crimson Strike",
+          "description": "Potency upon learning the trait Arcane Mastery has been changed from 520 to 560."
+        },
+        {
+          "action": "Necrotize",
+          "description": "Potency has been increased from 460 to 500."
+        }
+      ]
+    },
+    {
+      "job": "Sage",
+      "changes": [
+        {
+          "action": "Phlegma III",
+          "description": "Potency has been increased from 600 to 690."
+        },
+        {
+          "action": "Eukrasian Dosis III",
+          "description": "Potency upon learning the trait Magick Mastery has been changed from 85 to 90."
+        },
+        {
+          "action": "Psyche",
+          "description": "Potency has been increased from 600 to 690."
+        }
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "All Jobs",
+      "changes": [
+        {
+          "action": "Recuperate",
+          "description": "Cure potency has been increased from 15,000 to 16,000."
+        },
+        {
+          "action": "Guard",
+          "description": "Reduction to damage taken has been increased from 90% to 99%."
+        }
+      ]
+    },
+    {
+      "job": "Melee DPS",
+      "changes": [
+        {
+          "action": "Bloodbath",
+          "description": "Increase to damage dealt has been changed from 10% to 25%."
+        },
+        {
+          "action": "Smite",
+          "description": "Now ignores the effects of Guard when dealing damage."
+        }
+      ]
+    },
+    {
+      "job": "Healer",
+      "changes": [
+        {
+          "action": "Haelan",
+          "description": "Cast time has been made instant."
+        },
+        {
+          "action": "Haelan",
+          "description": "Cure potency has been increased from 15,000 to 16,000."
+        },
+        {
+          "action": "Haelan",
+          "description": "Potency is now reduced to 8,000 when targeting self."
+        }
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        {
+          "action": "Chaotic Spring",
+          "description": "Amount of damage dealt absorbed as HP has been increased from 150% to 200%."
+        },
+        {
+          "action": "Horrid Roar",
+          "description": "Recast time has been reduced from 24 to 20 seconds."
+        }
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        {
+          "action": "Meisui",
+          "description": "Regen potency has been increased from 4,000 to 5,000."
+        }
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        {
+          "action": "Ogi Namikiri",
+          "description": "Potency of the barrier created when attacking two or more targets has been reduced from 10,000 to 8,000."
+        },
+        {
+          "action": "Meikyo Shisui",
+          "description": "Increase to HP recovered via healing actions has been reduced from 20% to 15%."
+        },
+        {
+          "action": "Kaeshi: Namikiri",
+          "description": "Potency of the barrier created when attacking two or more targets has been reduced from 10,000 to 8,000."
+        },
+        {
+          "action": "Tendo Setsugekka",
+          "description": "Cure potency has been reduced from 10,000 to 8,000."
+        },
+        {
+          "action": "Tendo Kaeshi Setsugekka",
+          "description": "Cure potency has been reduced from 10,000 to 8,000."
+        }
+      ]
+    },
+    {
+      "job": "Viper",
+      "changes": [
+        {
+          "action": "Bloodcoil",
+          "description": "Potency has been increased from 8,000 to 10,000."
+        },
+        {
+          "action": "Slither",
+          "description": "Movement speed has been increased from 25% to 50%."
+        },
+        {
+          "action": "Sanguine Feast",
+          "description": "Potency has been increased from 8,000 to 10,000."
+        },
+        {
+          "action": "World-swallower",
+          "description": "The additional effect \"Absorbs 50% of damage dealt as HP\" has been added."
+        }
+      ]
+    },
+    {
+      "job": "Dancer",
+      "changes": [
+        {
+          "action": "Curing Waltz",
+          "description": "Cure potency has been reduced from 12,000 to 10,000."
+        }
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        {
+          "action": "Xenoglossy",
+          "description": "Charge time has been reduced from 16 to 15 seconds."
+        },
+        {
+          "action": "Flare",
+          "description": "Potency has been increased from 13,500 to 15,000."
+        },
+        {
+          "action": "Freeze",
+          "description": "Potency has been increased from 9,000 to 10,000."
+        },
+        {
+          "action": "Soul Resonance",
+          "description": "The effect duration of Elemental Star has been increased from 30 to 60 seconds."
+        }
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        {
+          "action": "Mountain Buster",
+          "description": "The additional effect \"Reduces damage taken by 15%\" has been added with a duration of 5 seconds."
+        }
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        {
+          "action": "Corps-a-corps",
+          "description": "The effect of Monomachy which increases damage dealt to target has been increased from 10% to 15%."
+        },
+        {
+          "action": "Corps-a-corps",
+          "description": "The effect of Monomachy which reduces damage taken from target has been increased from 10% to 15%."
+        },
+        {
+          "action": "Forte",
+          "description": "Effect duration has been increased from 4 to 5 seconds."
+        }
+      ]
+    },
+    {
+      "job": "Pictomancer",
+      "changes": [
+        {
+          "action": "Smudge",
+          "description": "Duration of increased movement speed effect has been reduced from 4 to 3 seconds."
+        },
+        {
+          "action": "Retribution of the Madeen",
+          "description": "Potency has been reduced from 16,000 to 14,000."
+        }
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        {
+          "action": "Cure III",
+          "description": "Potency is no longer reduced after the first target."
+        }
+      ]
+    },
+    {
+      "job": "Sage",
+      "changes": [
+        {
+          "action": "Pneuma",
+          "description": "Recast time has been reduced from 30 to 28 seconds."
+        }
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "The Unmaking",
+      "description": "A new trial has been added.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Unmaking (Extreme)",
+      "description": "The Unmaking (Extreme) can only be accessed via the Raid Finder.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Shinryu's Domain (Unreal)",
+      "description": "Shinryu's Domain (Unreal) can only be accessed via the Raid Finder.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Windurst: The Third Walk",
+      "description": "A new alliance raid dungeon, Windurst: The Third Walk, has been added.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Clyteum",
+      "description": "A new dungeon, the Clyteum, has been added.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "In Fate's Footsteps",
+      "description": "New main scenario quests have been added.",
+      "location": "Solution Nine (X:12.6 Y:6.0)",
+      "npc_location": "Krile"
+    },
+    {
+      "name": "Echoes of Vana'diel",
+      "description": "Chronicles of a New Era quests have been added.",
+      "location": "Tuliyollal (X:16.2 Y:3.9)",
+      "npc_location": "Tuliyollal"
+    },
+    {
+      "name": "The Wing Spirit Cometh",
+      "description": "New sidequests have been added.",
+      "location": "Tuliyollal (X:15.3 Y:7.5)",
+      "npc_location": "Tonawawtan Boy"
+    },
+    {
+      "name": "Archeia Harmonias",
+      "description": "A new Crystalline Conflict arena, Archeia Harmonias, has been added.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Cosmic Tools",
+      "description": "Tool Enhancement Quests - Cosmic Tools are scheduled to release in Patch 7.51.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Phantom Weapons",
+      "description": "Weapon Enhancement Quests - Phantom Weapons are scheduled to release in Patch 7.55.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Inconceivably Further Hildibrand Adventures",
+      "description": "Inconceivably Further Hildibrand Adventures sidequests are scheduled to release in Patch 7.55.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Allied Society capstone sidequests",
+      "description": "Allied Society capstone sidequests are scheduled to release in Patch 7.55.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Main scenario quests",
+      "description": "Further main scenario quests are scheduled to release in Patch 7.56.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Beastmaster",
+      "description": "The beastmaster limited job is scheduled to release in Patch 7.56.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Cosmic Exploration",
+      "description": "Auxesia─the new cosmic exploration destination is scheduled to release in Patch 7.51.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Stone, Sky, Sea",
+      "description": "The Unmaking (Extreme) has been added to the list of challenges in Stone, Sky, Sea.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Charcoal Interior Wall",
+      "description": "An interior wall that can be left bare or laden with decorations, depending on one's mood.",
+      "image_url": null
+    },
+    {
+      "name": "Dark Wood Flooring",
+      "description": "This dark wood lends an intimate air to any room while also making inevitable blemishes on the floor less apparent.",
+      "image_url": null
+    },
+    {
+      "name": "Square Ceiling Lamp",
+      "description": "This unobtrusive lighting fixture brightens a room without drawing the eye upward.",
+      "image_url": null
+    },
+    {
+      "name": "Garden Mood Lighting",
+      "description": "Perfect for setting a festive mood far past the point when everyone should have gone home.",
+      "image_url": null
+    },
+    {
+      "name": "Semicircular Outdoor Stage",
+      "description": "For thespians whose brilliance cannot be bound by the stifling walls of a theater.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/1/T1jVf8l2OQz2q-kLh7-5f5_m0Q.png"
+    },
+    {
+      "name": "Lattice Window Seat",
+      "description": "The large window behind this seat provides a luxurious view of the world without.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/2/91lB1z10yM66I1b_RjS3nN_K4w.png"
+    },
+    {
+      "name": "Minimalist Poplar Partition",
+      "description": "A simple partition which is perfectly functional without any adornments at all.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/0/8tX-23F_u0v3w00g_w6L-Xg-uU.png"
+    },
+    {
+      "name": "Minimalist Poplar Partition Door",
+      "description": "A partition equipped with the minimum number of doors required to allow passage.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/s/Xm2_I2n-2Ym1YgK3tNq392oVnI.png"
+    },
+    {
+      "name": "Everkeep Platform Bed",
+      "description": "These low beds are a common sight in the homes of Everkeep.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/t/kQ069uOAXB4f8t47cX2251J3Qc.png"
+    },
+    {
+      "name": "Everkeep Sofa",
+      "description": "Despite its utilitarian look, this sofa is the perfect place for long hours of lounging.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/c/30I3mBwYtX86z0B_bI4Rj_oBzs.png"
+    },
+    {
+      "name": "Curved Everkeep Sofa",
+      "description": "A curved sofa which allows for face-to-face conversations more easily than traditional shapes.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/F/U_TszGfE_f9O40p-w8iL4U8f4I.png"
+    },
+    {
+      "name": "Everkeep Partition",
+      "description": "A simple partition with slits that allow people on either side to peer at each other playfully.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/F/0K38hH-4-N2n0c9GfKqG7nZ5-8.png"
+    },
+    {
+      "name": "Everkeep Dining Table",
+      "description": "A sleek dining table whose dark surface hides traces of any food-related mishaps.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/4/2I34xUoE22nC-26eN1jL6d0-jA.png"
+    },
+    {
+      "name": "Everkeep Round Table",
+      "description": "A simple round table that can be found in dining rooms across Everkeep.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/u/h6L81d_s5rD8x4gP2yvF8nO24w.png"
+    },
+    {
+      "name": "Everkeep Sideboard",
+      "description": "A spacious sideboard favored by many an Everkeep resident for its stylish design.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/m/e6HhYj4wYnQ-z-L2W6f4vX58bM.png"
+    },
+    {
+      "name": "Everkeep Chest",
+      "description": "A chest popular in Everkeep for its relatively compact size and generous storage.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/3/QcQ3f0HjR0z0_j4vKjT_T3H-l4.png"
+    },
+    {
+      "name": "Everkeep Kitchen Counter",
+      "description": "A wide kitchen counter equipped with enough drawers to accommodate culinarians of all persuasions.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/b/k2Jp46t-mYk7hT9Q-nB6J3u_4Y.png"
+    },
+    {
+      "name": "Everkeep Monitor",
+      "description": "Ubiquitous within Everkeep, these monitors are an essential part of day-to-day life in the city.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/2/m1fV5gV8uD1h7x0T7l4G6jR1tQ.png"
+    },
+    {
+      "name": "Everkeep Stereo",
+      "description": "Debates abound as to whether the quality of the sound these devices emit justifies their cost.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/F/iX9H9hR62-lU0X8w6q2V13_i-U.png"
+    },
+    {
+      "name": "Rod of Nihility Display",
+      "description": "A pitch-dark display stand. The tenebrous aura of a powerful voidsent emanates from within. ※One per estate only.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/J/Rk7w22gMszQv3r18F-i2wD2Y0Y.png"
+    },
+    {
+      "name": "Everkeep Wall Decoration",
+      "description": "A decoration sometimes found in the homes of Everkeep's more discerning residents, who insist they understand its meaning.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/z/lR7mX7-O84lG59n2-0qE7jUo3M.png"
+    },
+    {
+      "name": "Everkeep Rug",
+      "description": "A large rug woven with a pattern that has become the talk of Everkeep.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/U/p-3371e_z-0-h8v5Lh1T_nJ0m4.png"
+    },
+    {
+      "name": "Cornflower Seeds",
+      "description": "Contrary to popular belief, neither these seeds nor the flowers they yield taste like corn. They are, at least, aesthetically pleasing. ※For use in planters.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/d/3s44vXo_u3z5F2oX8l3qj2K6w4.png"
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Shadowhound Helm",
+      "description": "Head Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/i/Sa5YF2-VFf4IJ1cjjFAbPf4GWg.png"
+    },
+    {
+      "name": "Shadowhound Armor",
+      "description": "Body Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/5/67ZyAIzQUaYoWBmyvFwNvGmCnQ.png"
+    },
+    {
+      "name": "Shadowhound Gauntlets",
+      "description": "Hands Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/Z/1QWgBsVU7ZboWyMZlRjCQcDRJg.png"
+    },
+    {
+      "name": "Shadowhound Cuisses",
+      "description": "Legs Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/s/-JfULvMAf26L7AaU1OGaGYwanI.png"
+    },
+    {
+      "name": "Shadowhound Sabatons",
+      "description": "Feet Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/p/HPudyOQcwdv97RBwj3FQC552ps.png"
+    },
+    {
+      "name": "Black Shuck Helm",
+      "description": "Head Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/o/uRmujlTx4X_5c6wETNxssK1d_4.png"
+    },
+    {
+      "name": "Black Shuck Armor",
+      "description": "Body Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/W/wlHP1NMpdQHcPKUG-swlv71fhE.png"
+    },
+    {
+      "name": "Black Shuck Gauntlets",
+      "description": "Hands Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/P/Lfl3LVb9KMPa5Ye8yxftZkelbc.png"
+    },
+    {
+      "name": "Black Shuck Cuisses",
+      "description": "Legs Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/q/qy4dUGMNkjoyVqPweYMIpOApik.png"
+    },
+    {
+      "name": "Black Shuck Sabatons",
+      "description": "Feet Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/N/OYPWhQVCkovUbVcMMck0O4HABU.png"
+    },
+    {
+      "name": "Rule-breaker's Visor",
+      "description": "Head Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/L/NUGcPcy-C8jvx6oKgEXgwJ1ePE.png"
+    },
+    {
+      "name": "Rule-breaker's Vest",
+      "description": "Body Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/q/GJ-lsgAtsCCDwCm9te3a5sCjpU.png"
+    },
+    {
+      "name": "Rule-breaker's Gloves",
+      "description": "Hands Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/K/vZf_pjL1HRJCDF9mxKFKb8iISc.png"
+    },
+    {
+      "name": "Rule-breaker's Bottoms",
+      "description": "Legs Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/r/maZ-sHaqn4PMFANUlbH4GzztFM.png"
+    },
+    {
+      "name": "Rule-breaker's Boots",
+      "description": "Feet Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/p/hIKumMfCocoSfxWeUUUIL78Jhg.png"
+    },
+    {
+      "name": "Praemagitek Visor of Fending",
+      "description": "Head Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/0/LIzzCdAQLNQ17P90_FIvlR_Dvg.jpg"
+    },
+    {
+      "name": "Praemagitek Visor of Maiming",
+      "description": "Head Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/x/yLkmDjeDW9cU_l1mWtbQUnVIhs.png"
+    },
+    {
+      "name": "Praemagitek Hood of Striking",
+      "description": "Head Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/c/tWvZpXDc_g6yQd5YKK2k5jhuns.png"
+    },
+    {
+      "name": "Praemagitek Hood of Aiming",
+      "description": "Head Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/m/NCNLGrn3U9M85ky-NscraujvN8.png"
+    },
+    {
+      "name": "Praemagitek Hood of Scouting",
+      "description": "Head Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/udWU20sWmhYoEsQ_FtrAzVwJ3Q.png"
+    },
+    {
+      "name": "Praemagitek Hat of Casting",
+      "description": "Head Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/-/JlOGowlC5VCrSwg2z3aH8WGhGg.png"
+    },
+    {
+      "name": "Praemagitek Hat of Healing",
+      "description": "Head Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/P/Lfl3LVb9KMPa5Ye8yxftZkelbc.png"
+    },
+    {
+      "name": "Praemagitek Cuirass of Fending",
+      "description": "Body Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/S/-IC2xIQhTl2ymYW7deE1fOII04.png"
+    },
+    {
+      "name": "Praemagitek Cuirass of Maiming",
+      "description": "Body Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/1LbK-2Cqoku3zorQFR0VQ6jP0Y.png"
+    },
+    {
+      "name": "Praemagitek Top of Striking",
+      "description": "Body Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/z/6PLTZ82M99GJ7tKOee1RSwvNrQ.png"
+    },
+    {
+      "name": "Praemagitek Top of Aiming",
+      "description": "Body Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/8/2GwuzUcvqLa-hgQeLUyd8xarI8.png"
+    },
+    {
+      "name": "Praemagitek Top of Scouting",
+      "description": "Body Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/5/67ZyAIzQUaYoWBmyvFwNvGmCnQ.png"
+    },
+    {
+      "name": "Praemagitek Coat of Casting",
+      "description": "Body Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/-/Y5JdwnEWYfyO7OlH27eKIm91Ok.png"
+    },
+    {
+      "name": "Praemagitek Coat of Healing",
+      "description": "Body Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/s/-JfULvMAf26L7AaU1OGaGYwanI.png"
+    },
+    {
+      "name": "Praemagitek Gauntlets of Fending",
+      "description": "Hands Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/p/HPudyOQcwdv97RBwj3FQC552ps.png"
+    },
+    {
+      "name": "Praemagitek Gauntlets of Maiming",
+      "description": "Hands Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/S/-IC2xIQhTl2ymYW7deE1fOII04.png"
+    },
+    {
+      "name": "Praemagitek Halfgloves of Striking",
+      "description": "Hands Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/0/LIzzCdAQLNQ17P90_FIvlR_Dvg.jpg"
+    },
+    {
+      "name": "Praemagitek Gloves of Aiming",
+      "description": "Hands Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/x/yLkmDjeDW9cU_l1mWtbQUnVIhs.png"
+    },
+    {
+      "name": "Praemagitek Halfgloves of Scouting",
+      "description": "Hands Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/c/tWvZpXDc_g6yQd5YKK2k5jhuns.png"
+    },
+    {
+      "name": "Praemagitek Claws of Casting",
+      "description": "Hands Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/m/NCNLGrn3U9M85ky-NscraujvN8.png"
+    },
+    {
+      "name": "Praemagitek Claws of Healing",
+      "description": "Hands Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/udWU20sWmhYoEsQ_FtrAzVwJ3Q.png"
+    },
+    {
+      "name": "Praemagitek Brais of Fending",
+      "description": "Legs Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/-/JlOGowlC5VCrSwg2z3aH8WGhGg.png"
+    },
+    {
+      "name": "Praemagitek Brais of Maiming",
+      "description": "Legs Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/P/Lfl3LVb9KMPa5Ye8yxftZkelbc.png"
+    },
+    {
+      "name": "Praemagitek Kecks of Striking",
+      "description": "Legs Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/q/qy4dUGMNkjoyVqPweYMIpOApik.png"
+    },
+    {
+      "name": "Praemagitek Kecks of Aiming",
+      "description": "Legs Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/N/OYPWhQVCkovUbVcMMck0O4HABU.png"
+    },
+    {
+      "name": "Praemagitek Kecks of Scouting",
+      "description": "Legs Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/W/wlHP1NMpdQHcPKUG-swlv71fhE.png"
+    },
+    {
+      "name": "Praemagitek Skirt of Casting",
+      "description": "Legs Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/Z/1QWgBsVU7ZboWyMZlRjCQcDRJg.png"
+    },
+    {
+      "name": "Praemagitek Skirt of Healing",
+      "description": "Legs Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/K/4fXwcEoJzDEmFRt-tD7PeeKvjE.png"
+    },
+    {
+      "name": "Praemagitek Sabatons of Fending",
+      "description": "Feet Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/q/GiEpnP3oCXluFjrlPlM-mgIbS8.png"
+    },
+    {
+      "name": "Praemagitek Sabatons of Maiming",
+      "description": "Feet Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/i/Sa5YF2-VFf4IJ1cjjFAbPf4GWg.png"
+    },
+    {
+      "name": "Praemagitek Boots of Striking",
+      "description": "Feet Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/h/6gPbLbzUQ_omC_mdXFUA3zPy7I.png"
+    },
+    {
+      "name": "Praemagitek Boots of Aiming",
+      "description": "Feet Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/d/in_Sbc6SzxLU--Npa7URI-_kdg.png"
+    },
+    {
+      "name": "Praemagitek Boots of Scouting",
+      "description": "Feet Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/V/kHxwEjpY-Fme83ta8VIfi1kyLU.png"
+    },
+    {
+      "name": "Praemagitek Shoes of Casting",
+      "description": "Feet Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/0/k5jD6-BJZHwKA2CtbNcDYZR6oY.png"
+    },
+    {
+      "name": "Praemagitek Shoes of Healing",
+      "description": "Feet Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/X/uQVT3DEl1xlFWHu3UZU4-RBtVk.png"
+    },
+    {
+      "name": "Praemagitek Earrings of Fending",
+      "description": "Earrings",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/5/YcEF3K-5SgqU0BxZtT0D1Zsa2A.png"
+    },
+    {
+      "name": "Praemagitek Earrings of Slaying",
+      "description": "Earrings",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/b/SPCgcBAk4HvMngGzk6H4MfSINg.png"
+    },
+    {
+      "name": "Praemagitek Earrings of Aiming",
+      "description": "Earrings",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/L/NUGcPcy-C8jvx6oKgEXgwJ1ePE.png"
+    },
+    {
+      "name": "Praemagitek Earrings of Casting",
+      "description": "Earrings",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/q/GJ-lsgAtsCCDwCm9te3a5sCjpU.png"
+    },
+    {
+      "name": "Praemagitek Earrings of Healing",
+      "description": "Earrings",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/K/vZf_pjL1HRJCDF9mxKFKb8iISc.png"
+    },
+    {
+      "name": "Praemagitek Necklace of Fending",
+      "description": "Necklace",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/r/maZ-sHaqn4PMFANUlbH4GzztFM.png"
+    },
+    {
+      "name": "Praemagitek Necklace of Slaying",
+      "description": "Necklace",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/p/hIKumMfCocoSfxWeUUUIL78Jhg.png"
+    },
+    {
+      "name": "Praemagitek Necklace of Aiming",
+      "description": "Necklace",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/E/NtymEFiUJfAh25ffTrADsVFkLQ.png"
+    },
+    {
+      "name": "Praemagitek Necklace of Healing",
+      "description": "Necklace",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/K/vZf_pjL1HRJCDF9mxKFKb8iISc.png"
+    },
+    {
+      "name": "Praemagitek Necklace of Casting",
+      "description": "Necklace",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/o/uRmujlTx4X_5c6wETNxssK1d_4.png"
+    },
+    {
+      "name": "Praemagitek Bracelet of Fending",
+      "description": "Bracelets",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/q/GJ-lsgAtsCCDwCm9te3a5sCjpU.png"
+    },
+    {
+      "name": "Praemagitek Bracelet of Slaying",
+      "description": "Bracelets",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/_/qP22LgUoAFKDTRayb_TEYu6d7g.png"
+    },
+    {
+      "name": "Praemagitek Bracelet of Aiming",
+      "description": "Bracelets",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/p/op9iPrlMmYgTK3Q6NQKifyQOGA.png"
+    },
+    {
+      "name": "Praemagitek Bracelet of Casting",
+      "description": "Bracelets",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/p/hIKumMfCocoSfxWeUUUIL78Jhg.png"
+    },
+    {
+      "name": "Praemagitek Bracelet of Healing",
+      "description": "Bracelets",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/S/6IKp0hN6xQqTYPgnPIsd2fjzSI.png"
+    },
+    {
+      "name": "Praemagitek Ring of Fending",
+      "description": "Ring",
+      "image_url": "https://img.finalfantasyxiv.com/t/07320affa7e0fcd9685afcbe54fbf55405b6d822.jpg?1778659265"
+    },
+    {
+      "name": "Praemagitek Ring of Slaying",
+      "description": "Ring",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Praemagitek Ring of Aiming",
+      "description": "Ring",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/v/P_Alm3vC59j61Igjyp_v--KDic.png"
+    },
+    {
+      "name": "Praemagitek Ring of Casting",
+      "description": "Ring",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Praemagitek Ring of Healing",
+      "description": "Ring",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/lLyx2UZU_8Es7j3Y29vnbrr3ZM.png"
+    },
+    {
+      "name": "Vana'dielian Coronet of Fending",
+      "description": "Head Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Vana'dielian Coronet of Maiming",
+      "description": "Head Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/v/P_Alm3vC59j61Igjyp_v--KDic.png"
+    },
+    {
+      "name": "Vana'dielian Crown of Striking",
+      "description": "Head Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Vana'dielian Bonnet of Aiming",
+      "description": "Head Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/lLyx2UZU_8Es7j3Y29vnbrr3ZM.png"
+    },
+    {
+      "name": "Vana'dielian Bonnet of Scouting",
+      "description": "Head Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Vana'dielian Chapeau of Casting",
+      "description": "Head Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/v/P_Alm3vC59j61Igjyp_v--KDic.png"
+    },
+    {
+      "name": "Vana'dielian Chapeau of Healing",
+      "description": "Head Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Vana'dielian Surcoat of Fending",
+      "description": "Body Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/lLyx2UZU_8Es7j3Y29vnbrr3ZM.png"
+    },
+    {
+      "name": "Vana'dielian Surcoat of Maiming",
+      "description": "Body Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Vana'dielian Cyclas of Striking",
+      "description": "Body Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/v/P_Alm3vC59j61Igjyp_v--KDic.png"
+    },
+    {
+      "name": "Vana'dielian Vest of Aiming",
+      "description": "Body Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Vana'dielian Vest of Scouting",
+      "description": "Body Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/lLyx2UZU_8Es7j3Y29vnbrr3ZM.png"
+    },
+    {
+      "name": "Vana'dielian Tabard of Casting",
+      "description": "Body Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Vana'dielian Tabard of Healing",
+      "description": "Body Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Vana'dielian Gauntlets of Fending",
+      "description": "Hands Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/lLyx2UZU_8Es7j3Y29vnbrr3ZM.png"
+    },
+    {
+      "name": "Vana'dielian Gauntlets of Maiming",
+      "description": "Hands Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Vana'dielian Gloves of Striking",
+      "description": "Hands Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Vana'dielian Armlets of Aiming",
+      "description": "Hands Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/lLyx2UZU_8Es7j3Y29vnbrr3ZM.png"
+    },
+    {
+      "name": "Vana'dielian Armlets of Scouting",
+      "description": "Hands Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Vana'dielian Gloves of Casting",
+      "description": "Hands Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Vana'dielian Gloves of Healing",
+      "description": "Hands Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Vana'dielian Breeches of Fending",
+      "description": "Legs Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/lLyx2UZU_8Es7j3Y29vnbrr3ZM.png"
+    },
+    {
+      "name": "Vana'dielian Breeches of Maiming",
+      "description": "Legs Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Vana'dielian Halfslops of Striking",
+      "description": "Legs Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Vana'dielian Culottes of Aiming",
+      "description": "Legs Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/lLyx2UZU_8Es7j3Y29vnbrr3ZM.png"
+    },
+    {
+      "name": "Vana'dielian Culottes of Scouting",
+      "description": "Legs Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Vana'dielian Tights of Casting",
+      "description": "Legs Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Vana'dielian Tights of Healing",
+      "description": "Legs Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Vana'dielian Sollerets of Fending",
+      "description": "Feet Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/lLyx2UZU_8Es7j3Y29vnbrr3ZM.png"
+    },
+    {
+      "name": "Vana'dielian Sollerets of Maiming",
+      "description": "Feet Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Vana'dielian Gaiters of Striking",
+      "description": "Feet Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Vana'dielian Poulaines of Aiming",
+      "description": "Feet Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/lLyx2UZU_8Es7j3Y29vnbrr3ZM.png"
+    },
+    {
+      "name": "Vana'dielian Poulaines of Scouting",
+      "description": "Feet Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Vana'dielian Shoes of Casting",
+      "description": "Feet Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Vana'dielian Shoes of Healing",
+      "description": "Feet Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Hairpin of Fending",
+      "description": "Head Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/lLyx2UZU_8Es7j3Y29vnbrr3ZM.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Hairpin of Maiming",
+      "description": "Head Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Temple Chain of Striking",
+      "description": "Head Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Hairpin of Aiming",
+      "description": "Head Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/lLyx2UZU_8Es7j3Y29vnbrr3ZM.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Hairpin of Scouting",
+      "description": "Head Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Hood of Casting",
+      "description": "Head Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Hood of Healing",
+      "description": "Head Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Surcoat of Fending",
+      "description": "Body Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/lLyx2UZU_8Es7j3Y29vnbrr3ZM.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Surcoat of Maiming",
+      "description": "Body Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Cloak of Striking",
+      "description": "Body Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Shirt of Aiming",
+      "description": "Body Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/lLyx2UZU_8Es7j3Y29vnbrr3ZM.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Shirt of Scouting",
+      "description": "Body Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Longcoat of Casting",
+      "description": "Body Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Longcoat of Healing",
+      "description": "Body Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Gauntlets of Fending",
+      "description": "Hands Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/lLyx2UZU_8Es7j3Y29vnbrr3ZM.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Gauntlets of Maiming",
+      "description": "Hands Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Armguards of Striking",
+      "description": "Hands Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Halfgloves of Aiming",
+      "description": "Hands Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/lLyx2UZU_8Es7j3Y29vnbrr3ZM.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Halfgloves of Scouting",
+      "description": "Hands Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Gloves of Casting",
+      "description": "Hands Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Gloves of Healing",
+      "description": "Hands Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Breeches of Fending",
+      "description": "Legs Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/lLyx2UZU_8Es7j3Y29vnbrr3ZM.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Breeches of Maiming",
+      "description": "Legs Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Brais of Striking",
+      "description": "Legs Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Trousers of Aiming",
+      "description": "Legs Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/lLyx2UZU_8Es7j3Y29vnbrr3ZM.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Trousers of Scouting",
+      "description": "Legs Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Pantaloons of Casting",
+      "description": "Legs Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Pantaloons of Healing",
+      "description": "Legs Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Boots of Fending",
+      "description": "Feet Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/lLyx2UZU_8Es7j3Y29vnbrr3ZM.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Boots of Maiming",
+      "description": "Feet Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Boots of Striking",
+      "description": "Feet Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Shoes of Aiming",
+      "description": "Feet Gear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/lLyx2UZU_8Es7j3Y29vnbrr3ZM.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Shoes of Scouting",
+      "description": "Feet Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Shoes of Casting",
+      "description": "Feet Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Shoes of Healing",
+      "description": "Feet Gear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Earrings of Fending",
+      "description": "Earrings",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/lLyx2UZU_8Es7j3Y29vnbrr3ZM.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Earrings of Slaying",
+      "description": "Earrings",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Earrings of Aiming",
+      "description": "Earrings",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Earrings of Casting",
+      "description": "Earrings",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/lLyx2UZU_8Es7j3Y29vnbrr3ZM.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Earrings of Healing",
+      "description": "Earrings",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Choker of Fending",
+      "description": "Necklace",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Choker of Slaying",
+      "description": "Necklace",
+      "image_url": "https://lds-img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Choker of Aiming",
+      "description": "Necklace",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/lLyx2UZU_8Es7j3Y29vnbrr3ZM.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Choker of Healing",
+      "description": "Necklace",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Choker of Casting",
+      "description": "Necklace",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Wristlet of Fending",
+      "description": "Bracelets",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Wristlet of Slaying",
+      "description": "Bracelets",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Wristlet of Aiming",
+      "description": "Bracelets",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/lLyx2UZU_8Es7j3Y29vnbrr3ZM.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Wristlet of Casting",
+      "description": "Bracelets",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Wristlet of Healing",
+      "description": "Bracelets",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Ring of Fending",
+      "description": "Ring",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Ring of Slaying",
+      "description": "Ring",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Ring of Aiming",
+      "description": "Ring",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/lLyx2UZU_8Es7j3Y29vnbrr3ZM.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Ring of Casting",
+      "description": "Ring",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Augmented Courtly Lover's Ring of Healing",
+      "description": "Ring",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "The Faces We Wear - Sash Blinder (Left)",
+      "description": "Facewear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "The Faces We Wear - Sash Blinder (Right)",
+      "description": "Facewear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "The Faces We Wear - Studded Eyepatch (Left)",
+      "description": "Facewear",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/lLyx2UZU_8Es7j3Y29vnbrr3ZM.png"
+    },
+    {
+      "name": "The Faces We Wear - Studded Eyepatch (Right)",
+      "description": "Facewear",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Black Cat Framer's Kit",
+      "description": "Portrait/Plate Element",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Honey B. Lovely Framer's Kit",
+      "description": "Portrait/Plate Element",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Brute Bomber Framer's Kit",
+      "description": "Portrait/Plate Element",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Wicked Thunder Framer's Kit",
+      "description": "Portrait/Plate Element",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Dancing Green Framer's Kit",
+      "description": "Portrait/Plate Element",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Sugar Riot Framer's Kit",
+      "description": "Portrait/Plate Element",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Howling Blade Framer's Kit",
+      "description": "Portrait/Plate Element",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Vamp Fatale Framer's Kit",
+      "description": "Portrait/Plate Element",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Deep Blue Framer's Kit",
+      "description": "Portrait/Plate Element",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Red Hot Framer's Kit",
+      "description": "Portrait/Plate Element",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "The Tyrant Framer's Kit",
+      "description": "Portrait/Plate Element",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Archeia Harmonias Framer's Kit",
+      "description": "Portrait Element",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Maelstrom Framer's Kit",
+      "description": "Portrait Element",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Echoes of Vana'diel Framer's Kit",
+      "description": "Portrait/Plate Element",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+    },
+    {
+      "name": "Barding of Naught",
+      "description": "Chocobo Barding",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/M/jbKfsST_zxfBTU9FZzme5iwhF0.png"
+    }
+  ]
+}
