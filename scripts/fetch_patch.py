@@ -121,7 +121,7 @@ def fetch_patch_content(url):
 
 def ask_gemini(prompt):
     response = client.models.generate_content(
-        model="gemini-2.5-flash",
+        model="gemini-3.1-flash-lite",
         contents=prompt
     )
 
