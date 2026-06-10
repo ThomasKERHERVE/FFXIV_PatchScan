@@ -144,7 +144,7 @@ def ask_gemini(prompt, retries=3):
             raw = response.text
             clean = raw.replace("```json", "").replace("```", "").strip()
 
-            time.sleep(20)  # petite pause avant le prochain appel
+            time.sleep(25)  # petite pause avant le prochain appel
 
             return json.loads(clean)
 
