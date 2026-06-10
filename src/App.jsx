@@ -40,6 +40,12 @@ export default function App() {
           return vb.minor - va.minor;
         });
 
+         console.log("TOP 20 PATCHES :");
+          sorted.slice(0, 20).forEach((p) => {
+          console.log(p.title);
+          });
+
+
         setPatchList(sorted);
 
         if (sorted.length > 0) {
