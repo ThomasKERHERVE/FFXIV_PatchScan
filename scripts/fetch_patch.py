@@ -1,23 +1,70 @@
 import os
 import re
 import json
-import datetime
 import requests
-import time
+from datetime import datetime
+from bs4 import BeautifulSoup
 from google import genai
 
 BASE_URL = "https://na.finalfantasyxiv.com"
 PATCHNOTE_LOG = f"{BASE_URL}/lodestone/special/patchnote_log"
+
 DATA_DIR = "public/data"
 PATCHES_DIR = f"{DATA_DIR}/patches"
 INDEX_FILE = f"{DATA_DIR}/index.json"
 
 client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
-HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; FFXIVPatchScan/1.0)"}
 
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (compatible; FFXIVPatchScan/2.0)"
+}
+
+
+# ======================================================
+# Utilities
+# ======================================================
+
+def normalize_date(date_str):
+    if not date_str:
+        return datetime.today().date().isoformat()
+
+    formats = [
+        "%Y-%m-%d",
+        "%d-%m-%Y",
+        "%m-%d-%Y",
+        "%d/%m/%Y",
+        "%m/%d/%Y",
+    ]
+
+    for fmt in formats:
+        try:
+            return datetime.strptime(
+                date_str,
+                fmt
+            ).date().isoformat()
+        except ValueError:
+            pass
+
+    return datetime.today().date().isoformat()
+
+
+def slugify(title):
+    slug = title.lower()
+    slug = re.sub(r"[^a-z0-9]+", "-", slug)
+    slug = slug.strip("-")
+    return f"{slug}.json"
+
+
+# ======================================================
+# Patch discovery
+# ======================================================
 
 def get_latest_patch_url():
-    res = requests.get(PATCHNOTE_LOG, headers=HEADERS, timeout=10)
+    res = requests.get(
+        PATCHNOTE_LOG,
+        headers=HEADERS,
+        timeout=20
+    )
     res.raise_for_status()
 
     matches = re.findall(
@@ -31,155 +78,325 @@ def get_latest_patch_url():
     return BASE_URL + matches[0]
 
 
+# ======================================================
+# HTML Extraction
+# ======================================================
+
 def fetch_patch_content(url):
-    """Fetch and extract text content from a patch notes page."""
-    res = requests.get(url, headers=HEADERS, timeout=10)
+    res = requests.get(
+        url,
+        headers=HEADERS,
+        timeout=20
+    )
     res.raise_for_status()
 
-    title_match = re.search(r'<title>(.*?)</title>', res.text, re.IGNORECASE)
-    title = title_match.group(1).strip() if title_match else "Patch Notes"
+    html = res.text
 
-    content = re.sub(r'<[^>]+>', ' ', res.text)
-    content = re.sub(r'\s+', ' ', content).strip()
+    soup = BeautifulSoup(html, "html.parser")
 
-    return title, content[:15000]
+    title_tag = soup.find("title")
+    title = title_tag.get_text(strip=True) if title_tag else "Patch Notes"
+
+    images = []
+
+    for img in soup.find_all("img"):
+        src = img.get("src")
+
+        if not src:
+            continue
+
+        if src.startswith("/"):
+            src = BASE_URL + src
+
+        images.append(src)
+
+    text = soup.get_text("\n", strip=True)
+
+    return title, text, images
 
 
-def analyze_with_gemini(title, content, patch_url):
-    """Send patch content to Gemini and get structured JSON back."""
-    prompt = f"""You are a Final Fantasy XIV expert assistant. Here is raw patch notes content.
+# ======================================================
+# Gemini helper
+# ======================================================
 
-Extract ONLY the following into strict JSON (no markdown, no extra text):
+def ask_gemini(prompt):
+    response = client.models.generate_content(
+        model="gemini-2.5-flash",
+        contents=prompt
+    )
+
+    raw = response.text
+
+    raw = raw.replace("```json", "")
+    raw = raw.replace("```", "")
+    raw = raw.strip()
+
+    return json.loads(raw)
+
+
+# ======================================================
+# Structured extraction
+# ======================================================
+
+def extract_patch_metadata(title, content, patch_url):
+    prompt = f"""
+Extract only:
 
 {{
-  "patch_title": "exact patch title",
-  "patch_date": "date in ISO format YYYY-MM-DD if found, else null",
-  "patch_url": "{patch_url}",
-  "jobs_pve": [{{"job": "JobName", "changes": ["change 1", "change 2"]}}],
-  "jobs_pvp": [{{"job": "JobName", "changes": ["change 1"]}}],
-  "new_content": [
+  "patch_title": "",
+  "patch_date": ""
+}}
+
+Rules:
+- patch_date MUST be YYYY-MM-DD
+- do not invent information
+- return valid JSON only
+
+Title:
+{title}
+
+Content:
+{content[:25000]}
+"""
+
+    data = ask_gemini(prompt)
+
+    return {
+        "patch_title": data.get("patch_title", title),
+        "patch_date": normalize_date(
+            data.get("patch_date")
+        ),
+        "patch_url": patch_url
+    }
+
+
+def extract_jobs_pve(content):
+    prompt = f"""
+Extract ALL PvE job balance changes.
+
+Return:
+
+{{
+  "jobs_pve": [
     {{
-      "name": "Raid/Dungeon Name",
-      "description": "brief description",
-      "location": "Zone (X:12.3, Y:45.6)",
-      "npc_location": "NPC Name at Location"
-    }}
-  ],
-  "housing": [
-    {{
-      "name": "Furniture Name",
-      "description": "brief description",
-      "image_url": null
-    }}
-  ],
-  "glamour": [
-    {{
-      "name": "Armor/Weapon Name",
-      "description": "brief description",
-      "image_url": null
+      "job": "",
+      "changes": []
     }}
   ]
 }}
 
 Rules:
-- Empty sections = empty arrays []
-- patch_date MUST be returned in ISO format YYYY-MM-DD (Example: 2025-11-11)
-- jobs_pve/pvp: only gameplay changes (damage, cooldowns, effects)
-- new_content: dungeons, raids, trials, main story quests, major features. Include location and npc_location if mentioned.
-- housing: new furniture/housing items
-- glamour: new armor/weapons/cosmetic items
-- image_url: always null for now
-- Reply ONLY with valid JSON
+- include every affected job
+- do not summarize excessively
+- no PvP changes
+- valid JSON only
 
-Patch title: {title}
-Patch content:
-{content}"""
+Content:
+{content}
+"""
 
-    response = client.models.generate_content(
-        model="gemini-3.1-flash-lite",        
-        contents=prompt
-    )
+    return ask_gemini(prompt).get("jobs_pve", [])
 
-    raw = response.text
-    clean = raw.replace("```json", "").replace("```", "").strip()
-    return json.loads(clean)
 
+def extract_jobs_pvp(content):
+    prompt = f"""
+Extract ALL PvP job balance changes.
+
+Return:
+
+{{
+  "jobs_pvp": [
+    {{
+      "job": "",
+      "changes": []
+    }}
+  ]
+}}
+
+Valid JSON only.
+
+Content:
+{content}
+"""
+
+    return ask_gemini(prompt).get("jobs_pvp", [])
+
+
+def extract_new_content(content):
+    prompt = f"""
+Extract all:
+
+- dungeons
+- raids
+- trials
+- quests
+- systems
+- exploration zones
+- major features
+
+Return:
+
+{{
+  "new_content": [
+    {{
+      "name": "",
+      "description": "",
+      "location": null,
+      "npc_location": null
+    }}
+  ]
+}}
+
+Do not invent information.
+
+Content:
+{content}
+"""
+
+    return ask_gemini(prompt).get("new_content", [])
+
+
+def extract_housing(content, images):
+    prompt = f"""
+Extract ALL housing items.
+
+Available images:
+{json.dumps(images[:300])}
+
+Return:
+
+{{
+  "housing": [
+    {{
+      "name": "",
+      "description": "",
+      "image_url": null
+    }}
+  ]
+}}
+
+Content:
+{content}
+"""
+
+    return ask_gemini(prompt).get("housing", [])
+
+
+def extract_glamour(content, images):
+    prompt = f"""
+Extract ALL glamour items.
+
+Available images:
+{json.dumps(images[:300])}
+
+Return:
+
+{{
+  "glamour": [
+    {{
+      "name": "",
+      "description": "",
+      "image_url": null
+    }}
+  ]
+}}
+
+Content:
+{content}
+"""
+
+    return ask_gemini(prompt).get("glamour", [])
+
+
+# ======================================================
+# Files
+# ======================================================
 
 def load_index():
     if os.path.exists(INDEX_FILE):
         with open(INDEX_FILE, "r", encoding="utf-8") as f:
             return json.load(f)
+
     return []
 
 
 def save_index(index):
     os.makedirs(DATA_DIR, exist_ok=True)
-    with open(INDEX_FILE, "w", encoding="utf-8") as f:
-        json.dump(index, f, ensure_ascii=False, indent=2)
+
+    with open(
+        INDEX_FILE,
+        "w",
+        encoding="utf-8"
+    ) as f:
+        json.dump(
+            index,
+            f,
+            ensure_ascii=False,
+            indent=2
+        )
 
 
 def save_patch(filename, data):
     os.makedirs(PATCHES_DIR, exist_ok=True)
-    with open(f"{PATCHES_DIR}/{filename}", "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+
+    with open(
+        f"{PATCHES_DIR}/{filename}",
+        "w",
+        encoding="utf-8"
+    ) as f:
+        json.dump(
+            data,
+            f,
+            ensure_ascii=False,
+            indent=2
+        )
 
 
-def slugify(title):
-    slug = title.lower()
-    slug = re.sub(r'[^a-z0-9]+', '-', slug)
-    slug = slug.strip('-')
-    return f"{slug}.json"
-
-    from datetime import datetime
-
-def normalize_date(date_str):
-    if not date_str:
-        return datetime.today().date().isoformat()
-
-    formats = [
-        "%Y-%m-%d",  # ISO
-        "%d-%m-%Y",  # 13-04-2023
-        "%m-%d-%Y",  # 11-26-2024
-        "%d/%m/%Y",
-        "%m/%d/%Y",
-    ]
-
-    for fmt in formats:
-        try:
-            return datetime.strptime(date_str, fmt).date().isoformat()
-        except ValueError:
-            pass
-
-    return datetime.today().date().isoformat()
-
+# ======================================================
+# Main
+# ======================================================
 
 def main():
     print("Fetching latest patch...")
+
     patch_url = get_latest_patch_url()
-    if patch_url == "":
-        print("No patch URL found.")
-        return
 
     index = load_index()
 
-    title, content = fetch_patch_content(patch_url)
+    title, content, images = fetch_patch_content(
+        patch_url
+    )
+
     filename = slugify(title)
 
     if any(p["file"] == filename for p in index):
         print("Latest patch already processed.")
         return
 
-    print(f"New patch detected: {title}")
+    print("Analyzing patch...")
 
-    data = analyze_with_gemini(title, content, patch_url)
+    metadata = extract_patch_metadata(
+        title,
+        content,
+        patch_url
+    )
+
+    data = {
+        "patch_title": metadata["patch_title"],
+        "patch_date": metadata["patch_date"],
+        "patch_url": metadata["patch_url"],
+        "jobs_pve": extract_jobs_pve(content),
+        "jobs_pvp": extract_jobs_pvp(content),
+        "new_content": extract_new_content(content),
+        "housing": extract_housing(content, images),
+        "glamour": extract_glamour(content, images)
+    }
 
     save_patch(filename, data)
 
-    patch_date = normalize_date(data.get("patch_date"))
-
     index.insert(0, {
-        "title": data.get("patch_title") or title,
-        "date": patch_date,
+        "title": data["patch_title"],
+        "date": data["patch_date"],
         "file": filename
     })
 
