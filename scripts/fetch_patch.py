@@ -137,7 +137,7 @@ def ask_gemini(prompt, retries=3):
     for attempt in range(retries):
         try:
             response = client.models.generate_content(
-                model="gemini-3-flash",
+                model="gemini-2.5-flash-lite",
                 contents=prompt
             )
 
