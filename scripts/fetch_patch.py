@@ -382,33 +382,52 @@ def save_patch(filename, data):
 def main():
     print("Fetching patch list...")
 
-    index = load_index()
-    existing_files = {p["file"] for p in index}
-
+    index = []
     patch_urls = get_all_patch_urls()
 
     print(f"Found {len(patch_urls)} patches")
 
     for patch_url in patch_urls:
         try:
-            title, content = fetch_patch_content(patch_url)
-            filename = slugify(title)
+            title, content, images = fetch_patch_content(
+                patch_url
+            )
 
-            if filename in existing_files:
-                print(f"Skipping {title}")
-                continue
+            filename = slugify(title)
 
             print(f"Processing {title}")
 
-            data = analyze_patch(title, content, patch_url)
+            metadata = extract_patch_metadata(
+                title,
+                content,
+                patch_url
+            )
 
-            save_patch(filename, data)
+            data = {
+                "patch_title": metadata["patch_title"],
+                "patch_date": metadata["patch_date"],
+                "patch_url": metadata["patch_url"],
+                "jobs_pve": extract_jobs_pve(content),
+                "jobs_pvp": extract_jobs_pvp(content),
+                "new_content": extract_new_content(content),
+                "housing": extract_housing(
+                    content,
+                    images
+                ),
+                "glamour": extract_glamour(
+                    content,
+                    images
+                )
+            }
 
-            patch_date = normalize_date(data.get("patch_date"))
+            save_patch(
+                filename,
+                data
+            )
 
             index.append({
-                "title": data.get("patch_title") or title,
-                "date": patch_date,
+                "title": data["patch_title"],
+                "date": data["patch_date"],
                 "file": filename
             })
 
@@ -417,7 +436,9 @@ def main():
             print(f"Saved {title}")
 
         except Exception as e:
-            print(f"Error on {patch_url}: {e}")
+            print(
+                f"Error processing {patch_url}: {e}"
+            )
 
     print("Done.")
 
