@@ -1,5 +1,7 @@
 import "./Sidebar.css";
 
+export default function Sidebar({ patches, selected, onSelect }) {
+
   const sorted = [...patches].sort((a, b) => {
     const va = getPatchVersion(a.title);
     const vb = getPatchVersion(b.title);
@@ -35,3 +37,4 @@ import "./Sidebar.css";
       </ul>
     </aside>
   );
+}
