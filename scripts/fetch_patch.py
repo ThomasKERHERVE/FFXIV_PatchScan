@@ -137,14 +137,14 @@ def ask_gemini(prompt, retries=3):
     for attempt in range(retries):
         try:
             response = client.models.generate_content(
-                model="gemini-2.5-flash-lite",
+                model="gemini-3.1-pro",
                 contents=prompt
             )
 
             raw = response.text
             clean = raw.replace("```json", "").replace("```", "").strip()
 
-            time.sleep(3)  # petite pause avant le prochain appel
+            time.sleep(20)  # petite pause avant le prochain appel
 
             return json.loads(clean)
 
