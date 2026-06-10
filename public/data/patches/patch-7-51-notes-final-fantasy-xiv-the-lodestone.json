@@ -1,0 +1,239 @@
+{
+  "patch_title": "Patch 7.51 Notes",
+  "patch_date": "2026-06-09",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/c46881a31a2c90d0965493c921b434eca09113f8/",
+  "jobs_pve": [
+    {
+      "job": "Warrior",
+      "changes": [
+        "An issue when undertaking the warrior job quest \"Pirates of Shallow Water\" wherein certain NPC graphics did not display correctly."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "An issue with certain samurai or machinist PvE actions wherein sound effects did not play correctly when executing a combo."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "An issue with certain samurai or machinist PvE actions wherein sound effects did not play correctly when executing a combo."
+      ]
+    },
+    {
+      "job": "Arcanist",
+      "changes": [
+        "An issue with arcanists and summoners wherein executing actions with certain pets resulted in an incorrect animation playing when the summoned pet left the battlefield."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "An issue with arcanists and summoners wherein executing actions with certain pets resulted in an incorrect animation playing when the summoned pet left the battlefield."
+      ]
+    },
+    {
+      "job": "Viper",
+      "changes": [
+        "An issue with the viper PvE actions First Generation, Second Generation, Third Generation, and Fourth Generation wherein the reduction in potency after the first target was incorrectly applied when not executed as a combo."
+      ]
+    },
+    {
+      "job": "Blue Mage",
+      "changes": [
+        "An issue with the blue mage action Avail wherein the target of the status Meat Shield did not take damage in place of the caster, despite being within 10 yalms of them."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Crystalline Conflict",
+      "changes": [
+        "The effects of healing glyphs in Archeia Harmonias have been updated as follows:",
+        "Amount of HP restored has been reduced from 15,000 to 10,000.",
+        "50% reduction to damage taken has been removed."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Dancing Mad (Ultimate)",
+      "description": "The seventh installment of the ultimate raid series.",
+      "location": null,
+      "npc_location": "Wandering Minstrel in Tuliyollal (X:11.1 Y:14.6)"
+    },
+    {
+      "name": "Cosmic Exploration",
+      "description": "New exploration awaits on Auxesia.",
+      "location": "Auxesia",
+      "npc_location": null
+    },
+    {
+      "name": "The Forests of Paradise",
+      "description": "A cosmic exploration quest.",
+      "location": "Auxesia",
+      "npc_location": "Oizys (X:17.2 Y:22.8)"
+    },
+    {
+      "name": "The Songs of Distant Trees",
+      "description": "A cosmic exploration quest.",
+      "location": "Auxesia",
+      "npc_location": "Auxesia (X:28.7 Y:29.4)"
+    },
+    {
+      "name": "His Gift, His Way",
+      "description": "A cosmic exploration quest.",
+      "location": "Auxesia",
+      "npc_location": "Auxesia (X:28.7 Y:29.4)"
+    },
+    {
+      "name": "A Manager's Foresight",
+      "description": "A cosmic exploration quest.",
+      "location": "Auxesia",
+      "npc_location": "Auxesia (X:27.1 Y:28.5)"
+    },
+    {
+      "name": "A Manager's Fulfillment",
+      "description": "A cosmic exploration quest.",
+      "location": "Auxesia",
+      "npc_location": "Auxesia (X:27.1 Y:28.5)"
+    },
+    {
+      "name": "Despite Our Rest Efforts",
+      "description": "A cosmic exploration quest.",
+      "location": "Auxesia",
+      "npc_location": "Auxesia (X:27.5 Y:30.1)"
+    },
+    {
+      "name": "Another Interstellar Field Trip",
+      "description": "A cosmic exploration quest.",
+      "location": "Auxesia",
+      "npc_location": "Auxesia (X:27.5 Y:28.0)"
+    },
+    {
+      "name": "Taco Time",
+      "description": "A new custom delivery quest.",
+      "location": "Tuliyollal",
+      "npc_location": "Tuliyollal (X:13.7 Y:12.1)"
+    },
+    {
+      "name": "Custom Deliveries featuring Tiisol Ja",
+      "description": "New custom deliveries have been added.",
+      "location": "Tuliyollal",
+      "npc_location": "Tiisol Ja"
+    },
+    {
+      "name": "Tool Mastery Missions",
+      "description": "Special missions that can be undertaken on Auxesia by those who have completed the final stage of a cosmic tool.",
+      "location": "Auxesia",
+      "npc_location": null
+    },
+    {
+      "name": "Enhancing Cosmic Tools",
+      "description": "Cosmic tools can now be further enhanced.",
+      "location": null,
+      "npc_location": "Researchingway on the star on which they currently reside."
+    },
+    {
+      "name": "Auxesia",
+      "description": "The next destination for the Cosmic Exploration Initiative.",
+      "location": "Auxesia",
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Auxesian Waygate",
+      "description": "Crafted by an artisan of the Cosmic Exploration Initiative to resemble the gallant gantries of Auxesia.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/i/OfvDbUY2NolZsL2r-nN_N8G6Sc.png"
+    },
+    {
+      "name": "Auxesian Waylight",
+      "description": "Crafted by an artisan of the Cosmic Exploration Initiative to resemble the roadside illuminations of Auxesia.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/E/8R4FrEQFMaGtRtuRNMU0nhfZ9c.png"
+    },
+    {
+      "name": "Cosmic Steps",
+      "description": "Access the very top of your cosmic shelves, whether gravity likes it or not.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/U/15QxPO___EcPlhMI9ydNRRxEY8.png"
+    },
+    {
+      "name": "Cosmic Partition",
+      "description": "A partition designed to cordon off potentially unsafe areas on distant stars.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/v/hyXqlwktN4v0EssRTzkbMf_7OQ.png"
+    },
+    {
+      "name": "Cosmic Metal Shelf",
+      "description": "This simple metal shelf can hold approximately ten Loporrits.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/v/oxRQz2cT8riqV5VLCu2-nADVkE.png"
+    },
+    {
+      "name": "Auxesian Tower Replica",
+      "description": "Crafted by an artisan of the Cosmic Exploration Initiative, this miniature model is used to analyze Auxesian architecture.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/M/5T9l7AE_cSDlsD4EM4rjEQRgCE.png"
+    },
+    {
+      "name": "Galactic Way Miniature",
+      "description": "A made-to-scale model of the Galactic Way starship, expertly crafted by Garlond Ironworks engineers on behalf of the Cosmic Exploration Initiative.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/_/45sv0DETIHyh_gl2FyLgD6kUJE.png"
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Cosmic Explorer's Cap",
+      "description": "Head gear for cosmic exploration.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/1/ENqmaGOvDLAmv2rsXL-19Y22qs.png"
+    },
+    {
+      "name": "Cosmic Operator's Cap",
+      "description": "Head gear for cosmic operators.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/n/dzlIJG3KqRiEbORwH2d7LzyZaI.png"
+    },
+    {
+      "name": "Cosmic Explorer's Jacket",
+      "description": "Body gear for cosmic exploration.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/c/WT9jpRaUeWfj_sHl9O2DibFQFw.png"
+    },
+    {
+      "name": "Cosmic Operator's Coverall Top",
+      "description": "Body gear for cosmic operators.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/1/71x9270TssyZ-BY15BGKLpQ3_U.png"
+    },
+    {
+      "name": "Cosmic Explorer's Halfgloves",
+      "description": "Hand gear for cosmic exploration.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/p/to8CzK_gktAHpLuSGzCkNdLfWo.png"
+    },
+    {
+      "name": "Cosmic Operator's Gloves",
+      "description": "Hand gear for cosmic operators.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/s/3KRua4vzZJvRXn0IMk8Da103bw.png"
+    },
+    {
+      "name": "Cosmic Explorer's Slops",
+      "description": "Leg gear for cosmic exploration.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/T/UzTP8sFzvnaGOiIqs1jJLT0dKk.png"
+    },
+    {
+      "name": "Cosmic Explorer's Tights",
+      "description": "Leg gear for cosmic exploration.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/0/5rrJdYAcP3if6zX6d62dHV3t34.png"
+    },
+    {
+      "name": "Cosmic Explorer's Boots",
+      "description": "Foot gear for cosmic exploration.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/9/_Huf58epDlt9vXiO8IIfPXxtXI.png"
+    },
+    {
+      "name": "Cosmic Operator's Boots",
+      "description": "Foot gear for cosmic operators.",
+      "image_url": "https://img2.finalfantasyxiv.com/f/91144b936d4d71240b302b9188253aa2_8f82f937943b6baf4c565020d5eba0ccfc0.jpg?1781091287"
+    },
+    {
+      "name": "Wrap-around Sunglasses",
+      "description": "Facewear: Wrap-around sunglasses.",
+      "image_url": "https://img2.finalfantasyxiv.com/c/F3a_3b191f892e435d1f6d36ffaf66d50592_00_40x40.png"
+    }
+  ]
+}
