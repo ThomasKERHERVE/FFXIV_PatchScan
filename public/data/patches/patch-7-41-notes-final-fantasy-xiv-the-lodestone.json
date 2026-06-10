@@ -1,0 +1,242 @@
+{
+  "patch_title": "Patch 7.41 Notes",
+  "patch_date": "2026-02-03",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/fa89e48b03a6bf6deac50a23fdfc39f7df64fb2a/",
+  "jobs_pve": [
+    {
+      "job": "Summoner",
+      "changes": [
+        "Searing Flash: Potency has been increased from 600 to 700.",
+        "Umbral Impulse: Potency has been increased from 620 to 640.",
+        "Umbral Flare: Potency has been increased from 280 to 300.",
+        "Sunflare: Potency has been increased from 800 to 1,000."
+      ]
+    }
+  ],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "The Merchant's Tale",
+      "description": "A new variant dungeon scheduled to release in Patch 7.45.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Inconceivably Further Hildibrand Adventures",
+      "description": "New sidequests scheduled to release in Patch 7.45.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Oizys",
+      "description": "The new destination for the Cosmic Exploration Initiative. Players can travel to the star using the Bestways Burrow aetheryte or by speaking with Cruisingway or Phaenna.",
+      "location": "Oizys",
+      "npc_location": "Drivingway in Mare Lamentorum (X:21.9 Y:13.2), Cruisingway at Sinus Ardorum (X:20.6 Y:19.5), or Phaenna (X:27.0 Y:13.9)"
+    },
+    {
+      "name": "Mission of Gravity",
+      "description": "Cosmic Exploration sidequest for Disciples of the Hand or Land level 10. Requires completion of the quest 'The Brightest Star.'",
+      "location": "Phaenna",
+      "npc_location": "Searchingway at Phaenna (X:27.2 Y:13.8)"
+    },
+    {
+      "name": "Memory's Orbit",
+      "description": "Cosmic Exploration sidequest for Disciples of the Hand or Land level 10. Requires completion of the quest 'Mission of Gravity' and a certain amount of project progress.",
+      "location": "Oizys",
+      "npc_location": "Searchingway at Oizys (X:17.2 Y:22.8)"
+    },
+    {
+      "name": "A Manager's Prudence",
+      "description": "Cosmic Exploration sidequest for Disciples of the Hand or Land level 10. Requires completion of the quests 'Memory's Orbit' and 'A Manager's Delegation,' and a certain amount of project progress.",
+      "location": "Oizys",
+      "npc_location": "Mumukko at Oizys (X:18.2 Y:24.4)"
+    },
+    {
+      "name": "Terror along the Tracks",
+      "description": "Cosmic Exploration sidequest for Disciples of the Hand or Land level 10. Requires completion of the quest 'Memory's Orbit' and a certain amount of project progress.",
+      "location": "Oizys",
+      "npc_location": "Cosmoliner Engineer at Oizys (X:15.9 Y:24.0)"
+    },
+    {
+      "name": "A Manager's Power",
+      "description": "Cosmic Exploration sidequest for Disciples of the Hand or Land level 10. Requires completion of the quest 'Terror along the Tracks' and a certain amount of project progress.",
+      "location": "Oizys",
+      "npc_location": "Mumukko at Oizys (X:18.2 Y:24.4)"
+    },
+    {
+      "name": "An Interstellar Field Trip",
+      "description": "Cosmic Exploration sidequest for Disciples of the Hand or Land level 10. Requires completion of the quests 'Memory's Orbit' and 'The Meeting of Minds,' and a certain amount of project progress.",
+      "location": "Oizys",
+      "npc_location": "Theorizingway at Oizys (X:17.5 Y:23.5)"
+    },
+    {
+      "name": "Timeworn Techniques",
+      "description": "Phantom Weapon sidequest for Disciples of War or Magic level 100. Requires completion of the quest 'Wrought by Hands Phantasmal.'",
+      "location": "The Phantom Village",
+      "npc_location": "Lydirceil at The Phantom Village (X:6.6 Y:7.1)"
+    },
+    {
+      "name": "In Pursuit of Perfection",
+      "description": "Phantom Weapon sidequest for Disciples of War or Magic level 100. Requires completion of the quest 'Timeworn Techniques.'",
+      "location": "The Phantom Village",
+      "npc_location": "Lydirceil at The Phantom Village (X:6.6 Y:7.1)"
+    },
+    {
+      "name": "A Phantom Reborn",
+      "description": "Phantom Weapon sidequest for Disciples of War or Magic level 100. Requires completion of the quest 'In Pursuit of Perfection.'",
+      "location": "The Phantom Village",
+      "npc_location": "Lydirceil at The Phantom Village (X:6.6 Y:7.1)"
+    },
+    {
+      "name": "Phantom Weapon Enhancement",
+      "description": "A system allowing players to enhance the strength of their phantom weapons. After completing 'A Phantom Reborn', additional phantom weapons can be enhanced by exchanging Waning Arcanite with Dodokkuli.",
+      "location": "The Phantom Village",
+      "npc_location": "Dodokkuli at The Phantom Village (X:6.7 Y:7.1)"
+    },
+    {
+      "name": "Artifact Search",
+      "description": "A feature where players collect dronebits from class A and provisional missions, exchange them for drone modules to launch reconnaissance drones, and analyze the area on Oizys to find ancient records.",
+      "location": "Oizys",
+      "npc_location": "Kaede at Oizys (X:17.3 Y:24.1)"
+    },
+    {
+      "name": "Cosmic Tools Enhancement",
+      "description": "A feature allowing players to further enhance class-specific tools for Disciples of the Hand and Land by completing stellar missions and reporting research data.",
+      "location": null,
+      "npc_location": "Researchingway on the star where the player currently resides"
+    },
+    {
+      "name": "Oizys Credits",
+      "description": "A new currency system earned by participating in stellar missions and projects on Oizys, exchangeable for mech op pilot applications or cosmic fortunes.",
+      "location": "Oizys",
+      "npc_location": null
+    },
+    {
+      "name": "Oizys Exploration Tokens",
+      "description": "Tokens awarded for completing EX+ stellar missions on Oizys, exchangeable for a special mount.",
+      "location": "Oizys",
+      "npc_location": null
+    },
+    {
+      "name": "Starward Standings",
+      "description": "A contribution tallying and ranking system based on player contributions from stellar missions, mech ops, and projects on Oizys.",
+      "location": "Oizys",
+      "npc_location": "Scanningway at Oizys (X:18.2 Y:24.0)"
+    },
+    {
+      "name": "AAC Cruiserweight Tier (Savage) Echo System",
+      "description": "A system update that grants the power of the Echo upon commencing the duty, increasing players' maximum HP, damage dealt, and healing potency by 10%.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "AAC Heavyweight M1 / AAC Heavyweight M1 (Savage)",
+      "description": "Raid instances mentioned in updates and resolved issues regarding visual adjustments to ally actions and incorrect boss attack indicators.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Hell on Rails / Hell on Rails (Extreme)",
+      "description": "Duty mentioned in resolved issues regarding boss action Runaway Train.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "AAC Heavyweight M2 (Savage)",
+      "description": "Raid instance mentioned in resolved issues regarding boss action Flame Floater.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "AAC Heavyweight M3 (Savage)",
+      "description": "Raid instance mentioned in resolved issues regarding boss action Majestic Meteor.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "AAC Heavyweight M4 (Savage)",
+      "description": "Raid instance mentioned in resolved issues regarding platform splitting from boss action Lindwurm's Meteor.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Cosmomodule Inner Wall",
+      "description": "An interior wall used in habitation modules constructed by the Cosmic Exploration Initiative.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/L/EbtcXqPUGzsVYdi23FpUR25oH4.png"
+    },
+    {
+      "name": "Cosmomodule Flooring",
+      "description": "Floorboards used in habitation modules constructed by the Cosmic Exploration Initiative.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/_/45sv0DETIHyh_gl2FyLgD6kUJE.png"
+    },
+    {
+      "name": "Cosmic Safety Lamp",
+      "description": "Developed by the Cosmic Exploration Initiative, this lamp remains functional in even the most unstable of environs.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/M/5T9l7AE_cSDlsD4EM4rjEQRgCE.png"
+    },
+    {
+      "name": "Cosmic Antenna",
+      "description": "Developed by the Cosmic Exploration Initiative, this antenna emits a strong and stable signal without interruption.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/v/oxRQz2cT8riqV5VLCu2-nADVkE.png"
+    },
+    {
+      "name": "Shady Cosmoshelter",
+      "description": "Developed by the Cosmic Exploration Initiative, this roofed structure protects against falling objects as well as harmful rays of light.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/v/hyXqlwktN4v0EssRTzkbMf_7OQ.png"
+    },
+    {
+      "name": "Cosmic Storage Bench",
+      "description": "This futuristic bench features a concealed storage space for stowing all manner of cosmic clutter.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/U/15QxPO___EcPlhMI9ydNRRxEY8.png"
+    },
+    {
+      "name": "Imitation Cosmoportal",
+      "description": "An imitation window to the imitation stars.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/E/8R4FrEQFMaGtRtuRNMU0nhfZ9c.png"
+    },
+    {
+      "name": "Cosmomodule Floor Panel",
+      "description": "Pave the way to the future─or the floor of your own personal habitation module─with these sleek panels.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/i/OfvDbUY2NolZsL2r-nN_N8G6Sc.png"
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Powersuit Helm",
+      "description": "Head / Item Level: 1 / Equipment Level: 1",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/L/EbtcXqPUGzsVYdi23FpUR25oH4.png"
+    },
+    {
+      "name": "Star Admiral's Helm",
+      "description": "Head / Item Level: 1 / Equipment Level: 1",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/_/45sv0DETIHyh_gl2FyLgD6kUJE.png"
+    },
+    {
+      "name": "Powersuit",
+      "description": "Body / Item Level: 1 / Equipment Level: 1",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/M/5T9l7AE_cSDlsD4EM4rjEQRgCE.png"
+    },
+    {
+      "name": "Star Admiral's Coat",
+      "description": "Body / Item Level: 1 / Equipment Level: 1",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/v/oxRQz2cT8riqV5VLCu2-nADVkE.png"
+    },
+    {
+      "name": "Star Admiral's Gloves",
+      "description": "Hands / Item Level: 1 / Equipment Level: 1",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/v/hyXqlwktN4v0EssRTzkbMf_7OQ.png"
+    },
+    {
+      "name": "Star Admiral's Trousers",
+      "description": "Legs / Item Level: 1 / Equipment Level: 1",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/U/15QxPO___EcPlhMI9ydNRRxEY8.png"
+    },
+    {
+      "name": "Star Admiral's Boots",
+      "description": "Feet / Item Level: 1 / Equipment Level: 1",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/E/8R4FrEQFMaGtRtuRNMU0nhfZ9c.png"
+    }
+  ]
+}
