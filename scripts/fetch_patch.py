@@ -61,12 +61,8 @@ def slugify(title):
 # Patch discovery
 # ======================================================
 
-def get_latest_patch_url():
-    res = requests.get(
-        PATCHNOTE_LOG,
-        headers=HEADERS,
-        timeout=20
-    )
+def get_all_patch_urls():
+    res = requests.get(PATCHNOTE_LOG, headers=HEADERS, timeout=10)
     res.raise_for_status()
 
     matches = re.findall(
@@ -74,10 +70,26 @@ def get_latest_patch_url():
         res.text
     )
 
-    if not matches:
-        raise ValueError("No patch URL found")
+    return [BASE_URL + url for url in matches]
 
-    return BASE_URL + matches[0]
+
+# def get_latest_patch_url():
+#     res = requests.get(
+#         PATCHNOTE_LOG,
+#         headers=HEADERS,
+#         timeout=20
+#     )
+#     res.raise_for_status()
+# 
+#     matches = re.findall(
+#         r'href="(/lodestone/topics/detail/[a-f0-9]+/)"[^>]*class="btn__color"',
+#         res.text
+#     )
+# 
+#     if not matches:
+#         raise ValueError("No patch URL found")
+# 
+#     return BASE_URL + matches[0]
 
 
 # ======================================================
@@ -368,52 +380,94 @@ def save_patch(filename, data):
 # ======================================================
 
 def main():
-    print("Fetching latest patch...")
-
-    patch_url = get_latest_patch_url()
+    print("Fetching patch list...")
 
     index = load_index()
+    existing_files = {p["file"] for p in index}
 
-    title, content, images = fetch_patch_content(
-        patch_url
-    )
+    patch_urls = get_all_patch_urls()
 
-    filename = slugify(title)
+    print(f"Found {len(patch_urls)} patches")
 
-    if any(p["file"] == filename for p in index):
-        print("Latest patch already processed.")
-        return
+    for patch_url in patch_urls:
+        try:
+            title, content = fetch_patch_content(patch_url)
+            filename = slugify(title)
 
-    print("Analyzing patch...")
+            if filename in existing_files:
+                print(f"Skipping {title}")
+                continue
 
-    metadata = extract_patch_metadata(
-        title,
-        content,
-        patch_url
-    )
+            print(f"Processing {title}")
 
-    data = {
-        "patch_title": metadata["patch_title"],
-        "patch_date": metadata["patch_date"],
-        "patch_url": metadata["patch_url"],
-        "jobs_pve": extract_jobs_pve(content),
-        "jobs_pvp": extract_jobs_pvp(content),
-        "new_content": extract_new_content(content),
-        "housing": extract_housing(content, images),
-        "glamour": extract_glamour(content, images)
-    }
+            data = analyze_patch(title, content, patch_url)
 
-    save_patch(filename, data)
+            save_patch(filename, data)
 
-    index.insert(0, {
-        "title": data["patch_title"],
-        "date": data["patch_date"],
-        "file": filename
-    })
+            patch_date = normalize_date(data.get("patch_date"))
 
-    save_index(index)
+            index.append({
+                "title": data.get("patch_title") or title,
+                "date": patch_date,
+                "file": filename
+            })
 
-    print("Patch added successfully.")
+            save_index(index)
+
+            print(f"Saved {title}")
+
+        except Exception as e:
+            print(f"Error on {patch_url}: {e}")
+
+    print("Done.")
+
+# def main():
+#     print("Fetching latest patch...")
+# 
+#     patch_url = get_latest_patch_url()
+# 
+#     index = load_index()
+# 
+#     title, content, images = fetch_patch_content(
+#         patch_url
+#     )
+# 
+#     filename = slugify(title)
+# 
+#     if any(p["file"] == filename for p in index):
+#         print("Latest patch already processed.")
+#         return
+# 
+#     print("Analyzing patch...")
+# 
+#     metadata = extract_patch_metadata(
+#         title,
+#         content,
+#         patch_url
+#     )
+# 
+#     data = {
+#         "patch_title": metadata["patch_title"],
+#         "patch_date": metadata["patch_date"],
+#         "patch_url": metadata["patch_url"],
+#         "jobs_pve": extract_jobs_pve(content),
+#         "jobs_pvp": extract_jobs_pvp(content),
+#         "new_content": extract_new_content(content),
+#         "housing": extract_housing(content, images),
+#         "glamour": extract_glamour(content, images)
+#     }
+# 
+#     save_patch(filename, data)
+# 
+#     index.insert(0, {
+#         "title": data["patch_title"],
+#         "date": data["patch_date"],
+#         "file": filename
+#     })
+# 
+#     save_index(index)
+# 
+#     print("Patch added successfully.")
 
 
 if __name__ == "__main__":
