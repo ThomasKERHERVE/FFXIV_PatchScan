@@ -1,6 +1,8 @@
 import os
 import re
 import json
+from tarfile import HeaderError
+import time
 import requests
 from datetime import datetime
 from bs4 import BeautifulSoup
@@ -119,19 +121,27 @@ def fetch_patch_content(url):
 # Gemini helper
 # ======================================================
 
-def ask_gemini(prompt):
-    response = client.models.generate_content(
-        model="gemini-3.1-flash-lite",
-        contents=prompt
-    )
+def ask_gemini(prompt, retries=3):
+    for attempt in range(retries):
+        try:
+            response = client.models.generate_content(
+                model="gemini-3.1-flash-lite",
+                contents=prompt
+            )
 
-    raw = response.text
+            raw = response.text
+            clean = raw.replace("```json", "").replace("```", "").strip()
 
-    raw = raw.replace("```json", "")
-    raw = raw.replace("```", "")
-    raw = raw.strip()
+            time.sleep(3)  # petite pause avant le prochain appel
 
-    return json.loads(raw)
+            return json.loads(clean)
+
+        except HeaderError:
+            wait = (attempt + 1) * 15
+            print(f"Gemini indisponible, nouvelle tentative dans {wait}s...")
+            time.sleep(wait)
+
+    raise RuntimeError("Impossible de contacter Gemini après plusieurs tentatives")
 
 
 # ======================================================
@@ -156,7 +166,7 @@ Title:
 {title}
 
 Content:
-{content[:25000]}
+{content[:30000]}
 """
 
     data = ask_gemini(prompt)
