@@ -16,10 +16,11 @@
 .sidebar-title {
   padding: 20px 16px 10px;
   font-family: 'Cinzel', serif;
-  font-size: 0.65rem;
+  font-size: 0.85rem;
   letter-spacing: 0.25em;
   text-transform: uppercase;
-  color: var(--gold-dim);
+  color: #d4b86a;
+  font-weight: bold;
   border-bottom: 1px solid var(--border);
   margin-bottom: 8px;
 }
@@ -57,19 +58,19 @@
   padding-left: 8px;
 }
 
-.patch-name {
+.patch-list > .patch-item  .patch-name {
   font-size: 0.78rem;
   color: var(--text);
-  font-weight: 400;
+  font-weight: bold;
 }
 
 .patch-item.active .patch-name {
   color: var(--gold-light);
 }
 
-.patch-date {
+.patch-list > .patch-item  .patch-date {
   font-size: 0.65rem;
-  color: var(--text-dim);
+  color: rgb(163, 163, 163);
   letter-spacing: 0.08em;
 }
 

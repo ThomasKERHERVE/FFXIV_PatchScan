@@ -25,13 +25,14 @@
 
 .content-desc {
   font-size: 0.75rem;
-  color: var(--text-dim);
+  color: rgb(163, 163, 163);
   line-height: 1.5;
 }
 
 .content-location,
 .content-npc {
-  margin-top: 6px;
-  font-size: 0.9rem;
-  opacity: 0.85;
+  text-align: left;
+  font-size: 0.85rem;
+  color: rgb(184, 184, 184);
+  line-height: 1.5;
 }

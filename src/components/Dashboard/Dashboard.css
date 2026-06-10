@@ -20,7 +20,7 @@
 
 .patch-date {
   font-size: 0.72rem;
-  color: var(--text-dim);
+  color: rgb(163, 163, 163);
   letter-spacing: 0.15em;
 }
 
