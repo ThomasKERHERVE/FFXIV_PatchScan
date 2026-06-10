@@ -35,4 +35,3 @@ import "./Sidebar.css";
       </ul>
     </aside>
   );
-}
