@@ -6,17 +6,6 @@ export default function Sidebar({ patches, selected, onSelect }) {
     (a, b) => new Date(b.date) - new Date(a.date)
   );
 
-  const sorted = [...patches].sort((a, b) => {
-    const va = getPatchVersion(a.title);
-    const vb = getPatchVersion(b.title);
-
-    if (va.major !== vb.major) {
-      return vb.major - va.major;
-    }
-
-    return vb.minor - va.minor;
-  });
-
   return (
     <aside className="sidebar">
       <div className="sidebar-title">Patch History</div>
