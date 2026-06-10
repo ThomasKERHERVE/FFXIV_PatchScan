@@ -1,18 +1,10 @@
 import "./Sidebar.css";
 
 export default function Sidebar({ patches, selected, onSelect }) {
-  const getPatchVersion = (title) => {
-    const match = title.match(/Patch\s+(\d+)(?:\.(\d+))?/i);
 
-    if (!match) {
-      return { major: 0, minor: 0 };
-    }
-
-    return {
-      major: parseInt(match[1], 10),
-      minor: parseInt(match[2] || "0", 10),
-    };
-  };
+  const sorted = [...patches].sort(
+    (a, b) => new Date(b.date) - new Date(a.date)
+  );
 
   const sorted = [...patches].sort((a, b) => {
     const va = getPatchVersion(a.title);

@@ -4,20 +4,6 @@ import Sidebar from "./components/Sidebar";
 import Dashboard from "./components/Dashboard/Dashboard";
 import "./App.css";
 
-// Gather the patch version number
-function getPatchVersion(title) {
-  const match = title.match(/Patch\s+(\d+)(?:\.(\d+))?/i);
-
-  if (!match) {
-    return { major: 0, minor: 0 };
-  }
-
-  return {
-    major: parseInt(match[1], 10),
-    minor: parseInt(match[2] || "0", 10),
-  };
-}
-
 export default function App() {
   const [patchList, setPatchList] = useState([]);
   const [selectedPatch, setSelectedPatch] = useState(null);
@@ -29,27 +15,10 @@ export default function App() {
     fetch(`${import.meta.env.BASE_URL}data/index.json`)
       .then((res) => res.json())
       .then((data) => {
-        const sorted = [...data].sort((a, b) => {
-          const va = getPatchVersion(a.title);
-          const vb = getPatchVersion(b.title);
+        setPatchList(data);
 
-          if (va.major !== vb.major) {
-            return vb.major - va.major;
-          }
-
-          return vb.minor - va.minor;
-        });
-
-         console.log("TOP 20 PATCHES :");
-          sorted.slice(0, 45).forEach((p) => {
-          console.log(p.title);
-          });
-
-
-        setPatchList(sorted);
-
-        if (sorted.length > 0) {
-          setSelectedPatch(sorted[0]);
+        if (data.length > 0) {
+          setSelectedPatch(data[0]);
         }
       })
       .catch(() => setPatchList([]));
@@ -67,6 +36,7 @@ export default function App() {
     )
       .then((res) => res.json())
       .then((data) => setPatchData(data))
+      .catch(() => setPatchData(null))
       .finally(() => setLoading(false));
   }, [selectedPatch]);
 

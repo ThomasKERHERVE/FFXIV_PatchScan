@@ -53,7 +53,7 @@ Extract ONLY the following into strict JSON (no markdown, no extra text):
 
 {{
   "patch_title": "exact patch title",
-  "patch_date": "date if found, else null",
+  "patch_date": "date in ISO format YYYY-MM-DD if found, else null",
   "patch_url": "{patch_url}",
   "jobs_pve": [{{"job": "JobName", "changes": ["change 1", "change 2"]}}],
   "jobs_pvp": [{{"job": "JobName", "changes": ["change 1"]}}],
@@ -83,6 +83,7 @@ Extract ONLY the following into strict JSON (no markdown, no extra text):
 
 Rules:
 - Empty sections = empty arrays []
+- patch_date MUST be returned in ISO format YYYY-MM-DD (Example: 2025-11-11)
 - jobs_pve/pvp: only gameplay changes (damage, cooldowns, effects)
 - new_content: dungeons, raids, trials, main story quests, major features. Include location and npc_location if mentioned.
 - housing: new furniture/housing items
@@ -129,6 +130,28 @@ def slugify(title):
     slug = slug.strip('-')
     return f"{slug}.json"
 
+    from datetime import datetime
+
+def normalize_date(date_str):
+    if not date_str:
+        return datetime.today().date().isoformat()
+
+    formats = [
+        "%Y-%m-%d",  # ISO
+        "%d-%m-%Y",  # 13-04-2023
+        "%m-%d-%Y",  # 11-26-2024
+        "%d/%m/%Y",
+        "%m/%d/%Y",
+    ]
+
+    for fmt in formats:
+        try:
+            return datetime.strptime(date_str, fmt).date().isoformat()
+        except ValueError:
+            pass
+
+    return datetime.today().date().isoformat()
+
 
 def main():
     print("Fetching latest patch...")
@@ -152,7 +175,7 @@ def main():
 
     save_patch(filename, data)
 
-    patch_date = data.get("patch_date") or datetime.date.today().isoformat()
+    patch_date = normalize_date(data.get("patch_date"))
 
     index.insert(0, {
         "title": data.get("patch_title") or title,
