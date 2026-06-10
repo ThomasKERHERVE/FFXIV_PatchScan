@@ -171,6 +171,7 @@ Extract only:
 
 Rules:
 - patch_date MUST be YYYY-MM-DD
+- date of the patch you analize
 - do not invent information
 - return valid JSON only
 
