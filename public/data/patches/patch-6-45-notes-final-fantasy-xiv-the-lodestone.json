@@ -1,0 +1,251 @@
+{
+  "patch_title": "Patch 6.45 Notes",
+  "patch_date": "2023-07-25",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/2a6c65f39b5b16b58bd4f0d9b1edaa8c0b7ec4f3/",
+  "jobs_pve": [
+    {
+      "job": "Blue Mage",
+      "changes": [
+        "Level cap increased to 80.",
+        "New blue magic spells added.",
+        "Ice Spikes: Veil of the Whorl and Schiltron cannot be applied simultaneously.",
+        "Veil of the Whorl: Ice Spikes and Schiltron cannot be applied simultaneously.",
+        "Aetheric Mimicry: Healer now increases the potency of all healing effects.",
+        "Help text for blue magic spells will now indicate with which other blue magic spells they share a recast timer."
+      ]
+    }
+  ],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Mount Rokkon",
+      "description": "Variant dungeon where players explore winding paths to uncover the mountain's history.",
+      "location": "Old Sharlayan",
+      "npc_location": "Shallow Moor (X:12.0 Y:13.3)"
+    },
+    {
+      "name": "Another Mount Rokkon",
+      "description": "Criterion dungeon requiring a party of four players.",
+      "location": "Old Sharlayan",
+      "npc_location": "Osmon (X:11.9 Y:13.3)"
+    },
+    {
+      "name": "Another Mount Rokkon (Savage)",
+      "description": "Savage criterion dungeon requiring a pre-formed party of four players.",
+      "location": "Old Sharlayan",
+      "npc_location": "Osmon (X:11.9 Y:13.3)"
+    },
+    {
+      "name": "Somehow Further Hildibrand Adventures",
+      "description": "New side story quest line continuation.",
+      "location": "Radz-at-Han",
+      "npc_location": "Delion (X:11.4 Y:11.5)"
+    },
+    {
+      "name": "Manderville Weapons",
+      "description": "Continuation of the Manderville weapon enhancement series.",
+      "location": "Radz-at-Han",
+      "npc_location": "Gerolt (X:12.0 Y:7.1)"
+    },
+    {
+      "name": "Splendorous Tools",
+      "description": "Enhancement quest line for Disciples of the Hand and Land tools.",
+      "location": "The Crystarium",
+      "npc_location": "Grenoldt (X:10.5 Y:7.7)"
+    },
+    {
+      "name": "Blue Mage Job Quests",
+      "description": "New job quests for Blue Mage as the level cap increases to 80.",
+      "location": "Ul'dah - Steps of Thal",
+      "npc_location": "Martyn (X:12.5 Y:13.0)"
+    },
+    {
+      "name": "V&C Dungeon Finder",
+      "description": "A new system used to access Variant and Criterion dungeons.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Variant Actions",
+      "description": "Special actions granted in Variant and Criterion dungeons to allow for greater role versatility.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Masked Carnivale",
+      "description": "New stages added to the Blue Mage solo challenge arena.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Blue Mage Log",
+      "description": "New entries added to the Blue Mage challenge log.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Komainu Statue",
+      "description": "Outdoor Furnishing: Ward off malevolent spirits with this dignified statue.",
+      "image_url": null
+    },
+    {
+      "name": "Stone Toro Lantern",
+      "description": "Outdoor Furnishing: A moss-covered stone lantern constructed in the Far Eastern style. Its base is attached to a thick stone slab for support.",
+      "image_url": null
+    },
+    {
+      "name": "Planted Toro Lantern",
+      "description": "Outdoor Furnishing: A moss-covered stone lantern constructed in the Far Eastern style and driven directly into the earth, the better to blend in with natural surrounds.",
+      "image_url": null
+    },
+    {
+      "name": "Smashed Flower Pot",
+      "description": "Outdoor Furnishing: Let the resilience of the flowers which persevere in the soil of this damaged pot serve as a reminder that hope springs eternal.",
+      "image_url": null
+    },
+    {
+      "name": "Ornate Fountain",
+      "description": "Outdoor Furnishing: Decorated with delicate designs and crystal panels, this water feature gushes elegance.",
+      "image_url": null
+    },
+    {
+      "name": "Far Eastern Indoor Bamboo Fountain",
+      "description": "Furnishing: A masterfully crafted indoor fountain wrought from bamboo and stone.",
+      "image_url": null
+    },
+    {
+      "name": "Seiryu Sculpture",
+      "description": "Furnishing: An imposing rendition of the serpentine auspice Seiryu. Place eastward for best results.",
+      "image_url": null
+    },
+    {
+      "name": "Suzaku Sculpture",
+      "description": "Furnishing: An imposing rendition of the fiery auspice Suzaku. Place southward for best results.",
+      "image_url": null
+    },
+    {
+      "name": "Oyoroi Display",
+      "description": "Tabletop: A set of Far Eastern armor arranged to resemble a stern─yet comfortably seated─warrior.",
+      "image_url": null
+    },
+    {
+      "name": "Far Eastern Brazier",
+      "description": "Tabletop: The dancing flames atop this Far Eastern-styled brazier warm the heart and soul.",
+      "image_url": null
+    },
+    {
+      "name": "Cactuar Colony Planter",
+      "description": "Tabletop: A large pot containing an assortment of cacti fashioned to resemble a colony of cactuars. Their empty gaze is somehow unsettling.",
+      "image_url": null
+    },
+    {
+      "name": "Assorted Cookies",
+      "description": "Tabletop: A delectable assemblage of cookies catering to various tastes. Sure to satisfy any and every sweet tooth.",
+      "image_url": null
+    },
+    {
+      "name": "Imitation Vault",
+      "description": "Wall-mounted: For those with more money than sense, yet less money than requires an actual vault.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Shishu Bujin Eboshi",
+      "description": "Head piece",
+      "image_url": null
+    },
+    {
+      "name": "Shishu Gozen Kanzashi",
+      "description": "Head piece",
+      "image_url": null
+    },
+    {
+      "name": "Phantasmal Hat",
+      "description": "Head piece",
+      "image_url": null
+    },
+    {
+      "name": "Shishu Bujin Hitatare",
+      "description": "Body piece",
+      "image_url": null
+    },
+    {
+      "name": "Shishu Gozen Kochiki",
+      "description": "Body piece",
+      "image_url": null
+    },
+    {
+      "name": "Phantasmal Robe",
+      "description": "Body piece",
+      "image_url": null
+    },
+    {
+      "name": "Phantasmal Gloves",
+      "description": "Hands piece",
+      "image_url": null
+    },
+    {
+      "name": "Shishu Bujin Kiribakama",
+      "description": "Legs piece",
+      "image_url": null
+    },
+    {
+      "name": "Shishu Gozen Hakama",
+      "description": "Legs piece",
+      "image_url": null
+    },
+    {
+      "name": "Phantasmal Slacks",
+      "description": "Legs piece",
+      "image_url": null
+    },
+    {
+      "name": "Shishu Obutozori",
+      "description": "Feet piece",
+      "image_url": null
+    },
+    {
+      "name": "Phantasmal Shoes",
+      "description": "Feet piece",
+      "image_url": null
+    },
+    {
+      "name": "Phantasmal Sardine Earring",
+      "description": "Earrings",
+      "image_url": null
+    },
+    {
+      "name": "Phantasmal Sardine Necklace",
+      "description": "Necklace",
+      "image_url": null
+    },
+    {
+      "name": "Phantasmal Sardine Bracelet",
+      "description": "Bracelets",
+      "image_url": null
+    },
+    {
+      "name": "Phantasmal Sardine Ring",
+      "description": "Ring",
+      "image_url": null
+    },
+    {
+      "name": "Tsukumogami Parasol",
+      "description": "Fashion accessory parasol",
+      "image_url": null
+    },
+    {
+      "name": "Rose-colored Spectacles",
+      "description": "Fashion accessory glasses",
+      "image_url": null
+    },
+    {
+      "name": "Phantasmal Attire Coffer (IL 530)",
+      "description": "Contains a complete set of phantasmal attire",
+      "image_url": null
+    }
+  ]
+}

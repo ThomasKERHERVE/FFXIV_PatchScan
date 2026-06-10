@@ -1,0 +1,199 @@
+{
+  "patch_title": "Patch 7.51 Notes",
+  "patch_date": "2026-06-09",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/c46881a31a2c90d0965493c921b434eca09113f8/",
+  "jobs_pve": [],
+  "jobs_pvp": [
+    {
+      "job": "General",
+      "changes": [
+        "The effects of healing glyphs in Archeia Harmonias have been updated: Amount of HP restored reduced from 15,000 to 10,000.",
+        "The effects of healing glyphs in Archeia Harmonias have been updated: 50% reduction to damage taken has been removed."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Dancing Mad (Ultimate)",
+      "description": "A high-end raid duty involving a phantasmal harlequin.",
+      "location": "Tuliyollal (X:11.1 Y:14.6)",
+      "npc_location": "Wandering Minstrel"
+    },
+    {
+      "name": "Auxesia",
+      "description": "An exploration zone for the Cosmic Exploration Initiative.",
+      "location": "Auxesia",
+      "npc_location": null
+    },
+    {
+      "name": "Cosmic Exploration",
+      "description": "New content for Disciples of the Hand and Land involving stellar missions, mech ops, and projects.",
+      "location": "Auxesia",
+      "npc_location": null
+    },
+    {
+      "name": "Tool Mastery Missions",
+      "description": "Special missions on Auxesia for those who have completed the final stage of a cosmic tool to achieve high scores.",
+      "location": "Auxesia",
+      "npc_location": null
+    },
+    {
+      "name": "Custom Deliveries (Tiisol Ja)",
+      "description": "New custom deliveries for Disciples of the Hand and Land.",
+      "location": "Tuliyollal (X:13.7 Y:12.1)",
+      "npc_location": "Hhuki"
+    },
+    {
+      "name": "The Forests of Paradise",
+      "description": "Cosmic exploration quest.",
+      "location": "Oizys (X:17.2 Y:22.8)",
+      "npc_location": "Searchingway"
+    },
+    {
+      "name": "The Songs of Distant Trees",
+      "description": "Cosmic exploration quest.",
+      "location": "Auxesia (X:28.7 Y:29.4)",
+      "npc_location": "Searchingway"
+    },
+    {
+      "name": "His Gift, His Way",
+      "description": "Cosmic exploration quest.",
+      "location": "Auxesia (X:28.7 Y:29.4)",
+      "npc_location": "Searchingway"
+    },
+    {
+      "name": "A Manager's Foresight",
+      "description": "Cosmic exploration quest.",
+      "location": "Auxesia (X:27.1 Y:28.5)",
+      "npc_location": "Mumukko"
+    },
+    {
+      "name": "A Manager's Fulfillment",
+      "description": "Cosmic exploration quest.",
+      "location": "Auxesia (X:27.1 Y:28.5)",
+      "npc_location": "Mumukko"
+    },
+    {
+      "name": "Despite Our Rest Efforts",
+      "description": "Cosmic exploration quest.",
+      "location": "Auxesia (X:27.5 Y:30.1)",
+      "npc_location": "Lively Loporrit"
+    },
+    {
+      "name": "Another Interstellar Field Trip",
+      "description": "Cosmic exploration quest.",
+      "location": "Auxesia (X:27.5 Y:28.0)",
+      "npc_location": "Theorizingway"
+    },
+    {
+      "name": "Taco Time",
+      "description": "Custom delivery quest.",
+      "location": "Tuliyollal (X:13.7 Y:12.1)",
+      "npc_location": "Hhuki"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Auxesian Waygate",
+      "description": "Outdoor Furnishing. Crafted by an artisan of the Cosmic Exploration Initiative to resemble the gallant gantries of Auxesia.",
+      "image_url": null
+    },
+    {
+      "name": "Auxesian Waylight",
+      "description": "Outdoor Furnishing. Crafted by an artisan of the Cosmic Exploration Initiative to resemble the roadside illuminations of Auxesia.",
+      "image_url": null
+    },
+    {
+      "name": "Cosmic Steps",
+      "description": "Furnishing. Access the very top of your cosmic shelves, whether gravity likes it or not.",
+      "image_url": null
+    },
+    {
+      "name": "Cosmic Partition",
+      "description": "Furnishing. A partition designed to cordon off potentially unsafe areas on distant stars.",
+      "image_url": null
+    },
+    {
+      "name": "Cosmic Metal Shelf",
+      "description": "Table. This simple metal shelf can hold approximately ten Loporrits.",
+      "image_url": null
+    },
+    {
+      "name": "Auxesian Tower Replica",
+      "description": "Tabletop. Crafted by an artisan of the Cosmic Exploration Initiative, this miniature model is used to analyze Auxesian architecture.",
+      "image_url": null
+    },
+    {
+      "name": "Galactic Way Miniature",
+      "description": "Tabletop. A made-to-scale model of the Galactic Way starship, expertly crafted by Garlond Ironworks engineers on behalf of the Cosmic Exploration Initiative.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Cosmic Explorer's Cap",
+      "description": "Head piece",
+      "image_url": null
+    },
+    {
+      "name": "Cosmic Operator's Cap",
+      "description": "Head piece",
+      "image_url": null
+    },
+    {
+      "name": "Cosmic Explorer's Jacket",
+      "description": "Body piece",
+      "image_url": null
+    },
+    {
+      "name": "Cosmic Operator's Coverall Top",
+      "description": "Body piece",
+      "image_url": null
+    },
+    {
+      "name": "Cosmic Explorer's Halfgloves",
+      "description": "Hands piece",
+      "image_url": null
+    },
+    {
+      "name": "Cosmic Operator's Gloves",
+      "description": "Hands piece",
+      "image_url": null
+    },
+    {
+      "name": "Cosmic Explorer's Slops",
+      "description": "Legs piece",
+      "image_url": null
+    },
+    {
+      "name": "Cosmic Explorer's Tights",
+      "description": "Legs piece",
+      "image_url": null
+    },
+    {
+      "name": "Cosmic Explorer's Boots",
+      "description": "Feet piece",
+      "image_url": null
+    },
+    {
+      "name": "Cosmic Operator's Boots",
+      "description": "Feet piece",
+      "image_url": null
+    },
+    {
+      "name": "Cosmic Operator's Attire Coffer",
+      "description": "A banded chest containing a full set of cosmic operator's attire.",
+      "image_url": null
+    },
+    {
+      "name": "Shovel",
+      "description": "A sturdy wooden shovel designed for the stylish adventurer seeking to dig themself out of a fashion crisis. Use to unlock a shovel (fashion accessory).",
+      "image_url": null
+    },
+    {
+      "name": "Wrap-around Sunglasses",
+      "description": "Fashionable facial accessories.",
+      "image_url": null
+    }
+  ]
+}

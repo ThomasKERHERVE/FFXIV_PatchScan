@@ -1,0 +1,309 @@
+{
+  "patch_title": "Patch 7.0 Notes",
+  "patch_date": "2024-06-29",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/d7db61f938f9cea65e4c5cd261918edb036b3004/",
+  "jobs_pve": [
+    {
+      "job": "General",
+      "changes": [
+        "Level cap raised to 100.",
+        "Tenacity's effect on damage dealt, damage received, and HP restored has been increased.",
+        "Certain status effects granted by class and job actions will now be removed when changing areas or entering an instanced duty."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Monks will no longer change position when executing Final Heaven."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Dragoons will no longer change position when executing Dragonsong Dive."
+      ]
+    },
+    {
+      "job": "Viper",
+      "changes": [
+        "Job added."
+      ]
+    },
+    {
+      "job": "Pictomancer",
+      "changes": [
+        "Job added."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Viper",
+      "changes": [
+        "PvP actions for viper have been added."
+      ]
+    },
+    {
+      "job": "Pictomancer",
+      "changes": [
+        "PvP actions for pictomancer have been added."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "The Arcadion",
+      "description": "New raid series.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Arcadion (Savage)",
+      "description": "New raid.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Cenote Ja Ja Gural",
+      "description": "Treasure hunt instance.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Tuliyollal",
+      "description": "New city area.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Solution Nine",
+      "description": "New city area.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Urqopacha",
+      "description": "New field area.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Kozama'uka",
+      "description": "New field area.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Yak T'el",
+      "description": "New field area.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Shaaloani",
+      "description": "New field area.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Heritage Found",
+      "description": "New field area.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "A New World to Explore",
+      "description": "Main scenario quest.",
+      "location": "Old Sharlayan",
+      "npc_location": "Ojika Tsunjika"
+    },
+    {
+      "name": "Bottled Fantasy",
+      "description": "Side story quest.",
+      "location": "Ul'dah - Steps of Thal",
+      "npc_location": "Medicine Merchant"
+    },
+    {
+      "name": "Uncouth Customers",
+      "description": "Role quest.",
+      "location": "Tuliyollal",
+      "npc_location": "Br'uk Evu"
+    },
+    {
+      "name": "The Narwhal Beckons",
+      "description": "Tank role quest.",
+      "location": "Tuliyollal",
+      "npc_location": "Loazenikwe"
+    },
+    {
+      "name": "The Hunter and the Hunted",
+      "description": "Melee DPS role quest.",
+      "location": "Tuliyollal",
+      "npc_location": "Shashepya"
+    },
+    {
+      "name": "To Steal a Steelhog",
+      "description": "Physical Ranged DPS role quest.",
+      "location": "Tuliyollal",
+      "npc_location": "Raholl Ja"
+    },
+    {
+      "name": "Power Forgotten",
+      "description": "Magical Ranged DPS role quest.",
+      "location": "Tuliyollal",
+      "npc_location": "Tsuuhe"
+    },
+    {
+      "name": "In the Sting of Things",
+      "description": "Healer role quest.",
+      "location": "Tuliyollal",
+      "npc_location": "Nyipine"
+    },
+    {
+      "name": "Enter the Viper",
+      "description": "Job quest for Viper.",
+      "location": "Ul'dah - Steps of Nald",
+      "npc_location": "Worried Weaver"
+    },
+    {
+      "name": "The Joy of Pictomancy",
+      "description": "Job quest for Pictomancer.",
+      "location": "Old Gridania",
+      "npc_location": "Cheerless Hearer"
+    },
+    {
+      "name": "Wrought in Wachumeqimeqi",
+      "description": "Wachumeqimeqi Deliveries starting quest.",
+      "location": "Tuliyollal",
+      "npc_location": "Ropli"
+    },
+    {
+      "name": "Your Friendly Neighborhood Metalworker",
+      "description": "Wachumeqimeqi Delivery quest.",
+      "location": "Tuliyollal",
+      "npc_location": "Rral Soj"
+    },
+    {
+      "name": "Pameka, the Scrivener",
+      "description": "Wachumeqimeqi Delivery quest.",
+      "location": "Tuliyollal",
+      "npc_location": "Pameka"
+    },
+    {
+      "name": "Blame It on My Juice",
+      "description": "Wachumeqimeqi Delivery quest.",
+      "location": "Tuliyollal",
+      "npc_location": "Xeerol Ja"
+    },
+    {
+      "name": "Hands for Hire",
+      "description": "Wachumeqimeqi Delivery quest.",
+      "location": "Tuliyollal",
+      "npc_location": "Greying Gatherer"
+    },
+    {
+      "name": "Fishmonger Blues",
+      "description": "Wachumeqimeqi Delivery quest.",
+      "location": "Tuliyollal",
+      "npc_location": "Donuhanu"
+    },
+    {
+      "name": "Trial by Spire",
+      "description": "Quest to unlock Spire of Trial.",
+      "location": "Solution Nine",
+      "npc_location": "Eccentric Researcher"
+    },
+    {
+      "name": "A New Dawn, a New Hunt",
+      "description": "Quest to unlock the Hunt in 7.0 areas.",
+      "location": "Tuliyollal",
+      "npc_location": "Wing of Protection Scout"
+    },
+    {
+      "name": "Viper",
+      "description": "New Melee DPS job.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Pictomancer",
+      "description": "New Magical Ranged DPS job.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Spire of Trial",
+      "description": "Expansion of Stone, Sky, Sea for level 100 duties.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Facewear",
+      "description": "New form of head accessories.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Estate Holder Rights",
+      "description": "System to manage visitors/barred characters in housing.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Mute List",
+      "description": "Social system to mute other characters.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Term Filter",
+      "description": "System to mask specific words in the chat log.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Garden Sunflower Seeds",
+      "description": "A new seed for flowerpots.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/m/NCNLGrn3U9M85ky-NscraujvN8.png"
+    }
+  ],
+  "glamour": [
+    {
+      "name": "The Faces We Wear - Oval Spectacles",
+      "description": "An item used to acquire Facewear, a new category of accessories for the head.",
+      "image_url": null
+    },
+    {
+      "name": "False Oval Spectacles",
+      "description": "Converted from a fashion accessory to Facewear.",
+      "image_url": null
+    },
+    {
+      "name": "False Shaded Spectacles",
+      "description": "Converted from a fashion accessory to Facewear.",
+      "image_url": null
+    },
+    {
+      "name": "False Classic Spectacles",
+      "description": "Converted from a fashion accessory to Facewear.",
+      "image_url": null
+    },
+    {
+      "name": "Rose-colored Spectacles",
+      "description": "Converted from a fashion accessory to Facewear.",
+      "image_url": null
+    },
+    {
+      "name": "Faerie Tale Prince's gear set",
+      "description": "Includes Circlet, Vest, Gloves, Slops, and Boots; now equippable regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Faerie Tale Princess's gear set",
+      "description": "Includes Tiara, Dress, Gloves, Long Skirt, and Heels; now equippable regardless of gender.",
+      "image_url": null
+    }
+  ]
+}

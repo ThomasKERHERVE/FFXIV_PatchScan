@@ -1,0 +1,413 @@
+{
+  "patch_title": "Patch 7.5 Notes",
+  "patch_date": "2026-05-13",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/07320affa7e0fcd9685afcbe54fbf55405b6d822/",
+  "jobs_pve": [
+    {
+      "job": "Warrior",
+      "changes": [
+        "Inner Chaos: Potency has been increased from 660 to 700.",
+        "Primal Rend: Potency has been increased from 700 to 720.",
+        "Primal Ruination: Potency has been increased from 780 to 800."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Midare Setsugekka: Potency increase from the trait Way of the Samurai III has been changed from 640 to 680.",
+        "Kaeshi: Setsugekka: Potency increase from the trait Way of the Samurai III has been changed from 640 to 680."
+      ]
+    },
+    {
+      "job": "Reaper",
+      "changes": [
+        "Gluttony: Potency has been increased from 520 to 560.",
+        "Void Reaping: Potency increase from the trait Melee Mastery III has been changed from 560 to 580.",
+        "Enhanced Void Reaping: Potency increase from the trait Melee Mastery III has been changed from 620 to 640.",
+        "Cross Reaping: Potency increase from the trait Melee Mastery III has been changed from 560 to 580.",
+        "Enhanced Cross Reaping: Potency increase from the trait Melee Mastery III has been changed from 620 to 640."
+      ]
+    },
+    {
+      "job": "Viper",
+      "changes": [
+        "Vicewinder: Potency has been increased from 500 to 540.",
+        "Hunter's Coil: Potency has been increased from 570 to 630.",
+        "Hunter's Coil (Flank): Potency has been increased from 620 to 680.",
+        "Swiftskin's Coil: Potency has been increased from 570 to 630.",
+        "Swiftskin's Coil (Rear): Potency has been increased from 620 to 680.",
+        "Reawaken: Reduction in potency after the first target has been changed from 80% to 75%.",
+        "First Generation: Reduction in potency after the first target has been changed from 80% to 75%.",
+        "Second Generation: Reduction in potency after the first target has been changed from 80% to 75%.",
+        "Third Generation: Reduction in potency after the first target has been changed from 80% to 75%.",
+        "Fourth Generation: Reduction in potency after the first target has been changed from 80% to 75%.",
+        "Ouroboros: Reduction in potency after the first target has been changed from 80% to 75%.",
+        "First Legacy: Reduction in potency after the first target has been changed from 80% to 75%.",
+        "Second Legacy: Reduction in potency after the first target has been changed from 80% to 75%.",
+        "Third Legacy: Reduction in potency after the first target has been changed from 80% to 75%.",
+        "Fourth Legacy: Reduction in potency after the first target has been changed from 80% to 75%."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Painflare: Potency has been increased from 150 to 220.",
+        "Ruby Rite: Potency upon learning the trait Arcane Mastery has been changed from 580 to 620.",
+        "Crimson Cyclone: Potency upon learning the trait Arcane Mastery has been changed from 520 to 560.",
+        "Crimson Strike: Potency upon learning the trait Arcane Mastery has been changed from 520 to 560.",
+        "Necrotize: Potency has been increased from 460 to 500."
+      ]
+    },
+    {
+      "job": "Sage",
+      "changes": [
+        "Phlegma III: Potency has been increased from 600 to 690.",
+        "Eukrasian Dosis III: Potency upon learning the trait Magick Mastery has been changed from 85 to 90.",
+        "Psyche: Potency has been increased from 600 to 690."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "All Jobs",
+      "changes": [
+        "Recuperate: Cure potency increased from 15,000 to 16,000.",
+        "Guard: Damage reduction increased from 90% to 99%."
+      ]
+    },
+    {
+      "job": "Melee DPS",
+      "changes": [
+        "Bloodbath: Damage dealt increase changed from 10% to 25%.",
+        "Smite: Now ignores the effects of Guard when dealing damage."
+      ]
+    },
+    {
+      "job": "Healer",
+      "changes": [
+        "Haelan: Cast time made instant.",
+        "Haelan: Cure potency increased from 15,000 to 16,000.",
+        "Haelan: Potency reduced to 8,000 when targeting self."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Chaotic Spring: HP absorption increased from 150% to 200%.",
+        "Horrid Roar: Recast time reduced from 24 to 20 seconds."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Meisui: Regen potency increased from 4,000 to 5,000."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Ogi Namikiri: Barrier potency when attacking two or more targets reduced from 10,000 to 8,000.",
+        "Meikyo Shisui: HP recovery increase from healing actions reduced from 20% to 15%.",
+        "Kaeshi: Namikiri: Barrier potency when attacking two or more targets reduced from 10,000 to 8,000.",
+        "Tendo Setsugekka: Cure potency reduced from 10,000 to 8,000.",
+        "Tendo Kaeshi Setsugekka: Cure potency reduced from 10,000 to 8,000."
+      ]
+    },
+    {
+      "job": "Viper",
+      "changes": [
+        "Bloodcoil: Potency increased from 8,000 to 10,000.",
+        "Slither: Movement speed increased from 25% to 50%.",
+        "Sanguine Feast: Potency increased from 8,000 to 10,000.",
+        "World-swallower: Added effect 'Absorbs 50% of damage dealt as HP'."
+      ]
+    },
+    {
+      "job": "Dancer",
+      "changes": [
+        "Curing Waltz: Cure potency reduced from 12,000 to 10,000."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Xenoglossy: Charge time reduced from 16 to 15 seconds.",
+        "Flare: Potency increased from 13,500 to 15,000.",
+        "Freeze: Potency increased from 9,000 to 10,000.",
+        "Soul Resonance: Elemental Star effect duration increased from 30 to 60 seconds."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Mountain Buster: Added effect 'Reduces damage taken by 15%' for 5 seconds."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Corps-a-corps: Monomachy damage dealt increase to target increased from 10% to 15%.",
+        "Corps-a-corps: Monomachy damage taken reduction from target increased from 10% to 15%.",
+        "Forte: Effect duration increased from 4 to 5 seconds."
+      ]
+    },
+    {
+      "job": "Pictomancer",
+      "changes": [
+        "Smudge: Movement speed increase duration reduced from 4 to 3 seconds.",
+        "Retribution of the Madeen: Potency reduced from 16,000 to 14,000."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Cure III: Potency is no longer reduced after the first target."
+      ]
+    },
+    {
+      "job": "Sage",
+      "changes": [
+        "Pneuma: Recast time reduced from 30 to 28 seconds."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "The Clyteum",
+      "description": "A new dungeon that can be entered with Trust or Duty Support NPCs or with explorer mode enabled.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Unmaking",
+      "description": "A new trial for eight players.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Unmaking (Extreme)",
+      "description": "Extreme version of the new trial accessible via Raid Finder.",
+      "location": null,
+      "npc_location": "Tuliyollal (X:11.1 Y:14.6)"
+    },
+    {
+      "name": "Shinryu's Domain (Unreal)",
+      "description": "An Unreal trial replacing Tsukuyomi's Pain (Unreal).",
+      "location": null,
+      "npc_location": "Idyllshire (X:7.0 Y:5.9)"
+    },
+    {
+      "name": "Windurst: The Third Walk",
+      "description": "A new alliance raid dungeon for 24 players.",
+      "location": null,
+      "npc_location": "Tuliyollal (X:16.2 Y:3.9)"
+    },
+    {
+      "name": "In Fate's Footsteps",
+      "description": "New main scenario quest.",
+      "location": "Solution Nine (X:12.6 Y:6.0)",
+      "npc_location": "Krile"
+    },
+    {
+      "name": "The Hollow Promise",
+      "description": "New Chronicles of a New Era quest.",
+      "location": "Tuliyollal (X:16.2 Y:3.9)",
+      "npc_location": "Landsguard Messenger"
+    },
+    {
+      "name": "The Wing Spirit Cometh",
+      "description": "New sidequest.",
+      "location": "Tuliyollal (X:15.3 Y:7.5)",
+      "npc_location": "Tonawawtan Boy"
+    },
+    {
+      "name": "Archeia Harmonias",
+      "description": "A new Crystalline Conflict arena.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Consolidation of Dyes",
+      "description": "Dyes have been consolidated into three categories: Standard Spectrum, Wide Spectrum #1, and Wide Spectrum #2.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Configuration Sharing",
+      "description": "A system to upload and download hotbar and configuration settings via Share Codes.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Group Pose Updates",
+      "description": "Includes Portrait Mode, Soft Focus, and Eye Settings adjustments.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Armoire Updates",
+      "description": "Expanded storage for class/job-specific gear and dungeon gear from Patch 7.0 onward.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Charcoal Interior Wall",
+      "description": "An interior wall that can be left bare or laden with decorations, depending on one's mood.",
+      "image_url": null
+    },
+    {
+      "name": "Dark Wood Flooring",
+      "description": "This dark wood lends an intimate air to any room while also making inevitable blemishes on the floor less apparent.",
+      "image_url": null
+    },
+    {
+      "name": "Square Ceiling Lamp",
+      "description": "This unobtrusive lighting fixture brightens a room without drawing the eye upward.",
+      "image_url": null
+    },
+    {
+      "name": "Garden Mood Lighting",
+      "description": "Perfect for setting a festive mood far past the point when everyone should have gone home.",
+      "image_url": null
+    },
+    {
+      "name": "Semicircular Outdoor Stage",
+      "description": "For thespians whose brilliance cannot be bound by the stifling walls of a theater.",
+      "image_url": null
+    },
+    {
+      "name": "Lattice Window Seat",
+      "description": "The large window behind this seat provides a luxurious view of the world without.",
+      "image_url": null
+    },
+    {
+      "name": "Minimalist Poplar Partition",
+      "description": "A simple partition which is perfectly functional without any adornments at all.",
+      "image_url": null
+    },
+    {
+      "name": "Minimalist Poplar Partition Door",
+      "description": "A partition equipped with the minimum number of doors required to allow passage.",
+      "image_url": null
+    },
+    {
+      "name": "Everkeep Platform Bed",
+      "description": "These low beds are a common sight in the homes of Everkeep.",
+      "image_url": null
+    },
+    {
+      "name": "Everkeep Sofa",
+      "description": "Despite its utilitarian look, this sofa is the perfect place for long hours of lounging.",
+      "image_url": null
+    },
+    {
+      "name": "Curved Everkeep Sofa",
+      "description": "A curved sofa which allows for face-to-face conversations more easily than traditional shapes.",
+      "image_url": null
+    },
+    {
+      "name": "Everkeep Partition",
+      "description": "A simple partition with slits that allow people on either side to peer at each other playfully.",
+      "image_url": null
+    },
+    {
+      "name": "Everkeep Dining Table",
+      "description": "A sleek dining table whose dark surface hides traces of any food-related mishaps.",
+      "image_url": null
+    },
+    {
+      "name": "Everkeep Round Table",
+      "description": "A simple round table that can be found in dining rooms across Everkeep.",
+      "image_url": null
+    },
+    {
+      "name": "Everkeep Sideboard",
+      "description": "A spacious sideboard favored by many an Everkeep resident for its stylish design.",
+      "image_url": null
+    },
+    {
+      "name": "Everkeep Chest",
+      "description": "A chest popular in Everkeep for its relatively compact size and generous storage.",
+      "image_url": null
+    },
+    {
+      "name": "Everkeep Kitchen Counter",
+      "description": "A wide kitchen counter equipped with enough drawers to accommodate culinarians of all persuasions.",
+      "image_url": null
+    },
+    {
+      "name": "Everkeep Monitor",
+      "description": "Ubiquitous within Everkeep, these monitors are an essential part of day-to-day life in the city.",
+      "image_url": null
+    },
+    {
+      "name": "Everkeep Stereo",
+      "description": "Debates abound as to whether the quality of the sound these devices emit justifies their cost.",
+      "image_url": null
+    },
+    {
+      "name": "Rod of Nihility Display",
+      "description": "A pitch-dark display stand. The tenebrous aura of a powerful voidsent emanates from within.",
+      "image_url": null
+    },
+    {
+      "name": "Everkeep Wall Decoration",
+      "description": "A decoration sometimes found in the homes of Everkeep's more discerning residents, who insist they understand its meaning.",
+      "image_url": null
+    },
+    {
+      "name": "Everkeep Rug",
+      "description": "A large rug woven with a pattern that has become the talk of Everkeep.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Augmented Courtly Lover's Gear (Weapons, Armor, Accessories)",
+      "description": "High-level glamour gear obtainable via exchange in Solution Nine.",
+      "image_url": null
+    },
+    {
+      "name": "Shadowhound Attire",
+      "description": "A dark, themed attire set including Helm, Armor, Gauntlets, Cuisses, and Sabatons.",
+      "image_url": null
+    },
+    {
+      "name": "Black Shuck Attire",
+      "description": "Themed equipment set including Helm, Armor, Gauntlets, Cuisses, and Sabatons.",
+      "image_url": null
+    },
+    {
+      "name": "Rule-breaker's Attire",
+      "description": "Set including Visor, Vest, Gloves, Bottoms, and Boots.",
+      "image_url": null
+    },
+    {
+      "name": "Praemagitek/Vana'dielian Gear Sets",
+      "description": "New gear sets for various roles (Fending, Maiming, Striking, Aiming, Scouting, Casting, Healing) including head, body, hands, legs, and feet pieces.",
+      "image_url": null
+    },
+    {
+      "name": "Hooded Tunics (Plain, Succubus, Festival variants)",
+      "description": "Casual clothing items with multiple silhouette options (Oversized, Form-fitting).",
+      "image_url": null
+    },
+    {
+      "name": "Twill Trousers (Straight-cut, Bell-bottom, Baggy, Worn, Stonewashed)",
+      "description": "Various styles of trousers for glamour use.",
+      "image_url": null
+    },
+    {
+      "name": "Cornflower Wristlets (All colors)",
+      "description": "Decorative wrist accessories.",
+      "image_url": null
+    },
+    {
+      "name": "Sash Blinder / Studded Eyepatch (Left/Right)",
+      "description": "New facewear accessories.",
+      "image_url": null
+    }
+  ]
+}

@@ -1,0 +1,972 @@
+{
+  "patch_title": "Patch 7.2 Notes",
+  "patch_date": "2025-04-01",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/3c4910f373e497acd3428c37f6358e341e4cc06d/",
+  "jobs_pve": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Total Eclipse: Potency increased from 100 to 120.",
+        "Prominence: Combo potency increased from 170 to 220.",
+        "Holy Circle: Divine Might potency increased from 200 to 250.",
+        "Requiescat: Potency increased from 300 to 350.",
+        "Confiteor: Reduction in potency after the first target changed from 50% to 60%.",
+        "Blade of Faith: Reduction in potency after the first target changed from 50% to 60%.",
+        "Blade of Truth: Reduction in potency after the first target changed from 50% to 60%.",
+        "Blade of Valor: Reduction in potency after the first target changed from 50% to 60%.",
+        "Imperator: Reduction in potency after the first target changed from 50% to 60%.",
+        "Blade of Honor: Reduction in potency after the first target changed from 50% to 60%."
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "Heavy Swing: Melee Mastery II trait now increases potency from 220 to 240.",
+        "Storm's Path: Melee Mastery II trait now increases potency from 200 to 220 and combo potency from 480 to 500.",
+        "Storm's Eye: Melee Mastery II trait now increases potency from 200 to 220 and combo potency from 480 to 500.",
+        "Upheaval: Melee Mastery II trait now increases potency from 400 to 420.",
+        "Chaotic Cyclone: Potency reduced from 300 to 200.",
+        "Primal Rend: Reduction in potency after the first target changed from 70% to 50%.",
+        "Primal Wrath: Reduction in potency after the first target changed from 70% to 50%.",
+        "Primal Ruination: Reduction in potency after the first target changed from 70% to 50%."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Salt and Darkness: Reduction in potency after the first target changed from 50% to 25%.",
+        "Shadowbringer: Reduction in potency after the first target changed from 50% to 25%.",
+        "Impalement: Potency reduced from 320 to 300.",
+        "Disesteem: Reduction in potency after the first target changed from 50% to 25%."
+      ]
+    },
+    {
+      "job": "Gunbreaker",
+      "changes": [
+        "Reign of Beasts: Potency increased from 800 to 1,000.",
+        "Noble Blood: Potency increased from 1,000 to 1,100."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Tornado Kick: Reduction in potency after the first target changed from 50% to 40%.",
+        "Elixir Field: Reduction in potency after the first target changed from 70% to 40%.",
+        "Flint Strike: Reduction in potency after the first target changed from 70% to 40%.",
+        "Enlightenment: Potency reduced from 200 to 160.",
+        "Rising Phoenix: Reduction in potency after the first target changed from 70% to 40%.",
+        "Phantom Rush: Reduction in potency after the first target changed from 50% to 40%.",
+        "Elixir Burst: Reduction in potency after the first target changed from 70% to 40%.",
+        "Wind's Reply: Potency increased from 900 to 1,040; reduction in potency after the first target changed from 50% to 40%.",
+        "Fire's Reply: Potency increased from 1,200 to 1,400; reduction in potency after the first target changed from 50% to 40%."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Drakesbane: Melee Mastery trait now increases potency from 440 to 460.",
+        "Stardiver: Melee Mastery trait now increases potency from 820 to 840.",
+        "Heavens' Thrust: Melee Mastery trait now increases potency from 140 to 160 and combo potency from 440 to 460."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Aeolian Edge: Melee Mastery III trait now increases potency from 200 to 220, rear potency from 260 to 280, combo potency from 380 to 400, and rear combo potency from 440 to 460.",
+        "Hakke Mujinsatsu: Combo potency reduced from 130 to 120.",
+        "Armor Crush: Melee Mastery III trait now increases potency from 220 to 240, flank potency from 280 to 300, combo potency from 420 to 440, and flank combo potency from 480 to 500.",
+        "Dokumori: Potency is no longer reduced after the first enemy.",
+        "Bhavacakra: Melee Mastery III trait now increases potency from 380 to 400 and potency while under Meisui from 530 to 550.",
+        "Phantom Kamaitachi: Reduction in potency after the first target changed from 50% to 25%.",
+        "Kunai's Bane: Reduction in potency after the first target changed from 50% to 25%.",
+        "Deathfrog Medium: Potency reduced from 300 to 260.",
+        "Tenri Jindo: Reduction in potency after the first target changed from 50% to 25%."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Hissatsu: Kyuten: Potency reduced from 120 to 100.",
+        "Hissatsu: Guren: Potency reduced from 500 to 400.",
+        "Shoha: Reduction in potency after the first target changed from 65% to 50%.",
+        "Ogi Namikiri: Melee Mastery III trait increases potency from 900 to 1,000; reduction in potency after the first target changed from 75% to 50%.",
+        "Kaeshi: Namikiri: Melee Mastery III trait increases potency from 900 to 1,000; reduction in potency after the first target changed from 75% to 50%.",
+        "Zanshin: Potency increased from 900 to 940; reduction in potency after the first target changed from 60% to 50%.",
+        "Tendo Setsugekka: Potency increased from 1,020 to 1,100.",
+        "Tendo Kaeshi Setsugekka: Potency increased from 1,020 to 1,100."
+      ]
+    },
+    {
+      "job": "Reaper",
+      "changes": [
+        "Void Reaping: Melee Mastery III trait increases potency from 500 to 540.",
+        "Cross Reaping: Melee Mastery III trait increases potency from 500 to 540.",
+        "Harvest Moon: Reduction in potency after the first target changed from 50% to 40%.",
+        "Plentiful Harvest: Reduction in potency after the first target changed from 60% to 40%.",
+        "Communio: Reduction in potency after the first target changed from 60% to 40%.",
+        "Sacrificium: Potency increased from 530 to 600; reduction in potency after the first target changed from 50% to 40%.",
+        "Melee Mastery III: No longer increases Spinning Scythe to 160 or Nightmare Scythe to 140.",
+        "Executioner's Guillotine: Potency reduced from 300 to 260.",
+        "Perfectio: Reduction in potency after the first target changed from 60% to 40%."
+      ]
+    },
+    {
+      "job": "Viper",
+      "changes": [
+        "First Legacy: Potency increased from 280 to 320.",
+        "Second Legacy: Potency increased from 280 to 320.",
+        "Third Legacy: Potency increased from 280 to 320.",
+        "Fourth Legacy: Potency increased from 280 to 320."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Pitch Perfect: Reduction in potency after the first target changed from 50% to 55%.",
+        "Shadowbite: Potency increased from 170 to 180.",
+        "Barrage: Potency increased from 270 to 280.",
+        "Ladonsbite: Potency increased from 130 to 140.",
+        "Resonant Arrow: Reduction in potency after the first target changed from 50% to 55%.",
+        "Radiant Encore: Reduction in potency after the first target changed from 50% to 55%."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Spread Shot: Potency reduced from 140 to 110.",
+        "Ricochet: Reduction in potency after the first target changed from 50% to 40%.",
+        "Scattergun: Potency reduced from 150 to 130.",
+        "Chain Saw: Reduction in potency after the first target changed from 65% to 50%.",
+        "Double Check: Reduction in potency after the first target changed from 50% to 40%.",
+        "Checkmate: Reduction in potency after the first target changed from 50% to 40%.",
+        "Marksman's Mastery II: No longer increases Scattergun to 160.",
+        "Excavator: Reduction in potency after the first target changed from 65% to 50%.",
+        "Full Metal Field: Reduction in potency after the first target changed from 50% to 40%."
+      ]
+    },
+    {
+      "job": "Dancer",
+      "changes": [
+        "Windmill: Potency increased from 100 to 120.",
+        "Standard Finish: Reduction in potency after the first target changed from 75% to 60%.",
+        "Single Standard Finish: Reduction in potency after the first target changed from 75% to 60%.",
+        "Double Standard Finish: Reduction in potency after the first target changed from 75% to 60%.",
+        "Bladeshower: Combo potency increased from 140 to 160.",
+        "Rising Windmill: Potency increased from 140 to 160.",
+        "Bloodshower: Potency increased from 180 to 200.",
+        "Fan Dance III: Reduction in potency after the first target changed from 50% to 60%.",
+        "Technical Finish: Reduction in potency after the first target changed from 75% to 60%.",
+        "Single Technical Finish: Reduction in potency after the first target changed from 75% to 60%.",
+        "Double Technical Finish: Reduction in potency after the first target changed from 75% to 60%.",
+        "Triple Technical Finish: Reduction in potency after the first target changed from 75% to 60%.",
+        "Quadruple Technical Finish: Reduction in potency after the first target changed from 75% to 60%.",
+        "Saber Dance: Reduction in potency after the first target changed from 50% to 60%.",
+        "Tillana: Reduction in potency after the first target changed from 50% to 60%.",
+        "Fan Dance IV: Reduction in potency after the first target changed from 50% to 60%.",
+        "Last Dance: Reduction in potency after the first target changed from 50% to 60%.",
+        "Finishing Move: Reduction in potency after the first target changed from 75% to 60%.",
+        "Dance of the Dawn: Reduction in potency after the first target changed from 50% to 60%."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Blizzard: Cast time reduced from 2.5 to 2 seconds.",
+        "Aspect Mastery: Astral Fire and Umbral Ice no longer expire.",
+        "Fire: Cast time reduced from 2.5 to 2 seconds; Firestarter effect no longer expires.",
+        "Thunder: Thunderhead effect no longer expires.",
+        "Thunder II: Thunderhead effect no longer expires.",
+        "Fire III: Potency increased from 280 to 290.",
+        "Blizzard III: Potency increased from 280 to 290.",
+        "Umbral Soul: 'Halts the expiration of Umbral Ice' removed.",
+        "Freeze: Cast time reduced from 2.8 to 2 seconds.",
+        "Thunder III: Thunderhead effect no longer expires.",
+        "Flare: Cast time reduced from 3 to 2 seconds.",
+        "Ley Lines: Duration reduced from 30 to 20 seconds.",
+        "Blizzard IV: Cast time reduced from 2.5 to 2 seconds; potency reduced from 320 to 300.",
+        "Fire IV: Cast time reduced from 2.8 to 2 seconds; potency reduced from 320 to 300.",
+        "Thunder IV: Thunderhead effect no longer expires.",
+        "Foul: Cast time reduced from 2.5 to 2 seconds; reduction in potency after the first target changed from 60% to 25%.",
+        "Despair: Cast time reduced from 3 to 2 seconds.",
+        "Xenoglossy: Potency increased from 880 to 890.",
+        "Enhanced Enochian III: Potency reduced from 25% to 22%.",
+        "Paradox: Potency increased from 520 to 540; Firestarter effect no longer expires; Astral Fire/Umbral Ice duration grants removed.",
+        "High Thunder: Thunderhead effect no longer expires.",
+        "High Thunder II: Thunderhead effect no longer expires.",
+        "Enhanced Enochian IV: Potency reduced from 32% to 27%.",
+        "Flare Star: Cast time reduced from 3 to 2 seconds; potency increased from 400 to 500."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Necrotize: Potency increased from 440 to 460.",
+        "Exodus: Potency increased from 1,400 to 1,500."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Vice of Thorns: Potency increased from 700 to 800.",
+        "Prefulgence: Potency increased from 900 to 1,000."
+      ]
+    },
+    {
+      "job": "Pictomancer",
+      "changes": [
+        "Fire in Red: Potency increased from 220 to 260; Pictomancy Mastery traits increased potencies accordingly.",
+        "Aero in Green: Potency increased from 260 to 300; Pictomancy Mastery traits increased potencies accordingly.",
+        "Water in Blue: Potency increased from 300 to 340; Pictomancy Mastery traits increased potencies accordingly.",
+        "Fire II in Red: Potency increased from 80 to 120; Pictomancy Mastery traits increased potencies accordingly.",
+        "Mog of the Ages: Potency reduced from 700 to 500; trait potency increases changed; reduction in potency after the first target changed from 60% to 70%.",
+        "Pom Muse: Potency reduced from 600 to 400; trait potency increases changed; reduction in potency after the first target changed from 60% to 70%.",
+        "Winged Muse: Potency reduced from 600 to 400; trait potency increases changed; reduction in potency after the first target changed from 60% to 70%.",
+        "Aero II in Green: Potency increased from 100 to 140; trait potency increases changed.",
+        "Water II in Blue: Potency increased from 120 to 170; trait potency increases changed.",
+        "Hammer Stamp: Potency reduced from 300 to 260; trait potency increases changed; reduction in potency after the first target changed from 60% to 70%.",
+        "Blizzard in Cyan: Potency increased from 520 to 590; trait potency increases changed.",
+        "Blizzard II in Cyan: Potency increased from 180 to 270; trait potency increases changed.",
+        "Stone in Yellow: Potency increased from 560 to 630; trait potency increases changed.",
+        "Thunder in Magenta: Potency increased from 600 to 670; trait potency increases changed.",
+        "Stone II in Yellow: Potency increased from 200 to 290; trait potency increases changed.",
+        "Thunder II in Magenta: Potency increased from 220 to 310; trait potency increases changed.",
+        "Holy in White: Potency increased from 420 to 480; trait potency increases changed; reduction in potency after the first target changed from 60% to 65%.",
+        "Hammer Brush: Potency reduced from 580 to 500; trait potency increases changed; reduction in potency after the first target changed from 60% to 70%.",
+        "Polishing Hammer: Potency reduced from 640 to 540; trait potency increases changed; reduction in potency after the first target changed from 60% to 70%.",
+        "Comet in Black: Potency increased from 780 to 870; trait potency increases changed; reduction in potency after the first target changed from 60% to 65%.",
+        "Clawed Muse: Potency reduced from 1,100 to 800; reduction in potency after the first target changed from 60% to 70%.",
+        "Fanged Muse: Potency reduced from 1,100 to 800; reduction in potency after the first target changed from 60% to 70%.",
+        "Retribution of the Madeen: Potency reduced from 1,400 to 1,100; reduction in potency after the first target changed from 60% to 70%.",
+        "Star Prism: Potency reduced from 1,400 to 1,100; reduction in potency after the first target changed from 60% to 70%."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Dia: Potency increased from 75 to 80; damage over time potency increased from 75 to 80."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Biolysis: Damage over time potency increased from 75 to 80."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Gravity II: Magick Mastery trait now increases potency from 130 to 140.",
+        "Oracle: Potency now reduced by 50% after the first target."
+      ]
+    },
+    {
+      "job": "Sage",
+      "changes": [
+        "Eukrasian Dosis III: Potency increased from 75 to 80."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Holy Sheltron: Area of effect has been increased from 5 to 6 yalms."
+      ]
+    },
+    {
+      "job": "Marauder / Warrior",
+      "changes": [
+        "Chaotic Cyclone: Area of effect has been increased from 5 to 6 yalms.",
+        "Orogeny: Area of effect has been increased from 5 to 6 yalms."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Impalement: Area of effect has been increased from 5 to 6 yalms."
+      ]
+    },
+    {
+      "job": "Gunbreaker",
+      "changes": [
+        "Fated Circle: Area of effect has been increased from 5 to 6 yalms.",
+        "Fated Brand: Area of effect has been increased from 5 to 6 yalms.",
+        "Relentless Rush: Area of effect has been increased from 5 to 6 yalms.",
+        "Terminal Trigger: Area of effect has been increased from 5 to 6 yalms."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Earth's Reply: Area of effect has been increased from 5 to 6 yalms.",
+        "Thunderclap: Alliance members and other players are now selectable as targets.",
+        "Rising Phoenix: Area of effect has been increased from 5 to 6 yalms."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Hyosetsu: Area of effect has been increased from 5 to 6 yalms.",
+        "Mangetsu: Area of effect has been increased from 5 to 6 yalms.",
+        "Oka: Area of effect has been increased from 5 to 6 yalms."
+      ]
+    },
+    {
+      "job": "Viper",
+      "changes": [
+        "Slither: Alliance members and other players are now selectable as targets.",
+        "Backlash: Recast time has been increased from 1 to 2 seconds.",
+        "Backlash: Area of effect has been increased from 5 to 6 yalms.",
+        "Backlash: Area of effect of the doubled potency granted while under the effect of Snake's Bane has been increased from 5 to 6 yalms."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Marksman's Spite: Potency has been increased from 36,000 to 40,000."
+      ]
+    },
+    {
+      "job": "Dancer",
+      "changes": [
+        "Honing Dance: Area of effect has been increased from 5 to 6 yalms.",
+        "Honing Ovation: Area of effect of doubled potency and barrier potency has been increased from 5 to 6 yalms."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Burst: Area of effect has been increased from 5 to 6 yalms.",
+        "Aetherial Manipulation: Alliance members and other players are now selectable as targets."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Summon Bahamut: Attack delay of Demi-Bahamut has been decreased.",
+        "Summon Phoenix: Attack delay of Demi-Phoenix has been decreased."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Seraphism: The additional effect has been revamped to remove status afflictions that can be removed by Purify from self and nearby party members or create a barrier to nullify the next applicable status affliction."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Epicycle: Recast time has been increased from 20 to 24 seconds."
+      ]
+    },
+    {
+      "job": "Sage",
+      "changes": [
+        "Icarus: Recast time has been reduced from 12 to 10 seconds.",
+        "Icarus: Alliance members and other players are now selectable as targets.",
+        "Phlegma: Recast time has been reduced from 16 to 15 seconds.",
+        "Toxikon: Recast time has been reduced from 16 to 15 seconds."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "The Underkeep",
+      "description": "A new dungeon.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Recollection",
+      "description": "A new trial.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Recollection (Extreme)",
+      "description": "An extreme version of the new trial.",
+      "location": null,
+      "npc_location": "Tuliyollal (X:11.1 Y:14.6)"
+    },
+    {
+      "name": "Hells' Kier (Unreal)",
+      "description": "A new unreal trial.",
+      "location": null,
+      "npc_location": "Idyllshire (X:7.0 Y:5.9)"
+    },
+    {
+      "name": "AAC Cruiserweight Tier",
+      "description": "A new raid dungeon.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "AAC Cruiserweight Tier (Savage)",
+      "description": "A savage version of the new raid dungeon.",
+      "location": null,
+      "npc_location": "Solution Nine (X:22.3 Y:17.1)"
+    },
+    {
+      "name": "A Glimmer of the Past",
+      "description": "Main scenario quest.",
+      "location": null,
+      "npc_location": "The Backroom (X:6.0 Y:6.4)"
+    },
+    {
+      "name": "The Arcadion: Souls under Siege",
+      "description": "Chronicles of a New Era quest.",
+      "location": null,
+      "npc_location": "Solution Nine (X:22.2 Y:16.6)"
+    },
+    {
+      "name": "When Death Comes to Dinner",
+      "description": "A new sidequest.",
+      "location": null,
+      "npc_location": "Tuliyollal (X:16.4 Y:12.8)"
+    },
+    {
+      "name": "Field Operations",
+      "description": "A new challenge log category.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Duty Roulette: Level Cap Dungeons",
+      "description": "A new category added to the Duty Finder.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Allagan tomestones of mathematics",
+      "description": "New currency introduced in the patch.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Borderland Ruins (Secure)",
+      "description": "Reintroduced Frontline campaign.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Graphical Update",
+      "description": "Graphical adjustments to player character models and shadow quality.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Herringbone Interior Wall",
+      "description": "An interior wall perfect for those who can't decide which diagonal they prefer.",
+      "image_url": null
+    },
+    {
+      "name": "Teal Carpet",
+      "description": "Durable-yet-fuzzy loop carpet in a rich blue-green.",
+      "image_url": null
+    },
+    {
+      "name": "Fluorescent Tube Chandelier",
+      "description": "Elegant meets mundane in this tasteful ceiling decoration that emits wholly practical light.",
+      "image_url": null
+    },
+    {
+      "name": "East End Tree",
+      "description": "This specimen transplanted from a disputed forest lends a touch of ennui to any lawn.",
+      "image_url": null
+    },
+    {
+      "name": "Hewn Stone Circle",
+      "description": "Rocks carefully placed for purposes of aesthetics, social gatherings, or potentially arcane rituals.",
+      "image_url": null
+    },
+    {
+      "name": "Hedge-trimmed Flower Bed",
+      "description": "A circular hedge tenderly blossoming and primly kept.",
+      "image_url": null
+    },
+    {
+      "name": "Chocobo Chick Fountain",
+      "description": "Darling yellow birds float whimsically in this tiered fountain, providing decoration for the garden and succor for the soul.",
+      "image_url": null
+    },
+    {
+      "name": "Gardener's Gate",
+      "description": "Four out of five gardeners agree that this gate is, in design and practicality, perfect for any garden.",
+      "image_url": null
+    },
+    {
+      "name": "No-entry Door Partition",
+      "description": "If there was any doubt as to whether or not you can enter this false entryway, the answer is no.",
+      "image_url": null
+    },
+    {
+      "name": "Vault Rib",
+      "description": "A sloping arch towards the ceiling guaranteed to impress the architecturally inclined.",
+      "image_url": null
+    },
+    {
+      "name": "Blank Minimalist Partition",
+      "description": "A simple partition that may yet be freed from its simplicity by adornments.",
+      "image_url": null
+    },
+    {
+      "name": "Minimalist Partition Door",
+      "description": "A simple partition affixed with a single door. Just one.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Dresser",
+      "description": "A wooden dresser designed in the Far Eastern style.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Event Partition",
+      "description": "A partition of Far Eastern design traditionally used for festivities.",
+      "image_url": null
+    },
+    {
+      "name": "Simple Hingan Pillar",
+      "description": "A decorative pillar fit for alcoves typically seen in traditional Far Eastern homes.",
+      "image_url": null
+    },
+    {
+      "name": "Wooden Frame Partition",
+      "description": "This elegant arched partition allows for conversation, if not passage, between the two sides.",
+      "image_url": null
+    },
+    {
+      "name": "Lattice-windowed Cabinet",
+      "description": "For when you desire an obstructed view of the contents of your cupboard.",
+      "image_url": null
+    },
+    {
+      "name": "Mantelshelf",
+      "description": "A tiered shelf whereupon you may display your most treasured possessions.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Floor Cabinet",
+      "description": "Floor storage fit for alcoves typically seen in traditional Far Eastern homes.",
+      "image_url": null
+    },
+    {
+      "name": "Dark Knight Display Crystal",
+      "description": "Designed for those who take great pride in their work, this purely decorative crystal bespeaks enthusiastic commitment to the path of the dark knight.",
+      "image_url": null
+    },
+    {
+      "name": "Machinist Display Crystal",
+      "description": "Designed for those who take great pride in their work, this purely decorative crystal bespeaks enthusiastic commitment to the path of the machinist.",
+      "image_url": null
+    },
+    {
+      "name": "Astrologian Display Crystal",
+      "description": "Designed for those who take great pride in their work, this purely decorative crystal bespeaks enthusiastic commitment to the path of the astrologian.",
+      "image_url": null
+    },
+    {
+      "name": "Samurai Display Crystal",
+      "description": "Designed for those who take great pride in their work, this purely decorative crystal bespeaks enthusiastic commitment to the path of the samurai.",
+      "image_url": null
+    },
+    {
+      "name": "Red Mage Display Crystal",
+      "description": "Designed for those who take great pride in their work, this purely decorative crystal bespeaks enthusiastic commitment to the path of the red mage.",
+      "image_url": null
+    },
+    {
+      "name": "Blue Mage Display Crystal",
+      "description": "Designed for those who take great pride in their work, this purely decorative crystal bespeaks enthusiastic commitment to the path of the blue mage.",
+      "image_url": null
+    },
+    {
+      "name": "Gunbreaker Display Crystal",
+      "description": "Designed for those who take great pride in their work, this purely decorative crystal bespeaks enthusiastic commitment to the path of the gunbreaker.",
+      "image_url": null
+    },
+    {
+      "name": "Dancer Display Crystal",
+      "description": "Designed for those who take great pride in their work, this purely decorative crystal bespeaks enthusiastic commitment to the path of the dancer.",
+      "image_url": null
+    },
+    {
+      "name": "Reaper Display Crystal",
+      "description": "Designed for those who take great pride in their work, this purely decorative crystal bespeaks enthusiastic commitment to the path of the reaper.",
+      "image_url": null
+    },
+    {
+      "name": "Sage Display Crystal",
+      "description": "Designed for those who take great pride in their work, this purely decorative crystal bespeaks enthusiastic commitment to the path of the sage.",
+      "image_url": null
+    },
+    {
+      "name": "Viper Display Crystal",
+      "description": "Designed for those who take great pride in their work, this purely decorative crystal bespeaks enthusiastic commitment to the path of the viper.",
+      "image_url": null
+    },
+    {
+      "name": "Pictomancer Display Crystal",
+      "description": "Designed for those who take great pride in their work, this purely decorative crystal bespeaks enthusiastic commitment to the path of the pictomancer.",
+      "image_url": null
+    },
+    {
+      "name": "Leg of Prosciutto",
+      "description": "Salted pork that has been cured and aged to perfection.",
+      "image_url": null
+    },
+    {
+      "name": "Recollection Sword Stand",
+      "description": "The greatsword of a mighty knight who gave all in fealty to her queen.",
+      "image_url": null
+    },
+    {
+      "name": "Decorative Hingan Window",
+      "description": "A window fit for alcoves typically seen in traditional Far Eastern homes.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Wall Shelf",
+      "description": "Simple planks fit for alcoves typically seen in traditional Far Eastern homes.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Wall Cabinet",
+      "description": "Wall storage fit for alcoves typically seen in traditional Far Eastern homes.",
+      "image_url": null
+    },
+    {
+      "name": "Round Stepping Star",
+      "description": "For those who require adequate ankle lighting, look no further than this circular floor fixture.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Augmented Temple Gaskins",
+      "description": "Legs equipment",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Healer's Robe",
+      "description": "Body equipment",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Healer's Culottes",
+      "description": "Legs equipment",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Healer's Boots",
+      "description": "Feet equipment",
+      "image_url": null
+    },
+    {
+      "name": "Cloche",
+      "description": "Head equipment",
+      "image_url": null
+    },
+    {
+      "name": "Light Steel Galerus",
+      "description": "Body equipment",
+      "image_url": null
+    },
+    {
+      "name": "Light Steel Subligar",
+      "description": "Legs equipment",
+      "image_url": null
+    },
+    {
+      "name": "Taffeta Shawl",
+      "description": "Body equipment",
+      "image_url": null
+    },
+    {
+      "name": "Taffeta Loincloth",
+      "description": "Legs equipment",
+      "image_url": null
+    },
+    {
+      "name": "Plain Long Skirt",
+      "description": "Legs equipment",
+      "image_url": null
+    },
+    {
+      "name": "The Best Gown Ever",
+      "description": "Body equipment",
+      "image_url": null
+    },
+    {
+      "name": "Company Hat",
+      "description": "Head equipment",
+      "image_url": null
+    },
+    {
+      "name": "Company Tabard",
+      "description": "Body equipment",
+      "image_url": null
+    },
+    {
+      "name": "Flat Cap",
+      "description": "Head equipment",
+      "image_url": null
+    },
+    {
+      "name": "White Beret",
+      "description": "Head equipment",
+      "image_url": null
+    },
+    {
+      "name": "Coeurl Mask",
+      "description": "Head equipment",
+      "image_url": null
+    },
+    {
+      "name": "Expeditioner's Cap",
+      "description": "Head equipment",
+      "image_url": null
+    },
+    {
+      "name": "Expeditioner's Flyers",
+      "description": "Legs equipment",
+      "image_url": null
+    },
+    {
+      "name": "Uraeus Body Armor",
+      "description": "Body equipment",
+      "image_url": null
+    },
+    {
+      "name": "Uraeus Breeches",
+      "description": "Legs equipment",
+      "image_url": null
+    },
+    {
+      "name": "Gryphonskin Breastguard",
+      "description": "Body equipment",
+      "image_url": null
+    },
+    {
+      "name": "Gryphonskin Pantalettes",
+      "description": "Legs equipment",
+      "image_url": null
+    },
+    {
+      "name": "Dragon Monocle",
+      "description": "Head equipment",
+      "image_url": null
+    },
+    {
+      "name": "Cait Sith Ears",
+      "description": "Head equipment",
+      "image_url": null
+    },
+    {
+      "name": "Astral Silk Robe",
+      "description": "Body equipment",
+      "image_url": null
+    },
+    {
+      "name": "Taoist's Cap",
+      "description": "Head equipment",
+      "image_url": null
+    },
+    {
+      "name": "Taoist's Shirt",
+      "description": "Body equipment",
+      "image_url": null
+    },
+    {
+      "name": "Taoist's Gloves",
+      "description": "Hands equipment",
+      "image_url": null
+    },
+    {
+      "name": "Taoist's Slops",
+      "description": "Legs equipment",
+      "image_url": null
+    },
+    {
+      "name": "Taoist's Shoes",
+      "description": "Feet equipment",
+      "image_url": null
+    },
+    {
+      "name": "Tamamo Headband",
+      "description": "Head equipment",
+      "image_url": null
+    },
+    {
+      "name": "Ribbon",
+      "description": "Head equipment",
+      "image_url": null
+    },
+    {
+      "name": "Island Leaf Headdress",
+      "description": "Head equipment",
+      "image_url": null
+    },
+    {
+      "name": "Minmisle Top Hat",
+      "description": "Head equipment",
+      "image_url": null
+    },
+    {
+      "name": "Gold Roselle Capeline",
+      "description": "Head equipment",
+      "image_url": null
+    },
+    {
+      "name": "Pearl Roselle Capeline",
+      "description": "Head equipment",
+      "image_url": null
+    },
+    {
+      "name": "South Seas Talisman",
+      "description": "Body equipment",
+      "image_url": null
+    },
+    {
+      "name": "Blue Summer Maro",
+      "description": "Legs equipment",
+      "image_url": null
+    },
+    {
+      "name": "Coeurl Talisman",
+      "description": "Body equipment",
+      "image_url": null
+    },
+    {
+      "name": "Coeurl Beach Maro",
+      "description": "Legs equipment",
+      "image_url": null
+    },
+    {
+      "name": "Coeurl Beach Briefs",
+      "description": "Legs equipment",
+      "image_url": null
+    },
+    {
+      "name": "Sea Breeze Summer Halter",
+      "description": "Body equipment",
+      "image_url": null
+    },
+    {
+      "name": "Sea Breeze Summer Pareo",
+      "description": "Legs equipment",
+      "image_url": null
+    },
+    {
+      "name": "Coeurl Beach Halter",
+      "description": "Body equipment",
+      "image_url": null
+    },
+    {
+      "name": "Coeurl Beach Pareo",
+      "description": "Legs equipment",
+      "image_url": null
+    },
+    {
+      "name": "Coeurl Beach Tanga",
+      "description": "Legs equipment",
+      "image_url": null
+    },
+    {
+      "name": "Starlight Sugarloaf Hat",
+      "description": "Head equipment",
+      "image_url": null
+    },
+    {
+      "name": "Starlight Tunic",
+      "description": "Body equipment",
+      "image_url": null
+    },
+    {
+      "name": "Starlight Tights",
+      "description": "Legs equipment",
+      "image_url": null
+    },
+    {
+      "name": "Starlight Boots",
+      "description": "Feet equipment",
+      "image_url": null
+    },
+    {
+      "name": "Southern Seas Vest",
+      "description": "Body equipment",
+      "image_url": null
+    },
+    {
+      "name": "Southern Seas Trunks",
+      "description": "Legs equipment",
+      "image_url": null
+    },
+    {
+      "name": "Striped Southern Seas Vest",
+      "description": "Body equipment",
+      "image_url": null
+    },
+    {
+      "name": "Endless Summer Glasses",
+      "description": "Head equipment",
+      "image_url": null
+    },
+    {
+      "name": "Endless Summer Top",
+      "description": "Body equipment",
+      "image_url": null
+    },
+    {
+      "name": "Endless Summer Bottom",
+      "description": "Legs equipment",
+      "image_url": null
+    },
+    {
+      "name": "Lyse's Leadership Attire",
+      "description": "Attire set",
+      "image_url": null
+    },
+    {
+      "name": "Scion Striker's Visor",
+      "description": "Head equipment",
+      "image_url": null
+    },
+    {
+      "name": "Scion Striker's Attire",
+      "description": "Attire set",
+      "image_url": null
+    },
+    {
+      "name": "Scion Liberator's Sabatons",
+      "description": "Feet equipment",
+      "image_url": null
+    },
+    {
+      "name": "Scion Liberator's Jacket",
+      "description": "Body equipment",
+      "image_url": null
+    },
+    {
+      "name": "Scion Liberator's Fingerless Gloves",
+      "description": "Hands equipment",
+      "image_url": null
+    },
+    {
+      "name": "Scion Liberator's Pantalettes",
+      "description": "Legs equipment",
+      "image_url": null
+    },
+    {
+      "name": "Lord Commander's Coat",
+      "description": "Body equipment",
+      "image_url": null
+    },
+    {
+      "name": "Lord Commander's Gloves",
+      "description": "Hands equipment",
+      "image_url": null
+    }
+  ]
+}

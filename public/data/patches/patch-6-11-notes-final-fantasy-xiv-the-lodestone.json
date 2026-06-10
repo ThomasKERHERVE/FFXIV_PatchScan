@@ -1,0 +1,299 @@
+{
+  "patch_title": "Patch 6.11 Notes",
+  "patch_date": "2026-06-10",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/6a3e8bf216810babcbe07b2842488577ec22cb54/",
+  "jobs_pve": [
+    {
+      "job": "Gunbreaker",
+      "changes": [
+        "Gnashing Fang: Potency has been increased from 360 to 380.",
+        "Savage Claw: Potency has been increased from 440 to 460.",
+        "Wicked Talon: Potency has been increased from 520 to 540.",
+        "Jugular Rip: Potency has been increased from 180 to 200.",
+        "Abdomen Tear: Potency has been increased from 220 to 240.",
+        "Eye Gouge: Potency has been increased from 260 to 280."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Jump: When Jump changes to Mirage Dive, there will now be a small input delay to prevent the unintended execution of Mirage Dive.",
+        "High Jump: When High Jump changes to Mirage Dive, there will now be a small input delay to prevent the unintended execution of Mirage Dive."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Midare Setsugekka: Potency has been increased from 600 to 640.",
+        "Kaeshi: Setsugekka: Potency has been increased from 600 to 640.",
+        "Shoha: Potency has been increased from 500 to 520."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Wildfire: Potency increase per weaponskill landed has been increased from 200 to 220."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Holy Sheltron: Reduction to damage taken has been changed from 10% to 20%.",
+        "Atonement: Potency has been increased from 6,000 to 8,000."
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "Bloodwhetting: Damage converted into HP has been reduced from 100% to 75%.",
+        "Bloodwhetting: Barrier strength has been reduced from 20% to 10% of maximum HP."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Shadowbringer: Potency has been increased from 4,000 to 6,000.",
+        "The Blackest Night: Recast time has been reduced from 20 to 15 seconds."
+      ]
+    },
+    {
+      "job": "Gunbreaker",
+      "changes": [
+        "Double Down: Potency has been increased from 10,000 to 12,000.",
+        "Rough Divide: The additional effect 'Increases movement speed' has been added.",
+        "Draw and Junction: The status effects Junction Tank, Junction DPS, and Junction Healer no longer expire upon being incapacitated.",
+        "Relentless Rush: Potency has been increased from 3,000 to 4,000.",
+        "Relentless Rush: Increase to target's damage taken has been changed from 3% to 4%.",
+        "Nebula: Effect duration has been increased from 6 to 10 seconds.",
+        "Aurora: Potency has been increased from 6,000 to 8,000."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Enlightenment: Additional damage from the Pressure Point effect has been increased from 8,000 to 12,000."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Bunshin: Effect duration has been increased from 15 to 30 seconds."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Hissatsu: Chiten: Reduction to damage taken has been changed from 50% to 25%.",
+        "Mineuchi: Stun duration has been reduced from 3 to 2 seconds."
+      ]
+    },
+    {
+      "job": "Reaper",
+      "changes": [
+        "Arcane Crest: Barrier strength has been increased from a heal potency of 8,000 to 12,000.",
+        "Arcane Crest: Cure potency from Crest of Time Returned effect has been increased from 4,000 to 6,000.",
+        "Tenebrae Lemurum: Time required to fill the limit gauge to maximum has been reduced."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Final Fantasia: Increase to damage dealt for nearby party members has been changed from 5% to 10%."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Scattergun: Potency has been increased from 4,000 to 6,000.",
+        "Aether Mortar: Barrier strength has been increased from a heal potency of 2,000 to 4,000."
+      ]
+    },
+    {
+      "job": "Dancer",
+      "changes": [
+        "Starfall Dance: Potency has been increased from 8,000 to 10,000.",
+        "Honing Dance: Potency has been increased from 2,000 to 3,000.",
+        "Curing Waltz: Recast time has been reduced from 30 to 20 seconds.",
+        "Saber Dance: Potency has been increased from 8,000 to 10,000."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Fire: Potency has been increased from 3,000 to 4,000.",
+        "Blizzard: Potency has been increased from 3,000 to 4,000.",
+        "Night Wing: Potency of additional damage dealt to enemies under the effect of sleep has been increased from 6,000 to 8,000.",
+        "Superflare: Targets within the radius of the attack will now be afflicted with the effects of this action even when the caster does not have direct line of sight.",
+        "Flare: Potency has been increased from 6,000 to 8,000.",
+        "Freeze: Potency has been increased from 6,000 to 8,000.",
+        "Soul Resonance: Effect duration of Polyglot has been increased from 30 to 60 seconds."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Enchanted Riposte: Damage over time potency while under the effect of Black Shift has been reduced from 4,000 to 3,000.",
+        "Enchanted Zwerchhau: Damage over time potency while under the effect of Black Shift has been reduced from 4,000 to 3,000.",
+        "Enchanted Redoublement: Damage over time potency while under the effect of Black Shift has been reduced from 4,000 to 3,000.",
+        "Resolution: Silence duration while under the effect of White Shift has been reduced from 3 to 2 seconds."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Afflatus Misery: Potency has been reduced from 12,000 to 10,000.",
+        "Afflatus Purgation: Stun duration has been reduced from 3 to 2 seconds."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Adloquium: Effect duration of damage increase has been changed from 10 to 15 seconds.",
+        "Biolysis: Effect duration of reduced damage dealt has been changed from 10 to 15 seconds."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Macrocosmos: Potency has been increased from 8,000 to 12,000."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Dragonsong's Reprise (Ultimate)",
+      "description": "A high-end duty that invites players to reflect upon bygone trials with a newfound perspective, dreaming of an alternate conclusion to the Dragonsong War.",
+      "location": "Old Sharlayan",
+      "npc_location": "Wandering Minstrel in Old Sharlayan (X:12.7 Y:14.2)"
+    },
+    {
+      "name": "Data Center Travel system",
+      "description": "A system scheduled for implementation in Patch 6.18.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Custom deliveries",
+      "description": "Additional content scheduled to be released in Patch 6.15.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Arkasodara tribal quests",
+      "description": "Additional content scheduled to be released in Patch 6.15.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Somehow Further Hildibrand Adventures",
+      "description": "Additional content scheduled to be released in Patch 6.15.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [],
+  "glamour": [
+    {
+      "name": "Ultimate Sword of the Heavens",
+      "description": "Gladiator's Arm, Item Level: 605 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Axe of the Heavens",
+      "description": "Marauder's Arm, Item Level: 605 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Claymore of the Heavens",
+      "description": "Dark Knight's Arm, Item Level: 605 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Gunblade of the Heavens",
+      "description": "Gunbreaker's Arm, Item Level: 605 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Knuckles of the Heavens",
+      "description": "Pugilist's Arm, Item Level: 605 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Halberd of the Heavens",
+      "description": "Lancer's Arm, Item Level: 605 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Katana of the Heavens",
+      "description": "Samurai's Arm, Item Level: 605 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Sickle of the Heavens",
+      "description": "Reaper's Arm, Item Level: 605 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Daggers of the Heavens",
+      "description": "Rogue's Arm, Item Level: 605 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Bow of the Heavens",
+      "description": "Archer's Arm, Item Level: 605 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Heavensfire",
+      "description": "Machinist's Arm, Item Level: 605 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate War Quoits of the Heavens",
+      "description": "Dancer's Arm, Item Level: 605 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Staff of the Heavens",
+      "description": "Two-handed Thaumaturge's Arm, Item Level: 605 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Grimoire of the Heavens",
+      "description": "Arcanist's Grimoire, Item Level: 605 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Rapier of the Heavens",
+      "description": "Red Mage's Arm, Item Level: 605 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Cane of the Heavens",
+      "description": "Two-handed Conjurer's Arm, Item Level: 605 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Codex of the Heavens",
+      "description": "Scholar's Arm, Item Level: 605 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Heavensmeter",
+      "description": "Astrologian's Arm, Item Level: 605 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Milpreves of the Heavens",
+      "description": "Sage's Arm, Item Level: 605 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Shield of the Heavens",
+      "description": "Shield, Item Level: 605 / Equipment Level: 90",
+      "image_url": null
+    }
+  ]
+}

@@ -1,0 +1,836 @@
+{
+  "patch_title": "Patch 6.1 Notes",
+  "patch_date": "2022-04-20",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/c73cd284013587066d8f9e697fab1db9f007372c/",
+  "jobs_pve": [
+    {
+      "job": "Healer (Role Action)",
+      "changes": [
+        "Lucid Dreaming is now acquired at level 14 (previously level 24)."
+      ]
+    },
+    {
+      "job": "Paladin",
+      "changes": [
+        "Iron Will: Recast time reduced from 10 to 3 seconds.",
+        "Clemency: Execution no longer interrupts action combos.",
+        "Holy Spirit: Execution no longer interrupts action combos.",
+        "Requiescat: Added additional effect 'Grants Blade of Faith Ready when the effect of Requiescat ends' with a duration of 30 seconds.",
+        "Holy Circle: Execution no longer interrupts action combos.",
+        "Confiteor: Added additional effect 'Restores own HP' with a cure potency of 400.",
+        "Blade of Faith: No longer a combo action with Confiteor; requirement of 'Blade of Faith Ready' added; added additional effect 'Restores own HP' with a cure potency of 400.",
+        "Blade of Truth: Added additional effect 'Restores own HP' with a cure potency of 400.",
+        "Blade of Valor: Added additional effect 'Restores own HP' with a cure potency of 400.",
+        "Divine Magic Mastery II: Now adds a healing effect to Confiteor."
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "Defiance: Recast time reduced from 10 to 3 seconds.",
+        "Overpower: Area of effect changed from a cone to all nearby enemies.",
+        "Inner Release: Stacks now only apply to Fell Cleave and Decimate; effect 'Nullifies Stun, Sleep, Bind, Heavy, and most knockback and draw-in effects' changed to 'Grants Inner Strength, nullifying Stun, Sleep, Bind, Heavy, and most knockback and draw-in effects'."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Grit: Recast time reduced from 10 to 3 seconds.",
+        "Flood of Darkness: Potency reduced from 130 to 100.",
+        "Blood Weapon: Now grants 5 stacks of the Blood Weapon effect; effect duration increased from 10 to 15 seconds.",
+        "Stalwart Soul: Now acquired at level 40 (previously level 72).",
+        "Living Dead: Added additional effect 'Restores HP with each weaponskill successfully delivered or spell cast' with a cure potency of 1,500. If max HP is restored before the timer ends, the effect changes to 'Undead Rebirth', allowing most attacks to not lower HP below 1."
+      ]
+    },
+    {
+      "job": "Gunbreaker",
+      "changes": [
+        "Royal Guard: Recast time reduced from 10 to 3 seconds."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Perfect Balance: Can no longer be executed while under the effect of any Beast Chakra."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Jump: Animation shortened; now changes to Mirage Dive while under the effect of Mirage Dive Ready.",
+        "High Jump: Animation shortened; now changes to Mirage Dive while under the effect of Mirage Dive Ready.",
+        "Elusive Jump: Animation shortened.",
+        "Spineshatter Dive: Animation shortened.",
+        "Dragonfire Dive: Animation shortened."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Hide: Now dispels the effect of Doton upon execution.",
+        "Mug: Added effect 'Increases target's damage taken by 5%' for 20 seconds.",
+        "Trick Attack: Changed effect from 'Increases target's damage taken by 5%' to 'Increases damage you deal target by 10%'.",
+        "Aeolian Edge: Potency increased from 360 to 380; rear combo potency increased from 420 to 440.",
+        "Shukuchi: Animation shortened.",
+        "Doton: Potency increased from 70 to 80; duration reduced from 24 to 18 seconds.",
+        "Hakke Mujinsatsu: Combo potency increased from 120 to 130.",
+        "Armor Crush: Combo potency increased from 340 to 360; flank combo potency increased from 400 to 420.",
+        "Bhavacakra: Potency reduced from 400 to 350.",
+        "Phantom Kamaitachi: Potency increased from 550 to 600.",
+        "Melee Mastery: Now acquired at level 74 (previously 84).",
+        "Melee Mastery II (Level 84): New trait, increases potency of Spinning Edge to 220 and Gust Slash to 160."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Hakaze: Potency increased from 180 to 200.",
+        "Jinpu: Potency increased from 100 to 120.",
+        "Third Eye: Duration increased from 3 to 4 seconds.",
+        "Shifu: Potency increased from 100 to 120.",
+        "Gekko: Potency increased from 100 to 120; combo potency increased from 320 to 330; rear combo potency increased from 370 to 380.",
+        "Higanbana: Damage over time potency increased from 30 to 45.",
+        "Mangetsu: Combo potency increased from 110 to 120.",
+        "Kasha: Potency increased from 100 to 120; combo potency increased from 320 to 330; flank combo potency increased from 370 to 380.",
+        "Tenka Goken: Area of effect changed from a cone to all nearby enemies.",
+        "Oka: Combo potency increased from 110 to 120.",
+        "Yukikaze: Potency increased from 100 to 120; combo potency increased from 280 to 300.",
+        "Midare Setsugekka: Potency reduced from 660 to 600; now guaranteed to land a critical hit.",
+        "Meikyo Shisui: Ranged weaponskills no longer count toward the effect.",
+        "Hissatsu: Shinten: Now acquired at level 52 (previously 62); potency reduced from 270 to 250.",
+        "Hissatsu: Yaten: Activation time adjusted to match other backstep actions.",
+        "Hissatsu: Kyuten: Now acquired at level 62 (previously 64).",
+        "Kaeshi: Higanbana: Potency reduced from 300 to 200.",
+        "Kaeshi: Goken: Potency reduced from 420 to 280; AoE changed from cone to all nearby enemies.",
+        "Kaeshi: Setsugekka: Potency reduced from 990 to 600; now guaranteed to land a critical hit.",
+        "Shoha: Potency reduced from 580 to 500.",
+        "Ogi Namikiri: Potency reduced from 900 to 800; now guaranteed to land a critical hit.",
+        "Kaeshi: Namikiri: Potency reduced from 1,350 to 800; now guaranteed to land a critical hit.",
+        "Way of the Samurai (Level 66): New trait, increases potency of Hakaze, Jinpu, and Shifu.",
+        "Way of the Samurai II (Level 84): New trait, increases potency of Gekko, Kasha, and Yukikaze.",
+        "Hissatsu: Kaiten: Removed."
+      ]
+    },
+    {
+      "job": "Reaper",
+      "changes": [
+        "Hell's Ingress: Duration of Enhanced Harpe increased from 15 to 20 seconds; animation shortened.",
+        "Hell's Egress: Duration of Enhanced Harpe increased from 15 to 20 seconds; animation shortened.",
+        "Regress: Animation shortened."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Repelling Shot: Range increased from 5 to 15 yalms; activation time adjusted to match other backsteps.",
+        "Battle Voice: No longer requires Mage's Ballad, Army's Paeon, or Wanderer's Minuet to be active.",
+        "The Wanderer's Minuet: Action changes to Pitch Perfect upon execution."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Heat Blast: Potency increased from 170 to 180.",
+        "Wildfire: Potency increase per weaponskill increased from 150 to 200.",
+        "Drill: Potency increased from 570 to 580.",
+        "Air Anchor: Potency increased from 570 to 580.",
+        "Pile Bunker: Potency increased from 650 to 680.",
+        "Crowned Collider: Potency increased from 750 to 780.",
+        "Chain Saw: Potency increased from 570 to 580."
+      ]
+    },
+    {
+      "job": "Dancer",
+      "changes": [
+        "Standard Step: Now categorized as a weaponskill.",
+        "Emboite: Now categorized as a weaponskill.",
+        "Entrechat: Now categorized as a weaponskill.",
+        "Jete: Now categorized as a weaponskill.",
+        "Pirouette: Now categorized as a weaponskill.",
+        "Cascade: Added effect changed to Silken Symmetry.",
+        "Fountain: Added effect changed to Silken Flow.",
+        "Windmill: Added effect changed to Silken Symmetry.",
+        "Reverse Cascade: Requirements changed to include Silken Symmetry.",
+        "Bladeshower: Added effect changed to Silken Flow.",
+        "Rising Windmill: Requirements changed to include Silken Symmetry.",
+        "Fountainfall: Requirements changed to include Silken Flow.",
+        "Bloodshower: Requirements changed to include Silken Flow.",
+        "Technical Step: Now categorized as a weaponskill."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Ruby Ruin: Recast increased to 3s, potency increased to 340.",
+        "Ruby Outburst: Recast increased to 3s, potency increased to 160.",
+        "Ruby Ruin II: Recast increased to 3s, potency increased to 380.",
+        "Ruby Ruin III: Recast increased to 3s, potency increased to 410.",
+        "Ruby Rite: Recast increased to 3s, potency increased to 510.",
+        "Searing Light: Now executed from the caster, not Carbuncle.",
+        "Ruby Disaster: Recast increased to 3s, potency increased to 190.",
+        "Ruby Catastrophe: Recast increased to 3s, potency increased to 210.",
+        "Ruin Mastery IV: Potency of Ruby Rite changed to 510."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Displacement: Animation shortened."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Stone: MP cost reduced to 200.",
+        "Aero: MP cost reduced to 200; duration increased to 30s.",
+        "Stone II: MP cost reduced to 200.",
+        "Regen: MP cost reduced to 400.",
+        "Cure III: AoE radius increased to 10 yalms.",
+        "Aero II: MP cost reduced to 200; duration increased to 30s.",
+        "Asylum: Range increased to 10 yalms.",
+        "Secret of the Lily: Lily generation reduced to every 20 seconds.",
+        "Stone III: Potency reduced to 220; MP cost reduced to 300.",
+        "Stone IV: Potency reduced to 260.",
+        "Afflatus Misery: Potency increased to 1,240; potency reduction after first enemy increased to 50%.",
+        "Liturgy of the Bell: Extra healing triggers when time expires or manual execution."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Ruin: MP cost reduced to 300.",
+        "Embrace: Target range increased.",
+        "Bio: MP cost reduced to 300.",
+        "Bio II: MP cost reduced to 300.",
+        "Sacred Soil: AoE radius increased to 10 yalms.",
+        "Expedient: Duration reduced to 10 seconds."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Combust: Duration increased to 30s."
+      ]
+    },
+    {
+      "job": "Sage",
+      "changes": [
+        "Dosis: MP cost reduced to 300.",
+        "Soteria: Now grants 4 stacks; potency increased to 70%.",
+        "Addersting: Now grants max stacks upon entering instances."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "General",
+      "changes": [
+        "PvP actions have been fully reworked.",
+        "Maximum HP and MP for all jobs has been adjusted.",
+        "Job gauges no longer display.",
+        "Damage modifiers for both damage taken and dealt have been adjusted on a per-job basis.",
+        "Damage taken and dealt will no longer be subject to RNG.",
+        "Resistance effects will no longer be applied upon the expiration of status afflictions.",
+        "Adrenaline Rush has been renamed to Limit Break and each job now has a unique limit break action.",
+        "Adrenaline gauge has been changed to the limit gauge."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Aglaia",
+      "description": "The new alliance raid dungeon.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Minstrel's Ballad: Endsinger's Aria",
+      "description": "A new trial.",
+      "location": "Old Sharlayan (X:12.7 Y:14.2)",
+      "npc_location": "Wandering Minstrel"
+    },
+    {
+      "name": "Ultima's Bane (Unreal)",
+      "description": "A new unreal trial.",
+      "location": "Idyllshire (X:7.0 Y:5.9)",
+      "npc_location": "Fantastic Mr. Faux"
+    },
+    {
+      "name": "The Porta Decumana",
+      "description": "A trial featuring the battle with the Ultima Weapon, formerly part of The Praetorium.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Crystalline Conflict",
+      "description": "A new competitive PvP mode involving tactical crystal transport.",
+      "location": "Wolves' Den Pier (X:4.9 Y:6.4)",
+      "npc_location": "Gungi Zelungi"
+    },
+    {
+      "name": "Duty Support",
+      "description": "A new system allowing solo players to tackle main scenario duties with a party of NPCs.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Unending Codex",
+      "description": "A compendium of vital information about in-game terminology and characters.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Adventurer Plate (Beta Version)",
+      "description": "A personalized calling card interface for introducing yourself to other players.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Newfound Adventure",
+      "description": "New main scenario quest.",
+      "location": "The Rising Stones (X:6.0 Y:5.9)",
+      "npc_location": "Tataru"
+    },
+    {
+      "name": "A Mission in Mor Dhona",
+      "description": "Chronicles of a New Era quest.",
+      "location": "Old Sharlayan (X:9.1 Y:11.5)",
+      "npc_location": "Fresh-faced Student"
+    },
+    {
+      "name": "Bitter Snow",
+      "description": "New role quest.",
+      "location": "Radz-at-Han (X:7.7 Y:9.4)",
+      "npc_location": "Shirabaht"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Highland Cottage Permit (Wood)",
+      "description": "Allows the construction of a Coerthan-style cottage in Empyreum. ※Can hold up to 200 furnishing items. ※Small plot of land required.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Cottage Permit (Composite)",
+      "description": "Allows the construction of a Coerthan-style cottage in Empyreum. ※Can hold up to 200 furnishing items. ※Small plot of land required.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Cottage Permit (Stone)",
+      "description": "Allows the construction of a Coerthan-style cottage in Empyreum. ※Can hold up to 200 furnishing items. ※Small plot of land required.",
+      "image_url": null
+    },
+    {
+      "name": "Highland House Permit (Wood)",
+      "description": "Allows the construction of a Coerthan-style house in Empyreum. ※Can hold up to 300 furnishing items. ※Medium plot of land required.",
+      "image_url": null
+    },
+    {
+      "name": "Highland House Permit (Composite)",
+      "description": "Allows the construction of a Coerthan-style house in Empyreum. ※Can hold up to 300 furnishing items. ※Medium plot of land required.",
+      "image_url": null
+    },
+    {
+      "name": "Highland House Permit (Stone)",
+      "description": "Allows the construction of a Coerthan-style house in Empyreum. ※Can hold up to 300 furnishing items. ※Medium plot of land required.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Mansion Permit (Wood)",
+      "description": "Allows the construction of a Coerthan-style mansion in Empyreum. ※Can hold up to 400 furnishing items. ※Large plot of land required.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Mansion Permit (Composite)",
+      "description": "Allows the construction of a Coerthan-style mansion in Empyreum. ※Can hold up to 400 furnishing items. ※Large plot of land required.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Mansion Permit (Stone)",
+      "description": "Allows the construction of a Coerthan-style mansion in Empyreum. ※Can hold up to 400 furnishing items. ※Large plot of land required.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Cottage Roof (Wood)",
+      "description": "A highland wooden roof designed exclusively for use with cottages.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Cottage Roof (Composite)",
+      "description": "A highland composite roof designed exclusively for use with cottages.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Cottage Roof (Stone)",
+      "description": "A highland stone roof designed exclusively for use with cottages.",
+      "image_url": null
+    },
+    {
+      "name": "Highland House Roof (Wood)",
+      "description": "A highland wooden roof designed exclusively for use with houses.",
+      "image_url": null
+    },
+    {
+      "name": "Highland House Roof (Composite)",
+      "description": "A highland composite roof designed exclusively for use with houses.",
+      "image_url": null
+    },
+    {
+      "name": "Highland House Roof (Stone)",
+      "description": "A highland stone roof designed exclusively for use with houses.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Mansion Roof (Wood)",
+      "description": "A highland wooden roof designed exclusively for use with mansions.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Mansion Roof (Composite)",
+      "description": "A highland composite roof designed exclusively for use with mansions.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Mansion Roof (Stone)",
+      "description": "A highland stone roof designed exclusively for use with mansions.",
+      "image_url": null
+    },
+    {
+      "name": "Gingerbread Cottage Walls",
+      "description": "A set of four walls designed for those who wish to transform their estate into a delicious gingerbread cottage. ※Can only be used with cottages on small plots of land.",
+      "image_url": null
+    },
+    {
+      "name": "Gingerbread House Walls",
+      "description": "A set of four walls designed for those who wish to transform their estate into a delicious gingerbread house. ※Can only be used with houses on medium plots of land.",
+      "image_url": null
+    },
+    {
+      "name": "Gingerbread Mansion Walls",
+      "description": "A set of four walls designed for those who wish to transform their estate into a delicious gingerbread mansion. ※Can only be used with mansions on large plots of land.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Cottage Wall (Wood)",
+      "description": "A highland wooden wall designed exclusively for use with cottages.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Cottage Wall (Composite)",
+      "description": "A highland composite wall designed exclusively for use with cottages.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Cottage Wall (Stone)",
+      "description": "A highland stone wall designed exclusively for use with cottages.",
+      "image_url": null
+    },
+    {
+      "name": "Highland House Wall (Wood)",
+      "description": "A highland wooden wall designed exclusively for use with houses.",
+      "image_url": null
+    },
+    {
+      "name": "Highland House Wall (Composite)",
+      "description": "A highland composite wall designed exclusively for use with houses.",
+      "image_url": null
+    },
+    {
+      "name": "Highland House Wall (Stone)",
+      "description": "A highland stone wall designed exclusively for use with houses.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Mansion Wall (Wood)",
+      "description": "A highland wooden wall designed exclusively for use with mansions.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Mansion Wall (Composite)",
+      "description": "A highland composite wall designed exclusively for use with mansions.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Mansion Wall (Stone)",
+      "description": "A highland stone wall designed exclusively for use with mansions.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Classical Window",
+      "description": "A classical window in the highland style.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Lancet Window",
+      "description": "A lancet window in the highland style.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Oblong Window",
+      "description": "An oblong window in the highland style.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Wooden Door",
+      "description": "A wooden door in the highland style.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Ornate Door",
+      "description": "An ornate door in the highland style.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Classical Door",
+      "description": "A classical door in the highland style.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Composite Chimney",
+      "description": "A composite chimney designed to complement highland residences.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Rounded Chimney",
+      "description": "A rounded chimney designed to complement highland residences.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Stone Chimney",
+      "description": "A stone chimney designed to complement highland residences.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Wooden Awning",
+      "description": "A sturdy wooden awning designed to complement highland residences.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Stone Awning",
+      "description": "A sturdy stone awning designed to complement highland residences.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Composite Awning",
+      "description": "A sturdy composite awning designed to complement highland residences.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Placard",
+      "description": "A handsome placard designed to complement highland residences.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Hanging Placard",
+      "description": "A hanging placard designed to complement highland residences.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Banner",
+      "description": "A handsome banner designed to complement highland residences.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Stone Wall",
+      "description": "A stone wall designed to complement highland residences. Mix and match at your own peril.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Fence",
+      "description": "An arched stone fence designed to complement highland residences. Mix and match at your own peril.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Potting Fence",
+      "description": "A stone potting fence designed to complement highland residences. Mix and match at your own peril.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Interior Wall",
+      "description": "An interior wall designed to complement highland residences.",
+      "image_url": null
+    },
+    {
+      "name": "Amaurotine Interior Wall",
+      "description": "An interior wall recreated from the memory of a city long since destroyed.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Flooring",
+      "description": "Floorboards designed to complement highland residences.",
+      "image_url": null
+    },
+    {
+      "name": "Amaurotine Flooring",
+      "description": "Elegant stone flooring recreated from the memory of a city long since destroyed.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Pendant Lamp",
+      "description": "A pendant lamp designed to complement highland residences.",
+      "image_url": null
+    },
+    {
+      "name": "Deluxe Highland Pendant Lamp",
+      "description": "A large pendant lamp designed to complement highland residences.",
+      "image_url": null
+    },
+    {
+      "name": "Highland Chandelier",
+      "description": "A sumptuous chandelier designed to complement highland residences.",
+      "image_url": null
+    },
+    {
+      "name": "Amaurotine Spire Chandelier",
+      "description": "A breathtaking light fixture resembling the once-proud spires of a city long since destroyed.",
+      "image_url": null
+    },
+    {
+      "name": "Snowy Red Brick Bench",
+      "description": "Outdoor Furnishing: Someone might have sat here, alone in the snow, thinking of warmer days since passed...",
+      "image_url": null
+    },
+    {
+      "name": "Sweet Lawn Ornaments",
+      "description": "Outdoor Furnishing: Giant, lifelike lawn ornaments that look tasty enough to lick.",
+      "image_url": null
+    },
+    {
+      "name": "Damaged Ishgardian Wall",
+      "description": "Outdoor Furnishing: A damaged wall preserved for posterity during the Ishgardian Restoration.",
+      "image_url": null
+    },
+    {
+      "name": "Ishgardian Lamppost",
+      "description": "Outdoor Furnishing: A lamppost of steel such as one might see lining an Ishgardian street. Authentically frigid!",
+      "image_url": null
+    },
+    {
+      "name": "Alpine Open-air Bath",
+      "description": "Outdoor Furnishing: A luxurious, outdoor bath designed in the alpine fashion.",
+      "image_url": null
+    },
+    {
+      "name": "Ivy-covered Bridge",
+      "description": "Outdoor Furnishing: A stone bridge tastefully hemmed with tendrils of creeping ivy.",
+      "image_url": null
+    },
+    {
+      "name": "Garden Gate",
+      "description": "Outdoor Furnishing: Curious what lies beyond the garden wall? The garden gate is here to help.",
+      "image_url": null
+    },
+    {
+      "name": "Planter Set",
+      "description": "Outdoor Furnishing: A vibrant arrangement of plant life bursting from a cluster of sturdy planters.",
+      "image_url": null
+    },
+    {
+      "name": "Curved Marble Partition",
+      "description": "Furnishing: A gently curved, cream-colored partition with a white marble baseboard.",
+      "image_url": null
+    },
+    {
+      "name": "Scholasticate Chair",
+      "description": "Furnishing: A wooden chair much like those found at Saint Endalim's Scholasticate.",
+      "image_url": null
+    },
+    {
+      "name": "Scholasticate Bookshelf",
+      "description": "Furnishing: A laden bookshelf much like those found at Saint Endalim's Scholasticate.",
+      "image_url": null
+    },
+    {
+      "name": "Royal Menagerie Phasmascape",
+      "description": "Furnishing: This advanced magitek contraption displays the splendor of Ala Mhigo's Royal Menagerie under a dying sun.",
+      "image_url": null
+    },
+    {
+      "name": "Sea of Clouds Phasmascape",
+      "description": "Furnishing: This advanced magitek contraption displays the bevy of isles floating above Abalathia's Spine.",
+      "image_url": null
+    },
+    {
+      "name": "Log Rack",
+      "description": "Furnishing: A lovely rack to organize your logs.",
+      "image_url": null
+    },
+    {
+      "name": "Indoor Marble Fountain",
+      "description": "Furnishing: A fountain carved from deep-sea marble and whimsically decorated with Moogle statuettes.",
+      "image_url": null
+    },
+    {
+      "name": "Eastern Canopy Bed",
+      "description": "Furnishing: Sleep in luxury under a canopy of softly blooming flowers from the Far East.",
+      "image_url": null
+    },
+    {
+      "name": "Eulmoran Divan",
+      "description": "Furnishing: A cushioned settee expressly designed for contemplating one's more opulent sins.",
+      "image_url": null
+    },
+    {
+      "name": "Trick Bookshelf Partition",
+      "description": "Furnishing: Pull the correct tome from the shelf to trigger the hidden door.",
+      "image_url": null
+    },
+    {
+      "name": "Factory Pillar",
+      "description": "Furnishing: A rusted metal pillar with an uncanny resemblance to those found in the Copied Factory.",
+      "image_url": null
+    },
+    {
+      "name": "Indoor Climbing Frame",
+      "description": "Table: A curious, latticelike structure that inspires rampant frolicking and climbing upon contact.",
+      "image_url": null
+    },
+    {
+      "name": "Alpine Cabinet",
+      "description": "Table: A decorative cabinet designed in the alpine style.",
+      "image_url": null
+    },
+    {
+      "name": "Scholasticate Table",
+      "description": "Table: A long desk much like those found at Saint Endalim's Scholasticate.",
+      "image_url": null
+    },
+    {
+      "name": "Classic Dresser",
+      "description": "Table: A lavish vanity that hearkens back to days long past.",
+      "image_url": null
+    },
+    {
+      "name": "Riviera Swinging-door Counter",
+      "description": "Table: Be advised not to let the doors of this handsome counter hit you on the way out.",
+      "image_url": null
+    },
+    {
+      "name": "Steel Locker",
+      "description": "Table: A metal cupboard perfectly suited for stowing cleaning instruments, sundry items, and lithographs.",
+      "image_url": null
+    },
+    {
+      "name": "House Fortemps Fireplace",
+      "description": "Table: A faithful replica of the fireplace found in Fortemps Manor.",
+      "image_url": null
+    },
+    {
+      "name": "Cathedral Lectern",
+      "description": "Table: An uncanny recreation of the lectern used in Saint Reymanaud's Cathedral.",
+      "image_url": null
+    },
+    {
+      "name": "Astrologicum Star Map",
+      "description": "Tabletop: An august chart rich with the secrets of the heavens.",
+      "image_url": null
+    },
+    {
+      "name": "Wondrous Parfait",
+      "description": "Tabletop: A massive dessert layered with plenty of fresh fruit, whipped cream, and frozen confectionary.",
+      "image_url": null
+    },
+    {
+      "name": "Bluefeather Astrolabos",
+      "description": "Tabletop: A hauntingly beautiful model of the universe.",
+      "image_url": null
+    },
+    {
+      "name": "Small Blackboard",
+      "description": "Wall-mounted: Experience the joy of slapping two dusty erasers together again and again.",
+      "image_url": null
+    },
+    {
+      "name": "Alpine Wall Lantern",
+      "description": "Wall-mounted: A wall lantern crafted in the alpine style.",
+      "image_url": null
+    },
+    {
+      "name": "Emperor Portrait",
+      "description": "Wall-mounted: A commissioned portrait of the Garlean Empire's founding father, Solus zos Galvus.",
+      "image_url": null
+    },
+    {
+      "name": "Azure Banner of Conflict",
+      "description": "Wall-mounted: A brilliant blue banner distributed at the Wolves' Den.",
+      "image_url": null
+    },
+    {
+      "name": "Crimson Banner of Conflict",
+      "description": "Wall-mounted: A fierce red banner distributed at the Wolves' Den.",
+      "image_url": null
+    },
+    {
+      "name": "Kweh-kweh Clock",
+      "description": "Wall-mounted: A charming chronometer designed to alert you of the time with a rousing \"Kweh-kweh!\"",
+      "image_url": null
+    },
+    {
+      "name": "Ivy Curtain",
+      "description": "Wall-mounted: A natural veil of trailing greenery.",
+      "image_url": null
+    },
+    {
+      "name": "Luminous Wooden Loft",
+      "description": "Wall-mounted: All the fun of a regular wooden loft, now with built-in light fixtures!",
+      "image_url": null
+    },
+    {
+      "name": "Ironworks Tool Set",
+      "description": "Wall-mounted: A set of Garlond Ironworks' finest instruments.",
+      "image_url": null
+    },
+    {
+      "name": "Imitation Alpine Window",
+      "description": "Wall-mounted: Who needs a house in the freezing peaks when you can mount a frosty windowpane upon your wall instead?",
+      "image_url": null
+    },
+    {
+      "name": "Alpine Doormat",
+      "description": "Rug: A welcome mat designed to complement alpine residences.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Spotted Attire Coffer",
+      "description": "A banded chest containing a spotted fedora and spencer. Cannot be used in instanced areas such as dungeons, PvP areas, or raids.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/W/_rGm8qjr0c_B-ZoDM3L7dexlwY.png"
+    },
+    {
+      "name": "Coeurl Beach Womenswear Coffer",
+      "description": "A banded chest containing a flashy set of spotted swimwear. Fits: All ♀. Cannot be opened in instanced areas such as dungeons, PvP areas, or raids.",
+      "image_url": null
+    },
+    {
+      "name": "Coeurl Beach Menswear Coffer",
+      "description": "A banded chest containing a flashy set of spotted swimwear. Fits: All ♂. Cannot be opened in instanced areas such as dungeons, PvP areas, or raids.",
+      "image_url": null
+    },
+    {
+      "name": "Archfiend Attire Coffer",
+      "description": "A banded chest containing a full set of archfiend attire. Required level: 1. IL: 1. Cannot be opened in instanced areas such as dungeons, PvP areas, or raids.",
+      "image_url": null
+    },
+    {
+      "name": "White Lace Parasol",
+      "description": "A frill-rimmed umbrella perfect for any weather except rain. Use to unlock a white lace parasol.",
+      "image_url": null
+    },
+    {
+      "name": "Blue Blossom Parasol",
+      "description": "A white umbrella printed with a charming pattern of blue flowers, moogles, chocobos, and more. Use to unlock a blue blossom parasol.",
+      "image_url": null
+    },
+    {
+      "name": "False Shaded Spectacles",
+      "description": "These tinted lenses will place you at the forefront of trendiness─so long as you avoid bumping into anything while wearing them. Use to unlock a pair of false shaded spectacles.",
+      "image_url": null
+    },
+    {
+      "name": "False Classic Spectacles",
+      "description": "Wear these for a classic look of intelligence. Use to unlock a pair of false classic spectacles.",
+      "image_url": null
+    }
+  ]
+}

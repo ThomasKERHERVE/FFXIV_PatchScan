@@ -1,0 +1,125 @@
+{
+  "patch_title": "Patch 6.31 Notes",
+  "patch_date": "2023-02-07",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/8eebddf71a43266f45fba4c27b78853be2801343/",
+  "jobs_pve": [
+    {
+      "job": "Warrior",
+      "changes": [
+        "Resolved an issue wherein the amount of HP recovered by the action 'Shake It Off' was incorrect when healing only self under certain conditions."
+      ]
+    }
+  ],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "The Omega Protocol (Ultimate)",
+      "description": "A high-end ultimate duty where players imagine a scenario of Omega's relentless testing and follow the experiment to its ultimate conclusion.",
+      "location": null,
+      "npc_location": "Old Sharlayan (X:12.7 Y:14.2)"
+    }
+  ],
+  "housing": [],
+  "glamour": [
+    {
+      "name": "Ultimate Omega Sword",
+      "description": "Gladiator's Arm, Item Level: 635 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Omega Battleaxe",
+      "description": "Marauder's Arm, Item Level: 635 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Omega Claymore",
+      "description": "Dark Knight's Arm, Item Level: 635 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Omega Bayonet",
+      "description": "Gunbreaker's Arm, Item Level: 635 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Omega Knuckles",
+      "description": "Pugilist's Arm, Item Level: 635 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Omega Trident",
+      "description": "Lancer's Arm, Item Level: 635 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Omega Samurai Blade",
+      "description": "Samurai's Arm, Item Level: 635 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Omega Zaghnal",
+      "description": "Reaper's Arm, Item Level: 635 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Omega Sickles",
+      "description": "Rogue's Arm, Item Level: 635 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Omega Bow",
+      "description": "Archer's Arm, Item Level: 635 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Omegafire",
+      "description": "Machinist's Arm, Item Level: 635 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Omega Chakrams",
+      "description": "Dancer's Arm, Item Level: 635 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Omega Rod",
+      "description": "Two--handed Thaumaturge's Arm, Item Level: 635 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Omega Grimoire",
+      "description": "Arcanist's Grimoire, Item Level: 635 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Omega Smallsword",
+      "description": "Red Mage's Arm, Item Level: 635 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Omega Cane",
+      "description": "Two--handed Conjurer's Arm, Item Level: 635 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Omega Codex",
+      "description": "Scholar's Arm, Item Level: 635 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Omega Torquetum",
+      "description": "Astrologian's Arm, Item Level: 635 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Omega Wings",
+      "description": "Sage's Arm, Item Level: 635 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Omega Shield",
+      "description": "Shield, Item Level: 635 / Equipment Level: 90",
+      "image_url": null
+    }
+  ]
+}

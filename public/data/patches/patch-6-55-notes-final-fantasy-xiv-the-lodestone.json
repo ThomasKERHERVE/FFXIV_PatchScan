@@ -1,0 +1,510 @@
+{
+  "patch_title": "Patch 6.55 Notes",
+  "patch_date": "2024-01-23",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/012d8e96b662a92eb4405c25b9958184db248348/",
+  "jobs_pve": [],
+  "jobs_pvp": [
+    {
+      "job": "General",
+      "changes": [
+        "Purify: Resilience will now be granted unconditionally."
+      ]
+    },
+    {
+      "job": "Paladin",
+      "changes": [
+        "Holy Sheltron: The damage reduction of Knight's Resolve has been increased from 15% to 20%."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Riddle of Earth: The duration of Earth Resonance has been reduced from 10 to 8 seconds."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Goka Mekkyaku: Area of effect radius has been increased from 5 to 6 yalms."
+      ]
+    },
+    {
+      "job": "Reaper",
+      "changes": [
+        "Tenebrae Lemurum: The duration of Enshrouded has been increased from 15 to 20 seconds."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Silent Nocturne: Recast time has been increased from 20 to 30 seconds.",
+        "Empyreal Arrow: Potency has been reduced from 4,000 to 3,000.",
+        "The Warden's Paean: Recast time has been reduced from 30 to 25 seconds; Barrier duration has been reduced from 10 to 8 seconds.",
+        "Blast Arrow: Potency has been increased from 8,000 to 10,000."
+      ]
+    },
+    {
+      "job": "Dancer",
+      "changes": [
+        "Honing Ovation: Attack and barrier potency granted by each stack of Acclaim has been increased from 1,000/2,000/3,000/4,000/5,000 to 2,000/3,000/4,000/5,000/6,000."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Maximum HP: Maximum HP has been raised from 48,000 to 49,500."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Miracle of Nature: Recast time has been increased from 30 to 45 seconds."
+      ]
+    },
+    {
+      "job": "Frontline Adjustments",
+      "changes": [
+        "Gunbreaker and Astrologian damage modifiers adjusted from 0% to -5%.",
+        "Dragoon and Samurai damage modifiers adjusted from 0% to -10%.",
+        "Dark Knight and Summoner damage modifiers adjusted from -10% to -15%.",
+        "A +15 second modifier has been applied to the limit gauge fill rate for Dark Knight, Gunbreaker, and Summoner."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "The Gilded Araya",
+      "description": "A new trial added to the game.",
+      "location": "???",
+      "npc_location": "???"
+    },
+    {
+      "name": "When One Door Closes...",
+      "description": "Main scenario quest.",
+      "location": "Radz-at-Han (X:4.4 Y:9.8)",
+      "npc_location": "Varshahn"
+    },
+    {
+      "name": "??? (Main Scenario)",
+      "description": "Main scenario quest.",
+      "location": "???",
+      "npc_location": "???"
+    },
+    {
+      "name": "??? (Main Scenario)",
+      "description": "Main scenario quest.",
+      "location": "???",
+      "npc_location": "???"
+    },
+    {
+      "name": "Of Duplicity and Duplication",
+      "description": "Side story quest for Somehow Further Hildibrand Adventures.",
+      "location": "Radz-at-Han (X:11.4 Y:11.5)",
+      "npc_location": "Delion"
+    },
+    {
+      "name": "Gentlemen at Heart",
+      "description": "Side story quest for Somehow Further Hildibrand Adventures.",
+      "location": "???",
+      "npc_location": "???"
+    },
+    {
+      "name": "Resonating with Perfection",
+      "description": "Side story quest for Manderville Weapons.",
+      "location": "Radz-at-Han (X:12.0 Y:7.1)",
+      "npc_location": "Gerolt"
+    },
+    {
+      "name": "??? (Manderville Weapons)",
+      "description": "Side story quest for Manderville Weapons.",
+      "location": "???",
+      "npc_location": "???"
+    },
+    {
+      "name": "Treasured Bonds",
+      "description": "Side story quest for Tataru's Grand Endeavor.",
+      "location": "Old Sharlayan (X:11.8 Y:9.8)",
+      "npc_location": "Mehdjina"
+    },
+    {
+      "name": "??? (Tataru's Grand Endeavor)",
+      "description": "Side story quest for Tataru's Grand Endeavor.",
+      "location": "???",
+      "npc_location": "???"
+    },
+    {
+      "name": "Where Worries Melt Away",
+      "description": "Island Sanctuary quest.",
+      "location": "Unnamed Island (X:12.4 Y:28.7)",
+      "npc_location": "Curious Courier"
+    },
+    {
+      "name": "Dinner and a Show",
+      "description": "Tribal alliance quest.",
+      "location": "Ultima Thule (X:27.5 Y:24.5)",
+      "npc_location": "Jammingway"
+    },
+    {
+      "name": "??? (Tribal Alliance)",
+      "description": "Tribal alliance quest.",
+      "location": "???",
+      "npc_location": "???"
+    },
+    {
+      "name": "New Game+ Chapters",
+      "description": "New chapters added to New Game+: Endwalker - Part 3 and Endwalker - Part 4, plus updates to Somehow Further Hildibrand Adventures and Tataru's Grand Endeavor.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Multiple Instances for Old Sharlayan",
+      "description": "Implementation of multiple instances for the zone to prevent server congestion.",
+      "location": "Old Sharlayan",
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Imitation Magitek Repair Station (Wall Unit)",
+      "description": "Appearing as though it came straight from a Garlean castrum, one would be forgiven for attempting to maintain magitek armor with this repair station. * Not an actual repair station; cannot be used in the maintenance of magitek armor.",
+      "image_url": null
+    },
+    {
+      "name": "Imitation Magitek Repair Station (Floor Unit)",
+      "description": "Appearing as though it came straight from a Garlean castrum, one would be forgiven for attempting to maintain magitek armor with this repair station. * Not an actual repair station; cannot be used in the maintenance of magitek armor.",
+      "image_url": null
+    },
+    {
+      "name": "Labyrinthos Grape Lamppost",
+      "description": "Seeking to make grapes more transportable, a researcher at Meryall Agronomics is rumored to have produced a variety that grew in blocky clusters. Although complaints that they looked unappetizing led to a new strain with rounder edges, the original was regarded fondly by some, and so it was immortalized in the form of this lamppost.",
+      "image_url": null
+    },
+    {
+      "name": "Nursery Canopy",
+      "description": "Lounge like a highborn tot with this elegant and cozy nursery canopy.",
+      "image_url": null
+    },
+    {
+      "name": "Korpokkur Moss Ball",
+      "description": "So lifelike is this ornamental moss ball, it looks as though it could up and walk off at any moment, miniature tree and all.",
+      "image_url": null
+    },
+    {
+      "name": "Hyper Hustle Trophy",
+      "description": "A trophy that represents the power of teamwork, friendly competition, shared cuisine, hope, dreams, purpose...and batteries.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Majestic Manderville Sword Replica",
+      "description": "Gladiator's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Sword Matte Replica",
+      "description": "Gladiator's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Mandervillous Falchion Replica",
+      "description": "Gladiator's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Bardiche Replica",
+      "description": "Marauder's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Bardiche Matte Replica",
+      "description": "Marauder's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Mandervillous Battleaxe Replica",
+      "description": "Marauder's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Greatsword Replica",
+      "description": "Dark Knight's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Greatsword Matte Replica",
+      "description": "Dark Knight's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Mandervillous Greatsword Replica",
+      "description": "Dark Knight's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Bayonet Replica",
+      "description": "Gunbreaker's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Bayonet Matte Replica",
+      "description": "Gunbreaker's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Mandervillous Gunblade Replica",
+      "description": "Gunbreaker's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Replica Majestic Manderville Fists",
+      "description": "Pugilist's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Matte Replica Majestic Manderville Fists",
+      "description": "Pugilist's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Replica Mandervillous Fists",
+      "description": "Pugilist's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Spear Replica",
+      "description": "Lancer's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Spear Matte Replica",
+      "description": "Lancer's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Mandervillous Trident Replica",
+      "description": "Lancer's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Samurai Blade Replica",
+      "description": "Samurai's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Samurai Blade Matte Replica",
+      "description": "Samurai's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Mandervillous Samurai Blade Replica",
+      "description": "Samurai's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville War Scythe Replica",
+      "description": "Reaper's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville War Scythe Matte Replica",
+      "description": "Reaper's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Mandervillous Zaghnal Replica",
+      "description": "Reaper's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Replica Majestic Manderville Knives",
+      "description": "Rogue's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Matte Replica Majestic Manderville Knives",
+      "description": "Rogue's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Replica Mandervillous Knives",
+      "description": "Rogue's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Harp Bow Replica",
+      "description": "Archer's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Harp Bow Matte Replica",
+      "description": "Archer's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Mandervillous Compound Bow Replica",
+      "description": "Archer's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Pistol Replica",
+      "description": "Machinist's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Pistol Matte Replica",
+      "description": "Machinist's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Mandervillous Revolver Replica",
+      "description": "Machinist's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Replica Majestic Manderville Chakrams",
+      "description": "Dancer's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Matte Replica Majestic Manderville Chakrams",
+      "description": "Dancer's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Replica Mandervillous Chakrams",
+      "description": "Dancer's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Staff Replica",
+      "description": "Two-handed Thaumaturge's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Staff Matte Replica",
+      "description": "Two-handed Thaumaturge's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Mandervillous Rod Replica",
+      "description": "Two-handed Thaumaturge's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Index Replica",
+      "description": "Arcanist's Grimoire",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Index Matte Replica",
+      "description": "Arcanist's Grimoire",
+      "image_url": null
+    },
+    {
+      "name": "Mandervillous Index Replica",
+      "description": "Arcanist's Grimoire",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Degen Replica",
+      "description": "Red Mage's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Degen Matte Replica",
+      "description": "Red Mage's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Mandervillous Rapier Replica",
+      "description": "Red Mage's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Wand Replica",
+      "description": "Two-handed Conjurer's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Wand Matte Replica",
+      "description": "Two-handed Conjurer's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Mandervillous Cane Replica",
+      "description": "Two-handed Conjurer's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Codex Replica",
+      "description": "Scholar's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Codex Matte Replica",
+      "description": "Scholar's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Mandervillous Codex Replica",
+      "description": "Scholar's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Orrery Replica",
+      "description": "Astrologian's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Orrery Matte Replica",
+      "description": "Astrologian's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Mandervillous Torquetum Replica",
+      "description": "Astrologian's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Replica Majestic Manderville Wings",
+      "description": "Sage's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Matte Replica Majestic Manderville Wings",
+      "description": "Sage's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Replica Mandervillous Wings",
+      "description": "Sage's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Shield Replica",
+      "description": "Shield",
+      "image_url": null
+    },
+    {
+      "name": "Majestic Manderville Shield Matte Replica",
+      "description": "Shield",
+      "image_url": null
+    },
+    {
+      "name": "Mandervillous Kite Shield Replica",
+      "description": "Shield",
+      "image_url": null
+    },
+    {
+      "name": "Knapsack",
+      "description": "Miscellany: Research has proven that wearing a knapsack or similar greatly reduces the likelihood of being pestered with questions about how you can carry so many items. Use to acquire a knapsack.",
+      "image_url": null
+    },
+    {
+      "name": "Wayfarer's Barding",
+      "description": "Other: A suit of bespoke chocobo armor lovingly handcrafted by Tataru Taru.",
+      "image_url": null
+    }
+  ]
+}

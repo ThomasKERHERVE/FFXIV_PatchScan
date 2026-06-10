@@ -1,0 +1,362 @@
+{
+  "patch_title": "Patch 7.41 Notes",
+  "patch_date": "2026-02-03",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/fa89e48b03a6bf6deac50a23fdfc39f7df64fb2a/",
+  "jobs_pve": [
+    {
+      "job": "Summoner",
+      "changes": [
+        "Searing Flash: Potency has been increased from 600 to 700.",
+        "Umbral Impulse: Potency has been increased from 620 to 640.",
+        "Umbral Flare: Potency has been increased from 280 to 300.",
+        "Sunflare: Potency has been increased from 800 to 1,000."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Summoner",
+      "changes": [
+        "Searing Flash: Potency has been increased from 600 to 700.",
+        "Umbral Impulse: Potency has been increased from 620 to 640.",
+        "Umbral Flare: Potency has been increased from 280 to 300.",
+        "Sunflare: Potency has been increased from 800 to 1,000."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Cosmic Exploration Initiative",
+      "description": "An initiative for crafters and gatherers to explore the cosmos, specifically the destination Oizys.",
+      "location": "Oizys",
+      "npc_location": null
+    },
+    {
+      "name": "Mission of Gravity",
+      "description": "Cosmic exploration quest for Disciple of the Hand or Land.",
+      "location": "Phaenna",
+      "npc_location": "Searchingway (X:27.2 Y:13.8)"
+    },
+    {
+      "name": "Memory's Orbit",
+      "description": "Cosmic exploration quest for Disciple of the Hand or Land.",
+      "location": "Oizys",
+      "npc_location": "Searchingway (X:17.2 Y:22.8)"
+    },
+    {
+      "name": "A Manager's Prudence",
+      "description": "Cosmic exploration quest for Disciple of the Hand or Land.",
+      "location": "Oizys",
+      "npc_location": "Mumukko (X:18.2 Y:24.4)"
+    },
+    {
+      "name": "Terror along the Tracks",
+      "description": "Cosmic exploration quest for Disciple of the Hand or Land.",
+      "location": "Oizys",
+      "npc_location": "Cosmoliner Engineer (X:15.9 Y:24.0)"
+    },
+    {
+      "name": "A Manager's Power",
+      "description": "Cosmic exploration quest for Disciple of the Hand or Land.",
+      "location": "Oizys",
+      "npc_location": "Mumukko (X:18.2 Y:24.4)"
+    },
+    {
+      "name": "An Interstellar Field Trip",
+      "description": "Cosmic exploration quest for Disciple of the Hand or Land.",
+      "location": "Oizys",
+      "npc_location": "Theorizingway (X:17.5 Y:23.5)"
+    },
+    {
+      "name": "Timeworn Techniques",
+      "description": "Phantom weapon enhancement quest for Disciple of War or Magic.",
+      "location": "The Phantom Village",
+      "npc_location": "Lydirceil (X:6.6 Y:7.1)"
+    },
+    {
+      "name": "In Pursuit of Perfection",
+      "description": "Phantom weapon enhancement quest for Disciple of War or Magic.",
+      "location": "The Phantom Village",
+      "npc_location": "Lydirceil (X:6.6 Y:7.1)"
+    },
+    {
+      "name": "A Phantom Reborn",
+      "description": "Phantom weapon enhancement quest for Disciple of War or Magic.",
+      "location": "The Phantom Village",
+      "npc_location": "Lydirceil (X:6.6 Y:7.1)"
+    },
+    {
+      "name": "Oizys",
+      "description": "A new destination for the Cosmic Exploration Initiative.",
+      "location": "Cosmos",
+      "npc_location": null
+    },
+    {
+      "name": "Phantom Weapon Enhancement System",
+      "description": "A system for enhancing phantom weapons, requiring players to proceed using the same class/job used to accept the quest.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Starward Standings",
+      "description": "A ranking system for Oizys based on contributions to missions, mech ops, and projects.",
+      "location": "Oizys",
+      "npc_location": "Scanningway (X:18.2 Y:24.0)"
+    },
+    {
+      "name": "Artifact Search",
+      "description": "A new mission type using reconnaissance drones to locate artifacts on Oizys.",
+      "location": "Oizys",
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Cosmomodule Inner Wall",
+      "description": "An interior wall used in habitation modules constructed by the Cosmic Exploration Initiative.",
+      "image_url": null
+    },
+    {
+      "name": "Cosmomodule Flooring",
+      "description": "Floorboards used in habitation modules constructed by the Cosmic Exploration Initiative.",
+      "image_url": null
+    },
+    {
+      "name": "Cosmic Safety Lamp",
+      "description": "Outdoor Furnishing - Developed by the Cosmic Exploration Initiative, this lamp remains functional in even the most unstable of environs.",
+      "image_url": null
+    },
+    {
+      "name": "Cosmic Antenna",
+      "description": "Outdoor Furnishing - Developed by the Cosmic Exploration Initiative, this antenna emits a strong and stable signal without interruption.",
+      "image_url": null
+    },
+    {
+      "name": "Shady Cosmoshelter",
+      "description": "Outdoor Furnishing - Developed by the Cosmic Exploration Initiative, this roofed structure protects against falling objects as well as harmful rays of light.",
+      "image_url": null
+    },
+    {
+      "name": "Cosmic Storage Bench",
+      "description": "Furnishing - This futuristic bench features a concealed storage space for stowing all manner of cosmic clutter.",
+      "image_url": null
+    },
+    {
+      "name": "Imitation Cosmoportal",
+      "description": "Wall-mounted - An imitation window to the imitation stars.",
+      "image_url": null
+    },
+    {
+      "name": "Cosmomodule Floor Panel",
+      "description": "Rug - Pave the way to the future─or the floor of your own personal habitation module─with these sleek panels.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Phantom Sword Umbrae Replica",
+      "description": "Replica of the phantom sword.",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Bardiche Umbrae Replica",
+      "description": "Replica of the phantom bardiche.",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Guillotine Umbrae Replica",
+      "description": "Replica of the phantom guillotine.",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Bayonet Umbrae Replica",
+      "description": "Replica of the phantom bayonet.",
+      "image_url": null
+    },
+    {
+      "name": "Replica Phantom Knuckles Umbrae",
+      "description": "Replica of the phantom knuckles.",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Spear Umbrae Replica",
+      "description": "Replica of the phantom spear.",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Blade Umbrae Replica",
+      "description": "Replica of the phantom blade.",
+      "image_url": null
+    },
+    {
+      "name": "Phantom War Scythe Umbrae Replica",
+      "description": "Replica of the phantom war scythe.",
+      "image_url": null
+    },
+    {
+      "name": "Replica Phantom Cleavers Umbrae",
+      "description": "Replica of the phantom cleavers.",
+      "image_url": null
+    },
+    {
+      "name": "Replica Phantom Twinfangs Umbrae",
+      "description": "Replica of the phantom twinfangs.",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Harp Bow Umbrae Replica",
+      "description": "Replica of the phantom harp bow.",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Arquebus Umbrae Replica",
+      "description": "Replica of the phantom arquebus.",
+      "image_url": null
+    },
+    {
+      "name": "Replica Phantom Terpna Umbrae",
+      "description": "Replica of the phantom terpna.",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Staff Umbrae Replica",
+      "description": "Replica of the phantom staff.",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Index Umbrae Replica",
+      "description": "Replica of the phantom index.",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Rapier Umbrae Replica",
+      "description": "Replica of the phantom rapier.",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Flat Brush Umbrae Replica",
+      "description": "Replica of the phantom flat brush.",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Crook Umbrae Replica",
+      "description": "Replica of the phantom crook.",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Codex Umbrae Replica",
+      "description": "Replica of the phantom codex.",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Star Globe Umbrae Replica",
+      "description": "Replica of the phantom star globe.",
+      "image_url": null
+    },
+    {
+      "name": "Replica Phantom Pendulums Umbrae",
+      "description": "Replica of the phantom pendulums.",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Kite Shield Umbrae Replica",
+      "description": "Replica of the phantom kite shield.",
+      "image_url": null
+    },
+    {
+      "name": "Stellar Saw Replica",
+      "description": "Replica of the stellar saw.",
+      "image_url": null
+    },
+    {
+      "name": "Stellar Cross-pein Hammer Replica",
+      "description": "Replica of the stellar cross-pein hammer.",
+      "image_url": null
+    },
+    {
+      "name": "Stellar Raising Hammer Replica",
+      "description": "Replica of the stellar raising hammer.",
+      "image_url": null
+    },
+    {
+      "name": "Stellar Mallet Replica",
+      "description": "Replica of the stellar mallet.",
+      "image_url": null
+    },
+    {
+      "name": "Stellar Round Knife Replica",
+      "description": "Replica of the stellar round knife.",
+      "image_url": null
+    },
+    {
+      "name": "Stellar Needle Replica",
+      "description": "Replica of the stellar needle.",
+      "image_url": null
+    },
+    {
+      "name": "Stellar Alembic Replica",
+      "description": "Replica of the stellar alembic.",
+      "image_url": null
+    },
+    {
+      "name": "Stellar Frypan Replica",
+      "description": "Replica of the stellar frypan.",
+      "image_url": null
+    },
+    {
+      "name": "Stellar Pickaxe Replica",
+      "description": "Replica of the stellar pickaxe.",
+      "image_url": null
+    },
+    {
+      "name": "Stellar Hatchet Replica",
+      "description": "Replica of the stellar hatchet.",
+      "image_url": null
+    },
+    {
+      "name": "Stellar Fishing Rod Replica",
+      "description": "Replica of the stellar fishing rod.",
+      "image_url": null
+    },
+    {
+      "name": "Powersuit Helm",
+      "description": "Head piece of the powersuit set.",
+      "image_url": null
+    },
+    {
+      "name": "Star Admiral's Helm",
+      "description": "Head piece of the Star Admiral set.",
+      "image_url": null
+    },
+    {
+      "name": "Powersuit",
+      "description": "Body piece of the powersuit set.",
+      "image_url": null
+    },
+    {
+      "name": "Star Admiral's Coat",
+      "description": "Body piece of the Star Admiral set.",
+      "image_url": null
+    },
+    {
+      "name": "Star Admiral's Gloves",
+      "description": "Hand piece of the Star Admiral set.",
+      "image_url": null
+    },
+    {
+      "name": "Star Admiral's Trousers",
+      "description": "Leg piece of the Star Admiral set.",
+      "image_url": null
+    },
+    {
+      "name": "Star Admiral's Boots",
+      "description": "Foot piece of the Star Admiral set.",
+      "image_url": null
+    },
+    {
+      "name": "Cosmic Barding",
+      "description": "A suit of chocobo armor designed to resemble a cosmosuit.",
+      "image_url": null
+    }
+  ]
+}

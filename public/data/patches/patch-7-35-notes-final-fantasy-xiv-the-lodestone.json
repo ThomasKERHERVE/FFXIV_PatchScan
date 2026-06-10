@@ -1,0 +1,348 @@
+{
+  "patch_title": "Patch 7.35 Notes",
+  "patch_date": "2025-10-14",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/9d2cad7a1028016719060b5ae3caeb5e369c89e9/",
+  "jobs_pve": [],
+  "jobs_pvp": [
+    {
+      "job": "Warrior",
+      "changes": [
+        "Blota: Heavy effect duration has been reduced from 3 to 2 seconds."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Eventide: Minimum potency has been reduced from 12,000 to 8,000."
+      ]
+    },
+    {
+      "job": "Gunbreaker",
+      "changes": [
+        "Rough Divide: Maximum charges have been increased from 2 to 3."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Three Mudra: Charge time has been reduced from 16 to 15 seconds."
+      ]
+    },
+    {
+      "job": "Viper",
+      "changes": [
+        "World-swallower: Noxious Gnash effect duration has been increased from 10 to 12 seconds."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Slipstream: Potency has been increased from 8,000 to 9,000.",
+        "Slipstream: Damage over time potency has been increased from 4,000 to 4,500."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Afflatus Purgation: Potency has been increased from 16,000 to 18,000."
+      ]
+    },
+    {
+      "job": "Sage",
+      "changes": [
+        "Phlegma III: Bind effect duration has been decreased from 3 to 2 seconds."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Pilgrim's Traverse",
+      "description": "A new deep dungeon that challenges a party of one to four players with an ever-changing landscape filled with traps, monsters, and perils.",
+      "location": "Il Mheg",
+      "npc_location": "Vanthau (Il Mheg X:29.9 Y:6.0)"
+    },
+    {
+      "name": "The Windward Wilds",
+      "description": "An eight-player trial involving a battle with Guardian Arkveld.",
+      "location": "Tuliyollal",
+      "npc_location": "Dawn Hunt Tracker (Tuliyollal X:13.3 Y:13.1)"
+    },
+    {
+      "name": "The Windward Wilds (Extreme)",
+      "description": "A challenging eight-player version of the Windward Wilds trial accessed via the Raid Finder.",
+      "location": "Tuliyollal",
+      "npc_location": "Wandering Minstrel (Tuliyollal X:11.1 Y:14.6)"
+    },
+    {
+      "name": "The Final Verse",
+      "description": "A new duty boss fight that can be challenged after reaching floor 99 of Pilgrim's Traverse.",
+      "location": "Il Mheg",
+      "npc_location": "Vanthau (Il Mheg X:29.9 Y:6.0)"
+    },
+    {
+      "name": "The Final Verse (Quantum)",
+      "description": "A highly challenging duty implementing a new difficulty scaling system using sacramental offerings.",
+      "location": "Il Mheg",
+      "npc_location": "Vanthau (Il Mheg X:29.9 Y:6.0)"
+    },
+    {
+      "name": "Pilgrimage of Light",
+      "description": "Sidequest to unlock Pilgrim's Traverse.",
+      "location": "The Crystarium (X:10.3 Y:10.7)",
+      "npc_location": "Bright-eyed Child"
+    },
+    {
+      "name": "Bright-eyed Child",
+      "description": "Sidequest.",
+      "location": "The Crystarium (X:10.3 Y:10.7)",
+      "npc_location": "Bright-eyed Child"
+    },
+    {
+      "name": "Faerie Tale",
+      "description": "Sidequest.",
+      "location": "Il Mheg (X:29.8 Y:5.8)",
+      "npc_location": "Aenc Daen"
+    },
+    {
+      "name": "Inconceivably Further Hildibrand Adventures",
+      "description": "Quest series continuation.",
+      "location": "Solution Nine (X:17.0 Y:18.3)",
+      "npc_location": "Hardiboiled"
+    },
+    {
+      "name": "Frosty Neighbors",
+      "description": "Allied society quest to unlock Yok Huy daily quests.",
+      "location": "Urqopacha (X:32.1 Y:34.3)",
+      "npc_location": "Fahrafahr"
+    },
+    {
+      "name": "The White Wanderer",
+      "description": "Monster Hunter Wilds crossover quest.",
+      "location": "Tuliyollal (X:13.3 Y:13.1)",
+      "npc_location": "Dawn Hunt Tracker"
+    },
+    {
+      "name": "Quest Sync",
+      "description": "Automatic level adjustment system for allied society quests matching difficulty to player level.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Sacramental Offerings",
+      "description": "Special items required to challenge the Final Verse (Quantum) duty; choices affect boss behavior and difficulty.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Aetherpool Gear System",
+      "description": "An independent gear strengthening system used within deep dungeons to determine character attributes.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Yok Huy Society",
+      "description": "New allied society featuring main and daily quests.",
+      "location": "Urqopacha",
+      "npc_location": "Fahrafahr"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Wilds Pendant Lamp",
+      "description": "A pendant lamp inspired by tales of hunters from another world.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/L/EbtcXqPUGzsVYdi23FpUR25oH4.png"
+    },
+    {
+      "name": "Yok Huy Lantern",
+      "description": "A solemn stone lantern similar to those found flanking the steps of the Breathless Altar at Zirgorteh the Open-armed.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/_/45sv0DETIHyh_gl2FyLgD6kUJE.png"
+    },
+    {
+      "name": "Traverse Clocktower",
+      "description": "Crafted to resemble the clocktower awaiting adventurers who tread the furthest reaches of Pilgrim's Traverse, this timepiece makes an imposing, somewhat hypnotic addition to any garden.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/M/5T9l7AE_cSDlsD4EM4rjEQRgCE.png"
+    },
+    {
+      "name": "Traverse Tree",
+      "description": "Native to the environs of Pilgrim's Traverse, this bulbous arboreal bloom casts an otherworldly glow.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/v/oxRQz2cT8riqV5VLCu2-nADVkE.png"
+    },
+    {
+      "name": "Outdoor Hunter's Grill",
+      "description": "A portable grill used by hunters to cook raw meat and other ingredients.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/v/hyXqlwktN4v0EssRTzkbMf_7OQ.png"
+    },
+    {
+      "name": "Makeshift Camp",
+      "description": "A hastily assembled camp for the hunter who cares little and less for comfort.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/U/15QxPO___EcPlhMI9ydNRRxEY8.png"
+    },
+    {
+      "name": "Pop-up Camp",
+      "description": "A pop-up facility used by hunters on the go to quickly change equipment.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/E/8R4FrEQFMaGtRtuRNMU0nhfZ9c.png"
+    },
+    {
+      "name": "Hunter's Camp Chair",
+      "description": "A foldable seat employed by many a hunter in the field, and only in the field.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/i/OfvDbUY2NolZsL2r-nN_N8G6Sc.png"
+    },
+    {
+      "name": "Palanx Striking Dummy",
+      "description": "A striking dummy designed to resemble a stalwart Felyne friend.",
+      "image_url": null
+    },
+    {
+      "name": "Guardian Arkveld's Windward Plains Phasmascape",
+      "description": "This advanced magitek contraption displays a harrowing battle with the dread Guardian Arkveld.",
+      "image_url": null
+    },
+    {
+      "name": "Rey Dau's Windward Plains Phasmascape",
+      "description": "This advanced magitek contraption displays the wide, sweeping landscape of the Windward Plains.",
+      "image_url": null
+    },
+    {
+      "name": "Uth Duna's Scarlet Forest Phasmascape",
+      "description": "This advanced magitek contraption displays the tumultuous waters and woods of Uth Duna's Scarlet Forest.",
+      "image_url": null
+    },
+    {
+      "name": "Omega's Iceshard Cliffs Phasmascape",
+      "description": "This advanced magitek contraption displays the ultimate weapon, Omega, atop the Iceshard Cliffs.",
+      "image_url": null
+    },
+    {
+      "name": "Jin Dahaad's Iceshard Cliffs Phasmascape",
+      "description": "This advanced magitek contraption displays the serpentine menace, Jin Dahaad, atop the Iceshard Cliffs.",
+      "image_url": null
+    },
+    {
+      "name": "Nu Udra's Oilwell Basin Phasmascape",
+      "description": "This advanced magitek contraption displays the six-limbed terror, Nu Udra, in the sweltering heat of the Oilwell Basin.",
+      "image_url": null
+    },
+    {
+      "name": "Hunter's Lodge Chair",
+      "description": "A foldable seat employed by many a hunter at home, where its camp-specific cousin simply will not do.",
+      "image_url": null
+    },
+    {
+      "name": "Wilds Great Sword Stand",
+      "description": "A simple weapon stand bearing a crude but surprisingly powerful blade.",
+      "image_url": null
+    },
+    {
+      "name": "Indoor Hunter's Grill",
+      "description": "A simple grill used by particularly ravenous hunters who crave BBQ more than they fear suffocation by meat smoke in ill-ventilated lodges.",
+      "image_url": null
+    },
+    {
+      "name": "Lyhe Ghiah Stained Crystal Ornament",
+      "description": "An iridescent, intricately detailed wall ornament modeled after the windows that adorn the twinkling edifice of Lyhe Ghiah.",
+      "image_url": null
+    },
+    {
+      "name": "Wilds Banner",
+      "description": "A banner said to be adored by hunters of another world.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Fuath Plumed Hat",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Hope Mask [M]",
+      "description": "Head glamour item (Male).",
+      "image_url": null
+    },
+    {
+      "name": "Hope Visor [F]",
+      "description": "Head glamour item (Female).",
+      "image_url": null
+    },
+    {
+      "name": "Fuath Swallowtail",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Hope Mail [M]",
+      "description": "Body glamour item (Male).",
+      "image_url": null
+    },
+    {
+      "name": "Hope Mail [F]",
+      "description": "Body glamour item (Female).",
+      "image_url": null
+    },
+    {
+      "name": "Fuath Dress Gloves",
+      "description": "Hands glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Hope Vambraces [M]",
+      "description": "Hands glamour item (Male).",
+      "image_url": null
+    },
+    {
+      "name": "Hope Vambraces [F]",
+      "description": "Hands glamour item (Female).",
+      "image_url": null
+    },
+    {
+      "name": "Fuath Pantaloons",
+      "description": "Legs glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Hope Coil [M]",
+      "description": "Legs glamour item (Male).",
+      "image_url": null
+    },
+    {
+      "name": "Hope Coil [F]",
+      "description": "Legs glamour item (Female).",
+      "image_url": null
+    },
+    {
+      "name": "Fuath Dress Shoes",
+      "description": "Feet glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Hope Greaves [M]",
+      "description": "Feet glamour item (Male).",
+      "image_url": null
+    },
+    {
+      "name": "Hope Greaves [F]",
+      "description": "Feet glamour item (Female).",
+      "image_url": null
+    },
+    {
+      "name": "Earrings of the First Light",
+      "description": "Earrings glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Necklace of the First Light",
+      "description": "Necklace glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Bangles of the First Light",
+      "description": "Bracelets glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Ring of the First Light",
+      "description": "Ring glamour item.",
+      "image_url": null
+    }
+  ]
+}

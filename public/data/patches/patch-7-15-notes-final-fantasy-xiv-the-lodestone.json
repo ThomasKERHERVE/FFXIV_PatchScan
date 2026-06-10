@@ -1,0 +1,502 @@
+{
+  "patch_title": "Patch 7.15 Notes",
+  "patch_date": "2024-12-24",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/864c7e51128b7a1dced4e193dcaefe7891620f8d/",
+  "jobs_pve": [],
+  "jobs_pvp": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Guardian: Recast time has been increased from 24 to 30 seconds.",
+        "Holy Sheltron: Increase to damage dealt from Sword Oath has been increased from 10% to 15%.",
+        "Holy Sheltron: Reduction to damage taken from Shield Oath has been reduced from 20% to 15%."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Wind's Reply: Duration of increased movement speed effect has been increased from 3 to 4 seconds.",
+        "Wind's Reply: Potency of additional damage dealt by Pressure Point has been increased from 8,000 to 10,000.",
+        "Earth's Reply: Potency has been increased from 2,000 plus 25% of compiled damage to 3,000 plus 25% of compiled damage.",
+        "Earth's Reply: Cure potency has been increased from 4,000 plus 50% of compiled damage to 6,000 plus 50% of compiled damage."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "High Jump: Potency has been increased from 4,000 to 6,000.",
+        "Starcross: Potency has been increased from 10,000 to 12,000."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Hissatsu: Chiten: Potency of counter attacks has been reduced from 6,000 to 4,000.",
+        "Hissatsu: Soten: Potency has been reduced from 4,000 to 3,000.",
+        "Zanshin: Potency has been reduced from 6,000 to 5,000."
+      ]
+    },
+    {
+      "job": "Viper",
+      "changes": [
+        "Rattling Coil: Recast time has been reduced from 60 to 45 seconds.",
+        "Rattling Coil: Recast time reduction upon earning a kill or an assist has been increased from 10 to 15 seconds.",
+        "Uncoiled Twinfang: Recast time has been reduced from 1 to 0.7 seconds.",
+        "Uncoiled Twinblood: Recast time has been reduced from 1 to 0.7 seconds.",
+        "World-swallower: Increase to damage dealt from Noxious Gnash effect has been increased from 20% to 25%."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Repelling Shot: Potency has been increased from 4,000 to 4,500.",
+        "Pitch Perfect: Potency for the first enemy has been increased from 8,000 to 9,000.",
+        "Pitch Perfect: Potency for enemies after the first has been increased from 4,000 to 4,500."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Drill: Potency has been increased from 8,000 to 9,000."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Paradox: Potency has been increased from 6,000 to 9,000.",
+        "Xenoglossy: The additional effect \"Absorbs 50% of damage dealt as HP\" has been added."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Radiant Aegis: Reduction to damage taken has been increased from 20% to 25%."
+      ]
+    },
+    {
+      "job": "Pictomancer",
+      "changes": [
+        "Tempera Coat: Recast time has been reduced from 24 to 20 seconds.",
+        "Tempera Coat: Reduction to recast time when barrier is completely absorbed has been reduced from 8 seconds to 5 seconds.",
+        "Tempera Grassa: Reduction to recast time when barrier is completely absorbed has been reduced from 8 seconds to 5 seconds.",
+        "Star Prism: Effect duration has been increased from 10 to 15 seconds."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Biolysis: Damage over time potency has been increased from 2,000 to 3,000.",
+        "Biolysis: Potency increase when under the effect of Recitation has been reduced from doubled to 50%.",
+        "Chain Stratagem: Effect duration has been increased from 6 to 10 seconds.",
+        "Seraphic Halo: Potency has been increased from 8,000 to 9,000."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Aspected Benefic: Healing over time potency of Diurnal Benefic has been reduced from 4,000 to 3,000.",
+        "Gravity II: Potency has been reduced from 8,000 to 7,500.",
+        "Gravity II: Heavy effect duration has been increased from 2 to 3 seconds.",
+        "Gravity II: Additional effect now only applies to first target.",
+        "Gravity II (When executed after Double Cast): Potency has been reduced from 8,000 to 7,500.",
+        "Gravity II (When executed after Double Cast): Additional effect has been changed from Heavy to Bind.",
+        "Gravity II (When executed after Double Cast): Additional effect now only applies to first target.",
+        "Minor Arcana: Effect duration has been reduced from 20 to 10 seconds.",
+        "Epicycle: Barrier effect duration has been reduced from 10 to 5 seconds."
+      ]
+    },
+    {
+      "job": "Sage",
+      "changes": [
+        "Pneuma: Barrier strength has been increased from a heal potency of 3,000 to 4,000.",
+        "Pneuma: Cure potency of the healing effect applied when Haimatinon expires has been increased from 3,000 per remaining stack of Haimatinon to 4,000 per remaining stack of Haimatinon.",
+        "Eukrasia: Recast time has been reduced from 16 to 12 seconds.",
+        "Psyche: Potency has been increased from 10,000 to 12,000.",
+        "Toxikon II: Potency for enemies after the first has been increased from 2,000 to 4,000."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Cloud of Darkness (Chaotic)",
+      "description": "A new alliance raid designed for 24 players.",
+      "location": null,
+      "npc_location": "Tuliyollal (X:11.1 Y:14.6)"
+    },
+    {
+      "name": "Appreciated Value",
+      "description": "New class quests for Disciples of the Hand or Land level 100.",
+      "location": "Tuliyollal (X:16.1 Y:11.1)",
+      "npc_location": "Ropli"
+    },
+    {
+      "name": "Inconceivably Further Hildibrand Adventures",
+      "description": "New side story quest line titled 'The Case of the Displaced Inspector'.",
+      "location": "Tuliyollal (X:14.5 Y:12.5)",
+      "npc_location": "Nashu Mhakaracca"
+    },
+    {
+      "name": "Laying New Tracks",
+      "description": "New custom deliveries quest featuring Nitowikwe.",
+      "location": "Tuliyollal (X:14.1 Y:12.1)",
+      "npc_location": "Railroad Employee"
+    },
+    {
+      "name": "Custom Deliveries",
+      "description": "A system where players can deliver items to Nitowikwe for rewards such as gil, experience, and scrips.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Raid Finder",
+      "description": "The mandatory system used to register and enter the Cloud of Darkness (Chaotic) raid.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Stone, Sky, Sea",
+      "description": "Combat training challenge system, now including Cloud of Darkness (Chaotic).",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Ihuykatumu Flower Plot",
+      "description": "You don't know the name of these grotto flowers, but looking at them makes you feel a bit drowsie. ※Up to ten flower plots may be placed in a single garden, regardless of type.",
+      "image_url": null
+    },
+    {
+      "name": "Zormor Stone Lantern",
+      "description": "Since olden times, this lantern has illuminated the rocky mountain path at the Summit of Zor─but no more.",
+      "image_url": null
+    },
+    {
+      "name": "Electrope Turret",
+      "description": "As formidable as it looks, it's merely a lawn decoration─but your neighbors don't need to know that.",
+      "image_url": null
+    },
+    {
+      "name": "Lesser Pillar of Tural",
+      "description": "Recovered from Xak Turali ruins, this statue depicts an urn containing a serpentine entity of diminutive size.",
+      "image_url": null
+    },
+    {
+      "name": "Origenics Chair",
+      "description": "This office chair was designed to facilitate hours of soul-sucking work.",
+      "image_url": null
+    },
+    {
+      "name": "Origenics Monitor Desk",
+      "description": "A spacious work desk taken from a storage room in the soul processing division. Additional monitors not included.",
+      "image_url": null
+    },
+    {
+      "name": "Skydeep Lamp",
+      "description": "Recovered from the Skydeep Cenote's innermost chamber, this lamp gives any room an ethereal purple tinge.",
+      "image_url": null
+    },
+    {
+      "name": "Wachumeqimeqi Balloon",
+      "description": "Add intrigue to your abode with a little piece of the Wachumeqimeqi Appreciation Sale.",
+      "image_url": null
+    },
+    {
+      "name": "Paladin Display Crystal",
+      "description": "Designed for those who take great pride in their work, this purely decorative crystal bespeaks enthusiastic commitment to the path of the paladin.",
+      "image_url": null
+    },
+    {
+      "name": "Warrior Display Crystal",
+      "description": "Designed for those who take great pride in their work, this purely decorative crystal bespeaks enthusiastic commitment to the path of the warrior.",
+      "image_url": null
+    },
+    {
+      "name": "Monk Display Crystal",
+      "description": "Designed for those who take great pride in their work, this purely decorative crystal bespeaks enthusiastic commitment to the path of the monk.",
+      "image_url": null
+    },
+    {
+      "name": "Dragoon Display Crystal",
+      "description": "Designed for those who take great pride in their work, this purely decorative crystal bespeaks enthusiastic commitment to the path of the dragoon.",
+      "image_url": null
+    },
+    {
+      "name": "Ninja Display Crystal",
+      "description": "Designed for those who take great pride in their work, this purely decorative crystal bespeaks enthusiastic commitment to the path of the ninja.",
+      "image_url": null
+    },
+    {
+      "name": "Bard Display Crystal",
+      "description": "Designed for those who take great pride in their work, this purely decorative crystal bespeaks enthusiastic commitment to the path of the bard.",
+      "image_url": null
+    },
+    {
+      "name": "Black Mage Display Crystal",
+      "description": "Designed for those who take great pride in their work, this purely decorative crystal bespeaks enthusiastic commitment to the path of the black mage.",
+      "image_url": null
+    },
+    {
+      "name": "Summoner Display Crystal",
+      "description": "Designed for those who take great pride in their work, this purely decorative crystal bespeaks enthusiastic commitment to the path of the summoner.",
+      "image_url": null
+    },
+    {
+      "name": "White Mage Display Crystal",
+      "description": "Designed for those who take great pride in their work, this purely decorative crystal bespeaks enthusiastic commitment to the path of the white mage.",
+      "image_url": null
+    },
+    {
+      "name": "Scholar Display Crystal",
+      "description": "Designed for those who take great pride in their work, this purely decorative crystal bespeaks enthusiastic commitment to the path of the scholar.",
+      "image_url": null
+    },
+    {
+      "name": "Strayborough Wall Lamp",
+      "description": "The eerie glow of this three-light fixture brings to mind a haunted mansion.",
+      "image_url": null
+    },
+    {
+      "name": "Traumerei Floor Stencil",
+      "description": "This whimsical floor stencil depicts a decidedly cuter interpretation of the Lord of Nightmares.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Dawnblazer Hat",
+      "description": "Head piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Helm of Fending",
+      "description": "Head piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Helm of Maiming",
+      "description": "Head piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Headplume of Striking",
+      "description": "Head piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Headplume of Aiming",
+      "description": "Head piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Headplume of Scouting",
+      "description": "Head piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Horns of Casting",
+      "description": "Head piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Horns of Healing",
+      "description": "Head piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Dawnblazer Jerkin",
+      "description": "Body piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Armor of Fending",
+      "description": "Body piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Armor of Maiming",
+      "description": "Body piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Chiton of Striking",
+      "description": "Body piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Cloak of Aiming",
+      "description": "Body piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Chiton of Scouting",
+      "description": "Body piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Top of Casting",
+      "description": "Body piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Top of Healing",
+      "description": "Body piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Dawnblazer Gloves",
+      "description": "Hands piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Gauntlets of Fending",
+      "description": "Hands piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Gauntlets of Maiming",
+      "description": "Hands piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Clawtips of Striking",
+      "description": "Hands piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Clawtips of Aiming",
+      "description": "Hands piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Clawtips of Scouting",
+      "description": "Hands piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Gauntlets of Casting",
+      "description": "Hands piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Gauntlets of Healing",
+      "description": "Hands piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Dawnblazer Chaps",
+      "description": "Legs piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Cuisses of Fending",
+      "description": "Legs piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Cuisses of Maiming",
+      "description": "Legs piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Tights of Striking",
+      "description": "Legs piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Tights of Aiming",
+      "description": "Legs piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Tights of Scouting",
+      "description": "Legs piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Brais of Casting",
+      "description": "Legs piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Brais of Healing",
+      "description": "Legs piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Dawnblazer Boots",
+      "description": "Feet piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Greaves of Fending",
+      "description": "Feet piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Greaves of Maiming",
+      "description": "Feet piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Sollerets of Striking",
+      "description": "Feet piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Sollerets of Aiming",
+      "description": "Feet piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Sollerets of Scouting",
+      "description": "Feet piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Clawboots of Casting",
+      "description": "Feet piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Clawboots of Healing",
+      "description": "Feet piece, Item Level: 730 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Dawnblazer Attire Coffer",
+      "description": "A banded chest containing a complete set of Dawnblazer attire.",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Head Gear Coffer (IL 730)",
+      "description": "A tenebrous chest containing a piece of clouddark attire.",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Chest Gear Coffer (IL 730)",
+      "description": "A tenebrous chest containing a piece of clouddark attire.",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Hand Gear Coffer (IL 730)",
+      "description": "A tenebrous chest containing a piece of clouddark attire.",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Leg Gear Coffer (IL 730)",
+      "description": "A tenebrous chest containing a piece of clouddark attire.",
+      "image_url": null
+    },
+    {
+      "name": "Clouddark Foot Gear Coffer (IL 730)",
+      "description": "A tenebrous chest containing a piece of clouddark attire.",
+      "image_url": null
+    },
+    {
+      "name": "Shroud of Darkness",
+      "description": "Envelop yourself in this sliver of the Cloud of Darkness's raiment.",
+      "image_url": null
+    }
+  ]
+}

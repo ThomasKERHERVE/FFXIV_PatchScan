@@ -1,0 +1,200 @@
+{
+  "patch_title": "Patch 6.25",
+  "patch_date": "2022-10-25",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/0210a35806ead4c80482b12a3edd9eb5e4db5bb0/",
+  "jobs_pve": [],
+  "jobs_pvp": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Guardian will no longer have an effect on targets interacting with an object."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Resolved an issue wherein the Undead Redemption status effect granted by the action Eventide prohibited movement under certain conditions."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Somehow Further Hildibrand Adventures",
+      "description": "New side story quests.",
+      "location": "Radz-at-Han (X:11.8 Y:11.2)",
+      "npc_location": "Nashu Mhakaracca"
+    },
+    {
+      "name": "Lunar Conspiracy",
+      "description": "Side story quest.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Imperfect Gentleman",
+      "description": "Side story quest.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Make It a Manderville",
+      "description": "Quest to obtain Manderville weapons.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "A Key to the Past",
+      "description": "Quest to unlock the variant dungeon.",
+      "location": "Old Sharlayan (X:12.0 Y:13.3)",
+      "npc_location": "Shallow Moor"
+    },
+    {
+      "name": "The Café at the End of the Universe",
+      "description": "Omicron tribal main quest.",
+      "location": "Ultima Thule (X:25.4 Y:26.3)",
+      "npc_location": "Jammingway"
+    },
+    {
+      "name": "Sil'dihn Subterrane",
+      "description": "Variant dungeon where players explore various routes in underground waterways.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Another Sil'dihn Subterrane",
+      "description": "Criterion dungeon designed for a party of 1 tank, 1 healer, and 2 DPS.",
+      "location": null,
+      "npc_location": "Osmon (Old Sharlayan X:11.9 Y:13.3)"
+    },
+    {
+      "name": "Another Sil'dihn Subterrane (Savage)",
+      "description": "High-difficulty version of the criterion dungeon.",
+      "location": null,
+      "npc_location": "Osmon (Old Sharlayan X:11.9 Y:13.3)"
+    },
+    {
+      "name": "Manderville Weapons",
+      "description": "New weapon progression system.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Omicron Tribal Quests",
+      "description": "Tribal quests involving gathering and daily tasks.",
+      "location": "Ultima Thule (X:27.7 Y:24.7)",
+      "npc_location": null
+    },
+    {
+      "name": "Quest Sync",
+      "description": "Automatic level adjustment system for tribal quests.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Variant Actions",
+      "description": "Special abilities that allow for greater freedom of role choices in variant dungeons.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "V&C Dungeon Finder",
+      "description": "New system for registering to variant and criterion dungeons.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Blooming Garden Table",
+      "description": "Bask in the beauty of spring year-round with this quaint outdoor table.",
+      "image_url": null
+    },
+    {
+      "name": "Sil'dihn Chair",
+      "description": "A wooden chair crafted in the Sil'dihn style.",
+      "image_url": null
+    },
+    {
+      "name": "Sil'dihn Kitchen Shelf",
+      "description": "A Sil'dihn-style shelving unit for storing kitchenware and utensils.",
+      "image_url": null
+    },
+    {
+      "name": "Sharlayan Chair",
+      "description": "A dignified chair for the dignified arse.",
+      "image_url": null
+    },
+    {
+      "name": "Enigma Partition",
+      "description": "A partition devised by the Illuminati, replete with whirlycogs.",
+      "image_url": null
+    },
+    {
+      "name": "Sil'dihn Side Table",
+      "description": "A small table crafted in the Sil'dihn style.",
+      "image_url": null
+    },
+    {
+      "name": "Sharlayan Desk",
+      "description": "A scholarly furnishing of the pretenti─er, elegant Sharlayan style.",
+      "image_url": null
+    },
+    {
+      "name": "Sharlayan Sink",
+      "description": "A large washbasin of the sort popular in the Northern Empty.",
+      "image_url": null
+    },
+    {
+      "name": "Dragonstar aux Marrons",
+      "description": "An ode to the Dragonstar, in dessert form. Fittingly, perhaps, this edible delight is a reimagining of the Sohm Al tart.",
+      "image_url": null
+    },
+    {
+      "name": "Sil'dihn Banner",
+      "description": "A striking banner emblazoned with the symbol of the once-prosperous city-state of Sil'dih.",
+      "image_url": null
+    },
+    {
+      "name": "Tatami Loft",
+      "description": "An elegant space perfect for tea, repose, or risking one's life while playing karuta.",
+      "image_url": null
+    },
+    {
+      "name": "Sharlayan Rug",
+      "description": "A large rug bearing a swirling Sharlayan motif.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Noir Hat",
+      "description": "Head, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Noir Longcoat",
+      "description": "Body, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Noir Leather Gloves",
+      "description": "Hands, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Noir Slacks",
+      "description": "Legs, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Noir Shoes",
+      "description": "Feet, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Sabotender Parasol",
+      "description": "Equipped with this accessory, none shall prevent you twirling to your heart's delight─or else. Use to acquire a sabotender parasol.",
+      "image_url": null
+    }
+  ]
+}

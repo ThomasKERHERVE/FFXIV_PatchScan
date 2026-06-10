@@ -1,0 +1,88 @@
+{
+  "patch_title": "Patch 6.21 Notes",
+  "patch_date": "2022-09-16",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/3740d2052d6f21aa5d3b8d4cc94795a082fca0f6/",
+  "jobs_pve": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Holy Spirit: Potency has been increased from 280 to 300.",
+        "Requiescat potency has been increased from 560 to 600.",
+        "Confiteor: Potency has been increased from 900 to 1,000.",
+        "Expiacion: Potency has been increased from 340 to 420.",
+        "Blade of Faith: Potency has been increased from 460 to 480.",
+        "Blade of Truth: Potency has been increased from 540 to 560."
+      ]
+    },
+    {
+      "job": "Marauder / Warrior",
+      "changes": [
+        "Storm's Path: Potency has been increased from 130 to 150.",
+        "Storm's Path: Combo potency has been increased from 410 to 430.",
+        "Storm's Eye: Potency has been increased from 130 to 150.",
+        "Storm's Eye: Combo potency has been increased from 410 to 430.",
+        "Fell Cleave: Potency has been increased from 460 to 470.",
+        "Upheaval: Potency has been increased from 350 to 360."
+      ]
+    }
+  ],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Variant dungeons",
+      "description": "Content scheduled to be released in Patch 6.25.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Criterion dungeons",
+      "description": "Content scheduled to be released in Patch 6.25.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Pandæmonium: Asphodelos (Savage)",
+      "description": "Players will now receive the power of the Echo, increasing maximum HP, damage dealt, and healing potency by 10%.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Abyssos: The Eighth Circle (Savage)",
+      "description": "The HP of Hephaistos has been reduced in both phases of the battle.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Manderville weapon quests",
+      "description": "Content scheduled to be released in Patch 6.25.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Omicron tribal quests",
+      "description": "Content scheduled to be released in Patch 6.25.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Island sanctuary",
+      "description": "A system where various issues regarding animal appearances, pasture placement, workshop and granary functionality, and achievement acquisition were resolved.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Pendant Wall Light",
+      "description": "The illumination of the Pendant Wall Light furnishing has been adjusted.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Isle Farmhand's Boots",
+      "description": "Gear item mentioned in the resolved issues section regarding display errors.",
+      "image_url": null
+    }
+  ]
+}

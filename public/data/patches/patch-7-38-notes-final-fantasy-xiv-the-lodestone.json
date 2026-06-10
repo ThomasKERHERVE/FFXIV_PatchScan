@@ -1,0 +1,83 @@
+{
+  "patch_title": "Patch 7.38 Notes",
+  "patch_date": "2026-06-10",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/85a6675e2d561446784faae5a43fac4af65554f1/",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "AAC Cruiserweight Tier (Savage)",
+      "description": "High-difficulty raid tier with removed weekly restrictions, entry requirements, and reward limitations.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "AAC Cruiserweight M4",
+      "description": "Raid encounter with removed weekly restrictions on Cruiser Holosabers.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Royal City of Rabanastre",
+      "description": "Raid instance updated with a reward added to shared treasure coffers.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Ridorana Lighthouse",
+      "description": "Raid instance updated with a reward added to shared treasure coffers.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Orbonne Monastery",
+      "description": "Raid instance updated with a reward added to shared treasure coffers.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Pilgrim's Traverse",
+      "description": "Duty/System updated to resolve issues with Pomanders of Steel and status effects.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Final Verse",
+      "description": "Duty/System updated to address timer and party finder issues.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Final Verse (Quantum)",
+      "description": "Duty/System updated to address boss action, timer, and party finder issues.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Cosmic Exploration",
+      "description": "Feature updated to correct fishing stellar missions on Phaenna.",
+      "location": "Phaenna",
+      "npc_location": null
+    },
+    {
+      "name": "Upgrading Equipment",
+      "description": "System for enhancing gear purchased with Allagan tomestones of mathematics.",
+      "location": "Solution Nine",
+      "npc_location": "Theone (X:8.5 Y:13.6)"
+    },
+    {
+      "name": "Equipment Exchange Vendor",
+      "description": "Vendor for acquiring Evercharged Ester using coins.",
+      "location": "Solution Nine",
+      "npc_location": "Uah'shepya (X:8.7 Y:13.5)"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Legends of Ivalice",
+      "description": "A masterfully rendered oil depiction of legendary Ivalician figures from a tumultuous age.",
+      "image_url": null
+    }
+  ],
+  "glamour": []
+}

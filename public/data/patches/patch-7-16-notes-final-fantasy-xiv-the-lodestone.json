@@ -1,0 +1,253 @@
+{
+  "patch_title": "Patch 7.16 Notes",
+  "patch_date": "2026-06-10",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/5cf11b096edd33c679bd29894d7e1972ed22c350/",
+  "jobs_pve": [],
+  "jobs_pvp": [
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Eventide: Potency has been increased from 8,000-16,000 to 10,000-20,000.",
+        "Impalement: The time between action execution and effect activation has been shortened.",
+        "Salted Earth: The time between action execution and effect activation has been shortened."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Doton: Reduction to damage taken has been reduced from 25% to 20%.",
+        "Dokumori: The time between action execution and effect activation has been shortened.",
+        "Forked Raiju: The time between action execution and effect activation has been shortened.",
+        "Fleeting Raiju: The time between action execution and effect activation has been shortened."
+      ]
+    },
+    {
+      "job": "Viper",
+      "changes": [
+        "First Generation: Potency has been increased from 6,000 to 8,000.",
+        "Second Generation: Potency has been increased from 6,000 to 8,000.",
+        "Third Generation: Potency has been increased from 6,000 to 8,000.",
+        "Fourth Generation: Potency has been increased from 6,000 to 8,000.",
+        "World-swallower: The time between action execution and effect activation has been shortened."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Full Metal Field: Potency has been increased from 8,000 to 10,000; Recast time has been reduced from 32 to 30 seconds.",
+        "Marksman's Spite: The time between action execution and effect activation has been shortened."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Burst: Potency has been increased from 12,000 to 15,000; Barrier strength has been increased from a heal potency of 12,000 to 15,000; The time between action execution and effect activation has been shortened."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Mountain Buster: Potency has been increased from 10,000 to 12,000; The time between action execution and effect activation has been shortened.",
+        "Slipstream: Additional effect that increases movement speed by 25% on allies now also applies to self."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Glare III: The text 'Action changes to Glare IV when under the effect of Sacred Sight' has been added.",
+        "Seraph Strike: The text 'Action changes to Glare IV upon execution' has been removed.",
+        "Afflatus Purgation: Healing over time potency of Temperance has been reduced from 6,000 to 4,000; The time between action execution and effect activation has been shortened.",
+        "Glare IV: Potency has been increased from 8,000 to 9,000."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Summon Seraph: Recovery via healing actions granted by the effect Seraphic Illumination has been reduced from 20% to 10%."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Microcosmos: HP recovered at the time of execution has been reduced from a cure of 5,000 potency plus 25% of compiled damage to a cure of 4,000 potency plus 20% of compiled damage.",
+        "Gravity II: The time between action execution and effect activation has been shortened.",
+        "Oracle: The time between action execution and effect activation has been shortened."
+      ]
+    },
+    {
+      "job": "Paladin",
+      "changes": [
+        "Shield Smite: The time between action execution and effect activation has been shortened.",
+        "Intervene: The time between action execution and effect activation has been shortened."
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "Primal Rend: The time between action execution and effect activation has been shortened.",
+        "Onslaught: The time between action execution and effect activation has been shortened.",
+        "Orogeny: The time between action execution and effect activation has been shortened.",
+        "Chaotic Cyclone: The time between action execution and effect activation has been shortened.",
+        "Primal Wrath: The time between action execution and effect activation has been shortened.",
+        "Primal Scream: The time between action execution and effect activation has been shortened."
+      ]
+    },
+    {
+      "job": "Gunbreaker",
+      "changes": [
+        "Fated Circle: The time between action execution and effect activation has been shortened.",
+        "Fated Brand: The time between action execution and effect activation has been shortened.",
+        "Terminal Trigger: The time between action execution and effect activation has been shortened."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Dragon Kick: The time between action execution and effect activation has been shortened.",
+        "Demolish: The time between action execution and effect activation has been shortened.",
+        "Leaping Opo: The time between action execution and effect activation has been shortened.",
+        "Phantom Rush: The time between action execution and effect activation has been shortened.",
+        "Wind's Reply: The time between action execution and effect activation has been shortened.",
+        "Rising Phoenix: The time between action execution and effect activation has been shortened.",
+        "Earth's Reply: The time between action execution and effect activation has been shortened."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Wyrmwind Thrust: The time between action execution and effect activation has been shortened.",
+        "Sky Shatter: The time between action execution and effect activation has been shortened."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Mineuchi: The time between action execution and effect activation has been shortened.",
+        "Hyosetsu: The time between action execution and effect activation has been shortened.",
+        "Mangetsu: The time between action execution and effect activation has been shortened.",
+        "Oka: The time between action execution and effect activation has been shortened.",
+        "Kaeshi: Namikiri: The time between action execution and effect activation has been shortened.",
+        "Tendo Setsugekka: The time between action execution and effect activation has been shortened.",
+        "Tendo Kaeshi Setsugekka: The time between action execution and effect activation has been shortened.",
+        "Zantetsuken: The time between action execution and effect activation has been shortened."
+      ]
+    },
+    {
+      "job": "Reaper",
+      "changes": [
+        "Lemure's Scythe: The time between action execution and effect activation has been shortened.",
+        "Tenebrae Lemurum: The time between action execution and effect activation has been shortened."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Silent Nocturne: The time between action execution and effect activation has been shortened.",
+        "Repelling Shot: The time between action execution and effect activation has been shortened."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Vice of Thorns: The time between action execution and effect activation has been shortened."
+      ]
+    },
+    {
+      "job": "Pictomancer",
+      "changes": [
+        "Clawed Muse: The time between action execution and effect activation has been shortened.",
+        "Retribution of the Madeen: The time between action execution and effect activation has been shortened."
+      ]
+    },
+    {
+      "job": "Sage",
+      "changes": [
+        "Phlegma III: The time between action execution and effect activation has been shortened.",
+        "Psyche: The time between action execution and effect activation has been shortened."
+      ]
+    },
+    {
+      "job": "All Jobs",
+      "changes": [
+        "Recuperate: The time between action execution and effect activation has been shortened.",
+        "Purify: The time between action execution and effect activation has been shortened."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Picking Up the Torch",
+      "description": "Role quest for Disciple of War or Magic level 100.",
+      "location": "Tuliyollal",
+      "npc_location": "Tuliyollal (X:12.3 Y:14.6) - Rral Majun"
+    },
+    {
+      "name": "??? (Role Quest 2)",
+      "description": "Role quest for Disciple of War or Magic level 100.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "??? (Role Quest 3)",
+      "description": "Role quest for Disciple of War or Magic level 100.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "??? (Role Quest 4)",
+      "description": "Role quest for Disciple of War or Magic level 100.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Crystalline Conflict Season Thirteen",
+      "description": "The latest season of the PvP Crystalline Conflict mode.",
+      "location": "Wolves' Den Pier",
+      "npc_location": "Seasonal Quartermaster (X:4.9 Y:5.7)"
+    },
+    {
+      "name": "New Game+ Chapters",
+      "description": "New chapters added to the New Game+ system.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Role Master Quests (Dawntrail)",
+      "description": "Additional side story quests.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Orchestrion Roll",
+      "description": "Addition of the Bright Bustle orchestrion roll.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "New Emote",
+      "description": "A new emote added to the game.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Text Commands",
+      "description": "Addition of /poseoftheunbound and /unbound commands.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Bright Bustle Orchestrion Roll",
+      "description": "Music roll for Bright Bustle. Use to add to your orchestrion list.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "ex-arch's jacket",
+      "description": "An item mentioned in the Resolved Issues section regarding incorrect graphics for certain races.",
+      "image_url": null
+    }
+  ]
+}

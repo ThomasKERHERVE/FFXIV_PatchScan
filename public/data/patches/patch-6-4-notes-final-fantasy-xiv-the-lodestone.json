@@ -1,0 +1,631 @@
+{
+  "patch_title": "Patch 6.4 Notes",
+  "patch_date": "2023-06-06",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/7533e7a9b6b72d8e5aad3c1e7c4247967b3ee196/",
+  "jobs_pve": [
+    {
+      "job": "Gladiator / Paladin",
+      "changes": [
+        "Riot Blade potency increased from 120 to 140; combo potency increased from 280 to 300.",
+        "Circle of Scorn potency increased from 100 to 120.",
+        "Divine Veil effect radius increased from 15 to 30 yalms.",
+        "Royal Authority potency increased from 120 to 140; combo potency increased from 380 to 400.",
+        "Atonement potency increased from 380 to 400; execution no longer interrupts action combos."
+      ]
+    },
+    {
+      "job": "Marauder / Warrior",
+      "changes": [
+        "Storm's Path potency increased from 150 to 160; combo potency increased from 430 to 440.",
+        "Vengeance: Vulnerability Down status effect combined with the Vengeance status effect.",
+        "Storm's Eye potency increased from 150 to 160; combo potency increased from 430 to 440.",
+        "Fell Cleave potency increased from 490 to 520.",
+        "Upheaval potency increased from 370 to 400.",
+        "Shake It Off effect radius increased from 15 to 30 yalms.",
+        "Inner Chaos potency increased from 650 to 660."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Dark Missionary effect radius increased from 15 to 30 yalms."
+      ]
+    },
+    {
+      "job": "Gunbreaker",
+      "changes": [
+        "Keen Edge potency increased from 170 to 200.",
+        "Brutal Shell potency increased from 130 to 160; combo potency increased from 270 to 300.",
+        "Heart of Light effect radius increased from 15 to 30 yalms."
+      ]
+    },
+    {
+      "job": "Pugilist / Monk",
+      "changes": [
+        "Mantra effect radius increased from 15 to 30 yalms.",
+        "Brotherhood effect radius increased from 15 to 30 yalms."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Jump: Can now be executed while bound, no longer affects character's position as recognized by the server, and camera will no longer follow character.",
+        "Battle Litany effect radius increased from 15 to 30 yalms.",
+        "Dragon Sight now nullifies action direction requirements for self.",
+        "High Jump: Can now be executed while bound, no longer affects character's position as recognized by the server, and camera will no longer follow character."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Tenka Goken effect radius increased from 5 to 8 yalms.",
+        "Hissatsu: Senei potency increased from 800 to 860.",
+        "Kaeshi: Goken effect radius increased from 5 to 8 yalms.",
+        "Shoha potency increased from 520 to 560.",
+        "Ogi Namikiri potency increased from 800 to 860.",
+        "Kaeshi: Namikiri potency increased from 800 to 860."
+      ]
+    },
+    {
+      "job": "Reaper",
+      "changes": [
+        "Arcane Circle effect radius increased from 15 to 30 yalms."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Mage's Ballad range of additional effect granting to self and party members increased from 30 to 50 yalms.",
+        "Army's Paeon range of additional effect granting to self and party members increased from 30 to 50 yalms.",
+        "Battle Voice effect radius increased from 20 to 30 yalms.",
+        "The Wanderer's Minuet range of additional effect granting to self and party members increased from 30 to 50 yalms.",
+        "Troubadour effect radius increased from 20 to 30 yalms.",
+        "Nature's Minne effect radius increased from 20 to 30 yalms.",
+        "Radiant Finale effect radius increased from 20 to 30 yalms."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Tactician effect radius increased from 20 to 30 yalms."
+      ]
+    },
+    {
+      "job": "Dancer",
+      "changes": [
+        "Shield Samba effect radius increased from 20 to 30 yalms.",
+        "Single, Double, Triple, and Quadruple Technical Finish: Range of step bonus effect granting Technical Finish and Esprit to self and party members increased from 15 to 30 yalms."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Xenoglossy potency increased from 800 to 880.",
+        "Enhanced Enochian III: Magic damage increase changed from 21% to 23%."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Searing Light effect radius increased from 15 to 30 yalms."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Embolden effect radius increased from 15 to 30 yalms.",
+        "Magick Barrier effect radius increased from 15 to 30 yalms."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Asylum effect radius increased from 10 to 15 yalms.",
+        "Dia potency increased from 60 to 65; damage over time potency increased from 60 to 65.",
+        "Temperance range of effect reducing damage taken by self and party members increased from 30 to 50 yalms."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Fey Illumination effect radius increased from 15 to 30 yalms.",
+        "Sacred Soil effect radius increased from 10 to 15 yalms.",
+        "Deployment Tactics effect radius increased from 15 to 30 yalms.",
+        "Seraphic Illumination effect radius increased from 15 to 30 yalms.",
+        "Consolation effect radius increased from 20 to 30 yalms.",
+        "Expedient effect radius increased from 15 to 30 yalms.",
+        "Summon Selene has been removed."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Divination effect radius increased from 15 to 30 yalms.",
+        "Collective Unconscious: Range of additional effect reducing damage taken increased from 8 to 30 yalms; duration of damage reduction effect set to 5 seconds (reapplied upon re-entering bounds)."
+      ]
+    },
+    {
+      "job": "Sage",
+      "changes": [
+        "Kerachole effect radius increased from 15 to 30 yalms.",
+        "Physis II effect radius increased from 15 to 30 yalms.",
+        "Holos effect radius increased from 15 to 30 yalms.",
+        "Panhaima effect radius increased from 15 to 30 yalms.",
+        "Eukrasian Dosis III potency increased from 70 to 75."
+      ]
+    },
+    {
+      "job": "Physical Ranged DPS Role Actions",
+      "changes": [
+        "Peloton effect radius increased from 20 to 30 yalms."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Holy Sheltron: Potency of damage dealt if the barrier is not absorbed and the effect duration expires has been changed from 2,000 plus 50% of the barrier's remaining potency to 100% of the barrier's remaining potency."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Enlightenment: Potency of Pressure Point effect's additional damage has been reduced from 12,000 to 8,000.",
+        "Thunderclap: Wind Resonance effect duration has been increased from 5 to 10 seconds.",
+        "Thunderclap: Wind Resonance effect duration extension has been increased from 5 to 10 seconds."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Wyrmwind Thrust: Potency has been changed from 4,000-16,000 to 8,000-16,000.",
+        "Heavens' Thrust: Potency has been increased from 10,000 to 12,000.",
+        "Horrid Roar: Potency has been increased from 2,000 to 4,000.",
+        "High Jump: Potency has been reduced from 5,000 to 4,000.",
+        "Sky Shatter: Potency has been reduced from 18,000 to 16,000."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Bunshin: Effect duration has been reduced from 30 to 20 seconds.",
+        "Seiton Tenchu: Time required to fill the limit gauge has been increased from 90 to 105 seconds."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Hissatsu: Chiten: Kuzushi effect duration has been increased from 3 to 4 seconds."
+      ]
+    },
+    {
+      "job": "Reaper",
+      "changes": [
+        "Soul Slice: Recast time has been reduced from 20 to 15 seconds.",
+        "Grim Swathe: Maximum stacks of Soul Reaver have been reduced from 2 to 1.",
+        "Guillotine: New action added. Delivers an attack with a potency of 8,000 to all enemies in a cone before you. Can only be executed while under the effect of Soul Reaver.",
+        "Gibbet: Removed.",
+        "Gallows: Removed."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Silent Nocturne: Potency has been reduced from 2,000 to 0.",
+        "Silent Nocturne: Range has been reduced from 25 to 15 yalms.",
+        "Silent Nocturne: Silence effect duration has been reduced from 3 to 2 seconds.",
+        "Apex Arrow: Potency has been increased from 6,000 to 8,000.",
+        "Repelling Shot: Potency has been increased from 2,000 to 4,000.",
+        "The Warden's Paean: Warden's Grace effect reducing damage taken has been changed from 20% to 25%.",
+        "The Warden's Paean: Warden's Grace effect increasing HP recovered by healing actions has been changed from 20% to 25%."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Bioblaster: Potency is now also doubled while under the effect of Analysis.",
+        "Chain Saw: Damage potency has been reduced from 12,000 to 8,000.",
+        "Chain Saw: Potency is now increased by 50% when target's HP is below 50%.",
+        "Chain Saw: The additional effect '3% chance to deal damage equal to 95% of target's HP while under the effect of Analysis' has been changed to 'Potency is increased by 50% while under the effect of Analysis.'"
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Enchanted Riposte: The additional effect 'Barrier potency is increased by 10% when target is afflicted with Monomachy' has been added.",
+        "Enchanted Zwerchhau: The additional effect 'Barrier potency is increased by 10% when target is afflicted with Monomachy' has been added.",
+        "Enchanted Redoublement: The additional effect 'Barrier potency is increased by 10% when target is afflicted with Monomachy' has been added."
+      ]
+    },
+    {
+      "job": "Sage",
+      "changes": [
+        "Toxikon: Effect duration has been increased from 5 to 6 seconds.",
+        "Toxikon II: Effect duration has been increased from 5 to 6 seconds."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "The Aetherfont",
+      "description": "A new dungeon.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Voidcast Dais",
+      "description": "A new trial.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Voidcast Dais (Extreme)",
+      "description": "A new extreme difficulty trial.",
+      "location": "Old Sharlayan",
+      "npc_location": "Wandering Minstrel (X:12.7 Y:14.2)"
+    },
+    {
+      "name": "Containment Bay Z1T9 (Unreal)",
+      "description": "A new unreal difficulty trial.",
+      "location": "Idyllshire",
+      "npc_location": "Painfully Ishgardian Man (X:7.0 Y:5.9)"
+    },
+    {
+      "name": "Pandæmonium: Anabaseios",
+      "description": "A new raid dungeon.",
+      "location": "Labyrinthos",
+      "npc_location": "Ruissenaud (X:8.6 Y:27.5)"
+    },
+    {
+      "name": "Pandæmonium: Anabaseios (Savage)",
+      "description": "A new savage difficulty raid dungeon.",
+      "location": "Labyrinthos",
+      "npc_location": "Nemjiji (X:8.4 Y:27.4)"
+    },
+    {
+      "name": "Currying Flavor",
+      "description": "Main scenario quest.",
+      "location": "Radz-at-Han",
+      "npc_location": "Varshahn (X:4.4 Y:9.8)"
+    },
+    {
+      "name": "Eater of Souls",
+      "description": "Chronicles of a New Era quest.",
+      "location": "Labyrinthos",
+      "npc_location": "Ruissenaud (X:8.6 Y:27.5)"
+    },
+    {
+      "name": "A Faerie Tale Come True",
+      "description": "Scholar job quest.",
+      "location": "Limsa Lominsa Lower Decks",
+      "npc_location": "Thubyrgeim (X:4.7 Y:11.4)"
+    },
+    {
+      "name": "Aggressive Expansion",
+      "description": "Tataru's Grand Endeavor side story quest.",
+      "location": "Old Sharlayan",
+      "npc_location": "Mehdjina (X:11.8 Y:9.8)"
+    },
+    {
+      "name": "An Ideal Marriage",
+      "description": "Island Sanctuary side story quest.",
+      "location": "Unnamed Island",
+      "npc_location": "Curious Courier (X:12.4 Y:28.7)"
+    },
+    {
+      "name": "Island Sanctuary",
+      "description": "System update: increased rank, new gathering areas, construction plots, and furnishing glamours.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Furnishing Glamours",
+      "description": "System feature allowing placement of furnishings as glamours in the Island Sanctuary.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Subaquatic Voyages",
+      "description": "Company system update adding new nautical maps, areas, and items.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Ruby Route",
+      "description": "New exploration zone/voyage route for Ocean Fishing.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Foraging Expedition Area",
+      "description": "New area added for foraging expeditions in Island Sanctuary.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Watcher's Palace Interior Wall",
+      "description": "An interior wall crafted to mimic the design of the Watcher's Palace.",
+      "image_url": null
+    },
+    {
+      "name": "Watcher's Palace Flooring",
+      "description": "A section of flooring crafted to mimic the design of the Watcher's Palace.",
+      "image_url": null
+    },
+    {
+      "name": "Watcher's Palace Ceiling Lamp",
+      "description": "A chandelier crafted to resemble the lamps found in the Watcher's Palace.",
+      "image_url": null
+    },
+    {
+      "name": "Island Garden Fence",
+      "description": "A rudimentary wooden fence, designed to complement the simple lifestyle of the Cieldalaes.",
+      "image_url": null
+    },
+    {
+      "name": "Island Parasol Table",
+      "description": "An understated outside table, designed to complement the simple lifestyle of the Cieldalaes.",
+      "image_url": null
+    },
+    {
+      "name": "Island Wooden Chair",
+      "description": "A modest wooden chair, designed to complement the simple lifestyle of the Cieldalaes.",
+      "image_url": null
+    },
+    {
+      "name": "Railway Sleepers",
+      "description": "A rustic ground covering made from repurposed railway sleepers.",
+      "image_url": null
+    },
+    {
+      "name": "Garden Creek",
+      "description": "Complete with running water, this soothing stonebound creek is the perfect place to dip your toes on a hot summer's day.",
+      "image_url": null
+    },
+    {
+      "name": "Mushroom Medley Lamp",
+      "description": "Illuminate your garden with this three-tiered collection of fungal furniture.",
+      "image_url": null
+    },
+    {
+      "name": "Country Swing Seat",
+      "description": "Escape the midday sun beneath the roof of this charming wooden swing seat.",
+      "image_url": null
+    },
+    {
+      "name": "Well Pump",
+      "description": "This working well pump provides a reliable─and apparently endless─source of clean water.",
+      "image_url": null
+    },
+    {
+      "name": "Ivy-canopied Deck",
+      "description": "The ivy strung atop this wooden deck throws the seating area below into an idyllic dappled shade.",
+      "image_url": null
+    },
+    {
+      "name": "Cieldalaes Planter",
+      "description": "A tall pot featuring an even taller plant native to the Cieldalaes.",
+      "image_url": null
+    },
+    {
+      "name": "Chair Hena",
+      "description": "An elegant piece of furniture named for the tragic civilization which produced its original design.",
+      "image_url": null
+    },
+    {
+      "name": "Fishing Rod Rack",
+      "description": "A decorative display stand for the fishing gear enthusiast.",
+      "image_url": null
+    },
+    {
+      "name": "Verdant Pillar",
+      "description": "A pillar crafted to resemble a natural tree. Squirrels not included.",
+      "image_url": null
+    },
+    {
+      "name": "Freestanding Rattan Hammock",
+      "description": "Based on a southern seas furnishing, this freestanding hammock allows you to laze in the location of your choice.",
+      "image_url": null
+    },
+    {
+      "name": "Classic Umbrella Stand",
+      "description": "An understated period piece that one might see in a grandsire's entryway.",
+      "image_url": null
+    },
+    {
+      "name": "Rustic Log Bench",
+      "description": "A modest bench hewn from a single log.",
+      "image_url": null
+    },
+    {
+      "name": "Short Pillar Bookshelf",
+      "description": "A pillar to support your academic pursuits. Not so much your ceiling.",
+      "image_url": null
+    },
+    {
+      "name": "Rattan Partition",
+      "description": "The division provided by this southern seas partition is more of a suggestion.",
+      "image_url": null
+    },
+    {
+      "name": "Serving Barrel",
+      "description": "A wooden barrel for storing your favorite alcoholic beverage. Complete with spigot for easy serving.",
+      "image_url": null
+    },
+    {
+      "name": "Botanist's Work Table",
+      "description": "A work station custom-made for the botanically inclined.",
+      "image_url": null
+    },
+    {
+      "name": "Rustic Log Table",
+      "description": "A plain table hewn from a single log.",
+      "image_url": null
+    },
+    {
+      "name": "Vintage Side Table",
+      "description": "A circular side table of unobtrusive design.",
+      "image_url": null
+    },
+    {
+      "name": "Classic Tableware",
+      "description": "A tableware set of simple, antique design.",
+      "image_url": null
+    },
+    {
+      "name": "Scattered Tomes",
+      "description": "Create an impression of scholarly study with this artfully disordered pile of reference materials.",
+      "image_url": null
+    },
+    {
+      "name": "Raw Log Half Partition",
+      "description": "A rustic fence constructed of unrefined logs and branches.",
+      "image_url": null
+    },
+    {
+      "name": "Botanical Candle Display",
+      "description": "Similar to a normal candle display, but with considerably more dried flora.",
+      "image_url": null
+    },
+    {
+      "name": "Classic Table Lamp",
+      "description": "A simple shaded lamp.",
+      "image_url": null
+    },
+    {
+      "name": "Steamed Shumai",
+      "description": "Wrapped in a wafer-thin skin and steamed to perfection, these bite-sized dumplings are a Far Eastern favorite.",
+      "image_url": null
+    },
+    {
+      "name": "Fried Gyoza",
+      "description": "While boiling is the norm in Yanxia, Kugane culinarians prefer to crisp these crescent-shaped dumplings in a pan before serving.",
+      "image_url": null
+    },
+    {
+      "name": "Drowned King Sculpture",
+      "description": "This statue emanates the menace of a deadly undertow.",
+      "image_url": null
+    },
+    {
+      "name": "Eventide Sword Stand",
+      "description": "It is uncertain what is on display here: the greatsword, or the shadowy energies which crackle and writhe along its length.",
+      "image_url": null
+    },
+    {
+      "name": "Azure Sky Phasmascape",
+      "description": "An imitation skylight with illusory properties. Gaze upwards to appreciate this portal to an inviting blue sky.",
+      "image_url": null
+    },
+    {
+      "name": "Starry Sky Phasmascape",
+      "description": "An imitation skylight with illusory properties. Gaze upwards to appreciate this portal to a star-studded expanse.",
+      "image_url": null
+    },
+    {
+      "name": "Forever at Your Side",
+      "description": "A commissioned portrait of a former imperial officer and his adopted children entitled Forever at Your Side.",
+      "image_url": null
+    },
+    {
+      "name": "Imitation Curtained Window",
+      "description": "A clever semblance of a window to the outside. One can almost hear the birds chirping.",
+      "image_url": null
+    },
+    {
+      "name": "Imitation Moonlit Window",
+      "description": "The soft, lunar light of this deceptive window is best appreciated in near darkness.",
+      "image_url": null
+    },
+    {
+      "name": "Metal Pipe Wall Shelf",
+      "description": "The exposed pipes and pressure gauges of this shelving system provide a distinct \"boiler room\" aesthetic.",
+      "image_url": null
+    },
+    {
+      "name": "Floating Kitchen Cabinet",
+      "description": "A wall-mounted kitchen cabinet. For those expecting a levitating cupboard, prepare to be disappointed.",
+      "image_url": null
+    },
+    {
+      "name": "Ivy Pendant Wall Light",
+      "description": "A trio of lamps hanging from an ivy-covered, wall-mounted branch.",
+      "image_url": null
+    },
+    {
+      "name": "Crystarium Pendant Wall Light",
+      "description": "A wall-mounted trio of hanging lamps crafted in the Crystarium style.",
+      "image_url": null
+    },
+    {
+      "name": "Imitation Closed Door",
+      "description": "The sign on this mock wooden door forbids entry. Please respect its authority.",
+      "image_url": null
+    },
+    {
+      "name": "Wall-mounted Pot Rack",
+      "description": "A handy circular rack for hanging stovetop utensils.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Valentione Rose Ribboned Gloves",
+      "description": "Adjustments have been made to the graphics of the following equipment.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Forget-me-not Ribboned Gloves",
+      "description": "Adjustments have been made to the graphics of the following equipment.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Acacia Ribboned Gloves",
+      "description": "Adjustments have been made to the graphics of the following equipment.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Emissary's Dress Hat",
+      "description": "Can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Emissary's Ruffled Dress",
+      "description": "Can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Emissary's Culottes",
+      "description": "Can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Emissary's Dress Boots",
+      "description": "Can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Emissary's Hat",
+      "description": "Can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Emissary's Jacket",
+      "description": "Can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Emissary's Bottoms",
+      "description": "Can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Emissary's Boots",
+      "description": "Can now be equipped regardless of gender.",
+      "image_url": null
+    }
+  ]
+}

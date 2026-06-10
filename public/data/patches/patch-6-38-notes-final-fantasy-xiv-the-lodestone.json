@@ -1,0 +1,148 @@
+{
+  "patch_title": "Patch 6.38 Notes",
+  "patch_date": "2023-04-13",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/99372e256a66b3103f633b1951efb38c9a050aab/",
+  "jobs_pve": [],
+  "jobs_pvp": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Phalanx: Reduced damage taken has been changed from 50% to 33%."
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "Blota: Heavy effect duration has been reduced from 5 to 3 seconds."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Phantom Rush: Potency has been increased from 10,000 to 12,000."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Sky Shatter: Potency has been reduced from 20,000 to 18,000.",
+        "Sky Shatter: Potency increase when targets are within 5 yalms has been changed from 30,000 to 32,000.",
+        "Sky Shatter: Barrier strength has been changed from absorbing damage totaling 25% of maximum HP to absorbing damage equivalent to a heal of 24,000 potency."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Fuma Shuriken: Range has been reduced from 25 to 20 yalms.",
+        "Hyosho Ranryu: Range has been reduced from 25 to 20 yalms.",
+        "Goka Mekkyaku: Range has been reduced from 25 to 20 yalms."
+      ]
+    },
+    {
+      "job": "Reaper",
+      "changes": [
+        "Plentiful Harvest: Maximum potency has been increased from 20,000 to 24,000."
+      ]
+    },
+    {
+      "job": "Dancer",
+      "changes": [
+        "Curing Waltz: Healing potency has been increased from 8,000 to 10,000."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Burst: Barrier strength has been increased from 12,000 to 16,000."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Magick Barrier: Effect duration has been increased from 8 to 10 seconds.",
+        "Frazzle: Effect duration has been increased from 8 to 10 seconds.",
+        "Southern Cross: Healing potency has been increased from 6,000 to 8,000.",
+        "Southern Cross: Damage potency has been increased from 6,000 to 8,000.",
+        "Southern Cross: Cure potency increase from White Shift has been reduced from 100% to 50%.",
+        "Southern Cross: Damage potency increase from Black Shift has been reduced from 100% to 50%."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Adloquium: Cure potency has been reduced from 4,000 to 3,000.",
+        "Adloquium: Barrier strength has been increased from 4,000 to 6,000."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Fall Malefic: The recast time reduction granted by the additional effect 'Reduces the recast time of Double Cast' has been changed from 7.5 to 10 seconds."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Pandæmonium: Abyssos",
+      "description": "Raid tier; weekly restrictions on entrance and rewards removed; treasure coffers now always appear.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Abyssos: The Eighth Circle",
+      "description": "Raid floor; weekly restriction on receiving Unsung Blades of Abyssos removed.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Crystalline Conflict",
+      "description": "PvP system; season transition; match mechanics and music track adjustments.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Eureka Orthos",
+      "description": "Deep dungeon; fixed issues regarding enemy attack timing and aetherpool gear stats.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Island Sanctuary",
+      "description": "System feature; resolved issue regarding animal naming.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Splendorous Tools",
+      "description": "System feature; resolved display issue with item helptext for third-tier tools.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Instance Consolidation",
+      "description": "System feature; Mor Dhona, Radz-at-Han, Thavnair, and Mare Lamentorum no longer use multiple instances.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Gear Augmentation",
+      "description": "Major feature; exchange of coins for Moonshine Brine to upgrade tomestone gear.",
+      "location": "Radz-at-Han",
+      "npc_location": "Nesvaaz (X:10.6 Y:10.0), Khaldeen (X:10.9 Y:10.4)"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Valentione Rose Heels",
+      "description": "Feet gear item mentioned in Resolved Issues (graphics display issue for male Lalafells).",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Valentione Rose Heels",
+      "description": "Feet gear for which an issue with graphics displaying incorrectly on male Lalafells was resolved.",
+      "image_url": null
+    }
+  ]
+}

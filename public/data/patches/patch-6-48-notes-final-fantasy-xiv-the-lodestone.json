@@ -1,0 +1,56 @@
+{
+  "patch_title": "Patch 6.48 Notes",
+  "patch_date": "2026-06-10",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/77ced00c8fc9b818f7a31b9925162a7007bf7882/",
+  "jobs_pve": [],
+  "jobs_pvp": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Blade of Faith: Potency has been increased from 4,000 to 6,000.",
+        "Blade of Truth: Potency has been increased from 6,000 to 7,000."
+      ]
+    },
+    {
+      "job": "Gunbreaker",
+      "changes": [
+        "Draw and Junction: Action can now be used to target self and party members. The additional effect Powder Barrel will only be granted when targeting an enemy."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Soul Resonance: Now grants the effect Apocatastasis."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Miracle of Nature: Recast time has been increased from 25 to 30 seconds.",
+        "Afflatus Purgation: Cure potency of the Regen effect granted by Temperance has been reduced from 4,000 to 3,000."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Aspected Benefic: Cure potency of Diurnal Benefic has been increased from 1,000 to 2,000; Effect duration of Diurnal Benefic has been increased from 12 to 15 seconds; Barrier potency of Nocturnal Benefic has been increased from 4,000 to 5,000."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Crystalline Conflict",
+      "description": "A competitive PvP mode featuring seasonal rankings and rewards.",
+      "location": "Wolves' Den Pier",
+      "npc_location": "Seasonal Quartermaster at Wolves' Den Pier (X:4.9 Y:5.7)"
+    },
+    {
+      "name": "The Omega Protocol (Ultimate)",
+      "description": "An Ultimate difficulty raid; patch 6.48 addressed an issue with the tower mechanic in the first phase.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [],
+  "glamour": []
+}

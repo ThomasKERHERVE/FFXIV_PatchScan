@@ -1,0 +1,345 @@
+{
+  "patch_title": "Patch 7.01 Notes",
+  "patch_date": "2024-07-31",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/0ad1ca4bbafeb2ee244994bee15b3a74c0278e1d/",
+  "jobs_pve": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Total Eclipse: The additional effect 'Increased enmity' has been added.",
+        "Prominence: The additional effect 'Increased enmity' has been added."
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "Overpower: The additional effect 'Increased enmity' has been added.",
+        "Mythril Tempest: The additional effect 'Increased enmity' has been added.",
+        "Primal Rend: The effect duration of Primal Ruination Ready has been reduced from 30 to 20 seconds.",
+        "Primal Ruination: Potency has been increased from 740 to 780."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Unleash: The additional effect 'Increased enmity' has been added.",
+        "Stalwart Soul: The additional effect 'Increased enmity' has been added.",
+        "Shadowstride: The additional effect 'Increased enmity' has been added."
+      ]
+    },
+    {
+      "job": "Gunbreaker",
+      "changes": [
+        "Demon Slice: The additional effect 'Increased enmity' has been added.",
+        "Demon Slaughter: The additional effect 'Increased enmity' has been added.",
+        "Trajectory: The additional effect 'Increased enmity' has been added."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "True Strike: Potency has been increased from 290 to 300; Raptor's Fury potency has been increased from 440 to 500.",
+        "Snap Punch: Potency has been reduced from 300 to 270; Flank potency has been reduced from 360 to 330; Coeurl's Fury potency has been increased from 400 to 420; Flank Coeurl's Fury potency has been increased from 460 to 480.",
+        "Twin Snakes: Potency has been increased from 380 to 420; Increased potency effect of Raptor's Fury has been changed from 150 to 200.",
+        "Arm of the Destroyer: Potency has been increased from 100 to 110; Opo-opo Form potency has been increased from 110 to 120.",
+        "Demolish: Potency has been increased from 340 to 360; Rear potency has been increased from 400 to 420; Increased potency effect of Coeurl's Fury has been changed from 100 to 150.",
+        "Rockbreaker: Potency has been increased from 130 to 150.",
+        "Four-point Fury: Potency has been increased from 120 to 140.",
+        "Dragon Kick: Stacks of Opo-opo's Fury are now only granted while in Opo-opo Form.",
+        "Tornado Kick: Potency has been increased from 850 to 1,200.",
+        "Celestial Revolution: Potency has been increased from 450 to 600.",
+        "Flint Strike: Potency has been increased from 600 to 800.",
+        "Enlightenment: Potency has been increased from 170 to 200.",
+        "Shadow of the Destroyer: Potency has been increased from 110 to 120.",
+        "Rising Raptor: Potency has been increased from 330 to 340; Raptor's Fury potency has been increased from 480 to 540.",
+        "Pouncing Coeurl: Potency has been reduced from 340 to 310; Flank potency has been reduced from 400 to 370; Coeurl's Fury potency has been increased from 440 to 460; Flank Coeurl's Fury potency has been increased from 500 to 520.",
+        "Raptor's Fury: Maximum stacks have been reduced from 2 to 1.",
+        "Coeurl's Fury: Maximum stacks have been reduced from 3 to 2.",
+        "Beast Chakra Gauge: Display has been adjusted in accordance with stack changes."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Tendo Setsugekka: Recast time has been reduced from 3.2 to 2.5 seconds.",
+        "Tendo Kaeshi Setsugekka: Recast time has been reduced from 3.2 to 2.5 seconds."
+      ]
+    },
+    {
+      "job": "Viper",
+      "changes": [
+        "Death Rattle: Range has been increased from 3 to 5 yalms.",
+        "Twinfang Bite: Range has been increased from 3 to 5 yalms.",
+        "Twinblood Bite: Range has been increased from 3 to 5 yalms.",
+        "First Legacy: Range has been increased from 3 to 5 yalms.",
+        "Second Legacy: Range has been increased from 3 to 5 yalms.",
+        "Third Legacy: Range has been increased from 3 to 5 yalms.",
+        "Fourth Legacy: Range has been increased from 3 to 5 yalms."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Umbral Soul: Now acquired at level 35 (previously level 76)."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Manafication: Effect duration has been increased from 15 to 30 seconds."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Lightspeed: Now a charged action with a maximum of 2 charges; Recast time has been reduced from 90 to 60 seconds.",
+        "Astral Draw: Recast time has been reduced from 60 to 55 seconds.",
+        "Umbral Draw: Recast time has been reduced from 60 to 55 seconds.",
+        "Macrocosmos: Potency has been increased from 250 to 270."
+      ]
+    }
+  ],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "AAC Light-heavyweight Tier",
+      "description": "A new raid series dungeon.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Cenote Ja Ja Gural",
+      "description": "A treasure hunt dungeon scheduled for release in Patch 7.05.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "A New Challenger Appears",
+      "description": "Chronicles of a New Era quest.",
+      "location": "Solution Nine (X:19.1 Y:18.8)",
+      "npc_location": "Stylish Stranger"
+    },
+    {
+      "name": "Directional Disregard",
+      "description": "A system where enemy target rings change shape to indicate directional requirements do not need to be met.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Arcadion",
+      "description": "New raid series.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Arcadion (Savage)",
+      "description": "Savage version of the new raid series, scheduled for release in Patch 7.05.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Stone Partition",
+      "description": "The furnishing Stone Partition can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "It's Showtime! Orchestrion Roll",
+      "description": "Music roll for It's Showtime!. Use to add to your orchestrion list.",
+      "image_url": null
+    },
+    {
+      "name": "Bee My Honey Orchestrion Roll",
+      "description": "Music roll for Bee My Honey. Use to add to your orchestrion list.",
+      "image_url": null
+    },
+    {
+      "name": "Burning Souls Orchestrion Roll",
+      "description": "Music roll for Burning Souls. Use to add to your orchestrion list.",
+      "image_url": null
+    },
+    {
+      "name": "Give It All Orchestrion Roll",
+      "description": "Music roll for Give It All. Use to add to your orchestrion list.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Light-heavy Bandana of Fending",
+      "description": "Head piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Bandana of Maiming",
+      "description": "Head piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Hood of Striking",
+      "description": "Head piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Mask of Aiming",
+      "description": "Head piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Hood of Scouting",
+      "description": "Head piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Hat of Casting",
+      "description": "Head piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Hat of Healing",
+      "description": "Head piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Coat of Fending",
+      "description": "Body piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Coat of Maiming",
+      "description": "Body piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Coat of Striking",
+      "description": "Body piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Jacket of Aiming",
+      "description": "Body piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Coat of Scouting",
+      "description": "Body piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Coat of Casting",
+      "description": "Body piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Coat of Healing",
+      "description": "Body piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Halfgloves of Fending",
+      "description": "Hands piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Halfgloves of Maiming",
+      "description": "Hands piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Gloves of Striking",
+      "description": "Hands piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Gloves of Aiming",
+      "description": "Hands piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Gloves of Scouting",
+      "description": "Hands piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Halfgloves of Casting",
+      "description": "Hands piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Halfgloves of Healing",
+      "description": "Hands piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Breeches of Fending",
+      "description": "Legs piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Breeches of Maiming",
+      "description": "Legs piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Brais of Striking",
+      "description": "Legs piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Brais of Aiming",
+      "description": "Legs piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Brais of Scouting",
+      "description": "Legs piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Brais of Casting",
+      "description": "Legs piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Brais of Healing",
+      "description": "Legs piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Greaves of Fending",
+      "description": "Feet piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Greaves of Maiming",
+      "description": "Feet piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Boots of Striking",
+      "description": "Feet piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Boots of Aiming",
+      "description": "Feet piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Boots of Scouting",
+      "description": "Feet piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Shoes of Casting",
+      "description": "Feet piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    },
+    {
+      "name": "Light-heavy Shoes of Healing",
+      "description": "Feet piece, Item Level 710, Equipment Level 100",
+      "image_url": null
+    }
+  ]
+}

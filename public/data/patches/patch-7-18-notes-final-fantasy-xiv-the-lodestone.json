@@ -1,0 +1,141 @@
+{
+  "patch_title": "Patch 7.18",
+  "patch_date": "2026-06-10",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/5bf940a5cc288227434e21754f89eceb44805977/",
+  "jobs_pve": [],
+  "jobs_pvp": [
+    {
+      "job": "All Jobs",
+      "changes": [
+        "Guard: Effect duration reduced from 5 to 4 seconds.",
+        "Guard: Movement speed reduction decreased from 50% to 33%."
+      ]
+    },
+    {
+      "job": "Paladin",
+      "changes": [
+        "Holy Spirit: Healing potency reduced from 8,000 to 6,000.",
+        "Intervene: Recast time increased from 12 to 15 seconds."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Wind's Reply: Additional damage from the Pressure Point effect increased from 10,000 to 12,000.",
+        "Meteodrive: Range increased from 15 to 20 yalms."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Fuma Shuriken: Recast time reduced from 12 to 10 seconds.",
+        "Dokumori: Recast time increased from 20 to 24 seconds.",
+        "Dokumori: Effect duration reduced from 10 to 8 seconds.",
+        "Bunshin: Potency of additional damage reduced from 4,000 to 2,000 when using Forked Raiju or Fleeting Raiju.",
+        "Bunshin: Additional damage will no longer ignore the effects of Guard when using Assassinate.",
+        "Doton: Reduction to damage taken reduced from 20% to 15%.",
+        "Seiton Tenchu: Now ignores the effects of Guard when dealing damage."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "HP: Reduced from 63,000 to 61,500.",
+        "Zanshin: Potency increased from 5,000 to 6,000."
+      ]
+    },
+    {
+      "job": "Viper",
+      "changes": [
+        "HP: Increased from 60,000 to 61,500.",
+        "World-swallower: Movement speed increased from 25% to 50%.",
+        "Ouroboros: Damage converted into HP increased from 50% to 100%."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Powerful Shot: Reduction to the recast time of Harmonic Arrow increased from 4 to 5 seconds.",
+        "Pitch Perfect: Reduction to the recast time of Harmonic Arrow increased from 4 to 5 seconds.",
+        "Harmonic Arrow: Recast time reduced from 16 to 15 seconds."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Blast Charge: Number of Heat stacks required to grant Overheated reduced from 5 to 4."
+      ]
+    },
+    {
+      "job": "Dancer",
+      "changes": [
+        "Saber Dance: When striking multiple targets, potency changed to 12,000 for the first target and 8,000 for all remaining enemies.",
+        "Dance of the Dawn: When striking multiple targets, potency changed to 15,000 for the first target and 10,000 for all remaining enemies."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Lethargy: Reduction to target's damage dealt increased from 25% to 33%.",
+        "Lethargy: Duration of target damage reduction increased from 4 to 5 seconds.",
+        "Lethargy: Heavy effect duration reduced from 4 to 3 seconds.",
+        "Lethargy: Recast time reduced from 16 to 15 seconds."
+      ]
+    },
+    {
+      "job": "Pictomancer",
+      "changes": [
+        "Holy in White: Potency increased from 8,000 to 9,000.",
+        "Smudge: Recast time reduced from 16 to 12 seconds.",
+        "Tempera Grassa: Barrier potency increased from 6,000 to 8,000.",
+        "Tempera Grassa: Tempera Coat recast time is no longer reduced when the barrier is completely absorbed."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "AAC Light-heavyweight Tier (Savage)",
+      "description": "High-difficulty raid tier with removed weekly entry and reward restrictions, and treasure coffers that now always appear.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "AAC Light-heavyweight M4",
+      "description": "Raid encounter with removed weekly restriction on receiving Light-heavy Holoblades.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Crystalline Conflict",
+      "description": "PvP mode receiving adjustments to Swift Sprint status durations in specific arenas.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Palaistra",
+      "description": "Crystalline Conflict arena with adjusted Swift Sprint status durations.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Volcanic Heart",
+      "description": "Crystalline Conflict arena with adjusted Swift Sprint status durations.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Equipment Enhancement",
+      "description": "System for exchanging items for augmented weapons using Surgelight Solvent.",
+      "location": "Solution Nine",
+      "npc_location": "Uah'shepya (X:8.7 Y:13.5), Theone (X:8.5 Y:13.6)"
+    },
+    {
+      "name": "/photograph",
+      "description": "A new text command allowing players to take out an instant camera and snap a photo.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [],
+  "glamour": []
+}

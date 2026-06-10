@@ -1,0 +1,785 @@
+{
+  "patch_title": "Patch 7.3 Notes",
+  "patch_date": "2025-08-12",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/c04405c6cbe8519a0b6c8aa5e4d88a5d447419c9/",
+  "jobs_pve": [
+    {
+      "job": "Monk",
+      "changes": [
+        "Tornado Kick: Reduction in potency after the first target has been changed from 40% to 35%.",
+        "Elixir Field: Reduction in potency after the first target has been changed from 40% to 35%.",
+        "Flint Strike: Reduction in potency after the first target has been changed from 40% to 35%.",
+        "Rising Phoenix: Reduction in potency after the first target has been changed from 40% to 35%.",
+        "Phantom Rush: Reduction in potency after the first target has been changed from 40% to 35%.",
+        "Elixir Burst: Reduction in potency after the first target has been changed from 40% to 35%.",
+        "Wind's Reply: Reduction in potency after the first target has been changed from 40% to 35%.",
+        "Fire's Reply: Reduction in potency after the first target has been changed from 40% to 35%."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Stardiver: Reduction in potency after the first target has been changed from 50% to 40%.",
+        "Starcross: Reduction in potency after the first target has been changed from 50% to 40%."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Hellfrog Medium: Potency has been increased from 160 to 250.",
+        "Dokumori: Potency has been increased from 300 to 400.",
+        "Phantom Kamaitachi: Potency has been increased from 600 to 700.",
+        "Kunai's Bane: Potency has been increased from 600 to 700.",
+        "Deathfrog Medium: Potency has been increased from 260 to 400."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Hissatsu: Guren: Potency is no longer reduced after the first enemy.",
+        "Shoha: Reduction in potency after the first target has been changed from 50% to 40%.",
+        "Ogi Namikiri: Reduction in potency after the first target has been changed from 50% to 40%.",
+        "Kaeshi: Namikiri: Reduction in potency after the first target has been changed from 50% to 40%.",
+        "Zanshin: Reduction in potency after the first target has been changed from 50% to 40%."
+      ]
+    },
+    {
+      "job": "Reaper",
+      "changes": [
+        "Enshroud: Recast time has been reduced from 15 to 5 seconds.",
+        "Plentiful Harvest: Reduction in potency after the first target has been changed from 40% to 20%.",
+        "Communio: Reduction in potency after the first target has been changed from 40% to 20%.",
+        "Sacrificium: Reduction in potency after the first target has been changed from 40% to 20%.",
+        "Perfectio: Reduction in potency after the first target has been changed from 40% to 20%."
+      ]
+    },
+    {
+      "job": "Viper",
+      "changes": [
+        "Uncoiled Fury: Reduction in potency after the first target has been changed from 50% to 60%.",
+        "Reawaken: Reduction in potency after the first target has been changed from 60% to 65%.",
+        "First Generation: Reduction in potency after the first target has been changed from 60% to 65%.",
+        "Second Generation: Reduction in potency after the first target has been changed from 60% to 65%.",
+        "Third Generation: Reduction in potency after the first target has been changed from 60% to 65%.",
+        "Fourth Generation: Reduction in potency after the first target has been changed from 60% to 65%.",
+        "Uncoiled Twinfang: Reduction in potency after the first target has been changed from 50% to 60%.",
+        "Uncoiled Twinblood: Reduction in potency after the first target has been changed from 50% to 60%.",
+        "Ouroboros: Reduction in potency after the first target has been changed from 60% to 65%.",
+        "First Legacy: Reduction in potency after the first target has been changed from 60% to 65%.",
+        "Second Legacy: Reduction in potency after the first target has been changed from 60% to 65%.",
+        "Third Legacy: Reduction in potency after the first target has been changed from 60% to 65%.",
+        "Fourth Legacy: Reduction in potency after the first target has been changed from 60% to 65%."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Resonant Arrow: Potency has been increased from 600 to 640.",
+        "Radiant Encore: Potency when 1 Coda is active has been increased from 500 to 600. Potency when 2 Coda are active has been increased from 600 to 700. Potency when 3 Coda are active has been increased from 900 to 1,000."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Auto Crossbow: Potency increase from the trait Marksman's Mastery II has been changed from 160 to 180.",
+        "Drill: Potency has been increased from 600 to 620.",
+        "Flamethrower: Potency has been increased from 100 to 120.",
+        "Air Anchor: Potency has been increased from 600 to 620.",
+        "Chain Saw: Potency has been increased from 600 to 620. Reduction in potency after the first target has been changed from 35% to 25%.",
+        "Double Check: Potency has been increased from 170 to 180.",
+        "Checkmate: Potency has been increased from 170 to 180.",
+        "Excavator: Potency has been increased from 600 to 620. Reduction in potency after the first target has been changed from 35% to 25%.",
+        "Full Metal Field: Reduction in potency after the first target has been changed from 30% to 25%."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Summon Ifrit: Reduction in potency after the first target has been changed from 60% to 50%.",
+        "Summon Titan: Reduction in potency after the first target has been changed from 60% to 50%.",
+        "Summon Garuda: Reduction in potency after the first target has been changed from 60% to 50%.",
+        "Ruin III: Potency increase from the trait Arcane Mastery has been changed from 360 to 400.",
+        "Ruin IV: Potency increase from the trait Arcane Mastery has been changed from 490 to 520.",
+        "Ruby Rite: Potency increase from the trait Arcane Mastery has been changed from 540 to 580.",
+        "Emerald Rite: Potency increase from the trait Arcane Mastery has been changed from 240 to 280.",
+        "Crimson Cyclone: Potency increase from the trait Arcane Mastery has been changed from 490 to 520. Reduction in potency after the first target has been changed from 65% to 60%.",
+        "Crimson Strike: Potency increase from the trait Arcane Mastery has been changed from 490 to 520. Reduction in potency after the first target has been changed from 65% to 60%.",
+        "Slipstream: Potency increase from the trait Arcane Mastery has been changed from 490 to 520. Reduction in potency after the first target has been changed from 65% to 60%.",
+        "Mountain Buster: Reduction in potency after the first target has been changed from 70% to 60%.",
+        "Summon Ifrit II: Reduction in potency after the first target has been changed from 60% to 50%.",
+        "Summon Titan II: Reduction in potency after the first target has been changed from 60% to 50%.",
+        "Summon Garuda II: Reduction in potency after the first target has been changed from 60% to 50%."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Enchanted Riposte: Potency increase from the trait Enchanted Blade Mastery has been changed from 300 to 340.",
+        "Enchanted Zwerchhau: Potency increase from the trait Enchanted Blade Mastery has been changed from 170 to 190. Combo potency increase from the trait Enchanted Blade Mastery has been changed from 360 to 380.",
+        "Enchanted Redoublement: Potency increase from the trait Enchanted Blade Mastery has been changed from 170 to 190. Combo potency increase from the trait Enchanted Blade Mastery has been changed from 540 to 560.",
+        "Verflare: Reduction in potency after the first target has been changed from 60% to 55%.",
+        "Verholy: Reduction in potency after the first target has been changed from 60% to 55%.",
+        "Scorch: Reduction in potency after the first target has been changed from 60% to 55%.",
+        "Resolution: Reduction in potency after the first target has been changed from 60% to 55%.",
+        "Vice of Thorns: Potency has been increased from 800 to 900. Reduction in potency after the first target has been changed from 60% to 55%.",
+        "Grand Impact: Reduction in potency after the first target has been changed from 60% to 55%.",
+        "Prefulgence: Potency has been increased from 1,000 to 1,200. Reduction in potency after the first target has been changed from 60% to 55%."
+      ]
+    },
+    {
+      "job": "Pictomancer",
+      "changes": [
+        "Fire in Red: Potency has been reduced from 260 to 250. Potency increase from the trait Pictomancy Mastery has been changed from 330 to 310. Potency increase from the trait Pictomancy Mastery II has been changed from 400 to 380. Potency increase from the trait Pictomancy Mastery III has been changed from 450 to 420. Potency increase from the trait Pictomancy Mastery IV has been changed from 520 to 490.",
+        "Aero in Green: Potency has been reduced from 300 to 280. Potency increase from the trait Pictomancy Mastery has been changed from 370 to 350. Potency increase from the trait Pictomancy Mastery II has been changed from 440 to 420. Potency increase from the trait Pictomancy Mastery III has been changed from 490 to 460. Potency increase from the trait Pictomancy Mastery IV has been changed from 560 to 530.",
+        "Water in Blue: Potency has been reduced from 340 to 320. Potency increase from the trait Pictomancy Mastery has been changed from 410 to 390. Potency increase from the trait Pictomancy Mastery II has been changed from 480 to 460. Potency increase from the trait Pictomancy Mastery III has been changed from 530 to 500. Potency increase from the trait Pictomancy Mastery IV has been changed from 600 to 570.",
+        "Hammer Stamp: Potency has been increased from 260 to 300. Potency increase from the trait Pictomancy Mastery has been changed from 350 to 420. Potency increase from the trait Pictomancy Mastery II has been changed from 420 to 500. Potency increase from the trait Pictomancy Mastery III has been changed from 460 to 540. Potency increase from the trait Pictomancy Mastery IV has been changed from 480 to 560.",
+        "Blizzard in Cyan: Potency has been reduced from 590 to 560. Potency increase from the trait Pictomancy Mastery II has been changed from 710 to 680. Potency increase from the trait Pictomancy Mastery III has been changed from 790 to 750. Potency increase from the trait Pictomancy Mastery IV has been changed from 900 to 860.",
+        "Stone in Yellow: Potency has been reduced from 630 to 600. Potency increase from the trait Pictomancy Mastery II has been changed from 750 to 720. Potency increase from the trait Pictomancy Mastery III has been changed from 830 to 790. Potency increase from the trait Pictomancy Mastery IV has been changed from 940 to 900.",
+        "Thunder in Magenta: Potency has been reduced from 670 to 640. Potency increase from the trait Pictomancy Mastery II has been changed from 790 to 760. Potency increase from the trait Pictomancy Mastery III has been changed from 870 to 830. Potency increase from the trait Pictomancy Mastery IV has been changed from 980 to 940.",
+        "Holy in White: Potency has been reduced from 480 to 460. Potency increase from the trait Pictomancy Mastery III has been changed from 530 to 500. Potency increase from the trait Pictomancy Mastery IV has been changed from 600 to 570.",
+        "Hammer Brush: Potency has been increased from 500 to 560. Potency increase from the trait Pictomancy Mastery IV has been changed from 520 to 580.",
+        "Polishing Hammer: Potency has been increased from 540 to 580. Potency increase from the trait Pictomancy Mastery IV has been changed from 560 to 600.",
+        "Comet in Black: Potency has been reduced from 870 to 830. Potency increase from the trait Pictomancy Mastery IV has been changed from 980 to 940."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Medica: Area of effect has been increased from 15 to 20 yalms.",
+        "Assize: Area of effect has been increased from 15 to 20 yalms.",
+        "Plenary Indulgence: Area of effect has been increased from 20 to 30 yalms.",
+        "Dia: Potency increase from the trait White Magic Mastery has been changed from 80 to 85. Damage over time potency increase from the trait White Magic Mastery has been changed from 80 to 85."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Whispering Dawn: Area of effect has been increased from 15 to 20 yalms.",
+        "Succor: Area of effect has been increased from 15 to 20 yalms.",
+        "Indomitability: Area of effect has been increased from 15 to 20 yalms.",
+        "Fey Blessing: The visuals has been adjusted to better match the effect range.",
+        "Angel's Whisper: Area of effect has been increased from 15 to 20 yalms.",
+        "Broil IV: Potency increase from the trait Tactician's Mastery has been changed from 310 to 320.",
+        "Concitation: Area of effect has been increased from 15 to 20 yalms.",
+        "Accession: Area of effect has been increased from 15 to 20 yalms."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Helios: Area of effect has been increased from 15 to 20 yalms.",
+        "Aspected Helios: Area of effect has been increased from 15 to 20 yalms.",
+        "Celestial Opposition: Area of effect has been increased from 15 to 20 yalms.",
+        "Horoscope: Area of effect has been increased from 20 to 30 yalms.",
+        "Helios Conjunction: Area of effect has been increased from 15 to 20 yalms."
+      ]
+    },
+    {
+      "job": "Sage",
+      "changes": [
+        "Prognosis: Area of effect has been increased from 15 to 20 yalms.",
+        "Physis: Area of effect has been increased from 15 to 20 yalms.",
+        "Eukrasian Prognosis: Area of effect has been increased from 15 to 20 yalms.",
+        "Ixochole: Area of effect has been increased from 15 to 20 yalms.",
+        "Pepsis: Area of effect has been increased from 15 to 20 yalms.",
+        "Dosis III: Potency increase from the trait Magick Mastery has been changed from 370 to 380.",
+        "Toxikon II: Potency increase from the trait Magick Mastery has been changed from 370 to 380.",
+        "Pneuma: Potency increase from the trait Magick Mastery has been changed from 370 to 380.",
+        "Eukrasian Prognosis II: Area of effect has been increased from 15 to 20 yalms."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "All Jobs",
+      "changes": [
+        "Purify: MP cost increased from 0 to 2,500.",
+        "Purify: Recast time reduced from 24 to 4 seconds.",
+        "Purify: Effect duration of Resilience reduced from 3 to 2 seconds."
+      ]
+    },
+    {
+      "job": "Melee DPS",
+      "changes": [
+        "Bloodbath: Effect \"Increases damage dealt by 10%\" added.",
+        "Bloodbath: Effect converting damage dealt into HP now applies to all damage dealt."
+      ]
+    },
+    {
+      "job": "Paladin",
+      "changes": [
+        "Holy Spirit: Maximum charges increased from 1 to 2.",
+        "Damage Dealt: Increased from -10% to 0% (Frontline)."
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "Damage Taken: Increased from -55% to -50% (Frontline)."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Disesteem: Potency increased from 12,000 to 16,000."
+      ]
+    },
+    {
+      "job": "Gunbreaker",
+      "changes": [
+        "Fated Circle: Effect duration of Nebula reduced from 10 to 8 seconds."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Sky High: Movement speed increased by 50% before landing."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Chiten: Reduction to damage taken increased from 25% to 33%.",
+        "Kuzushi: Effect potency increased from 20% to 25%.",
+        "Mineuchi: Effect potency of Debana increased from 10% to 15%."
+      ]
+    },
+    {
+      "job": "Viper",
+      "changes": [
+        "Backlash: Potency increased from 8,000 to 12,000.",
+        "Backlash: HP absorption increased from 50% to 100% of damage dealt.",
+        "Backlash: Increased potency for enemies within 6 yalms while under the effect of Snake's Bane reduced from doubled to 50%."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Powerful Shot: Reduction to the recast time of Harmonic Arrow changed from 5 to 4 seconds.",
+        "Pitch Perfect: Reduction to the recast time of Harmonic Arrow changed from 5 to 4 seconds.",
+        "Harmonic Arrow: Recast time reduced from 15 to 12 seconds.",
+        "Apex Arrow: Reduction to weaponskill cast time and recast time from the Frontliner's March effect increased from 10% to 15%.",
+        "Final Fantasia: Reduction to weaponskill cast time and recast time from the Final Fantasia effect increased from 10% to 15%."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Blast Charge: Required stacks of Heat to gain the Overheated status reduced from 4 to 3.",
+        "Wildfire: Potency increase for each attack prior to the end of Wildfire effect changed from 4,000 to 4,500.",
+        "Blazing Shot: Action icon will now be illuminated when under the effect of the Overheated status."
+      ]
+    },
+    {
+      "job": "Dancer",
+      "changes": [
+        "Honing Dance: Now increases movement speed by 50%.",
+        "Saber Dance: Potency is no longer reduced after the first enemy.",
+        "Dance of the Dawn: Potency is no longer reduced after the first enemy."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Xenoglossy: When HP is below 50%, portion of damage absorbed as HP increased from 50% to 100%.",
+        "Wreath of Ice: Reduction to damage taken increased from 20% to 25%."
+      ]
+    },
+    {
+      "job": "Pictomancer",
+      "changes": [
+        "Creature Motif: Cast time reduced from 2 to 1.8 seconds; recast time reduced from 3 to 2.8 seconds.",
+        "Pom Motif: Cast time reduced from 2 to 1.8 seconds; recast time reduced from 3 to 2.8 seconds; icon illuminates under Quick Sketch.",
+        "Wing Motif: Cast time reduced from 2 to 1.8 seconds; recast time reduced from 3 to 2.8 seconds; icon illuminates under Quick Sketch.",
+        "Claw Motif: Cast time reduced from 2 to 1.8 seconds; recast time reduced from 3 to 2.8 seconds; icon illuminates under Quick Sketch.",
+        "Maw Motif: Cast time reduced from 2 to 1.8 seconds; recast time reduced from 3 to 2.8 seconds; icon illuminates under Quick Sketch.",
+        "Star Prism: Increase to damage dealt changed from 10% to 15%."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Targeted Tragedy",
+      "description": "Main scenario quest.",
+      "location": "The Backroom (X:6.0 Y:6.3)",
+      "npc_location": "Shale"
+    },
+    {
+      "name": "Dreams of Paradise",
+      "description": "Chronicles of a New Era quest.",
+      "location": "Tuliyollal (X:16.2 Y:3.9)",
+      "npc_location": "Landsguard messenger"
+    },
+    {
+      "name": "Vault Oneiron",
+      "description": "Treasure dungeon accessed via Gargantuaskin Treasure Maps.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Meso Terminal",
+      "description": "New dungeon instance.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "San d'Oria: The Second Walk",
+      "description": "Alliance raid dungeon.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Bayside Battleground",
+      "description": "New Crystalline Conflict arena.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Cosmic Exploration",
+      "description": "System featuring stellar missions and Mech Ops.",
+      "location": "Sinus Ardorum",
+      "npc_location": null
+    },
+    {
+      "name": "Chat Bubbles",
+      "description": "System for displaying messages above characters' heads.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Portrait Mode",
+      "description": "New feature within group pose for vertical framing.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Lattice Planter Partition",
+      "description": "This elegant latticework partition decorated with planters brings new meaning to the word \"wallflower.\"",
+      "image_url": null
+    },
+    {
+      "name": "Far Eastern Odder Otter Seater",
+      "description": "A seat ideal for otters, odder or not, and also preferred by the floor-sitting lot.",
+      "image_url": null
+    },
+    {
+      "name": "Plaid Interior Wall",
+      "description": "An interior wall with a bold black-on-red pattern of intersecting stripes.",
+      "image_url": null
+    },
+    {
+      "name": "Honeycomb Carpet",
+      "description": "Soft flooring made of perfectly tessellating hexagonal panels.",
+      "image_url": null
+    },
+    {
+      "name": "La Noscean Orange Tree",
+      "description": "This tree has been tastefully pruned for ornamental use─but there is naught stopping a theoretical homeowner from eating oranges until they pass out.",
+      "image_url": null
+    },
+    {
+      "name": "Log Partition Door",
+      "description": "A partition and door combination designed in the style of a rustic cottage.",
+      "image_url": null
+    },
+    {
+      "name": "Cabin Bed",
+      "description": "At once recognizable to visitors of Tuliyollal, this bed incorporates woven reeds lovingly raised in Yok Tural.",
+      "image_url": null
+    },
+    {
+      "name": "Cabin Sofa",
+      "description": "An elegant woven seat of the sort commonly found in Tuliyollan dwellings.",
+      "image_url": null
+    },
+    {
+      "name": "Dumbbell Rack",
+      "description": "Storage for one-armed weights of ascending heft, to be lifted until one can lift no more.",
+      "image_url": null
+    },
+    {
+      "name": "Training Bench",
+      "description": "A bench from which to pose what will surely one day become an age-old question: \"Dost thou even lift?\"",
+      "image_url": null
+    },
+    {
+      "name": "Scroll Cabinet",
+      "description": "A wooden shelving structure custom-made for storing scrolls. Comes complete with material to inflate your to-read list.",
+      "image_url": null
+    },
+    {
+      "name": "Minimalist Glade Partition Door",
+      "description": "A simple partition affixed with a single door, designed to complement glade residences.",
+      "image_url": null
+    },
+    {
+      "name": "Minimalist Oasis Partition Door",
+      "description": "A simple partition affixed with a single door, designed to complement oasis residences.",
+      "image_url": null
+    },
+    {
+      "name": "Minimalist Riviera Partition Door",
+      "description": "A simple partition affixed with a single door, designed to complement riviera residences.",
+      "image_url": null
+    },
+    {
+      "name": "Minimalist Highland Partition Door",
+      "description": "A simple partition affixed with a single door, designed to complement highland residences.",
+      "image_url": null
+    },
+    {
+      "name": "Minimalist Hingan Partition Door",
+      "description": "A simple partition affixed with a single door, designed to complement Hingan residences.",
+      "image_url": null
+    },
+    {
+      "name": "Cabin Sideboard",
+      "description": "The expansive shelves of this freestanding furnishing are perfect for displaying souvenirs from across the salt.",
+      "image_url": null
+    },
+    {
+      "name": "Old Fishwife's Paella",
+      "description": "Though this rice dish rich with fresh seafood and vegetables is so good as to be legendary, it is assuredly real and quite hot to the touch.",
+      "image_url": null
+    },
+    {
+      "name": "Everkeep Lamppost",
+      "description": "The neon glow of this Everkeep fixture has been softened for indoor use.",
+      "image_url": null
+    },
+    {
+      "name": "Death's Halo",
+      "description": "An unsettling monument inspired by the rings Necron wielded to such chilling effect. Dark desires seem to emanate from within.",
+      "image_url": null
+    },
+    {
+      "name": "Overhead Studio Light",
+      "description": "This simple fixture casts ample light for portraiture when ceiling lamps fail to suffice.",
+      "image_url": null
+    },
+    {
+      "name": "Cabin Half-moon Rug",
+      "description": "A rug decorated with a traditional Turali pattern and well suited for adorning thresholds.",
+      "image_url": null
+    },
+    {
+      "name": "Training Mat",
+      "description": "A mat to prevent weights damaging the flooring during intense training sessions.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Red Champa Corsage",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Blue Champa Corsage",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Yellow Champa Corsage",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Green Champa Corsage",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Orange Champa Corsage",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Purple Champa Corsage",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "White Champa Corsage",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Black Champa Corsage",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Rainbow Champa Corsage",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Air Cell Hood",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Critical Hit A-1 Tour Knit Cap",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Critical Hit A-2 Tour Knit Cap",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Critical Hit B-1 Tour Headset",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Critical Hit B-2 Tour Headset",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Summertide Formal Jacket",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Summertide Formal Dress",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Air Cell Jacket",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Critical Hit A-1 Tour Cropped Harness",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Critical Hit A-2 Tour Cropped Harness",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Critical Hit B-1 Tour Top",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Critical Hit B-2 Tour Top",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Critical Hit C-1 Tour Jacket",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Critical Hit C-2 Tour Jacket",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Plain Neotunic",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Moogle Neotunic",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Chocobo Neotunic",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Cactuar Neotunic",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Mica Neotunic",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Oversized Plain Neotunic",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Oversized Moogle Neotunic",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Oversized Chocobo Neotunic",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Oversized Cactuar Neotunic",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Oversized Mica Neotunic",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Form-fitting Plain Neotunic",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Form-fitting Moogle Neotunic",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Form-fitting Chocobo Neotunic",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Form-fitting Cactuar Neotunic",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Form-fitting Mica Neotunic",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Air Cell Armlets",
+      "description": "Hands glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Critical Hit A-1 Tour Armlets",
+      "description": "Hands glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Critical Hit A-2 Tour Armlets",
+      "description": "Hands glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Critical Hit B-1 Tour Halfgloves",
+      "description": "Hands glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Critical Hit B-2 Tour Halfgloves",
+      "description": "Hands glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Critical Hit C-1 Tour False Nails",
+      "description": "Hands glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Critical Hit C-2 Tour False Nails",
+      "description": "Hands glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Summertide Formal Slacks",
+      "description": "Legs glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Air Cell Halfslops",
+      "description": "Legs glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Critical Hit A-1 Tour Bottoms",
+      "description": "Legs glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Critical Hit A-2 Tour Bottoms",
+      "description": "Legs glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Critical Hit B-1 Tour Breeches",
+      "description": "Legs glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Critical Hit B-2 Tour Breeches",
+      "description": "Legs glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Critical Hit C-1 Tour Cargo Trousers",
+      "description": "Legs glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Critical Hit C-2 Tour Cargo Trousers",
+      "description": "Legs glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Summertide Formal Shoes",
+      "description": "Feet glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Summertide Formal Dress Shoes",
+      "description": "Feet glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Air Cell Shoes",
+      "description": "Feet glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Critical Hit A-1 Tour Boots",
+      "description": "Feet glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Critical Hit A-2 Tour Boots",
+      "description": "Feet glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Critical Hit B-1 Tour Longboots",
+      "description": "Feet glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Critical Hit B-2 Tour Longboots",
+      "description": "Feet glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Critical Hit C-1 Tour Shoes",
+      "description": "Feet glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Critical Hit C-2 Tour Shoes",
+      "description": "Feet glamour item.",
+      "image_url": null
+    }
+  ]
+}

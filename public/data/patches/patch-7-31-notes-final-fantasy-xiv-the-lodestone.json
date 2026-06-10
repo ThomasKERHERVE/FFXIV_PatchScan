@@ -1,0 +1,471 @@
+{
+  "patch_title": "Patch 7.31 Notes",
+  "patch_date": "2025-09-22",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/c04270777c63cabaa29d718eed4be4c1fca86c27/",
+  "jobs_pve": [
+    {
+      "job": "All Jobs",
+      "changes": [
+        "The minimum aetherpool gear strength enhancement from opening silver coffers has been increased from +1 to +5 (Palace of the Dead).",
+        "The success rate of aetherpool gear strength enhancement when opening silver coffers before floor 101 has been increased (Palace of the Dead).",
+        "Enhancement to aetherpool gear strength when defeating a boss has been increased from +1 to +10 (Palace of the Dead).",
+        "Aetherpool gear strength is now guaranteed to be enhanced upon defeating bosses on every boss floor, and upon completing floor 200 (Palace of the Dead).",
+        "Defeated enemies will now drop sustaining potions (Palace of the Dead)."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "All Jobs",
+      "changes": [
+        "Purify: MP cost has been reduced from 2,500 to 2,000.",
+        "Recuperate: MP cost has been reduced from 2,500 to 2,000."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Salted Earth: Healing over time potency has been increased from 4,000 to 6,000.",
+        "Salted Earth: Damage over time potency has been increased from 4,000 to 6,000.",
+        "Salted Earth: Delay until Salt and Darkness becomes usable has been reduced from 1 to 0.8 seconds.",
+        "Salt and Darkness: Potency has been increased from 4,000 to 6,000."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Dragon Kick: Potency has been increased from 4,500 to 5,500.",
+        "Twin Snakes: Potency has been increased from 5,000 to 6,000.",
+        "Demolish: Potency has been increased from 5,500 to 6,500.",
+        "Leaping Opo: Potency has been increased from 6,500 to 7,000.",
+        "Rising Raptor: Potency has been increased from 7,000 to 7,500.",
+        "Pouncing Coeurl: Potency has been increased from 7,500 to 8,000.",
+        "Phantom Rush: Reduction in potency for enemies after the first target has been removed.",
+        "Earth's Reply: Potency has been increased from 3,000 plus 25% of compiled damage to 4,000 plus 25% of compiled damage.",
+        "Earth's Reply: Cure potency has been increased from 6,000 plus 50% of compiled damage to 8,000 plus 50% of compiled damage."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Geirskogul: Increase to damage suffered caused by Life of the Dragon has been reduced from 25% to 15%."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Forked Raiju: Fleeting Raiju Ready effect duration has been reduced from 10 to 5 seconds."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Meikyo Shisui: Meikyo Shisui effect duration has been reduced from 3 to 2 seconds."
+      ]
+    },
+    {
+      "job": "Viper",
+      "changes": [
+        "Backlash: Amount of damage dealt absorbed as HP has been reduced from 100% to 50%."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Encore of Light: Reduction of target's MP has been reduced from 5,000 to 4,000."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Maximum HP: Maximum HP has been increased from 57,000 to 58,500.",
+        "Scattergun: Potency has been increased from 6,000 to 8,000."
+      ]
+    },
+    {
+      "job": "Dancer",
+      "changes": [
+        "Fountain: Potency has been increased from 6,000 to 7,000.",
+        "Fountainfall: Potency has been increased from 8,000 to 9,000.",
+        "Fan Dance: Potency has been increased from 4,000 to 6,000."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Xenoglossy: Amount of HP absorbed when player HP is above 50% has been reduced from 100% to 50%.",
+        "Wreath of Ice: Reduction to damage taken has been reduced from 25% to 20%."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Necrotize: Potency has been increased from 4,000 to 5,000."
+      ]
+    },
+    {
+      "job": "Pictomancer",
+      "changes": [
+        "Maximum HP: Maximum HP has been reduced from 55,500 to 54,000.",
+        "Smudge: Recast time has been increased from 12 to 15 seconds."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Miracle of Nature: Reduction of target's MP has been reduced from 2,500 to 1,000.",
+        "Afflatus Purgation: Potency has been reduced from 20,000 to 16,000."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Maximum HP: Maximum HP has been reduced from 55,500 to 54,000."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Celestial River: No longer reduces healing potency of nearby enemies by 30%."
+      ]
+    },
+    {
+      "job": "Sage",
+      "changes": [
+        "Phlegma III: Potency has been increased from 8,000 to 10,000.",
+        "Psyche: Potency for enemies more than 3 yalms away has been increased from 6,000 to 8,000."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Pilgrim's Traverse",
+      "description": "A new deep dungeon scheduled for release in Patch 7.35.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Phaenna",
+      "description": "The next destination for the Cosmic Exploration Initiative.",
+      "location": "Cosmic Exploration / Phaenna",
+      "npc_location": null
+    },
+    {
+      "name": "Go Forth, Brave Explorers",
+      "description": "Cosmic exploration quest.",
+      "location": "Sinus Ardorum (X:20.4 Y:20.0)",
+      "npc_location": "Searchingway"
+    },
+    {
+      "name": "The Brightest Star",
+      "description": "Cosmic exploration quest.",
+      "location": "Phaenna (X:27.2 Y:13.8)",
+      "npc_location": "Searchingway"
+    },
+    {
+      "name": "A Manager's Discernment",
+      "description": "Cosmic exploration quest.",
+      "location": "Phaenna (X:28.4 Y:12.7)",
+      "npc_location": "Mumukko"
+    },
+    {
+      "name": "Perspective Reflected",
+      "description": "Cosmic exploration quest.",
+      "location": "Phaenna (X:29.1 Y:13.6)",
+      "npc_location": "Ishgardian Glassworker"
+    },
+    {
+      "name": "Pilot Wanted",
+      "description": "Cosmic exploration quest.",
+      "location": "Phaenna (X:26.1 Y:12.5)",
+      "npc_location": "Vacuum Suit Specialist"
+    },
+    {
+      "name": "A Manager's Delegation",
+      "description": "Cosmic exploration quest.",
+      "location": "Phaenna (X:28.4 Y:12.7)",
+      "npc_location": "Mumukko"
+    },
+    {
+      "name": "Keeping the Old Ways Alive",
+      "description": "Phantom weapon enhancement quest.",
+      "location": "The Phantom Village (X:6.6 Y:7.1)",
+      "npc_location": "Lydirceil"
+    },
+    {
+      "name": "Aether, Aether, Everywhere",
+      "description": "Phantom weapon enhancement quest.",
+      "location": "The Phantom Village (X:6.6 Y:7.1)",
+      "npc_location": "Lydirceil"
+    },
+    {
+      "name": "Wrought by Hands Phantasmal",
+      "description": "Phantom weapon enhancement quest.",
+      "location": "The Phantom Village (X:6.6 Y:7.1)",
+      "npc_location": "Lydirceil"
+    },
+    {
+      "name": "Inconceivably Further Hildibrand Adventures",
+      "description": "Sidequests scheduled for release in Patch 7.35.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Yok Huy Allied Society Quests",
+      "description": "Allied society quests scheduled for release in Patch 7.35.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Cosmic Exploration Initiative",
+      "description": "A system for participating in stellar missions and projects on Phaenna, including mech ops and stellar successes.",
+      "location": "Phaenna",
+      "npc_location": null
+    },
+    {
+      "name": "Phantom Weapon Enhancement",
+      "description": "A battle system feature allowing players to enhance phantom weapons through quests.",
+      "location": "The Phantom Village",
+      "npc_location": "Lydirceil"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Docking Station Cover",
+      "description": "A freestanding roof to shelter one's rover from natural hazards.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/L/EbtcXqPUGzsVYdi23FpUR25oH4.png"
+    },
+    {
+      "name": "Cosmic Circumferbench",
+      "description": "A marvel of space-saving public infrastructure, this lamppost incorporates 360-degree seating area.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/_/45sv0DETIHyh_gl2FyLgD6kUJE.png"
+    },
+    {
+      "name": "Cosmoseat",
+      "description": "A futuristic bench developed for use on distant stars. Though visually appealing, its unyielding surface has led more than one overworked initiative member to question whether the future must needs be \"such a pain in the arse.\"",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/M/5T9l7AE_cSDlsD4EM4rjEQRgCE.png"
+    },
+    {
+      "name": "Cosmokitchen Partition",
+      "description": "This futuristic partition incorporates a compact pantry and sink, as well as a helpful memo reminding users that even in the great expanse, everyone can smell your unwashed dishes.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/v/oxRQz2cT8riqV5VLCu2-nADVkE.png"
+    },
+    {
+      "name": "Portable Exoterminal",
+      "description": "Developed by the Cosmic Exploration Initiative, this device was designed for the purpose of easily sending mass updates to exotablets whether at camp or in the field─though some Loporrits have been caught red-pawed using it to design frivolous games.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/v/hyXqlwktN4v0EssRTzkbMf_7OQ.png"
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Phantom Sword Penumbrae Replica",
+      "description": "Gladiator's Arm, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Bardiche Penumbrae Replica",
+      "description": "Marauder's Arm, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Guillotine Penumbrae Replica",
+      "description": "Dark Knight's Arm, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Bayonet Penumbrae Replica",
+      "description": "Gunbreaker's Arm, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Replica Phantom Knuckles Penumbrae",
+      "description": "Pugilist's Arm, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Spear Penumbrae Replica",
+      "description": "Lancer's Arm, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Blade Penumbrae Replica",
+      "description": "Samurai's Arm, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Phantom War Scythe Penumbrae Replica",
+      "description": "Reaper's Arm, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Replica Phantom Cleavers Penumbrae",
+      "description": "Rogue's Arm, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Replica Phantom Twinfangs Penumbrae",
+      "description": "Viper's Arm, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Harp Bow Penumbrae Replica",
+      "description": "Archer's Arm, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Arquebus Penumbrae Replica",
+      "description": "Machinist's Arm, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Replica Phantom Terpna Penumbrae",
+      "description": "Dancer's Arm, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Staff Penumbrae Replica",
+      "description": "Two-handed Thaumaturge's Arm, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Index Penumbrae Replica",
+      "description": "Arcanist's Grimoire, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Rapier Penumbrae Replica",
+      "description": "Red Mage's Arm, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Flat Brush Penumbrae Replica",
+      "description": "Pictomancer's Arm, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Crook Penumbrae Replica",
+      "description": "Two-handed Conjurer's Arm, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Codex Penumbrae Replica",
+      "description": "Scholar's Arm, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Star Globe Penumbrae Replica",
+      "description": "Astrologian's Arm, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Replica Phantom Pendulums Penumbrae",
+      "description": "Sage's Arm, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Phantom Kite Shield Penumbrae Replica",
+      "description": "Shield, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Cosmic Saw Replica",
+      "description": "Carpenter's Primary Tool, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Cosmic Cross-pein Hammer Replica",
+      "description": "Blacksmith's Primary Tool, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Cosmic Raising Hammer Replica",
+      "description": "Armorer's Primary Tool, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Cosmic Mallet Replica",
+      "description": "Goldsmith's Primary Tool, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Cosmic Round Knife Replica",
+      "description": "Leatherworker's Primary Tool, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Cosmic Needle Replica",
+      "description": "Weaver's Primary Tool, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Cosmic Alembic Replica",
+      "description": "Alchemist's Primary Tool, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Cosmic Frypan Replica",
+      "description": "Culinarian's Primary Tool, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Cosmic Pickaxe Replica",
+      "description": "Miner's Primary Tool, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Cosmic Hatchet Replica",
+      "description": "Botanist's Primary Tool, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Cosmic Fishing Rod Replica",
+      "description": "Fisher's Primary Tool, Item Level: 1 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Star Captain Hat",
+      "description": "Head, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Star Pilot Helm",
+      "description": "Head, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Star Captain Coat",
+      "description": "Body, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Star Pilot Suit",
+      "description": "Body, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Star Captain Gloves",
+      "description": "Hands, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Star Pilot Gloves",
+      "description": "Hands, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Star Captain Trousers",
+      "description": "Legs, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Star Captain Boots",
+      "description": "Feet, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Star Pilot Boots",
+      "description": "Feet, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    }
+  ]
+}

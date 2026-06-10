@@ -1,0 +1,220 @@
+{
+  "patch_title": "Patch 6.35 Notes",
+  "patch_date": "2023-03-14",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/549b10141c2add85f11595f5ba39127cc0433327/",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Eureka Orthos",
+      "description": "A new deep dungeon with ever-changing architecture where players start at level 81 and progress to 90.",
+      "location": "Mor Dhona",
+      "npc_location": "Khatun (Mor Dhona X:34.8 Y:19.2)"
+    },
+    {
+      "name": "Delve into Myth",
+      "description": "Side quest to unlock Eureka Orthos.",
+      "location": "Mor Dhona (X:21.8 Y:8.1)",
+      "npc_location": "Koh Rabntah"
+    },
+    {
+      "name": "Rage Extinguished",
+      "description": "Side quest related to Eureka Orthos progression.",
+      "location": "Mor Dhona (X:34.7 Y:19.3)",
+      "npc_location": "Koh Rabntah"
+    },
+    {
+      "name": "Orthos Unveiled",
+      "description": "Side quest related to Eureka Orthos progression.",
+      "location": "Mor Dhona (X:34.7 Y:19.3)",
+      "npc_location": "Koh Rabntah"
+    },
+    {
+      "name": "The Spectacle of Inspection",
+      "description": "Continuation of the Somehow Further Hildibrand Adventures.",
+      "location": "Radz-at-Han (X:11.9 Y:11.1)",
+      "npc_location": "Delion"
+    },
+    {
+      "name": "Generational Bonding",
+      "description": "Continuation of the Somehow Further Hildibrand Adventures.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Well-oiled",
+      "description": "Continuation of the Manderville weapon quest series.",
+      "location": "Radz-at-Han (X:12.0 Y:7.1)",
+      "npc_location": "Gerolt"
+    },
+    {
+      "name": "An Original Improvement",
+      "description": "Quest to unlock the Splendorous tools enhancement series.",
+      "location": "Crystarium (X:7.8 Y:11.4)",
+      "npc_location": "Chora-Zoi"
+    },
+    {
+      "name": "Must Be Dreaming(way)",
+      "description": "Tribal main quest to unlock the Loporrit tribal quests.",
+      "location": "Old Sharlayan (X:11.7 Y:10.9)",
+      "npc_location": "Dreamingway"
+    },
+    {
+      "name": "Quest Sync",
+      "description": "Automatic level adjustment system for Loporrit tribal quests.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Tribal Daily Quests (Loporrits)",
+      "description": "Daily quests for the Loporrit tribe that utilize the quest sync system.",
+      "location": "Mare Lamentorum (X:17.4 Y:15.8)",
+      "npc_location": null
+    },
+    {
+      "name": "Splendorous Tools",
+      "description": "Feature for Disciples of the Hand and Land to craft or gather items to enhance class-specific tools.",
+      "location": "The Crystarium",
+      "npc_location": "Chora-Zoi"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Orthos Display Stand",
+      "description": "An Allagan hologram which depicts a legendary weapon.",
+      "image_url": null
+    },
+    {
+      "name": "Dorpokkur Kiln",
+      "description": "A charming woodstove topped with a decorative dorpokkur, incidentally colored a striking shade of \"burnt.\"",
+      "image_url": null
+    },
+    {
+      "name": "Lalafell Lifter",
+      "description": "Tired of being forgotten in conversation and hitting the edge of the table with your nose? No longer with the Lalafell Lifter, the chair specifically designed to uplift even the smallest of heroes.",
+      "image_url": null
+    },
+    {
+      "name": "Simple Low Table",
+      "description": "A quaint and practical addition to any room.",
+      "image_url": null
+    },
+    {
+      "name": "Allagan Terminal Alpha",
+      "description": "An N-shaped device created to access ancient Allagan systems. Though no longer functional, the light-up display is still hauntingly beautiful.",
+      "image_url": null
+    },
+    {
+      "name": "Allagan Terminal Beta",
+      "description": "An L-shaped device created to access ancient Allagan systems. Though no longer functional, the light-up display is still hauntingly beautiful.",
+      "image_url": null
+    },
+    {
+      "name": "Rainbow Hopping Rug",
+      "description": "A multicolored mat perfect for vigorous and rhythmic bouncing.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Manderville Sword Replica",
+      "description": "Replica Manderville weapon for Gladiator.",
+      "image_url": null
+    },
+    {
+      "name": "Manderville Axe Replica",
+      "description": "Replica Manderville weapon for Marauder.",
+      "image_url": null
+    },
+    {
+      "name": "Manderville Zweihander Replica",
+      "description": "Replica Manderville weapon for Dark Knight.",
+      "image_url": null
+    },
+    {
+      "name": "Manderville Gunblade Replica",
+      "description": "Replica Manderville weapon for Gunbreaker.",
+      "image_url": null
+    },
+    {
+      "name": "Replica Manderville Knuckles",
+      "description": "Replica Manderville weapon for Pugilist.",
+      "image_url": null
+    },
+    {
+      "name": "Manderville Spear Replica",
+      "description": "Replica Manderville weapon for Lancer.",
+      "image_url": null
+    },
+    {
+      "name": "Manderville Samurai Blade Replica",
+      "description": "Replica Manderville weapon for Samurai.",
+      "image_url": null
+    },
+    {
+      "name": "Manderville Scythe Replica",
+      "description": "Replica Manderville weapon for Reaper.",
+      "image_url": null
+    },
+    {
+      "name": "Replica Manderville Knives",
+      "description": "Replica Manderville weapon for Rogue.",
+      "image_url": null
+    },
+    {
+      "name": "Manderville Harp Bow Replica",
+      "description": "Replica Manderville weapon for Archer.",
+      "image_url": null
+    },
+    {
+      "name": "Manderville Revolver Replica",
+      "description": "Replica Manderville weapon for Machinist.",
+      "image_url": null
+    },
+    {
+      "name": "Replica Manderville Chakrams",
+      "description": "Replica Manderville weapon for Dancer.",
+      "image_url": null
+    },
+    {
+      "name": "Manderville Rod Replica",
+      "description": "Replica Manderville weapon for Two-handed Thaumaturge.",
+      "image_url": null
+    },
+    {
+      "name": "Manderville Index Replica",
+      "description": "Replica Manderville weapon for Arcanist.",
+      "image_url": null
+    },
+    {
+      "name": "Manderville Rapier Replica",
+      "description": "Replica Manderville weapon for Red Mage.",
+      "image_url": null
+    },
+    {
+      "name": "Manderville Cane Replica",
+      "description": "Replica Manderville weapon for Two-handed Conjurer.",
+      "image_url": null
+    },
+    {
+      "name": "Manderville Codex Replica",
+      "description": "Replica Manderville weapon for Scholar.",
+      "image_url": null
+    },
+    {
+      "name": "Manderville Torquetum Replica",
+      "description": "Replica Manderville weapon for Astrologian.",
+      "image_url": null
+    },
+    {
+      "name": "Replica Manderville Milpreves",
+      "description": "Replica Manderville weapon for Sage.",
+      "image_url": null
+    },
+    {
+      "name": "Manderville Kite Shield Replica",
+      "description": "Replica Manderville shield.",
+      "image_url": null
+    }
+  ]
+}

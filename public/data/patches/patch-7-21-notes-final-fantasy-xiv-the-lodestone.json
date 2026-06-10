@@ -1,0 +1,150 @@
+{
+  "patch_title": "Patch 7.21 Notes",
+  "patch_date": "2025-04-22",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/6f824223a7e10da7b9b7dfc84f626d10d4df88b3/",
+  "jobs_pve": [
+    {
+      "job": "Bard",
+      "changes": [
+        "The description for the PvE action Barrage listed the incorrect potency for Shadowbite. This was a text-only issue; the potency of the action remains unchanged."
+      ]
+    },
+    {
+      "job": "Sage",
+      "changes": [
+        "Resolved an issue wherein an action that cannot be executed or set to the hotbar appeared in the Actions & Traits window."
+      ]
+    }
+  ],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Cosmic Exploration",
+      "description": "Large-scale gameplay for Disciples of the Hand and Land where players work together to explore uncharted cosmic terrain, establish base camps, and complete missions.",
+      "location": "Sinus Ardorum",
+      "npc_location": null
+    },
+    {
+      "name": "A Cosmic Homecoming",
+      "description": "Quest to unlock Cosmic Exploration.",
+      "location": "Old Sharlayan (X:12.6 Y:13.6)",
+      "npc_location": "Namingway"
+    },
+    {
+      "name": "Passion, Thy Name Is Ardorum",
+      "description": "Cosmic Exploration side quest.",
+      "location": "Sinus Ardorum (X:20.4 Y:20.0)",
+      "npc_location": "Searchingway"
+    },
+    {
+      "name": "A Manager's Patience",
+      "description": "Cosmic Exploration side quest.",
+      "location": "Sinus Ardorum (X:21.6 Y:21.1)",
+      "npc_location": "Mumukko"
+    },
+    {
+      "name": "A Manager's Persistence",
+      "description": "Cosmic Exploration side quest.",
+      "location": "Sinus Ardorum (X:21.6 Y:21.1)",
+      "npc_location": "Mumukko"
+    },
+    {
+      "name": "Cosmic Tools",
+      "description": "A system for class-specific tools for Disciples of the Hand and Land that can be enhanced through research data obtained in Cosmic Exploration.",
+      "location": "Sinus Ardorum",
+      "npc_location": "Researchingway"
+    },
+    {
+      "name": "Sinus Ardorum",
+      "description": "Exploration zone located on the Source's moon, serving as the hub for Cosmic Exploration.",
+      "location": "Mare Lamentorum",
+      "npc_location": "Drivingway (Mare Lamentorum X:21.9 Y:13.2)"
+    },
+    {
+      "name": "Mech Ops",
+      "description": "Large-scale directives in Sinus Ardorum where players participate as pilots or ground support to complete objectives.",
+      "location": "Sinus Ardorum",
+      "npc_location": null
+    },
+    {
+      "name": "Cosmic Exploration Projects",
+      "description": "Large-scale milestones in Cosmic Exploration that change the field and trigger FATE-style collaborative events.",
+      "location": "Sinus Ardorum",
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Stellar Lamppost",
+      "description": "Outdoor Furnishing. Though this piece of illuminating infrastructure has been specially designed to function in the icy vacuum of space, it is still not rated for licking.",
+      "image_url": null
+    },
+    {
+      "name": "Cosmochair",
+      "description": "Furnishing. An interstellar travel-ready seat with a futuristic─yet still appropriately leporine─design.",
+      "image_url": null
+    },
+    {
+      "name": "Drafting Table",
+      "description": "Furnishing. A slanted desk suited for drawing up engineering designs.",
+      "image_url": null
+    },
+    {
+      "name": "Cosmotable",
+      "description": "Table. This furnishing is designed to minimize the possibility of spills in low-gravity environments. Unfortunately, technology capable of compensating entirely for Loporrit error remains far in the future.",
+      "image_url": null
+    },
+    {
+      "name": "Cosmolamp",
+      "description": "Tabletop. An energy-efficient lighting appliance with a design reminiscent of a solar system.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Cosmosuit Helm",
+      "description": "Head piece of the cosmosuit.",
+      "image_url": null
+    },
+    {
+      "name": "Cosmosuit Top",
+      "description": "Body piece of the cosmosuit.",
+      "image_url": null
+    },
+    {
+      "name": "Star Crew Jacket",
+      "description": "Body piece of the star crew set.",
+      "image_url": null
+    },
+    {
+      "name": "Cosmosuit Gloves",
+      "description": "Hands piece of the cosmosuit.",
+      "image_url": null
+    },
+    {
+      "name": "Star Crew Gloves",
+      "description": "Hands piece of the star crew set.",
+      "image_url": null
+    },
+    {
+      "name": "Cosmosuit Bottoms",
+      "description": "Legs piece of the cosmosuit.",
+      "image_url": null
+    },
+    {
+      "name": "Star Crew Trousers",
+      "description": "Legs piece of the star crew set.",
+      "image_url": null
+    },
+    {
+      "name": "Star Crew Boots",
+      "description": "Feet piece of the star crew set.",
+      "image_url": null
+    },
+    {
+      "name": "Cosmosuit Coffer",
+      "description": "A banded chest containing a complete cosmosuit.",
+      "image_url": null
+    }
+  ]
+}

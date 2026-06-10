@@ -1,0 +1,258 @@
+{
+  "patch_title": "Patch 7.11 Notes",
+  "patch_date": "2026-06-10",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/f8506f4808c8db5d061b31eb511dc946902712f4/",
+  "jobs_pve": [
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Cast time of applicable actions has been reduced from 1.44 to 1.32 seconds.",
+        "Spell recast time has been reduced from 2.4 to 2.2 seconds."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Shield Smite: Recast time has been increased from 20 to 24 seconds.",
+        "Imperator: HP restored by Sacred Claim has been reduced from 4,000 to 3,000.",
+        "Holy Sheltron: Barrier strength has been reduced from a heal potency of 10,000 to 8,000.",
+        "Holy Sheltron: The unaspected damage dealt to nearby enemies when the effect expires has been increased from 100% of the remaining barrier potency to 150%."
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "Onslaught: Potency has been increased from 400-4,000 to 500-5,000.",
+        "Orogeny: HP consumed when executed has been reduced from 20% to 10%.",
+        "Orogeny: Potency has been increased from 800-8,000 to 1,000-10,000."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Wind's Reply: Recast time has been reduced from 20 to 16 seconds."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Meikyo Shisui: Effect duration has been reduced from 4 to 3 seconds.",
+        "Tendo Setsugekka: Range has been increased from 5 to 8 yalms.",
+        "Tendo Kaeshi Setsugekka: Range has been increased from 5 to 8 yalms."
+      ]
+    },
+    {
+      "job": "Viper",
+      "changes": [
+        "Bloodcoil: Recast time has been reduced from 16 to 12 seconds.",
+        "Twinfang Bite: Potency has been increased from 3,000 to 4,000.",
+        "Twinblood Bite: Potency has been increased from 3,000 to 4,000.",
+        "Uncoiled Twinfang: Potency has been increased from 3,000 to 4,000.",
+        "Uncoiled Twinblood: Potency has been increased from 3,000 to 4,000."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Wildfire: The number of attack actions needed to cause the pitch to detonate immediately has been reduced from 5 to 4.",
+        "Wildfire: Potency for each attack action landed has been increased from 3,000 to 4,000.",
+        "Full Metal Field: Recast time has been reduced from 40 to 32 seconds."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Wreath of Fire: Additional damage potency has been increased from 4,000 to 4,500.",
+        "Flare Star: Potency has been increased from 16,000 to 18,000.",
+        "Flare Star: Damage over time duration has been increased from 6 to 9 seconds.",
+        "General: Cast time of applicable actions has been reduced from 1.44 to 1.32 seconds.",
+        "General: Spell recast time has been reduced from 2.4 to 2.2 seconds."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Crimson Cyclone: Potency has been increased from 4,000 to 6,000.",
+        "Necrotize: Recast time has been reduced from 12 to 10 seconds."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Embolden: Increase to damage dealt has been reduced from 10% to 8%.",
+        "Embolden: Reduction to damage taken has been reduced from 10% to 8%.",
+        "Displacement: Increase to damage and healing potency of next spell cast has been reduced from 20% to 15%.",
+        "Prefulgence: Potency has been reduced from 12,000 to 10,000.",
+        "Prefulgence: Healing potency on self has been reduced from 12,000 to 10,000.",
+        "Prefulgence: Healing potency on party members has been reduced from 12,000 to 10,000."
+      ]
+    },
+    {
+      "job": "Pictomancer",
+      "changes": [
+        "Creature Motif: Cast time has been reduced from 2.5 to 2 seconds; Recast time reduced from 3.5 to 3 seconds.",
+        "Living Muse: Recast time has been reduced from 20 to 16 seconds.",
+        "Pom Motif: Cast time reduced from 2.5 to 2 seconds; Recast time reduced from 3.5 to 3 seconds.",
+        "Wing Motif: Cast time reduced from 2.5 to 2 seconds; Recast time reduced from 3.5 to 3 seconds.",
+        "Claw Motif: Cast time reduced from 2.5 to 2 seconds; Recast time reduced from 3.5 to 3 seconds.",
+        "Maw Motif: Cast time reduced from 2.5 to 2 seconds; Recast time reduced from 3.5 to 3 seconds.",
+        "Pom Muse: Recast time has been reduced from 20 to 16 seconds.",
+        "Winged Muse: Recast time has been reduced from 20 to 16 seconds.",
+        "Clawed Muse: Recast time has been reduced from 20 to 16 seconds.",
+        "Fanged Muse: Recast time has been reduced from 20 to 16 seconds."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Gravity II: Heavy effect duration has been reduced from 3 to 2 seconds.",
+        "Gravity II (After Double Cast): Heavy effect duration has been reduced from 5 to 3 seconds.",
+        "Macrocosmos: Potency has been reduced from 12,000 to 10,000.",
+        "Macrocosmos: Healing potency granted upon execution has been reduced from 6,000 to 5,000 plus the compiled 25% of damage taken.",
+        "Epicycle: Barrier strength has been reduced from a heal potency of 8,000 to 6,000.",
+        "Lady of Crowns: Healing potency has been reduced from 8,000 to 6,000.",
+        "Lord of Crowns: Potency has been reduced from 8,000 to 6,000."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Futures Rewritten (Ultimate)",
+      "description": "The sixth ultimate duty. A ballad of futures rewritten, depicting a version of the land where the flood of light was thwarted differently.",
+      "location": "Raid Finder",
+      "npc_location": "Tuliyollal (X:11.1 Y:14.6)"
+    },
+    {
+      "name": "Role Quests (Dawntrail): Prologue",
+      "description": "New side story quests added to the game.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Return to Oblivion (Scions & Sinners: Band) Orchestrion Roll",
+      "description": "Music roll for Return to Oblivion (Scions & Sinners: Band). Use to add to your orchestrion list.",
+      "image_url": null
+    },
+    {
+      "name": "A Sundering of Light Orchestrion Roll",
+      "description": "Music roll for A Sundering of Light. Use to add to your orchestrion list.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Ultimate Edenmorn Bastard Sword",
+      "description": "Gladiator's Arm, Item Level: 735 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Edenmorn Battleaxe",
+      "description": "Marauder's Arm, Item Level: 735 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Edenmorn Zweihander",
+      "description": "Dark Knight's Arm, Item Level: 735 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Edenmorn Gunblade",
+      "description": "Gunbreaker's Arm, Item Level: 735 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Edenmorn Sainti",
+      "description": "Pugilist's Arm, Item Level: 735 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Edenmorn Halberd",
+      "description": "Lancer's Arm, Item Level: 735 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Edenmorn Samurai Blade",
+      "description": "Samurai's Arm, Item Level: 735 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Edenmorn Sickle",
+      "description": "Reaper's Arm, Item Level: 735 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Edenmorn Main Gauches",
+      "description": "Rogue's Arm, Item Level: 735 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Edenmorn Twinfangs",
+      "description": "Viper's Arm, Item Level: 735 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Edenmorn Cavalry Bow",
+      "description": "Archer's Arm, Item Level: 735 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Edenmorn Pistol",
+      "description": "Machinist's Arm, Item Level: 735 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Edenmorn Chakrams",
+      "description": "Dancer's Arm, Item Level: 735 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Edenmorn Rod",
+      "description": "Two-handed Thaumaturge's Arm, Item Level: 735 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Edenmorn Index",
+      "description": "Arcanist's Grimoire, Item Level: 735 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Edenmorn Rapier",
+      "description": "Red Mage's Arm, Item Level: 735 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Edenmorn Round Brush",
+      "description": "Pictomancer's Arm, Item Level: 735 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Edenmorn Cane",
+      "description": "Two-handed Conjurer's Arm, Item Level: 735 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Edenmorn Codex",
+      "description": "Scholar's Arm, Item Level: 735 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Edenmorn Torquetum",
+      "description": "Astrologian's Arm, Item Level: 735 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Edenmorn Pendulums",
+      "description": "Sage's Arm, Item Level: 735 / Equipment Level: 100",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Edenmorn Scutum",
+      "description": "Shield, Item Level: 735 / Equipment Level: 100",
+      "image_url": null
+    }
+  ]
+}

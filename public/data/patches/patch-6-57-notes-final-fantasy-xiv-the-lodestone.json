@@ -1,0 +1,83 @@
+{
+  "patch_title": "Patch 6.57 Notes",
+  "patch_date": "2024-02-21",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/b059cefcbd31366a4614b8e93ff1eef1288f6e60/",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Pandæmonium: Anabaseios (Savage)",
+      "description": "Adjustments made to rewards and progression: treasure coffers now always appear with no reduction in rewards, weekly restrictions on rewards and entrance removed, players can proceed to any circle, and the Echo has been added.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Thaleia",
+      "description": "Added to Duty Roulette: Alliance Raids.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Fields of Glory (Shatter)",
+      "description": "Adjustments to win requirements (decreased to 1,600) and data gained from defeating opposing players (increased to 8).",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Scions of the Seventh Dawn",
+      "description": "Main scenario quest reward adjustment (Vesper Bay Aetheryte Tickets increased).",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Back from the Wood",
+      "description": "Main scenario quest reward adjustment (Vesper Bay Aetheryte Tickets increased).",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Black Wolf's Ultimatum",
+      "description": "Main scenario quest reward adjustment (Vesper Bay Aetheryte Tickets increased).",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Stars in the Dark",
+      "description": "Resolved an issue where Temulun's animation did not display correctly during a cutscene.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Island Sanctuary",
+      "description": "System improvement: players can now speak to the felicitous furball for hints regarding visions.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Khloe's Wondrous Tails",
+      "description": "System adjustment: Increased Allagan tomestones of comedy reward from 50 to 300.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Allagan tomestones of comedy",
+      "description": "System adjustment: Weekly limit increased from 450 to 900.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Xbox Series X|S Version Open Beta",
+      "description": "Major feature: Introduction of the game on Xbox Series X|S, including SSO authentication, resolution settings, and Xbox achievement integration.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Old Sharlayan, Radz-at-Han, and Thavnair",
+      "description": "Exploration zones: Additional instances removed.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [],
+  "glamour": []
+}

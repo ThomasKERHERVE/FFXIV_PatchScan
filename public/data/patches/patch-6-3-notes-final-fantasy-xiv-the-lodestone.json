@@ -1,0 +1,754 @@
+{
+  "patch_title": "Patch 6.3",
+  "patch_date": "2023-05-24",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/764840557caa22a8f77550b480aa3c79b2e733d2/",
+  "jobs_pve": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Fight or Flight: Effect changed from 'Increases physical damage dealt by 25%' to 'Increases damage dealt by 25%'; duration reduced from 25 to 20 seconds.",
+        "Riot Blade: Potency reduced from 170 to 120; combo potency reduced from 300 to 280.",
+        "Iron Will: Recast time reduced from 3 to 2 seconds.",
+        "Sheltron: Effect changed from 'Block incoming attacks' to 'Reduces damage taken by 15%'.",
+        "Prominence: MP recovery increased; combo bonus 'Grants Divine Might' added.",
+        "Goring Blade: Revamped as a 700 potency attack that does not share a recast timer; recast time increased to 60 seconds.",
+        "Divine Veil: Barrier effect changed to apply to self and party members near you immediately upon execution.",
+        "Royal Authority: Potency reduced from 130 to 120; combo potency reduced from 420 to 380; combo bonus 'grants Divine Might' added.",
+        "Holy Spirit: Potency increased from 300 to 350; Requiescat potency increased to 650; potency increased to 450 under Divine Might.",
+        "Requiescat: Potency reduced from 400 to 300; max stacks reduced from 5 to 4; effect now includes Confiteor combo actions; now grants 'Confiteor Ready' instead of 'Blade of Faith Ready'.",
+        "Holy Circle: Potency reduced from 130 to 100; potency increased to 200 under Divine Might.",
+        "Atonement: Potency reduced from 420 to 380.",
+        "Confiteor: Potency reduced from 1,000 to 400 (900 under Requiescat); Requiescat no longer ends upon execution; requirement changed to 'Confiteor Ready'.",
+        "Holy Sheltron: Effect changed from 'Block incoming attacks' to 'Reduces damage taken by 15%'.",
+        "Expiacion: Potency increased from 420 to 450; reduced potency for subsequent enemies increased from 50% to 60%.",
+        "Blade of Faith/Truth/Valor: MP cost increased; potency reduced; removed 'Restores MP' effect; Blade of Valor DoT removed.",
+        "Divine Magic Mastery: Combo bonus 'grants Divine Might' added.",
+        "Enhanced Prominence: Acquired at level 72; combo bonus 'grants Divine Might' added.",
+        "Enhanced Divine Veil: Healing effect now applies upon execution.",
+        "Release Iron Will (Level 10): New action added.",
+        "Bulwark (Level 52): New action added.",
+        "Enhanced Requiescat (Level 80): New trait added."
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "Defiance: Recast time reduced from 3 to 2 seconds.",
+        "Shake It Off: Duration increased from 15 to 30 seconds; added heal over time effect (100 cure potency).",
+        "Release Defiance (Level 10): New action added."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Grit: Recast time reduced from 3 to 2 seconds.",
+        "Release Grit (Level 10): New action added."
+      ]
+    },
+    {
+      "job": "Gunbreaker",
+      "changes": [
+        "Royal Guard: Recast time reduced from 3 to 2 seconds.",
+        "Release Royal Guard (Level 10): New action added."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Riddle of Earth: Recast time increased from 30 to 120 seconds; action charges removed; effect changed to flat 20% damage reduction; added heal over time effect (100 cure potency) upon taking damage."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Life Surge: Recast time reduced from 45 to 40 seconds."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Nature's Minne: Recast time increased from 90 to 120 seconds; effect changed to increase HP recovery by 15% for self and nearby party members."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Gauss Round: Potency increased from 120 to 130.",
+        "Hypercharge: Grants 5 stacks of Overheated; duration increased from 8 to 10 seconds.",
+        "Wildfire: Max stacks increased to 6.",
+        "Ricochet: Potency increased from 120 to 130.",
+        "Heated Slug Shot: Combo potency increased from 280 to 300.",
+        "Heated Clean Shot: Combo potency increased from 360 to 380; potency increase trait updated.",
+        "Dismantle (Level 62): New action added."
+      ]
+    },
+    {
+      "job": "Dancer",
+      "changes": [
+        "Curing Waltz: Can now be executed while dancing.",
+        "Shield Samba: Can now be executed while dancing."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Assize: Recast time reduced from 45 to 40 seconds."
+      ]
+    },
+    {
+      "job": "Sage",
+      "changes": [
+        "Phlegma/Phlegma II/Phlegma III: Recast time reduced from 45 to 40 seconds.",
+        "Addersting: Stacks are now granted when Eukrasian Prognosis barrier is completely depleted."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Warrior",
+      "changes": [
+        "Orogeny: HP consumed when executed has been reduced from 20% to 10%."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Salt and Darkness: Bind effect duration has been reduced from 3 to 2 seconds."
+      ]
+    },
+    {
+      "job": "Gunbreaker",
+      "changes": [
+        "Aurora: Healing potency has been increased from 8,000 to 12,000.",
+        "Aurora: Regen potency has been reduced from 4,000 to 3,000."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Shukuchi: Recast time has been increased from 15 to 20 seconds.",
+        "Seiton Tenchu: Death Link duration has been reduced from 5 to 4 seconds."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Final Fantasia: Effect has been changed to apply to self and all party members within a radius of 30 yalms, instead of applying Heroes' Fantasia to nearby party members."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "The Arrow: Effect duration has been increased from 10 to 15 seconds.",
+        "Celestial River: Limit gauge charge time has been reduced from 120 to 105 seconds."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Lapis Manalis",
+      "description": "A new dungeon.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Euphrosyne",
+      "description": "A new alliance raid dungeon.",
+      "location": "Mor Dhona",
+      "npc_location": "Deryk (X:23.9 Y:9.1)"
+    },
+    {
+      "name": "Containment Bay P1T6 (Unreal)",
+      "description": "A new Unreal difficulty trial.",
+      "location": "Idyllshire",
+      "npc_location": "Painfully Ishgardian Man (X:7.0 Y:5.9)"
+    },
+    {
+      "name": "Clockwork Castletown",
+      "description": "A new Crystalline Conflict arena.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Shifting Gymnasion Agonon",
+      "description": "A new instance accessed via treasure maps in Elpis.",
+      "location": "Elpis",
+      "npc_location": null
+    },
+    {
+      "name": "Once More unto the Void",
+      "description": "New main scenario quest.",
+      "location": "Radz-at-Han",
+      "npc_location": "Varshahn (X:4.4 Y:9.8)"
+    },
+    {
+      "name": "Return to the Phantom Realm",
+      "description": "Chronicles of a New Era quest.",
+      "location": "Mor Dhona",
+      "npc_location": "Deryk (X:23.9 Y:9.1)"
+    },
+    {
+      "name": "Shadowed Pasts Once More",
+      "description": "New side story quest.",
+      "location": "Radz-at-Han",
+      "npc_location": "Radiant Scout (X:7.3 Y:9.0)"
+    },
+    {
+      "name": "An Auspicious Opportunity",
+      "description": "Tataru's Grand Endeavor quest.",
+      "location": "Old Sharlayan",
+      "npc_location": "Mehdjina (X:11.8 Y:9.8)"
+    },
+    {
+      "name": "A Far Eastern Yarn",
+      "description": "Island Sanctuary quest.",
+      "location": "Unnamed Island",
+      "npc_location": "Curious Courier (X:12.4 Y:28.7)"
+    },
+    {
+      "name": "That's So Anden",
+      "description": "New custom delivery quest.",
+      "location": "The Crystarium",
+      "npc_location": "Supplicant Sheep (X:9.3 Y:11.3)"
+    },
+    {
+      "name": "Data Center Travel",
+      "description": "System for visiting other data centers.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Duty Support",
+      "description": "System expansion for Heavensward dungeons.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Island Sanctuary",
+      "description": "Major feature additions including new ranks, landmarks, and expedition features.",
+      "location": "Unnamed Island",
+      "npc_location": null
+    },
+    {
+      "name": "Glamour Dresser Updates",
+      "description": "New filtering and search features for glamour.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Portrait & Adventurer Plate Updates",
+      "description": "New accents, poses, and integration features.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Sukiya-zukuri Cottage Walls",
+      "description": "A set of four walls designed for those who wish to transform their estate into a stylish Far Eastern residence with attached onsen. ※Can only be used with cottages on small plots of land.",
+      "image_url": null
+    },
+    {
+      "name": "Sukiya-zukuri House Walls",
+      "description": "A set of four walls designed for those who wish to transform their estate into a stylish Far Eastern residence with attached onsen. ※Can only be used with houses on medium plots of land.",
+      "image_url": null
+    },
+    {
+      "name": "Sukiya-zukuri Mansion Walls",
+      "description": "A set of four walls designed for those who wish to transform their estate into a stylish Far Eastern residence with attached onsen. ※Can only be used with mansions on large plots of land.",
+      "image_url": null
+    },
+    {
+      "name": "Hannish Interior Wall",
+      "description": "An interior wall designed to complement Hannish residences.",
+      "image_url": null
+    },
+    {
+      "name": "Hannish Tile Flooring",
+      "description": "Dark, resplendent tiling detailed in gold.",
+      "image_url": null
+    },
+    {
+      "name": "Hannish Ceiling Lamp",
+      "description": "A hanging light fixture of undeniably Hannish design.",
+      "image_url": null
+    },
+    {
+      "name": "Low Garden Hedge",
+      "description": "A stand of shrubbery cut to optimal height for confounding local Lalafells.",
+      "image_url": null
+    },
+    {
+      "name": "Hannish Lamppost",
+      "description": "A lamppost of steel such as one might see lining a Hannish street.",
+      "image_url": null
+    },
+    {
+      "name": "Lemonade Stand",
+      "description": "When life gives you lemons, create a lemonade empire from but a humble stall like this one.",
+      "image_url": null
+    },
+    {
+      "name": "Stone Garden Wall",
+      "description": "Someone painstakingly fitted these stones into a rustic wall for your garden. You didn't, but somebody did.",
+      "image_url": null
+    },
+    {
+      "name": "Colorful Flower Patch",
+      "description": "A burst of blossoms that will bring a smile to any face.",
+      "image_url": null
+    },
+    {
+      "name": "Simple Fountain",
+      "description": "A basic stone contraption from which water pours forth. May the sound of its splashing soothe unsettled souls.",
+      "image_url": null
+    },
+    {
+      "name": "Jinrikisha",
+      "description": "A Far Eastern cab designed to be manpowered, not bird-powered─and definitely not Namazu-powered.",
+      "image_url": null
+    },
+    {
+      "name": "Smaller Water Otter Fountain",
+      "description": "A water otter fountain that is smaller and somehow odder than the water otter fountain found in island sanctuaries.",
+      "image_url": null
+    },
+    {
+      "name": "Alpine Partition",
+      "description": "This sturdy partition designed in the alpine fashion is partially customizable.",
+      "image_url": null
+    },
+    {
+      "name": "Alpine Partition Door",
+      "description": "A partition with a built-in door designed to complement alpine residences.",
+      "image_url": null
+    },
+    {
+      "name": "Alpine Pillar",
+      "description": "A decorative pillar designed in the alpine fashion.",
+      "image_url": null
+    },
+    {
+      "name": "Hannish Screen",
+      "description": "A resplendent portable partition of Hannish design.",
+      "image_url": null
+    },
+    {
+      "name": "Hannish Bed",
+      "description": "A roomy bed embellished with gold in the Hannish style.",
+      "image_url": null
+    },
+    {
+      "name": "Hannish Chair",
+      "description": "A low-seated chair of Hannish design.",
+      "image_url": null
+    },
+    {
+      "name": "Hannish Bookshelf Partition",
+      "description": "A partition designed in the Hannish fashion, boasting a small library on one side.",
+      "image_url": null
+    },
+    {
+      "name": "Crystal Tower Phasmascape",
+      "description": "This advanced magitek contraption displays the haunting majesty of the Crystal Tower at nighttime.",
+      "image_url": null
+    },
+    {
+      "name": "Urth's Fount Phasmascape",
+      "description": "This advanced magitek contraption displays the electrifying stillness of Urth's Fount.",
+      "image_url": null
+    },
+    {
+      "name": "Rattan Sofa",
+      "description": "A wicker couch painstakingly woven from climbing palm.",
+      "image_url": null
+    },
+    {
+      "name": "Waterfall Partition",
+      "description": "A partition of softly falling water. ※Up to twenty may be placed in a single estate.",
+      "image_url": null
+    },
+    {
+      "name": "Simple Sink",
+      "description": "A small and practical washbasin.",
+      "image_url": null
+    },
+    {
+      "name": "Hannish Round Table",
+      "description": "An intricately patterned round table designed in the Hannish fashion.",
+      "image_url": null
+    },
+    {
+      "name": "Faerie Round Table",
+      "description": "The glass tabletop presents the illusion of solid water, but the claims that faeries assemble here for meetings has yet to be satisfyingly explained.",
+      "image_url": null
+    },
+    {
+      "name": "Charcoal Iron",
+      "description": "This household instrument will smooth the wrinkles from your clothing, thereby smoothing the wrinkles from your forehead. Do not apply directly to the forehead.",
+      "image_url": null
+    },
+    {
+      "name": "Darkest Hourglass",
+      "description": "An old chronometer that measures silence as much as time.",
+      "image_url": null
+    },
+    {
+      "name": "Classical Water Jug",
+      "description": "A simple-yet-handsome pitcher with a timeless design.",
+      "image_url": null
+    },
+    {
+      "name": "Hannish Table Lamp",
+      "description": "As much a decorative display of masterful Hannish metalwork as practical lantern.",
+      "image_url": null
+    },
+    {
+      "name": "Exciting Balloon",
+      "description": "The unblinking stare of this balloon is reminding you what a great time you're having─just like in the Excitatron 6000.",
+      "image_url": null
+    },
+    {
+      "name": "Flower Boucage",
+      "description": "Beautiful addition to home decor or archaic punishment for offending flora? Perhaps it is both.",
+      "image_url": null
+    },
+    {
+      "name": "Timeworn Thaumaturgic Array",
+      "description": "This intimidating set of instruments is mysteriously distilling sinister and arcane liquids all by itself. While this fact is unnerving to say the least, it may be best to let it brew...",
+      "image_url": null
+    },
+    {
+      "name": "Toy Cooking Set",
+      "description": "A whimsical set of chocobo-themed toys guaranteed to thrill any aspiring chef.",
+      "image_url": null
+    },
+    {
+      "name": "Pudding Pudding",
+      "description": "Delicious pudding in the shape of pudding. What's not to understand?",
+      "image_url": null
+    },
+    {
+      "name": "Hannish Pendant Wall Light",
+      "description": "A wall lantern crafted in the Hannish style.",
+      "image_url": null
+    },
+    {
+      "name": "Faerie Door",
+      "description": "This sweet little door is believed to be used by the fae. Where it leads, none may ever know...",
+      "image_url": null
+    },
+    {
+      "name": "Far Eastern Stained Crystal Roundel",
+      "description": "A beautiful, circular pane of stained crystal designed in the style of the Far East.",
+      "image_url": null
+    },
+    {
+      "name": "Enigma Wall Chronometer",
+      "description": "A chronometer devised by the Illuminati, particularly abundant with whirlycogs.",
+      "image_url": null
+    },
+    {
+      "name": "Infernal Archfiend Cloak",
+      "description": "Smoldering with arcane power, this dark tapestry is perpetually warm to the touch. ※One per estate only.",
+      "image_url": null
+    },
+    {
+      "name": "Hannish Rug",
+      "description": "A rectangular rug woven in the Hannish fashion.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Valentione Apron",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Trousers",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Apron Dress",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Skirt",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Royal Seneschal's Chapeau",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Royal Seneschal's Coat",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Royal Seneschal's Fingerless Gloves",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Royal Seneschal's Breeches",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Royal Seneschal's Boots",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Songbird Boots",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Songbird Hat",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Songbird Jacket",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Songbird Gloves",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Songbird Skirt",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Rose Hat",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Rose Waistcoat",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Rose Gloves",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Rose Slacks",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Rose Shoes",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Rose Ribboned Hat",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Rose Dress",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Rose Ribboned Gloves",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Rose Tights",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Rose Heels",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Forget-me-not Hat",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Forget-me-not Waistcoat",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Forget-me-not Gloves",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Forget-me-not Slacks",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Forget-me-not Shoes",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Forget-me-not Ribboned Hat",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Forget-me-not Dress",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Forget-me-not Ribboned Gloves",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Forget-me-not Tights",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Forget-me-not Heels",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Acacia Hat",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Acacia Waistcoat",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Acacia Gloves",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Acacia Slacks",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Acacia Shoes",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Acacia Ribboned Hat",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Acacia Dress",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Acacia Ribboned Gloves",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Acacia Tights",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione Acacia Heels",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Bergsteiger's Hat",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Bergsteiger's Jacket",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Bergsteiger's Halfgloves",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Bergsteiger's Halfslops",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Bergsteiger's Boots",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Dirndl's Hat",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Dirndl's Bodice",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Dirndl's Wrist Torque",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Dirndl's Long Skirt",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Dirndl's Pumps",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Chocobo Mask",
+      "description": "The following items are now dyeable.",
+      "image_url": null
+    },
+    {
+      "name": "Chocobo Suit",
+      "description": "The following items are now dyeable.",
+      "image_url": null
+    },
+    {
+      "name": "Racing Chocobo Mask",
+      "description": "The following items are now dyeable.",
+      "image_url": null
+    },
+    {
+      "name": "Fat Chocobo Head",
+      "description": "The following items are now dyeable.",
+      "image_url": null
+    }
+  ]
+}

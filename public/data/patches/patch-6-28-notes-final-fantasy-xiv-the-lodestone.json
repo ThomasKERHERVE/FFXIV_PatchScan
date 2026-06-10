@@ -1,0 +1,573 @@
+{
+  "patch_title": "Patch 6.28 Notes",
+  "patch_date": "2026-06-10",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/c8900c4aae544f7a013a49553aa104c1961a5c87/",
+  "jobs_pve": [
+    {
+      "job": "Warrior",
+      "changes": [
+        "Fell Cleave: Potency has been increased from 470 to 490.",
+        "Upheaval: Potency has been increased from 360 to 370."
+      ]
+    },
+    {
+      "job": "Reaper",
+      "changes": [
+        "Lemure's Slice: Potency has been increased from 200 to 220.",
+        "Plentiful Harvest: Potency has been changed from 520-800 to 720-1,000.",
+        "Communio: Potency has been increased from 1,000 to 1,100."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Empyreal Arrow: Potency has been increased from 200 to 230."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Heat Blast: Potency has been increased from 180 to 200.",
+        "Drill: Potency has been increased from 580 to 600.",
+        "Air Anchor: Potency has been increased from 580 to 600.",
+        "Wildfire: Potency for each weaponskill landed has been increased from 220 to 240.",
+        "Chain Saw: Potency has been increased from 580 to 600."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Foul: Potency has been increased from 560 to 600.",
+        "Xenoglossy: Potency has been increased from 760 to 800.",
+        "Enochian: Improvement to Enochian's magic damage increase has been changed from 20% to 21%."
+      ]
+    },
+    {
+      "job": "Arcanist / Summoner",
+      "changes": [
+        "Fester: Potency has been increased from 300 to 340.",
+        "Inferno: Potency has been increased from 700 to 750.",
+        "Earthen Fury: Potency has been increased from 700 to 750.",
+        "Aerial Blast: Potency has been increased from 700 to 750."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Enchanted Riposte: Potency has been increased from 220 to 280.",
+        "Enchanted Zwerchhau: Potency has been increased from 100 to 150. Combo potency has been increased from 290 to 340.",
+        "Enchanted Redoublement: Potency has been increased from 100 to 130. Combo potency has been increased from 470 to 500.",
+        "Red Magic Mastery III: Now increases the potency of Enchanted Riposte, Enchanted Zwercchau, and Enchanted Redoublement."
+      ]
+    },
+    {
+      "job": "Sage",
+      "changes": [
+        "Phlegma III: Potency has been increased from 510 to 600."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Eventide: Time required to fill the limit gauge has been increased.",
+        "Eventide: Potency has been changed from 10,000-20,000 to 6,000-24,000."
+      ]
+    },
+    {
+      "job": "Gunbreaker",
+      "changes": [
+        "Draw and Junction: While under the effect of Junction Healer, targets in the area of effect of certain actions will now be healed even when obstructed by objects on the field.",
+        "Nebula: Potency of damage reflected has been increased from 3,000 to 4,000.",
+        "Aurora: Regen potency has been increased from 3,000 to 4,000.",
+        "Relentless Rush: Relentless Shrapnel effect now also reduces target's damage dealt by 4%."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Snap Punch: Potency has been increased from 5,000 to 6,000.",
+        "Demolish: Potency has been increased from 5,000 to 6,000.",
+        "Riddle of Earth: Recast time has been reduced from 30 to 25 seconds."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Shukuchi: Hidden effect duration has been reduced from 5 to 4 seconds.",
+        "Huton: Movement speed effect has been reduced."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Powerful Shot: Movement speed while casting has been increased."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Blast Charge: Movement speed while casting has been increased.",
+        "Bishop Autoturret: To improve clarity of the targeted area of effect, the ground targeting radius has been increased from 1m to 5m.",
+        "Aether Mortar: Duration of effect increasing target's damage taken has been increased from 5 to 7 seconds.",
+        "Aether Mortar: Barrier effect duration has been increased from 5 to 7 seconds."
+      ]
+    },
+    {
+      "job": "Dancer",
+      "changes": [
+        "Honing Dance: Reduction to damage taken has been changed from 20% to 25%."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Soul Resonance: The Apocatastasis effect has been removed."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Ruin III: Potency has been increased from 4,000 to 5,000.",
+        "Astral Impulse: Potency has been increased from 6,000 to 7,500.",
+        "Fountain of Fire: Potency has been increased from 4,000 to 5,000.",
+        "Megaflare: Targets in the area of effect will now take damage even when obstructed by objects on the field."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Magick Barrier: HP recovered via healing actions has been reduced from 20% to 10%.",
+        "Magick Barrier: Effect duration has been reduced from 10 to 8 seconds.",
+        "Frazzle: Reduced HP recovery via healing actions has been changed from 20% to 10%.",
+        "Frazzle: Effect duration has been reduced from 10 to 8 seconds.",
+        "Frazzle: Targets in the area of effect will now be affected even when obstructed by objects on the field."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Afflatus Misery: Range has been reduced from 30 to 25 yalms.",
+        "Miracle of Nature: Range has been reduced from 15 to 10 yalms."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "The Balance: The primary target and nearby party members in the area of effect will now be affected even when obstructed by objects in the field.",
+        "The Bole: The primary target and nearby party members in the area of effect will now be affected even when obstructed by objects in the field.",
+        "The Arrow: The primary target and nearby party members in the area of effect will now be affected even when obstructed by objects in the field."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Sil'dihn Subterrane",
+      "description": "A variant dungeon where ground-targeted actions were experiencing issues during boss battles.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Omicron daily quests",
+      "description": "Daily quests where an issue occurred with objective icons appearing green in the Duty List before completion.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Dynamis",
+      "description": "A new logical data center added for the North American region.",
+      "location": "North American region",
+      "npc_location": null
+    },
+    {
+      "name": "Halicarnassus",
+      "description": "A newly established World.",
+      "location": "Dynamis data center",
+      "npc_location": null
+    },
+    {
+      "name": "Maduin",
+      "description": "A newly established World.",
+      "location": "Dynamis data center",
+      "npc_location": null
+    },
+    {
+      "name": "Marilith",
+      "description": "A newly established World.",
+      "location": "Dynamis data center",
+      "npc_location": null
+    },
+    {
+      "name": "Seraph",
+      "description": "A newly established World.",
+      "location": "Dynamis data center",
+      "npc_location": null
+    },
+    {
+      "name": "Crystalline Conflict",
+      "description": "PvP content entering its fourth season.",
+      "location": null,
+      "npc_location": "Wolves' Den Pier (X:4.9 Y:5.7)"
+    },
+    {
+      "name": "Island Sanctuary",
+      "description": "Feature containing issues related to animal capture and achievement tracking.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [],
+  "glamour": [
+    {
+      "name": "Valerian Terror Knight's Barbut",
+      "description": "Dyeable head gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Terror Knight's Plate Mail",
+      "description": "Dyeable body gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Terror Knight's Gauntlets",
+      "description": "Dyeable hand gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Terror Knight's Trousers",
+      "description": "Dyeable leg gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Terror Knight's Sollerets",
+      "description": "Dyeable foot gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Dragoon's Barbut",
+      "description": "Dyeable head gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Dragoon's Mail",
+      "description": "Dyeable body gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Dragoon's Gauntlets",
+      "description": "Dyeable hand gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Dragoon's Trousers",
+      "description": "Dyeable leg gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Dragoon's Sollerets",
+      "description": "Dyeable foot gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Smuggler's Bandana",
+      "description": "Dyeable head gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Smuggler's Gilet",
+      "description": "Dyeable body gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Smuggler's Halfgloves",
+      "description": "Dyeable hand gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Smuggler's Gaskins",
+      "description": "Dyeable leg gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Smuggler's Highboots",
+      "description": "Dyeable foot gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Fusilier's Pot Helm",
+      "description": "Dyeable head gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Fusilier's Gambison",
+      "description": "Dyeable body gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Fusilier's Halfgloves",
+      "description": "Dyeable hand gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Fusilier's Sarouel",
+      "description": "Dyeable leg gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Fusilier's Boots",
+      "description": "Dyeable foot gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Rogue's Bandana",
+      "description": "Dyeable head gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Rogue's Gilet",
+      "description": "Dyeable body gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Rogue's Halfgloves",
+      "description": "Dyeable hand gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Rogue's Gaskins",
+      "description": "Dyeable leg gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Rogue's Highboots",
+      "description": "Dyeable foot gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Shaman's Temple Chain",
+      "description": "Dyeable head gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Shaman's Chasuble",
+      "description": "Dyeable body gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Shaman's Dress Gloves",
+      "description": "Dyeable hand gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Shaman's Smalls",
+      "description": "Dyeable leg gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Shaman's Boots",
+      "description": "Dyeable foot gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Wizard's Hat",
+      "description": "Dyeable head gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Wizard's Robe",
+      "description": "Dyeable body gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Wizard's Fingerless Halfgloves",
+      "description": "Dyeable hand gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Wizard's Longkilt",
+      "description": "Dyeable leg gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Wizard's Pattens",
+      "description": "Dyeable foot gear",
+      "image_url": null
+    },
+    {
+      "name": "Xenobian Hood",
+      "description": "Dyeable head gear",
+      "image_url": null
+    },
+    {
+      "name": "Xenobian Surcoat",
+      "description": "Dyeable body gear",
+      "image_url": null
+    },
+    {
+      "name": "Xenobian Gauntlets",
+      "description": "Dyeable hand gear",
+      "image_url": null
+    },
+    {
+      "name": "Xenobian Breeches",
+      "description": "Dyeable leg gear",
+      "image_url": null
+    },
+    {
+      "name": "Xenobian Sollerets",
+      "description": "Dyeable foot gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Rune Fencer's Wings",
+      "description": "Dyeable head gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Rune Fencer's Mail",
+      "description": "Dyeable body gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Rune Fencer's Gauntlets",
+      "description": "Dyeable hand gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Rune Fencer's Breeches",
+      "description": "Dyeable leg gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Rune Fencer's Thighboots",
+      "description": "Dyeable foot gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Brawler's Hat",
+      "description": "Dyeable head gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Brawler's Acton",
+      "description": "Dyeable body gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Brawler's Gloves",
+      "description": "Dyeable hand gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Brawler's Bottoms",
+      "description": "Dyeable leg gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Brawler's Thighboots",
+      "description": "Dyeable foot gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Archer's Hat",
+      "description": "Dyeable head gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Archer's Acton",
+      "description": "Dyeable body gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Archer's Gloves",
+      "description": "Dyeable hand gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Archer's Bottoms",
+      "description": "Dyeable leg gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Archer's Boots",
+      "description": "Dyeable foot gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Vedette's Hat",
+      "description": "Dyeable head gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Vedette's Acton",
+      "description": "Dyeable body gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Vedette's Gloves",
+      "description": "Dyeable hand gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Vedette's Bottoms",
+      "description": "Dyeable leg gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Vedette's Thighboots",
+      "description": "Dyeable foot gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Priest's Hat",
+      "description": "Dyeable head gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Priest's Top",
+      "description": "Dyeable body gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Priest's Gloves",
+      "description": "Dyeable hand gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Priest's Bottoms",
+      "description": "Dyeable leg gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Priest's Boots",
+      "description": "Dyeable foot gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Dark Priest's Hat",
+      "description": "Dyeable head gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Dark Priest's Top",
+      "description": "Dyeable body gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Dark Priest's Gloves",
+      "description": "Dyeable hand gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Dark Priest's Bottoms",
+      "description": "Dyeable leg gear",
+      "image_url": null
+    },
+    {
+      "name": "Valerian Dark Priest's Boots",
+      "description": "Dyeable foot gear",
+      "image_url": null
+    }
+  ]
+}

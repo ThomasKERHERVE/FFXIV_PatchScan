@@ -1,0 +1,304 @@
+{
+  "patch_title": "Patch 7.45 Notes",
+  "patch_date": "2026-03-10",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/2e8a10c44121af50ce86e1b605e10608e15f24d6/",
+  "jobs_pve": [
+    {
+      "job": "Reaper",
+      "changes": [
+        "Void Reaping: The trait Melee Mastery III will now increase potency from 540 to 560.",
+        "Void Reaping: Enhanced Void Reaping will now increase potency from 600 to 620.",
+        "Cross Reaping: The trait Melee Mastery III will now increase potency from 540 to 560.",
+        "Cross Reaping: Enhanced Cross Reaping will now increase potency from 600 to 620.",
+        "Grim Reaping: Potency has been increased from 200 to 220.",
+        "Sacrificium: Potency has been increased from 600 to 700."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Monk",
+      "changes": [
+        "Dragon Kick: Potency increased from 5,500 to 6,000.",
+        "Twin Snakes: Potency increased from 6,000 to 6,500.",
+        "Demolish: Potency increased from 6,500 to 7,000.",
+        "Leaping Opo: Potency increased from 7,000 to 8,000.",
+        "Rising Raptor: Potency increased from 7,500 to 8,500.",
+        "Pouncing Coeurl: Potency increased from 8,000 to 9,000.",
+        "Thunderclap: Recast time reduced from 10 to 8 seconds.",
+        "Rising Phoenix: Charge time reduced from 16 to 12 seconds; additional effect 'Grants Fire's Rumination' removed.",
+        "Flint's Reply: Action removed.",
+        "Fire's Reply: Execution no longer requires status effect 'Fire's Rumination'; now has a charge timer of 16 seconds; now a charged action with a maximum of 2 charges."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Chaotic Spring: Potency increased from 8,000 to 9,000."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Bunshin: Potency is no longer halved when executing Forked Raiju or Fleeting Raiju; additional damage will now ignore the effects of Guard when using Assassinate.",
+        "Huton: Increased movement speed effect changed from 25% to 50%.",
+        "Dokumori: Effect duration reduced from 8 to 6 seconds."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Meikyo Shisui: Effect duration increased from 2 to 3 seconds; additional effect 'Increases HP recovered via healing actions by 20%' added.",
+        "Tendo Setsugekka: Additional effect 'Restores own HP' added with a cure potency of 10,000.",
+        "Tendo Kaeshi Setsugekka: Additional effect 'Restores own HP' added with a cure potency of 10,000.",
+        "Damage Dealt (Frontline): Increased from -10% to -5%."
+      ]
+    },
+    {
+      "job": "Reaper",
+      "changes": [
+        "Void Reaping: Potency increased from 10,000 to 12,000; additional effect 'Absorbs 50% of damage dealt as HP' added.",
+        "Cross Reaping: Potency increased from 10,000 to 12,000; additional effect 'Absorbs 50% of damage dealt as HP' added."
+      ]
+    },
+    {
+      "job": "Viper",
+      "changes": [
+        "Bloodcoil: Recast time reduced from 12 to 10 seconds."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Drill: Potency increased from 9,000 to 10,000."
+      ]
+    },
+    {
+      "job": "Dancer",
+      "changes": [
+        "Fan Dance: Effect duration increased from 5 to 6 seconds.",
+        "Curing Waltz: Cure potency increased from 8,000 to 12,000.",
+        "Limit Gauge Fill Rate (Frontline): Increased from +15 seconds to +30 seconds."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Maximum HP: Reduced from 54,000 to 52,500.",
+        "Fire: Potency increased from 6,000 to 6,750.",
+        "Fire III: Potency increased from 8,000 to 9,000.",
+        "Fire IV: Potency increased from 10,000 to 11,250.",
+        "High Fire II: Potency increased from 12,000 to 13,500; potency for enemies after the first increased from 8,000 to 9,000.",
+        "Flare: Potency increased from 12,000 to 13,500.",
+        "Flare Star: Potency for damage over time inflicted by Burns increased from 4,000 to 5,000.",
+        "Frost Star: Potency increased from 15,000 to 20,000."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Miracle of Nature: Additional effect 'Reduces MP by 1,000' removed; additional effect 'Increases target's damage taken by 20%' added."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Maximum HP: Reduced from 54,000 to 52,500.",
+        "Gravity II: Recast time reduced from 20 to 16 seconds; potency increased from 7,500 to 8,000; potency after executing Double Cast increased from 7,500 to 8,000.",
+        "Aspected Benefic: Barrier absorption of Nocturnal Benefic increased from 4,000 to 6,000."
+      ]
+    },
+    {
+      "job": "Paladin",
+      "changes": [
+        "Damage Taken (Frontline): Increased from -50% to -45%."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Damage Taken (Frontline): Reduced from -38% to -45%."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "The Merchant's Tale",
+      "description": "A variant dungeon where players explore branching paths and engage in boss fights dependent on player choices.",
+      "location": null,
+      "npc_location": "Old Sharlayan (X:11.9 Y:13.3)"
+    },
+    {
+      "name": "The Merchant's Tale (Advanced)",
+      "description": "A free-form series of battles against stronger iterations of bosses from The Merchant's Tale, which can be challenged in any order.",
+      "location": null,
+      "npc_location": "Old Sharlayan (X:11.9 Y:13.3)"
+    },
+    {
+      "name": "Another Merchant's Tale",
+      "description": "A challenging four-player criterion dungeon featuring a linear gauntlet of enhanced bosses with restricted variant actions.",
+      "location": null,
+      "npc_location": "Old Sharlayan (X:11.9 Y:13.3)"
+    },
+    {
+      "name": "A Spellbinding Read",
+      "description": "Sidequest required to unlock the variant dungeon The Merchant's Tale.",
+      "location": "Old Sharlayan (X:12.0 Y:13.3)",
+      "npc_location": "Old Sharlayan (X:11.9 Y:13.3)"
+    },
+    {
+      "name": "Inconceivably Further Hildibrand Adventures",
+      "description": "A new series of side story quests.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "A Need for Speed",
+      "description": "Sidequest required to progress Inconceivably Further Hildibrand Adventures.",
+      "location": "Solution Nine (X:17.0 Y:18.3)",
+      "npc_location": "Solution Nine (X:17.0 Y:18.3)"
+    },
+    {
+      "name": "V&C Dungeon Finder",
+      "description": "A system for accessing, configuring, and managing Variant and Criterion dungeons.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Party Composition Bonus",
+      "description": "A system in Another Merchant's Tale that grants a damage bonus based on party role composition.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Field Instances",
+      "description": "Implementation of multiple instances for Yak T'el and a new area to reduce server congestion.",
+      "location": "Yak T'el",
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Corvosi Crystal",
+      "description": "Outdoor Furnishing. A crystal so royally purple, no sumptuous mansion of untold riches would truly be complete without one. Preferably two.",
+      "image_url": null
+    },
+    {
+      "name": "Corvosi Sofa",
+      "description": "Furnishing. Lounging upon this luxurious sofa, you shall want only for a cup of sweet Corvosi tea.",
+      "image_url": null
+    },
+    {
+      "name": "Corvosi Screen",
+      "description": "Furnishing. An austere screen designed to complement Corvosi residences. Affords a certain sense of ennui.",
+      "image_url": null
+    },
+    {
+      "name": "Corvosi Fan",
+      "description": "Furnishing. This feathered fan is known to signify status among Corvosi nobles.",
+      "image_url": null
+    },
+    {
+      "name": "Imitation Corvosi Shisha",
+      "description": "Tabletop. Regrettably, this nonfunctional replica cannot produce strange and colorful smoke of any kind.",
+      "image_url": null
+    },
+    {
+      "name": "Purple Corvosi Carpet",
+      "description": "Rug. This vibrant purple carpet is sure to make a captivating centerpiece in any room.",
+      "image_url": null
+    },
+    {
+      "name": "Green Corvosi Carpet",
+      "description": "Rug. This soothing green carpet is sure to make a captivating centerpiece in any room.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Story-lover's Bandana",
+      "description": "Head piece",
+      "image_url": null
+    },
+    {
+      "name": "Story-spinner's Headdress",
+      "description": "Head piece",
+      "image_url": null
+    },
+    {
+      "name": "Story-lover's Top",
+      "description": "Body piece",
+      "image_url": null
+    },
+    {
+      "name": "Story-spinner's Chestwrap",
+      "description": "Body piece",
+      "image_url": null
+    },
+    {
+      "name": "Story-lover's Armlets",
+      "description": "Hands piece",
+      "image_url": null
+    },
+    {
+      "name": "Story-spinner's Chaplets",
+      "description": "Hands piece",
+      "image_url": null
+    },
+    {
+      "name": "Story-lover's Sarouel",
+      "description": "Legs piece",
+      "image_url": null
+    },
+    {
+      "name": "Story-spinner's Sarouel",
+      "description": "Legs piece",
+      "image_url": null
+    },
+    {
+      "name": "Story-lover's Sandals",
+      "description": "Feet piece",
+      "image_url": null
+    },
+    {
+      "name": "Story-spinner's Sandals",
+      "description": "Feet piece",
+      "image_url": null
+    },
+    {
+      "name": "Earrings of the Sea-folk",
+      "description": "Earrings",
+      "image_url": null
+    },
+    {
+      "name": "Collar of the Sea-folk",
+      "description": "Necklace",
+      "image_url": null
+    },
+    {
+      "name": "Bracelets of the Sea-folk",
+      "description": "Bracelets",
+      "image_url": null
+    },
+    {
+      "name": "Ring of the Sea-folk",
+      "description": "Ring",
+      "image_url": null
+    },
+    {
+      "name": "Corvosi Parasol",
+      "description": "Fashion accessory",
+      "image_url": null
+    },
+    {
+      "name": "Comfortable Eye Mask",
+      "description": "Facewear (unlocked via 'The Faces We Wear - Comfortable Eye Mask')",
+      "image_url": null
+    },
+    {
+      "name": "Dark Glasses",
+      "description": "Facewear (unlocked via 'The Faces We Wear - Dark Glasses')",
+      "image_url": null
+    }
+  ]
+}
