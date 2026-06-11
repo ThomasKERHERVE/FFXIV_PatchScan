@@ -1,18 +1,13 @@
 [
   {
-    "title": "Patch 7.5 Notes",
-    "date": "2026-05-13",
-    "file": "patch-7-5-notes-final-fantasy-xiv-the-lodestone.json"
-  },
-  {
     "title": "Patch 7.51 Notes",
     "date": "2026-06-09",
     "file": "patch-7-51-notes-final-fantasy-xiv-the-lodestone.json"
   },
   {
-    "title": "Patch 7.41 Notes",
-    "date": "2026-02-03",
-    "file": "patch-7-41-notes-final-fantasy-xiv-the-lodestone.json"
+    "title": "Patch 7.5 Notes",
+    "date": "2026-05-13",
+    "file": "patch-7-5-notes-final-fantasy-xiv-the-lodestone.json"
   },
   {
     "title": "Patch 7.45 Notes",
@@ -20,14 +15,14 @@
     "file": "patch-7-45-notes-final-fantasy-xiv-the-lodestone.json"
   },
   {
-    "title": "Patch 7.3 Notes",
-    "date": "2025-08-12",
-    "file": "patch-7-3-notes-final-fantasy-xiv-the-lodestone.json"
+    "title": "Patch 7.41 Notes",
+    "date": "2026-02-03",
+    "file": "patch-7-41-notes-final-fantasy-xiv-the-lodestone.json"
   },
   {
-    "title": "Patch 7.31 Notes",
-    "date": "2025-09-22",
-    "file": "patch-7-31-notes-final-fantasy-xiv-the-lodestone.json"
+    "title": "Patch 7.38 Notes",
+    "date": "2025-11-25",
+    "file": "patch-7-38-notes-final-fantasy-xiv-the-lodestone.json"
   },
   {
     "title": "Patch 7.35 Notes",
@@ -35,19 +30,14 @@
     "file": "patch-7-35-notes-final-fantasy-xiv-the-lodestone.json"
   },
   {
-    "title": "Patch 7.38 Notes",
-    "date": "2026-06-10",
-    "file": "patch-7-38-notes-final-fantasy-xiv-the-lodestone.json"
+    "title": "Patch 7.31 Notes",
+    "date": "2025-09-22",
+    "file": "patch-7-31-notes-final-fantasy-xiv-the-lodestone.json"
   },
   {
-    "title": "Patch 7.2 Notes",
-    "date": "2025-04-01",
-    "file": "patch-7-2-notes-final-fantasy-xiv-the-lodestone.json"
-  },
-  {
-    "title": "Patch 7.21 Notes",
-    "date": "2025-04-22",
-    "file": "patch-7-21-notes-final-fantasy-xiv-the-lodestone.json"
+    "title": "Patch 7.3 Notes",
+    "date": "2025-08-12",
+    "file": "patch-7-3-notes-final-fantasy-xiv-the-lodestone.json"
   },
   {
     "title": "Patch 7.25 Notes",
@@ -55,13 +45,33 @@
     "file": "patch-7-25-notes-final-fantasy-xiv-the-lodestone.json"
   },
   {
+    "title": "Patch 7.18",
+    "date": "2025-05-13",
+    "file": "patch-7-18-notes-final-fantasy-xiv-the-lodestone.json"
+  },
+  {
+    "title": "Patch 7.21 Notes",
+    "date": "2025-04-22",
+    "file": "patch-7-21-notes-final-fantasy-xiv-the-lodestone.json"
+  },
+  {
+    "title": "Patch 7.16 Notes",
+    "date": "2025-04-15",
+    "file": "patch-7-16-notes-final-fantasy-xiv-the-lodestone.json"
+  },
+  {
     "title": "Patch 7.1 Notes",
     "date": "2025-04-08",
     "file": "patch-7-1-notes-final-fantasy-xiv-the-lodestone.json"
   },
   {
+    "title": "Patch 7.2 Notes",
+    "date": "2025-04-01",
+    "file": "patch-7-2-notes-final-fantasy-xiv-the-lodestone.json"
+  },
+  {
     "title": "Patch 7.11 Notes",
-    "date": "2026-06-10",
+    "date": "2025-01-21",
     "file": "patch-7-11-notes-final-fantasy-xiv-the-lodestone.json"
   },
   {
@@ -70,19 +80,9 @@
     "file": "patch-7-15-notes-final-fantasy-xiv-the-lodestone.json"
   },
   {
-    "title": "Patch 7.16 Notes",
-    "date": "2026-06-10",
-    "file": "patch-7-16-notes-final-fantasy-xiv-the-lodestone.json"
-  },
-  {
-    "title": "Patch 7.18",
-    "date": "2026-06-10",
-    "file": "patch-7-18-notes-final-fantasy-xiv-the-lodestone.json"
-  },
-  {
-    "title": "Patch 7.0 Notes",
-    "date": "2024-06-29",
-    "file": "patch-7-0-notes-final-fantasy-xiv-the-lodestone.json"
+    "title": "Patch 7.05 Notes",
+    "date": "2024-08-01",
+    "file": "patch-7-05-notes-final-fantasy-xiv-the-lodestone.json"
   },
   {
     "title": "Patch 7.01 Notes",
@@ -90,24 +90,9 @@
     "file": "patch-7-01-notes-final-fantasy-xiv-the-lodestone.json"
   },
   {
-    "title": "Patch 7.05 Notes",
-    "date": "2024-08-01",
-    "file": "patch-7-05-notes-final-fantasy-xiv-the-lodestone.json"
-  },
-  {
-    "title": "Patch 6.5 Notes",
-    "date": "2023-10-10",
-    "file": "patch-6-5-notes-final-fantasy-xiv-the-lodestone.json"
-  },
-  {
-    "title": "Patch 6.55 Notes",
-    "date": "2024-01-23",
-    "file": "patch-6-55-notes-final-fantasy-xiv-the-lodestone.json"
-  },
-  {
-    "title": "Patch 6.57 Notes",
-    "date": "2024-02-21",
-    "file": "patch-6-57-notes-final-fantasy-xiv-the-lodestone.json"
+    "title": "Patch 7.0 Notes",
+    "date": "2024-06-28",
+    "file": "patch-7-0-notes-final-fantasy-xiv-the-lodestone.json"
   },
   {
     "title": "Patch 6.58 Notes",
@@ -115,9 +100,24 @@
     "file": "patch-6-58-notes-final-fantasy-xiv-the-lodestone.json"
   },
   {
-    "title": "Patch 6.4 Notes",
-    "date": "2023-06-06",
-    "file": "patch-6-4-notes-final-fantasy-xiv-the-lodestone.json"
+    "title": "Patch 6.57 Notes",
+    "date": "2024-02-21",
+    "file": "patch-6-57-notes-final-fantasy-xiv-the-lodestone.json"
+  },
+  {
+    "title": "Patch 6.55 Notes",
+    "date": "2024-01-23",
+    "file": "patch-6-55-notes-final-fantasy-xiv-the-lodestone.json"
+  },
+  {
+    "title": "Patch 6.5 Notes",
+    "date": "2023-10-10",
+    "file": "patch-6-5-notes-final-fantasy-xiv-the-lodestone.json"
+  },
+  {
+    "title": "Patch 6.48 Notes",
+    "date": "2023-09-05",
+    "file": "patch-6-48-notes-final-fantasy-xiv-the-lodestone.json"
   },
   {
     "title": "Patch 6.45 Notes",
@@ -125,24 +125,9 @@
     "file": "patch-6-45-notes-final-fantasy-xiv-the-lodestone.json"
   },
   {
-    "title": "Patch 6.48 Notes",
-    "date": "2026-06-10",
-    "file": "patch-6-48-notes-final-fantasy-xiv-the-lodestone.json"
-  },
-  {
-    "title": "Patch 6.3",
-    "date": "2023-05-24",
-    "file": "patch-6-3-notes-final-fantasy-xiv-the-lodestone.json"
-  },
-  {
-    "title": "Patch 6.31 Notes",
-    "date": "2023-02-07",
-    "file": "patch-6-31-notes-final-fantasy-xiv-the-lodestone.json"
-  },
-  {
-    "title": "Patch 6.35 Notes",
-    "date": "2023-03-14",
-    "file": "patch-6-35-notes-final-fantasy-xiv-the-lodestone.json"
+    "title": "Patch 6.4 Notes",
+    "date": "2023-06-06",
+    "file": "patch-6-4-notes-final-fantasy-xiv-the-lodestone.json"
   },
   {
     "title": "Patch 6.38 Notes",
@@ -150,9 +135,24 @@
     "file": "patch-6-38-notes-final-fantasy-xiv-the-lodestone.json"
   },
   {
-    "title": "Patch 6.21 Notes",
-    "date": "2022-09-16",
-    "file": "patch-6-21-notes-final-fantasy-xiv-the-lodestone.json"
+    "title": "Patch 6.35 Notes",
+    "date": "2023-03-14",
+    "file": "patch-6-35-notes-final-fantasy-xiv-the-lodestone.json"
+  },
+  {
+    "title": "Patch 6.31 Notes",
+    "date": "2023-02-07",
+    "file": "patch-6-31-notes-final-fantasy-xiv-the-lodestone.json"
+  },
+  {
+    "title": "Patch 6.3",
+    "date": "2023-01-10",
+    "file": "patch-6-3-notes-final-fantasy-xiv-the-lodestone.json"
+  },
+  {
+    "title": "Patch 6.28 Notes",
+    "date": "2022-11-01",
+    "file": "patch-6-28-notes-final-fantasy-xiv-the-lodestone.json"
   },
   {
     "title": "Patch 6.25",
@@ -160,18 +160,18 @@
     "file": "patch-6-25-notes-final-fantasy-xiv-the-lodestone.json"
   },
   {
-    "title": "Patch 6.28 Notes",
-    "date": "2026-06-10",
-    "file": "patch-6-28-notes-final-fantasy-xiv-the-lodestone.json"
-  },
-  {
-    "title": "Patch 6.1 Notes",
-    "date": "2022-04-20",
-    "file": "patch-6-1-notes-final-fantasy-xiv-the-lodestone.json"
+    "title": "Patch 6.21 Notes",
+    "date": "2022-09-13",
+    "file": "patch-6-21-notes-final-fantasy-xiv-the-lodestone.json"
   },
   {
     "title": "Patch 6.11 Notes",
-    "date": "2026-06-10",
+    "date": "2022-04-26",
     "file": "patch-6-11-notes-final-fantasy-xiv-the-lodestone.json"
+  },
+  {
+    "title": "Patch 6.1 Notes",
+    "date": "2022-04-11",
+    "file": "patch-6-1-notes-final-fantasy-xiv-the-lodestone.json"
   }
 ]
