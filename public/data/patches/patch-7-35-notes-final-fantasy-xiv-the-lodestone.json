@@ -1,7 +1,7 @@
 {
   "patch_title": "Patch 7.35 Notes",
   "patch_date": "2025-10-14",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/9d2cad7a1028016719060b5ae3caeb5e369c89e9/",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/9d2cad7a1028016719060b5ae3caeb5e369c89e9",
   "jobs_pve": [],
   "jobs_pvp": [
     {
@@ -57,93 +57,99 @@
   "new_content": [
     {
       "name": "Pilgrim's Traverse",
-      "description": "A new deep dungeon that challenges a party of one to four players with an ever-changing landscape filled with traps, monsters, and perils.",
+      "description": "A deep dungeon that challenges a party of one to four players with an ever-changing landscape filled with traps, monsters, and other perils, featuring an independent leveling system.",
       "location": "Il Mheg",
-      "npc_location": "Vanthau (Il Mheg X:29.9 Y:6.0)"
+      "npc_location": "Vanthau in Il Mheg (X:29.9 Y:6.0)"
     },
     {
       "name": "The Windward Wilds",
-      "description": "An eight-player trial involving a battle with Guardian Arkveld.",
+      "description": "A trial for eight players, featuring the Guardian Arkveld as a boss.",
       "location": "Tuliyollal",
-      "npc_location": "Dawn Hunt Tracker (Tuliyollal X:13.3 Y:13.1)"
+      "npc_location": "Dawn Hunt Tracker in Tuliyollal (X:13.3 Y:13.1)"
     },
     {
       "name": "The Windward Wilds (Extreme)",
-      "description": "A challenging eight-player version of the Windward Wilds trial accessed via the Raid Finder.",
+      "description": "A high-difficulty version of the Windward Wilds trial, accessible via Raid Finder.",
       "location": "Tuliyollal",
-      "npc_location": "Wandering Minstrel (Tuliyollal X:11.1 Y:14.6)"
+      "npc_location": "Wandering Minstrel in Tuliyollal (X:11.1 Y:14.6)"
     },
     {
       "name": "The Final Verse",
-      "description": "A new duty boss fight that can be challenged after reaching floor 99 of Pilgrim's Traverse.",
+      "description": "A boss duty identical to the boss fought at stone 99 of Pilgrim's Traverse.",
       "location": "Il Mheg",
-      "npc_location": "Vanthau (Il Mheg X:29.9 Y:6.0)"
+      "npc_location": "Vanthau in Il Mheg (X:29.9 Y:6.0)"
     },
     {
       "name": "The Final Verse (Quantum)",
-      "description": "A highly challenging duty implementing a new difficulty scaling system using sacramental offerings.",
+      "description": "A challenging duty implementing a new difficulty scaling system based on 'sacramental offerings'.",
       "location": "Il Mheg",
-      "npc_location": "Vanthau (Il Mheg X:29.9 Y:6.0)"
+      "npc_location": "Vanthau in Il Mheg (X:29.9 Y:6.0)"
     },
     {
       "name": "Pilgrimage of Light",
-      "description": "Sidequest to unlock Pilgrim's Traverse.",
-      "location": "The Crystarium (X:10.3 Y:10.7)",
-      "npc_location": "Bright-eyed Child"
+      "description": "Sidequest required to unlock Pilgrim's Traverse.",
+      "location": "The Crystarium",
+      "npc_location": "Bright-eyed Child (X:10.3 Y:10.7)"
     },
     {
       "name": "Bright-eyed Child",
       "description": "Sidequest.",
-      "location": "The Crystarium (X:10.3 Y:10.7)",
-      "npc_location": "Bright-eyed Child"
+      "location": "The Crystarium",
+      "npc_location": "Bright-eyed Child (X:10.3 Y:10.7)"
     },
     {
       "name": "Faerie Tale",
-      "description": "Sidequest.",
-      "location": "Il Mheg (X:29.8 Y:5.8)",
-      "npc_location": "Aenc Daen"
+      "description": "Sidequest required to unlock Pilgrim's Traverse weaponry.",
+      "location": "Il Mheg",
+      "npc_location": "Aenc Daen (X:29.8 Y:5.8)"
     },
     {
-      "name": "Inconceivably Further Hildibrand Adventures",
-      "description": "Quest series continuation.",
-      "location": "Solution Nine (X:17.0 Y:18.3)",
-      "npc_location": "Hardiboiled"
+      "name": "A Vandal in the Wild",
+      "description": "Inconceivably Further Hildibrand Adventures quest.",
+      "location": "Solution Nine",
+      "npc_location": "Hardiboiled (X:17.0 Y:18.3)"
     },
     {
       "name": "Frosty Neighbors",
-      "description": "Allied society quest to unlock Yok Huy daily quests.",
-      "location": "Urqopacha (X:32.1 Y:34.3)",
-      "npc_location": "Fahrafahr"
+      "description": "The first main quest for the Yok Huy allied society.",
+      "location": "Urqopacha",
+      "npc_location": "Fahrafahr (X:32.1 Y:34.3)"
     },
     {
       "name": "The White Wanderer",
       "description": "Monster Hunter Wilds crossover quest.",
-      "location": "Tuliyollal (X:13.3 Y:13.1)",
-      "npc_location": "Dawn Hunt Tracker"
+      "location": "Tuliyollal",
+      "npc_location": "Dawn Hunt Tracker (X:13.3 Y:13.1)"
     },
     {
       "name": "Quest Sync",
-      "description": "Automatic level adjustment system for allied society quests matching difficulty to player level.",
+      "description": "An automatic level adjustment system for allied society quests that matches difficulty to the player's current class level.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Yok Huy Allied Society",
+      "description": "A new society featuring daily quests, reputation rewards, and societal currency (Yok Huy wards).",
+      "location": "Urqopacha",
+      "npc_location": "Fahrafahr (X:32.1 Y:34.3)"
+    },
+    {
+      "name": "Deep Dungeon System",
+      "description": "A system allowing players to enter special instanced areas with independent leveling, aetherpool gear, and random treasure coffers.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Sacramental Offerings",
-      "description": "Special items required to challenge the Final Verse (Quantum) duty; choices affect boss behavior and difficulty.",
+      "description": "A system used to adjust boss behavior and difficulty in The Final Verse (Quantum).",
       "location": null,
       "npc_location": null
     },
     {
-      "name": "Aetherpool Gear System",
-      "description": "An independent gear strengthening system used within deep dungeons to determine character attributes.",
+      "name": "Monster Hunter Wilds Crossover",
+      "description": "A new collaboration feature including a duty and related rewards.",
       "location": null,
       "npc_location": null
-    },
-    {
-      "name": "Yok Huy Society",
-      "description": "New allied society featuring main and daily quests.",
-      "location": "Urqopacha",
-      "npc_location": "Fahrafahr"
     }
   ],
   "housing": [
@@ -251,97 +257,97 @@
   "glamour": [
     {
       "name": "Fuath Plumed Hat",
-      "description": "Head glamour item.",
+      "description": "Head piece",
       "image_url": null
     },
     {
       "name": "Hope Mask [M]",
-      "description": "Head glamour item (Male).",
+      "description": "Head piece",
       "image_url": null
     },
     {
       "name": "Hope Visor [F]",
-      "description": "Head glamour item (Female).",
+      "description": "Head piece",
       "image_url": null
     },
     {
       "name": "Fuath Swallowtail",
-      "description": "Body glamour item.",
+      "description": "Body piece",
       "image_url": null
     },
     {
       "name": "Hope Mail [M]",
-      "description": "Body glamour item (Male).",
+      "description": "Body piece",
       "image_url": null
     },
     {
       "name": "Hope Mail [F]",
-      "description": "Body glamour item (Female).",
+      "description": "Body piece",
       "image_url": null
     },
     {
       "name": "Fuath Dress Gloves",
-      "description": "Hands glamour item.",
+      "description": "Hands piece",
       "image_url": null
     },
     {
       "name": "Hope Vambraces [M]",
-      "description": "Hands glamour item (Male).",
+      "description": "Hands piece",
       "image_url": null
     },
     {
       "name": "Hope Vambraces [F]",
-      "description": "Hands glamour item (Female).",
+      "description": "Hands piece",
       "image_url": null
     },
     {
       "name": "Fuath Pantaloons",
-      "description": "Legs glamour item.",
+      "description": "Legs piece",
       "image_url": null
     },
     {
       "name": "Hope Coil [M]",
-      "description": "Legs glamour item (Male).",
+      "description": "Legs piece",
       "image_url": null
     },
     {
       "name": "Hope Coil [F]",
-      "description": "Legs glamour item (Female).",
+      "description": "Legs piece",
       "image_url": null
     },
     {
       "name": "Fuath Dress Shoes",
-      "description": "Feet glamour item.",
+      "description": "Feet piece",
       "image_url": null
     },
     {
       "name": "Hope Greaves [M]",
-      "description": "Feet glamour item (Male).",
+      "description": "Feet piece",
       "image_url": null
     },
     {
       "name": "Hope Greaves [F]",
-      "description": "Feet glamour item (Female).",
+      "description": "Feet piece",
       "image_url": null
     },
     {
       "name": "Earrings of the First Light",
-      "description": "Earrings glamour item.",
+      "description": "Earrings",
       "image_url": null
     },
     {
       "name": "Necklace of the First Light",
-      "description": "Necklace glamour item.",
+      "description": "Necklace",
       "image_url": null
     },
     {
       "name": "Bangles of the First Light",
-      "description": "Bracelets glamour item.",
+      "description": "Bracelets",
       "image_url": null
     },
     {
       "name": "Ring of the First Light",
-      "description": "Ring glamour item.",
+      "description": "Ring",
       "image_url": null
     }
   ]

@@ -1,0 +1,153 @@
+{
+  "patch_title": "Patch 5.18 Notes",
+  "patch_date": "2019-12-26",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/36ab41b81c81a289336f63c1b9d40f6ed444ca9c",
+  "jobs_pve": [],
+  "jobs_pvp": [
+    {
+      "job": "All Jobs",
+      "changes": [
+        "The action Vanward Potion has been renamed to Medical Kit.",
+        "Medical Kit can now be used by all jobs."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Shukuchi barrier strength reduced from 2,000 potency to 1,000 potency.",
+        "Trick Attack damage increase reduced from 20% to 15%.",
+        "Ill Wind silence duration reduced from 2 seconds to 1 second."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "HP increased from 12,500 to 15,000."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "HP increased from 12,500 to 15,000."
+      ]
+    },
+    {
+      "job": "Dancer",
+      "changes": [
+        "HP increased from 12,500 to 15,000."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "HP increased from 12,500 to 15,000."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "HP increased from 12,500 to 15,000."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "HP increased from 12,500 to 15,000."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "HP increased from 15,000 to 17,500."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "HP increased from 15,000 to 17,500."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "HP increased from 15,000 to 17,500."
+      ]
+    },
+    {
+      "job": "Ranged DPS and Healer",
+      "changes": [
+        "Rearward Potion has been removed."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Eden's Gate",
+      "description": "Adjustments made to battle restrictions and treasure coffers for the Savage difficulty.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Eden's Gate: Sepulture",
+      "description": "Weekly restriction on receiving Blades of Early Antiquity has been removed.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Feast",
+      "description": "Season Fourteen of the Feast begins.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Frontline",
+      "description": "Party member randomization updated; players are now treated as freelancers regardless of Grand Company membership.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Onsal Hakair (Danshig Naadam)",
+      "description": "Adjustments to tactical rating requirements and points earned/lost during combat.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Deepshadow Solvent",
+      "description": "Item used to enhance weapons purchased with Allagan tomestones of phantasmagoria.",
+      "location": "Eulmore",
+      "npc_location": "Fathard (X:10.1 Y:11.7)"
+    },
+    {
+      "name": "Augmented Weapon Exchange",
+      "description": "Service to exchange enhancement items for augmented weapons.",
+      "location": "Eulmore",
+      "npc_location": "Shee-Tatch (X:10.3 Y:12.0)"
+    },
+    {
+      "name": "The Copied Factory",
+      "description": "Alliance raid; resolved an issue where graphics of obtained equipment did not display correctly.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Hidden Gorge",
+      "description": "PvP duty; resolved an issue causing disconnection when receiving damage while mounted.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Everkeep DJ Booth",
+      "description": "A furniture item mentioned in a community blog post regarding housing decoration/glitching.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "No.2 Type B Leggings",
+      "description": "Equipment obtained from the alliance raid The Copied Factory whose appearance was adjusted and subsequently reverted.",
+      "image_url": null
+    }
+  ]
+}

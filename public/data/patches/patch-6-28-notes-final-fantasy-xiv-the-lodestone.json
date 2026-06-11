@@ -1,7 +1,7 @@
 {
   "patch_title": "Patch 6.28 Notes",
-  "patch_date": "2022-11-01",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/c8900c4aae544f7a013a49553aa104c1961a5c87/",
+  "patch_date": "2022-10-18",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/c8900c4aae544f7a013a49553aa104c1961a5c87",
   "jobs_pve": [
     {
       "job": "Warrior",
@@ -55,8 +55,8 @@
       "job": "Red Mage",
       "changes": [
         "Enchanted Riposte: Potency has been increased from 220 to 280.",
-        "Enchanted Zwerchhau: Potency has been increased from 100 to 150. Combo potency has been increased from 290 to 340.",
-        "Enchanted Redoublement: Potency has been increased from 100 to 130. Combo potency has been increased from 470 to 500.",
+        "Enchanted Zwerchhau: Potency has been increased from 100 to 150; Combo potency has been increased from 290 to 340.",
+        "Enchanted Redoublement: Potency has been increased from 100 to 130; Combo potency has been increased from 470 to 500.",
         "Red Magic Mastery III: Now increases the potency of Enchanted Riposte, Enchanted Zwercchau, and Enchanted Redoublement."
       ]
     },
@@ -164,55 +164,67 @@
   "new_content": [
     {
       "name": "Sil'dihn Subterrane",
-      "description": "A variant dungeon where ground-targeted actions were experiencing issues during boss battles.",
+      "description": "A variant dungeon where ground-targeted actions were reported to not function properly during boss battles.",
       "location": null,
       "npc_location": null
     },
     {
-      "name": "Omicron daily quests",
-      "description": "Daily quests where an issue occurred with objective icons appearing green in the Duty List before completion.",
+      "name": "Well Below Standard",
+      "description": "Omicron daily quest.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "A Fertile Blend",
+      "description": "Omicron daily quest.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Using Their Heads",
+      "description": "Omicron daily quest.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Dynamis",
-      "description": "A new logical data center added for the North American region.",
+      "description": "A new logical data center for the North American region.",
       "location": "North American region",
       "npc_location": null
     },
     {
       "name": "Halicarnassus",
       "description": "A newly established World.",
-      "location": "Dynamis data center",
+      "location": "Dynamis",
       "npc_location": null
     },
     {
       "name": "Maduin",
       "description": "A newly established World.",
-      "location": "Dynamis data center",
+      "location": "Dynamis",
       "npc_location": null
     },
     {
       "name": "Marilith",
       "description": "A newly established World.",
-      "location": "Dynamis data center",
+      "location": "Dynamis",
       "npc_location": null
     },
     {
       "name": "Seraph",
       "description": "A newly established World.",
-      "location": "Dynamis data center",
+      "location": "Dynamis",
       "npc_location": null
     },
     {
       "name": "Crystalline Conflict",
-      "description": "PvP content entering its fourth season.",
-      "location": null,
-      "npc_location": "Wolves' Den Pier (X:4.9 Y:5.7)"
+      "description": "PvP competitive content; Season Three ended and Season Four began.",
+      "location": "Wolves' Den Pier",
+      "npc_location": "Feast Quartermaster (X:4.9 Y:5.7)"
     },
     {
       "name": "Island Sanctuary",
-      "description": "Feature containing issues related to animal capture and achievement tracking.",
+      "description": "System with gathering activities and achievements.",
       "location": null,
       "npc_location": null
     }
@@ -231,17 +243,17 @@
     },
     {
       "name": "Valerian Terror Knight's Gauntlets",
-      "description": "Dyeable hand gear",
+      "description": "Dyeable hands gear",
       "image_url": null
     },
     {
       "name": "Valerian Terror Knight's Trousers",
-      "description": "Dyeable leg gear",
+      "description": "Dyeable legs gear",
       "image_url": null
     },
     {
       "name": "Valerian Terror Knight's Sollerets",
-      "description": "Dyeable foot gear",
+      "description": "Dyeable feet gear",
       "image_url": null
     },
     {
@@ -256,17 +268,17 @@
     },
     {
       "name": "Valerian Dragoon's Gauntlets",
-      "description": "Dyeable hand gear",
+      "description": "Dyeable hands gear",
       "image_url": null
     },
     {
       "name": "Valerian Dragoon's Trousers",
-      "description": "Dyeable leg gear",
+      "description": "Dyeable legs gear",
       "image_url": null
     },
     {
       "name": "Valerian Dragoon's Sollerets",
-      "description": "Dyeable foot gear",
+      "description": "Dyeable feet gear",
       "image_url": null
     },
     {
@@ -281,17 +293,17 @@
     },
     {
       "name": "Valerian Smuggler's Halfgloves",
-      "description": "Dyeable hand gear",
+      "description": "Dyeable hands gear",
       "image_url": null
     },
     {
       "name": "Valerian Smuggler's Gaskins",
-      "description": "Dyeable leg gear",
+      "description": "Dyeable legs gear",
       "image_url": null
     },
     {
       "name": "Valerian Smuggler's Highboots",
-      "description": "Dyeable foot gear",
+      "description": "Dyeable feet gear",
       "image_url": null
     },
     {
@@ -306,17 +318,17 @@
     },
     {
       "name": "Valerian Fusilier's Halfgloves",
-      "description": "Dyeable hand gear",
+      "description": "Dyeable hands gear",
       "image_url": null
     },
     {
       "name": "Valerian Fusilier's Sarouel",
-      "description": "Dyeable leg gear",
+      "description": "Dyeable legs gear",
       "image_url": null
     },
     {
       "name": "Valerian Fusilier's Boots",
-      "description": "Dyeable foot gear",
+      "description": "Dyeable feet gear",
       "image_url": null
     },
     {
@@ -331,17 +343,17 @@
     },
     {
       "name": "Valerian Rogue's Halfgloves",
-      "description": "Dyeable hand gear",
+      "description": "Dyeable hands gear",
       "image_url": null
     },
     {
       "name": "Valerian Rogue's Gaskins",
-      "description": "Dyeable leg gear",
+      "description": "Dyeable legs gear",
       "image_url": null
     },
     {
       "name": "Valerian Rogue's Highboots",
-      "description": "Dyeable foot gear",
+      "description": "Dyeable feet gear",
       "image_url": null
     },
     {
@@ -356,17 +368,17 @@
     },
     {
       "name": "Valerian Shaman's Dress Gloves",
-      "description": "Dyeable hand gear",
+      "description": "Dyeable hands gear",
       "image_url": null
     },
     {
       "name": "Valerian Shaman's Smalls",
-      "description": "Dyeable leg gear",
+      "description": "Dyeable legs gear",
       "image_url": null
     },
     {
       "name": "Valerian Shaman's Boots",
-      "description": "Dyeable foot gear",
+      "description": "Dyeable feet gear",
       "image_url": null
     },
     {
@@ -381,17 +393,17 @@
     },
     {
       "name": "Valerian Wizard's Fingerless Halfgloves",
-      "description": "Dyeable hand gear",
+      "description": "Dyeable hands gear",
       "image_url": null
     },
     {
       "name": "Valerian Wizard's Longkilt",
-      "description": "Dyeable leg gear",
+      "description": "Dyeable legs gear",
       "image_url": null
     },
     {
       "name": "Valerian Wizard's Pattens",
-      "description": "Dyeable foot gear",
+      "description": "Dyeable feet gear",
       "image_url": null
     },
     {
@@ -406,17 +418,17 @@
     },
     {
       "name": "Xenobian Gauntlets",
-      "description": "Dyeable hand gear",
+      "description": "Dyeable hands gear",
       "image_url": null
     },
     {
       "name": "Xenobian Breeches",
-      "description": "Dyeable leg gear",
+      "description": "Dyeable legs gear",
       "image_url": null
     },
     {
       "name": "Xenobian Sollerets",
-      "description": "Dyeable foot gear",
+      "description": "Dyeable feet gear",
       "image_url": null
     },
     {
@@ -431,17 +443,17 @@
     },
     {
       "name": "Valerian Rune Fencer's Gauntlets",
-      "description": "Dyeable hand gear",
+      "description": "Dyeable hands gear",
       "image_url": null
     },
     {
       "name": "Valerian Rune Fencer's Breeches",
-      "description": "Dyeable leg gear",
+      "description": "Dyeable legs gear",
       "image_url": null
     },
     {
       "name": "Valerian Rune Fencer's Thighboots",
-      "description": "Dyeable foot gear",
+      "description": "Dyeable feet gear",
       "image_url": null
     },
     {
@@ -456,17 +468,17 @@
     },
     {
       "name": "Valerian Brawler's Gloves",
-      "description": "Dyeable hand gear",
+      "description": "Dyeable hands gear",
       "image_url": null
     },
     {
       "name": "Valerian Brawler's Bottoms",
-      "description": "Dyeable leg gear",
+      "description": "Dyeable legs gear",
       "image_url": null
     },
     {
       "name": "Valerian Brawler's Thighboots",
-      "description": "Dyeable foot gear",
+      "description": "Dyeable feet gear",
       "image_url": null
     },
     {
@@ -481,17 +493,17 @@
     },
     {
       "name": "Valerian Archer's Gloves",
-      "description": "Dyeable hand gear",
+      "description": "Dyeable hands gear",
       "image_url": null
     },
     {
       "name": "Valerian Archer's Bottoms",
-      "description": "Dyeable leg gear",
+      "description": "Dyeable legs gear",
       "image_url": null
     },
     {
       "name": "Valerian Archer's Boots",
-      "description": "Dyeable foot gear",
+      "description": "Dyeable feet gear",
       "image_url": null
     },
     {
@@ -506,17 +518,17 @@
     },
     {
       "name": "Valerian Vedette's Gloves",
-      "description": "Dyeable hand gear",
+      "description": "Dyeable hands gear",
       "image_url": null
     },
     {
       "name": "Valerian Vedette's Bottoms",
-      "description": "Dyeable leg gear",
+      "description": "Dyeable legs gear",
       "image_url": null
     },
     {
       "name": "Valerian Vedette's Thighboots",
-      "description": "Dyeable foot gear",
+      "description": "Dyeable feet gear",
       "image_url": null
     },
     {
@@ -531,17 +543,17 @@
     },
     {
       "name": "Valerian Priest's Gloves",
-      "description": "Dyeable hand gear",
+      "description": "Dyeable hands gear",
       "image_url": null
     },
     {
       "name": "Valerian Priest's Bottoms",
-      "description": "Dyeable leg gear",
+      "description": "Dyeable legs gear",
       "image_url": null
     },
     {
       "name": "Valerian Priest's Boots",
-      "description": "Dyeable foot gear",
+      "description": "Dyeable feet gear",
       "image_url": null
     },
     {
@@ -556,17 +568,17 @@
     },
     {
       "name": "Valerian Dark Priest's Gloves",
-      "description": "Dyeable hand gear",
+      "description": "Dyeable hands gear",
       "image_url": null
     },
     {
       "name": "Valerian Dark Priest's Bottoms",
-      "description": "Dyeable leg gear",
+      "description": "Dyeable legs gear",
       "image_url": null
     },
     {
       "name": "Valerian Dark Priest's Boots",
-      "description": "Dyeable foot gear",
+      "description": "Dyeable feet gear",
       "image_url": null
     }
   ]

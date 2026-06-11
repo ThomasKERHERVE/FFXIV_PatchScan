@@ -1,44 +1,44 @@
 {
   "patch_title": "Patch 7.05 Notes",
   "patch_date": "2024-08-01",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/3a247a30e096e56b701157cd9fb903299a244c2f/",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/3a247a30e096e56b701157cd9fb903299a244c2f",
   "jobs_pve": [
     {
       "job": "Paladin",
       "changes": [
-        "Royal Authority: Potency increased from 180 to 200. Combo potency increased from 440 to 460.",
-        "Holy Spirit: Potency increased from 370 to 400. Potency while under Divine Might increased from 470 to 500.",
-        "Requiescat potency increased from 670 to 700.",
+        "Royal Authority: Potency increased from 180 to 200; Combo potency increased from 440 to 460.",
+        "Holy Spirit: Potency increased from 370 to 400; Potency under Divine Might increased from 470 to 500.",
+        "Requiescat: Potency increased from 670 to 700.",
         "Atonement: Potency increased from 440 to 460.",
         "Supplication: Potency increased from 460 to 500.",
         "Sepulchre: Potency increased from 480 to 540.",
-        "Confiteor: Potency increased from 440 to 500. Requiescat potency increased from 940 to 1,000.",
-        "Blade of Faith: Potency increased from 240 to 260. Requiescat potency increased from 740 to 760.",
-        "Blade of Truth: Potency increased from 340 to 380. Requiescat potency increased from 840 to 880.",
-        "Blade of Valor: Potency increased from 440 to 500. Requiescat potency increased from 940 to 1,000."
+        "Confiteor: Potency increased from 440 to 500; Requiescat potency increased from 940 to 1,000.",
+        "Blade of Faith: Potency increased from 240 to 260; Requiescat potency increased from 740 to 760.",
+        "Blade of Truth: Potency increased from 340 to 380; Requiescat potency increased from 840 to 880.",
+        "Blade of Valor: Potency increased from 440 to 500; Requiescat potency increased from 940 to 1,000."
       ]
     },
     {
       "job": "Dark Knight",
       "changes": [
         "Hard Slash: Potency increased from 260 to 300.",
-        "Syphon Strike: Potency increased from 220 to 240. Combo potency increased from 360 to 380.",
-        "Souleater: Potency increased from 240 to 260. Combo potency increased from 460 to 480.",
-        "Shadowstride: Time between activation and character movement reduced.",
-        "Carve and Split: Potency upon learning Melee Mastery II changed from 510 to 540.",
+        "Syphon Strike: Potency increased from 220 to 240; Combo potency increased from 360 to 380.",
+        "Souleater: Potency increased from 240 to 260; Combo potency increased from 460 to 480.",
+        "Shadowstride: Time between action activation and character movement reduced.",
+        "Carve and Split: Potency changed from 510 to 540 upon learning Melee Mastery II.",
         "Disesteem: Potency increased from 800 to 1,000."
       ]
     },
     {
       "job": "Gunbreaker",
       "changes": [
-        "Trajectory: Time between activation and character movement reduced."
+        "Trajectory: Time between action activation and character movement reduced."
       ]
     },
     {
       "job": "Monk",
       "changes": [
-        "Phantom Rush: Potency upon learning Melee Mastery II changed from 1,400 to 1,500.",
+        "Phantom Rush: Potency changed from 1,400 to 1,500 upon learning Melee Mastery II.",
         "Wind's Reply: Potency increased from 800 to 900.",
         "Fire's Reply: Potency increased from 1,100 to 1,200."
       ]
@@ -46,39 +46,38 @@
     {
       "job": "Dragoon",
       "changes": [
-        "Winged Glide: Time between activation and character movement reduced.",
-        "Stardiver: Potency upon learning Melee Mastery changed from 620 to 720.",
+        "Winged Glide: Time between action activation and character movement reduced.",
+        "Stardiver: Potency changed from 620 to 720 upon learning Melee Mastery.",
         "Starcross: Potency increased from 700 to 900."
       ]
     },
     {
       "job": "Ninja",
       "changes": [
-        "Gust Slash: Potency increased from 220 to 240. Combo potency increased from 380 to 400.",
+        "Gust Slash: Potency increased from 220 to 240; Combo potency increased from 380 to 400.",
         "Forked Raiju: Potency increased from 640 to 700.",
         "Fleeting Raiju: Potency increased from 640 to 700.",
-        "Zessho Meppo: Potency increased from 550 to 700.",
-        "Mesui potency increased from 700 to 850.",
+        "Zessho Meppo: Potency increased from 550 to 700; Mesui potency increased from 700 to 850.",
         "Tenri Jindo: Potency increased from 1,000 to 1,100."
       ]
     },
     {
       "job": "Samurai",
       "changes": [
-        "Jinpu: Potency reduced from 160 to 140. Combo potency reduced from 320 to 300.",
-        "Shifu: Potency reduced from 160 to 140. Combo potency reduced from 320 to 300.",
-        "Gekko: Potency reduced from 180 to 160. Rear potency reduced from 230 to 210. Combo potency reduced from 390 to 370. Combo rear potency reduced from 440 to 420.",
-        "Kasha: Potency reduced from 180 to 160. Flank potency reduced from 230 to 210. Combo potency reduced from 390 to 370. Combo flank potency reduced from 440 to 420.",
-        "Yukikaze: Potency reduced from 180 to 160. Combo potency reduced from 360 to 340.",
+        "Jinpu: Potency reduced from 160 to 140; Combo potency reduced from 320 to 300.",
+        "Shifu: Potency reduced from 160 to 140; Combo potency reduced from 320 to 300.",
+        "Gekko: Potency reduced from 180 to 160; Rear potency reduced from 230 to 210; Combo potency reduced from 390 to 370; Combo rear potency reduced from 440 to 420.",
+        "Kasha: Potency reduced from 180 to 160; Flank potency reduced from 230 to 210; Combo potency reduced from 390 to 370; Combo flank potency reduced from 440 to 420.",
+        "Yukikaze: Potency reduced from 180 to 160; Combo potency reduced from 360 to 340.",
         "Meikyo Shisui: Additional effect 'Grants Tsubame-gaeshi' removed.",
         "Midare Setsugekka: Potency reduced from 700 to 640.",
         "Hissatsu: Senei: Potency reduced from 860 to 800.",
-        "Enhanced Iaijutsu: Added effect 'Also grants Tsubame-gaeshi Ready after executing iaijutsu excluding Higanbana' with 30s duration.",
-        "Tsubame-gaeshi: Acquired at level 74 (previously 76).",
-        "Kaeshi: Goken: Acquired at level 74 (previously 76).",
-        "Kaeshi: Setsugekka: Acquired at level 74 (previously 76). Potency reduced from 700 to 640.",
+        "Enhanced Iaijutsu: Added effect 'Also grants Tsubame-gaeshi Ready after executing iaijutsu excluding Higanbana' (duration 30s).",
+        "Tsubame-gaeshi: Now acquired at level 74.",
+        "Kaeshi: Goken: Now acquired at level 74.",
+        "Kaeshi: Setsugekka: Now acquired at level 74; Potency reduced from 700 to 640.",
         "Enhanced Meikyo Shisui: Effect 'Grants Tsubame-gaeshi Ready' removed.",
-        "Tengentsu: 'Restores HP when effect expires' changed to 'Gradually restores your HP and reduces damage taken by 10%'. Cure potency reduced from 500 to 200. Duration increased from 8 to 9 seconds.",
+        "Tengentsu: Foresight effect changed to 'Gradually restores your HP and reduces damage taken by 10%'; Cure potency reduced from 500 to 200; Duration increased from 8 to 9 seconds.",
         "Gyofu: Potency reduced from 240 to 230.",
         "Zanshin: Potency reduced from 900 to 820.",
         "Tendo Goken: Potency reduced from 420 to 410.",
@@ -88,50 +87,47 @@
     {
       "job": "Reaper",
       "changes": [
-        "Soul Slice: Potency upon learning Melee Mastery III increased from 460 to 520.",
+        "Soul Slice: Potency increased from 460 to 520 upon learning Melee Mastery III.",
         "Perfectio: Potency increased from 1,200 to 1,300."
       ]
     },
     {
       "job": "Viper",
       "changes": [
-        "Steel Fangs: Honed Steel potency of 300 added. Additional effect 'Grants Honed Reavers' (60s) added. Effect cannot be stacked with Honed Steel.",
+        "Steel Fangs: Added Honed Steel potency of 300 and additional effect 'Grants Honed Reavers' (60s).",
         "Hunter's Sting: Potency increased from 260 to 300.",
-        "Dread Fangs: Name changed to Reaving Fangs. Potency increased from 140 to 200. Honed Reavers potency of 300 added. Additional effect 'Afflicts target with Noxious Gnash' changed to 'Grants Honed Steel' (60s). Effect cannot be stacked with Honed Reavers.",
+        "Reaving Fangs (formerly Dread Fangs): Potency increased from 140 to 200; Added Honed Reavers potency of 300; Additional effect changed to 'Grants Honed Steel' (60s).",
         "Swiftskin's Sting: Potency increased from 260 to 300.",
-        "Steel Maw: Honed Steel potency of 120 added. Additional effect 'Grants Honed Reavers' (60s) added. Effect cannot be stacked with Honed Steel.",
-        "Flanksting Strike: Potency increased from 300 to 340. Flank potency increased from 360 to 400. Hindsting Venom duration increased to 60s.",
-        "Flanksbane Fang: Potency increased from 300 to 340. Flank potency increased from 360 to 400. Hindsting Venom duration increased to 60s.",
-        "Hindsting Strike: Potency increased from 300 to 340. Rear potency increased from 360 to 400. Flanksbane Venom duration increased to 60s.",
-        "Hindsbane Fang: Potency increased from 300 to 340. Rear potency increased from 360 to 400. Flanksbane Venom duration increased to 60s.",
-        "Dread Maw: Name changed to Reaving Maw. Potency increased from 80 to 100. Honed Reavers potency of 120 added. Additional effect 'Afflicts target with Noxious Gnash' changed to 'Grants Honed Steel' (60s).",
+        "Steel Maw: Added Honed Steel potency of 120 and effect 'Grants Honed Reavers' (60s).",
+        "Flanksting Strike: Potency increased from 300 to 340; Flank potency increased from 360 to 400; Hindstung Venom duration increased to 60s.",
+        "Flanksbane Fang: Potency increased from 300 to 340; Flank potency increased from 360 to 400; Hindstung Venom duration increased to 60s.",
+        "Hindsting Strike: Potency increased from 300 to 340; Rear potency increased from 360 to 400; Flanksbane Venom duration increased to 60s.",
+        "Hindsbane Fang: Potency increased from 300 to 340; Rear potency increased from 360 to 400; Flanksbane Venom duration increased to 60s.",
+        "Reaving Maw (formerly Dread Maw): Potency increased from 80 to 100; Added Honed Reavers potency of 120; Additional effect changed to 'Grants Honed Steel' (60s).",
         "Hunter's Bite: Potency increased from 120 to 130.",
-        "Slither: Time between activation and character movement reduced.",
+        "Slither: Time between action activation and character movement reduced.",
         "Swiftskin's Bite: Potency increased from 120 to 130.",
         "Jagged Maw: Grimskin's Venom duration increased to 60s.",
         "Bloodied Maw: Grimhunter's Venom duration increased to 60s.",
         "Death Rattle: Potency increased from 250 to 280.",
-        "Dreadwinder: Name changed to Vicewinder. Potency increased from 450 to 500. Additional effect 'Afflicts target with Noxious Gnash' removed.",
-        "Hunter's Coil: Potency increased from 500 to 570. Flank potency increased from 550 to 620.",
-        "Swiftskin's Coil: Potency increased from 500 to 570. Rear potency increased from 550 to 620.",
-        "Pit of Dread: Name changed to Vicepit. Potency increased from 200 to 220. Additional effect 'Afflicts target with Noxious Gnash' removed.",
+        "Vicewinder (formerly Dreadwinder): Potency increased from 450 to 500; Noxious Gnash effect removed.",
+        "Hunter's Coil: Potency increased from 500 to 570; Flank potency increased from 550 to 620.",
+        "Swiftskin's Coil: Potency increased from 500 to 570; Rear potency increased from 550 to 620.",
+        "Vicepit (formerly Pit of Dread): Potency increased from 200 to 220; Noxious Gnash effect removed.",
         "Hunter's Den: Potency increased from 250 to 280.",
         "Swiftskin's Den: Potency increased from 250 to 280.",
-        "Twinfang Bite: Potency increased from 100 to 120. Hunter's Venom potency increased from 150 to 170.",
-        "Twinblood Bite: Potency increased from 100 to 120. Swiftskin's Venom potency increased from 150 to 170.",
+        "Twinfang Bite: Potency increased from 100 to 120; Hunter's Venom potency increased to 170.",
+        "Twinblood Bite: Potency increased from 100 to 120; Swiftskin's Venom potency increased to 170.",
         "Uncoiled Fury: Potency increased from 600 to 680.",
         "Reawaken: Potency increased from 700 to 750.",
-        "First Generation: Potency increased from 400 to 480. Potency after Reawaken increased from 600 to 680.",
-        "Second Generation: Potency increased from 400 to 480. Potency after First Generation increased from 600 to 680.",
-        "Third Generation: Potency increased from 400 to 480. Potency after Second Generation increased from 600 to 680.",
-        "Fourth Generation: Potency increased from 400 to 480. Potency after Third Generation increased from 600 to 680.",
-        "Uncoiled Twinfang: Potency increased from 100 to 120. Poised for Twinfang potency increased from 150 to 170.",
-        "Uncoiled Twinblood: Potency increased from 100 to 120. Poised for Twinblood potency increased from 150 to 170.",
+        "First Generation: Potency increased from 400 to 480; Reawaken execute potency increased to 680.",
+        "Second Generation: Potency increased from 400 to 480; execute potency increased to 680.",
+        "Third Generation: Potency increased from 400 to 480; execute potency increased to 680.",
+        "Fourth Generation: Potency increased from 400 to 480; execute potency increased to 680.",
+        "Uncoiled Twinfang: Potency increased from 100 to 120; Poised potency increased to 170.",
+        "Uncoiled Twinblood: Potency increased from 100 to 120; Poised potency increased to 170.",
         "Ouroboros: Potency increased from 1,050 to 1,150.",
-        "First Legacy: Potency increased from 250 to 280.",
-        "Second Legacy: Potency increased from 250 to 280.",
-        "Third Legacy: Potency increased from 250 to 280.",
-        "Fourth Legacy: Potency increased from 250 to 280."
+        "First/Second/Third/Fourth Legacy: Potency increased from 250 to 280."
       ]
     },
     {
@@ -143,23 +139,23 @@
     {
       "job": "Dancer",
       "changes": [
-        "Fan Dance IV: Potency is now increased from 300 to 420 upon learning the trait Dynamic Dancer."
+        "Fan Dance IV: Potency now increased from 300 to 420 upon learning Dynamic Dancer."
       ]
     },
     {
-      "job": "Thaumaturge / Black Mage",
+      "job": "Black Mage",
       "changes": [
-        "Thunder: Potency reduced from 120 to 100. Damage over time potency increased from 40 to 45.",
-        "Umbral Soul: Additional effect 'Halts the expiration of Umbral Ice' added. Now grants Umbral Ice III, 3 Umbral Hearts, and restores 10,000 MP while out of combat.",
-        "Thunder III: Potency reduced from 160 to 120. Damage over time potency increased from 45 to 50.",
+        "Thunder: Potency reduced from 120 to 100; DoT potency increased from 40 to 45.",
+        "Umbral Soul: Added effect 'Halts expiration of Umbral Ice'; Grants Umbral Ice III, 3 Umbral Hearts, and 10,000 MP out of combat.",
+        "Thunder III: Potency reduced from 160 to 120; DoT potency increased from 45 to 50.",
         "Flare: Reduced damage for remaining enemies changed from 40% to 30%.",
         "Blizzard IV: Potency increased from 310 to 320.",
         "Fire IV: Potency increased from 310 to 320.",
         "Despair: Potency increased from 340 to 350.",
-        "High Thunder: Potency reduced from 200 to 150. Damage over time potency increased from 55 to 60.",
+        "High Thunder: Potency reduced from 200 to 150; DoT potency increased from 55 to 60.",
         "Enhanced Enochian III: Magic damage increase changed from 23% to 25%.",
-        "Paradox: Potency increased from 500 to 520. Astral Fire/Fire Starter now require Astral Fire. Added Umbral Ice bonus: 'Requires no MP to cast and grants Umbral Ice' (15s).",
-        "Aspect Mastery V: Paradox marker can now be active after reaching Astral Fire III then swapping to opposite element.",
+        "Paradox: Potency increased from 500 to 520; Additional effects now require Astral Fire; Added Umbral Ice bonus.",
+        "Aspect Mastery V: Paradox marker activity conditions expanded.",
         "Enhanced Enochian IV: Magic damage increase changed from 30% to 33%."
       ]
     },
@@ -175,7 +171,7 @@
       "job": "Red Mage",
       "changes": [
         "Contre Sixte: Potency increased from 400 to 420.",
-        "Manafication: Magicked Swordplay duration increased from 15 to 30s.",
+        "Manafication: Magicked Swordplay duration increased to 30s.",
         "Enchanted Reprise: Potency increased from 380 to 420.",
         "Verthunder III: Potency increased from 420 to 440.",
         "Veraero III: Potency increased from 420 to 440."
@@ -184,7 +180,7 @@
     {
       "job": "White Mage",
       "changes": [
-        "Dia: Potency increased from 70 to 75. Damage over time potency increased from 70 to 75."
+        "Dia: Potency increased from 70 to 75; DoT potency increased from 70 to 75."
       ]
     },
     {
@@ -198,39 +194,33 @@
   "new_content": [
     {
       "name": "AAC Light-heavyweight Tier (Savage)",
-      "description": "A raid dungeon consisting of four encounters (M1–M4) available via the Raid Finder for parties of eight players.",
-      "location": "Raid Finder",
-      "npc_location": null
+      "description": "A high-difficulty raid dungeon consisting of four encounters (M1-M4) that can only be accessed via the Raid Finder. Rewards include Dark Horse Champion's Coffers and tokens for gear exchange.",
+      "location": "Solution Nine",
+      "npc_location": "Gabbro (Solution Nine X:22.3 Y:17.1)"
     },
     {
       "name": "Cenote Ja Ja Gural",
-      "description": "A treasure dungeon consisting of chambers sealed behind stone doors. Players must choose the correct door to proceed or face a trap that ejects them from the instance.",
-      "location": "Access via treasure coffers from br'aaxskin treasure maps",
+      "description": "A treasure dungeon featuring a series of chambers sealed behind stone doors. Choosing the correct door allows progress to further chambers and treasures; selecting the wrong door triggers a trap.",
+      "location": "Unknown (Accessed via treasure coffers from br'aaxskin treasure maps)",
       "npc_location": null
-    },
-    {
-      "name": "The Neoteric Witch",
-      "description": "A prerequisite quest required to unlock the AAC Light-heavyweight Tier (Savage) raid.",
-      "location": null,
-      "npc_location": "Gabbro in Solution Nine (X:22.3 Y:17.1)"
     },
     {
       "name": "Allagan tomestones of heliometry",
-      "description": "A new currency introduced for level 100 players, capped at 450 per week with a maximum carry of 2,000.",
-      "location": null,
-      "npc_location": "Zircon in Solution Nine (X:8.6 Y:13.5) for exchange; Theone in Solution Nine (X:8.6 Y:13.6) for enhancement"
+      "description": "A new currency for high-level gear exchange and enhancement.",
+      "location": "Solution Nine",
+      "npc_location": "Zircon (Exchange) and Theone (Enhancement) in Solution Nine"
+    },
+    {
+      "name": "The Neoteric Witch",
+      "description": "A quest that must be completed to unlock access to the AAC Light-heavyweight Tier (Savage).",
+      "location": "Solution Nine",
+      "npc_location": "Gabbro (Solution Nine X:22.3 Y:17.1)"
     },
     {
       "name": "Data Center Travel and World Visit systems",
-      "description": "Login caps for these systems have been updated to be tied to World classification (Standard, New, Preferred, Congested).",
+      "description": "Login caps for these travel systems are now tied to World classification (Standard, New, Preferred, Congested).",
       "location": null,
       "npc_location": null
-    },
-    {
-      "name": "AAC Illustrated: LHW Edition",
-      "description": "A token obtained from the AAC Light-heavyweight Tier (Savage) raids that can be exchanged for gear.",
-      "location": null,
-      "npc_location": "Hhihwi in Solution Nine (X:8.7 Y:13.4)"
     }
   ],
   "housing": [
@@ -328,7 +318,7 @@
     },
     {
       "name": "Ribboned Parasol",
-      "description": "An understated parasol embellished with red ribbons.",
+      "description": "Embellished with an array of red ribbons, this understated parasol is perfect for adding a splash of elegance to a rainy day ensemble.",
       "image_url": null
     }
   ]

@@ -1,0 +1,492 @@
+{
+  "patch_title": "Patch 4.4 Notes",
+  "patch_date": "2018-10-19",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/cc70f5b1c61174463b431d06424e6be8f2701ef6",
+  "jobs_pve": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Passage of Arms: The effect is now applied as soon as the action is used."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Salted Earth: The effect is now applied as soon as the action is used."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Enpi: Enhanced Enpi Bonus potency has been increased from 300 to 320.",
+        "Gekko: Combo potency has been increased from 420 to 440.",
+        "Kasha: Combo potency has been increased from 420 to 440.",
+        "Yukikaze: Combo potency has been increased from 360 to 380.",
+        "Hissatsu: Yaten: The delay before using your next action has been reduced."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Doton: The effect is now applied as soon as the action is used."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Fire IV: Potency has been increased from 280 to 300."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Radiant Shield: No longer reflects damage to attackers.",
+        "Earthen Fury: The effect is now applied as soon as the action is used.",
+        "Shadow Flare: The effect is now applied as soon as the action is used."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Verthunder: Potency has been increased from 300 to 310.",
+        "Veraero: Potency has been increased from 300 to 310.",
+        "Scatter: Chance to be granted Enhanced Scatter has been increased from 25% to 30%.",
+        "Enhanced Scatter Bonus has been increased from 8 to 10 Black Mana and White Mana.",
+        "Contre Sixte: Potency has been increased from 300 to 350.",
+        "Verflare: Potency has been increased from 550 to 600.",
+        "Verholy: Potency has been increased from 550 to 600."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Asylum: The effect is now applied as soon as the action is used."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Sacred Soil: The effect is now applied as soon as the action is used.",
+        "Shadow Flare: The effect is now applied as soon as the action is used."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Collective Unconscious: The effect is now applied as soon as the action is used.",
+        "Minor Arcana: Recast time has been reduced from 5 to 1 second.",
+        "Lord of Crowns: Recast time has been reduced from 5 to 1 second.",
+        "Lady of Crowns: Recast time has been reduced from 5 to 1 second."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "White Mage",
+      "changes": [
+        "A new PvP action has been added: Tetragrammaton. Restores target's HP (Cure Potency: 3,500). Additional Effect: Reduces Tetragrammaton recast time by a percentage corresponding to the number of healing Lilies stacked at time of action execution (1 Lily: 10%, 2 Lilies: 25%, 3 Lilies: 50%).",
+        "Assize: The additional effect 'Deals unaspected damage to all nearby enemies with a potency of 1,000' has been added.",
+        "The PvP action Benediction has been removed."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Skewer: Duration of additional effect reducing target's attack potency and healing magic potency by 10% has been increased from 6 to 10 seconds.",
+        "Jump: Potency has been increased from 1,000 to 1,250.",
+        "Spineshatter Dive: Potency has been increased from 500 to 750."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Blunt Arrow: Recast time increased from 30 to 40 seconds."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Flamethrower: Potency has been increased from 500 to 1,000."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Benefic: Casting Benefic while under the effect of Abridged will cause Abridged to be applied again."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "The Burn",
+      "description": "New level 70 dungeon.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Saint Mocianne's Arboretum (Hard)",
+      "description": "New level 70 dungeon.",
+      "location": "Rhalgr's Reach",
+      "npc_location": "Sawney (X:11.7 Y:11.9)"
+    },
+    {
+      "name": "Hells' Kier",
+      "description": "New level 70 trial.",
+      "location": "The Ruby Sea",
+      "npc_location": "Bunchin (X:27.8 Y:16.4)"
+    },
+    {
+      "name": "Hells' Kier (Extreme)",
+      "description": "New extreme level 70 trial accessible via Raid Finder.",
+      "location": "Kugane",
+      "npc_location": "Wandering Minstrel (X:11.6 Y:12.6)"
+    },
+    {
+      "name": "Omega: Alphascape",
+      "description": "New level 70 raid dungeon series.",
+      "location": "Rhalgr's Reach",
+      "npc_location": "Jessie (X:13.4 Y:12.4)"
+    },
+    {
+      "name": "Omega: Alphascape (Savage)",
+      "description": "New level 70 savage raid dungeon series.",
+      "location": "Rhalgr's Reach",
+      "npc_location": "Magitek Terminal (X:13.5 Y:12.4)"
+    },
+    {
+      "name": "Sisterly Act",
+      "description": "New main scenario quest.",
+      "location": "The Rising Stones",
+      "npc_location": "Alisaie (X:6.1 Y:5.8)"
+    },
+    {
+      "name": "Feel the Burn",
+      "description": "New main scenario quest.",
+      "location": "Kienkan",
+      "npc_location": "Hien (X:6.1 Y:6.0)"
+    },
+    {
+      "name": "The Fire-bird Down Below",
+      "description": "New Chronicles of a New Era quest (The Four Lords).",
+      "location": "The Ruby Sea",
+      "npc_location": "Bunchin (X:27.8 Y:16.4)"
+    },
+    {
+      "name": "In the Beginning, There Was Chaos",
+      "description": "New Chronicles of a New Era quest (Interdimensional Rift - Omega).",
+      "location": "Rhalgr's Reach",
+      "npc_location": "Jessie (X:13.4 Y:12.4)"
+    },
+    {
+      "name": "Lighting the Way",
+      "description": "New Doman Enclave side story quest.",
+      "location": "The Doman Enclave",
+      "npc_location": "Kozakura (X:7.2 Y:7.3)"
+    },
+    {
+      "name": "Secret of the Ooze",
+      "description": "New side quest.",
+      "location": "Rhalgr's Reach",
+      "npc_location": "Sawney (X:11.7 Y:11.9)"
+    },
+    {
+      "name": "The Shifting Altars of Uznair",
+      "description": "New treasure hunt instance accessible via gazelleskin treasure maps.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Leap of Faith",
+      "description": "New Gold Saucer GATE.",
+      "location": "Gold Saucer",
+      "npc_location": "Sabotender Guia (X:4.9 Y:4.8)"
+    },
+    {
+      "name": "Mannequins",
+      "description": "New interior furnishing for estates and apartments to display/sell gear.",
+      "location": null,
+      "npc_location": "Housing merchants in Mist, Lavender Beds, Goblet, Shirogane"
+    },
+    {
+      "name": "Alarm System",
+      "description": "New system to set up to ten alarms for game activities.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Doman Enclave",
+      "description": "Exploration zone additions including mounts, aethernet, and mender.",
+      "location": "The Doman Enclave",
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Mannequin",
+      "description": "Mannequins are interior furnishings that you can equip with clothing items. You may select their class or job, as well as gender. Various poses are also available.",
+      "image_url": null
+    },
+    {
+      "name": "Unfinished Interior Wall",
+      "description": "An interior wall of pale unvarnished wood.",
+      "image_url": null
+    },
+    {
+      "name": "Carpeting",
+      "description": "Durable yet fuzzy loop carpet with a checkerboard pattern.",
+      "image_url": null
+    },
+    {
+      "name": "Divine Chandelier",
+      "description": "A contemporary light fixture designed with the Twelve as its primary theme.",
+      "image_url": null
+    },
+    {
+      "name": "Birdbath",
+      "description": "An elegant two-tiered water feature.",
+      "image_url": null
+    },
+    {
+      "name": "Garden Gravel",
+      "description": "Myriad tiny rocks that await your landscaping pleasure.",
+      "image_url": null
+    },
+    {
+      "name": "Brick Garden Circle",
+      "description": "All these squares make a circle.",
+      "image_url": null
+    },
+    {
+      "name": "Chocobo Chair",
+      "description": "A chair for all of (well, one of) the chocobo-lovers out there.",
+      "image_url": null
+    },
+    {
+      "name": "Doman Dogwood",
+      "description": "A sizable potted tree, perpetually in bloom with redolent magenta flowers.",
+      "image_url": null
+    },
+    {
+      "name": "Verdant Partition",
+      "description": "A lush partition covered floor-to-ceiling in ivy and assorted ferns.",
+      "image_url": null
+    },
+    {
+      "name": "Mahogany Bunk Bed",
+      "description": "For weary adults who have spent overmuch on alligator pears and cannot afford to live alone.",
+      "image_url": null
+    },
+    {
+      "name": "Bread Rack",
+      "description": "One could raise an entire army of ducks with this much bread.",
+      "image_url": null
+    },
+    {
+      "name": "Chocobo Round Table",
+      "description": "A round table for all the chocobo- and food-lovers out there.",
+      "image_url": null
+    },
+    {
+      "name": "Chocobo Dining Table",
+      "description": "A large dining table for all the chocobo-, food-, and chocobo-as-food-lovers out there.",
+      "image_url": null
+    },
+    {
+      "name": "Season Nine Lone Wolf Trophy",
+      "description": "A trophy awarded to those who \"left their mark\" in Season Nine of the Feast.",
+      "image_url": null
+    },
+    {
+      "name": "Pot of Cream Stew",
+      "description": "A warming dish of familiar vegetables simmered for bells in a rich sauce of thickened milk.",
+      "image_url": null
+    },
+    {
+      "name": "Redoubtable Rolanberry Tart",
+      "description": "A flaky-crusted tart with a slight acidity that complements its pleasant sweetness.",
+      "image_url": null
+    },
+    {
+      "name": "Crystal Boule",
+      "description": "A mounted sample of the luminous euhedral crystals that grow uninhibited on the sea floor.",
+      "image_url": null
+    },
+    {
+      "name": "Gridanian Bouquet",
+      "description": "An elegant bouquet for romantic occasions.",
+      "image_url": null
+    },
+    {
+      "name": "Little Chef's Playset",
+      "description": "This set for aspiring culinary artists includes soft, child-safe replicas of kitchen items.",
+      "image_url": null
+    },
+    {
+      "name": "Wooden Showcase",
+      "description": "A simple and elegant showcase for displaying items.",
+      "image_url": null
+    },
+    {
+      "name": "Unfinished Shawl",
+      "description": "A knitter's work is never done.",
+      "image_url": null
+    },
+    {
+      "name": "Hand Basket",
+      "description": "A large and lovely woven vessel.",
+      "image_url": null
+    },
+    {
+      "name": "Strewn Smallclothes",
+      "description": "Home is where the heap of unfolded undergarments is.",
+      "image_url": null
+    },
+    {
+      "name": "Strewn Bottoms",
+      "description": "A heap of folded pants.",
+      "image_url": null
+    },
+    {
+      "name": "Towels",
+      "description": "Neatly folded and extraordinarily fluffy towels.",
+      "image_url": null
+    },
+    {
+      "name": "Sofa Cushions",
+      "description": "A collection of pillows.",
+      "image_url": null
+    },
+    {
+      "name": "Suzaku Wall Hanging",
+      "description": "An elegant relief depicting one of the Four Lords, alive with dancing flame.",
+      "image_url": null
+    },
+    {
+      "name": "Enclave Map",
+      "description": "An artistic ink rendering of the spectacularly reconstructed Doman Enclave.",
+      "image_url": null
+    },
+    {
+      "name": "Imitation Shuttered Window",
+      "description": "Louvered shutters that add a touch of the rustic to your interior decor.",
+      "image_url": null
+    },
+    {
+      "name": "Mounted Plate Rack",
+      "description": "A sturdy wooden display for plates.",
+      "image_url": null
+    },
+    {
+      "name": "Bathroom Wall Tiles",
+      "description": "A square of tiling used to prevent walls from becoming waterlogged.",
+      "image_url": null
+    },
+    {
+      "name": "Bathroom Floor Tiles",
+      "description": "A large square of cerulean tiling with a built-in drain.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Barghest Helm",
+      "description": "Head piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Red Arum Corsage",
+      "description": "Head piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Blue Arum Corsage",
+      "description": "Head piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Yellow Arum Corsage",
+      "description": "Head piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Green Arum Corsage",
+      "description": "Head piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Orange Arum Corsage",
+      "description": "Head piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Purple Arum Corsage",
+      "description": "Head piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "White Arum Corsage",
+      "description": "Head piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Black Arum Corsage",
+      "description": "Head piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Rainbow Arum Corsage",
+      "description": "Head piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Catoblepas Horns",
+      "description": "Head piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Arch Demon Horns",
+      "description": "Head piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Barghest Armor",
+      "description": "Body piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Whisperfine Woolen Coat",
+      "description": "Body piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Yanxian Merchant's Haori",
+      "description": "Body piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Barghest Gauntlets",
+      "description": "Hands piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Barghest Cuisses",
+      "description": "Legs piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Whisperfine Woolen Shorts",
+      "description": "Legs piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Barghest Sabatons",
+      "description": "Feet piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Whisperfine Woolen Boots",
+      "description": "Feet piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    }
+  ]
+}

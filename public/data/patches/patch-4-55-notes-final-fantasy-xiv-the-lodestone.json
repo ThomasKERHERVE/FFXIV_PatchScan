@@ -1,0 +1,159 @@
+{
+  "patch_title": "Patch 4.55 Notes",
+  "patch_date": "2019-02-12",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/5e197cab52a09dd4f8de83e1f6d5e0bca4289061",
+  "jobs_pve": [],
+  "jobs_pvp": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "HP has been increased from 14,500 to 15,000."
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "HP has been reduced from 15,500 to 15,000."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Riddle of Fire: Recast time has been reduced from 60 to 45 seconds.",
+        "Riddle of Earth: Recast time has been reduced from 60 to 45 seconds."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Eye for an Eye: Recast time has been reduced from 45 to 30 seconds."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Lightspeed: Recast time has been reduced from 90 to 60 seconds."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "And We Shall Call It Hydatos",
+      "description": "Quest required to unlock the Hydatos region.",
+      "location": "Kugane (X:8.5 Y:14.2)",
+      "npc_location": "Rodney (Kugane X:8.5 Y:14.2)"
+    },
+    {
+      "name": "The Forbidden Land, Eureka Hydatos",
+      "description": "An exploration zone that serves as the conclusion to the Eureka expedition.",
+      "location": "Eureka",
+      "npc_location": null
+    },
+    {
+      "name": "The Baldesion Arsenal",
+      "description": "A brutally difficult open dungeon that can be challenged by up to 56 players at once.",
+      "location": "Eureka Hydatos",
+      "npc_location": null
+    },
+    {
+      "name": "Hidden Gorge",
+      "description": "A new Rival Wings campaign map for large-scale PvP combat.",
+      "location": "Wolves' Den Pier",
+      "npc_location": "Softknox (Wolves' Den Pier X:5.7 Y:5.4)"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Simple Treehouse",
+      "description": "No girls allowed. And while we're at it─no boys, either.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/L/EbtcXqPUGzsVYdi23FpUR25oH4.png"
+    },
+    {
+      "name": "Paissa Chronometer",
+      "description": "As if the beastkin's physique simply does not beg to be reimagined as a convenient timepiece.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/_/45sv0DETIHyh_gl2FyLgD6kUJE.png"
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Replica Pyros Sword",
+      "description": "Gladiator's Arm, Item Level: 290 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Replica Pyros Battleaxe",
+      "description": "Marauder's Arm, Item Level: 290 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Replica Pyros Guillotine",
+      "description": "Dark Knight's Arm, Item Level: 290 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Replica Pyros Knuckles",
+      "description": "Pugilist's Arm, Item Level: 290 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Replica Pyros Lance",
+      "description": "Lancer's Arm, Item Level: 290 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Replica Pyros Knives",
+      "description": "Rogue's Arm, Item Level: 290 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Replica Pyros Blade",
+      "description": "Samurai's Arm, Item Level: 290 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Replica Pyros Harp Bow",
+      "description": "Archer's Arm, Item Level: 290 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Replica Pyros Handgonne",
+      "description": "Machinist's Arm, Item Level: 290 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Replica Pyros Rod",
+      "description": "Two-handed Thaumaturge's Arm, Item Level: 290 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Replica Pyros Grimoire",
+      "description": "Arcanist's Grimoire, Item Level: 290 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Replica Pyros Tuck",
+      "description": "Red Mage's Arm, Item Level: 290 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Replica Pyros Cane",
+      "description": "Two-handed Conjurer's Arm, Item Level: 290 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Replica Pyros Codex",
+      "description": "Scholar's Arm, Item Level: 290 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Replica Pyros Astrometer",
+      "description": "Astrologian's Arm, Item Level: 290 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Replica Pyros Shield",
+      "description": "Shield, Item Level: 290 / Equipment Level: 70",
+      "image_url": null
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "patch_title": "Patch 6.11 Notes",
   "patch_date": "2022-04-26",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/6a3e8bf216810babcbe07b2842488577ec22cb54/",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/6a3e8bf216810babcbe07b2842488577ec22cb54",
   "jobs_pve": [
     {
       "job": "Gunbreaker",
@@ -164,31 +164,31 @@
   "new_content": [
     {
       "name": "Dragonsong's Reprise (Ultimate)",
-      "description": "A high-end duty that invites players to reflect upon bygone trials with a newfound perspective, dreaming of an alternate conclusion to the Dragonsong War.",
+      "description": "The fourth ultimate duty, reflecting upon bygone trials with a newfound perspective to dream of an alternate conclusion to the Dragonsong War.",
       "location": "Old Sharlayan",
-      "npc_location": "Wandering Minstrel in Old Sharlayan (X:12.7 Y:14.2)"
+      "npc_location": "Wandering Minstrel (X:12.7 Y:14.2)"
     },
     {
-      "name": "Data Center Travel system",
-      "description": "A system scheduled for implementation in Patch 6.18.",
+      "name": "Data Center Travel",
+      "description": "A system allowing players to travel between data centers.",
       "location": null,
       "npc_location": null
     },
     {
-      "name": "Custom deliveries",
-      "description": "Additional content scheduled to be released in Patch 6.15.",
+      "name": "Custom Deliveries",
+      "description": "New content scheduled for Patch 6.15.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Arkasodara tribal quests",
-      "description": "Additional content scheduled to be released in Patch 6.15.",
+      "description": "New tribal quests scheduled for Patch 6.15.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Somehow Further Hildibrand Adventures",
-      "description": "Additional content scheduled to be released in Patch 6.15.",
+      "description": "New side story quests scheduled for Patch 6.15.",
       "location": null,
       "npc_location": null
     }

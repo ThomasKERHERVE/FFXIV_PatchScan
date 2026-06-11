@@ -1,16 +1,182 @@
 {
   "patch_title": "Patch 6.15 Notes",
-  "patch_date": "2022-06-07",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/2a75878d6b82bb86121f68eb946fdf67eb8bf178",
+  "patch_date": "2022-06-14",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/91ca242abdbf0750db28d01f4f38d27c3aea617b",
   "jobs_pve": [],
-  "jobs_pvp": [],
-  "new_content": [
+  "jobs_pvp": [
     {
-      "name": "System Update",
-      "description": "Minor adjustments, hotfixes and database optimization for Patch 6.15 Notes.",
-      "location": "Eorzea"
+      "job": "Ninja",
+      "changes": [
+        "Shukuchi: The Hidden effect will now end even when using Sprint.",
+        "Meisui: Base cure potency has been reduced from 10,000 to 8,000."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Paradox: This action no longer has charges.",
+        "Night Wing: Half-asleep effect no longer reduces target movement speed.",
+        "Soul Resonance: Damage reduction from the Apocatastasis effect has been changed from 20% to 10%."
+      ]
     }
   ],
-  "housing": [],
-  "glamour": []
+  "new_content": [
+    {
+      "name": "Omega: Beyond the Rift",
+      "description": "Chronicles of a New Era quest line.",
+      "location": "Old Sharlayan (X:10.9 Y:14.3)",
+      "npc_location": "Bespectacled Technician"
+    },
+    {
+      "name": "A Heartless Hypothesis",
+      "description": "Chronicles of a New Era quest.",
+      "location": "Old Sharlayan (X:10.9 Y:14.3)",
+      "npc_location": "Bespectacled Technician"
+    },
+    {
+      "name": "Goodbye, ε̆│\\̆│Δ",
+      "description": "Chronicles of a New Era quest.",
+      "location": "???",
+      "npc_location": "???"
+    },
+    {
+      "name": "Small Business, Big Dreams",
+      "description": "Tataru's Grand Endeavor side story quest.",
+      "location": "Old Sharlayan (X:11.8 Y:9.8)",
+      "npc_location": "Mehdjina"
+    },
+    {
+      "name": "The Sleeping Gentleman",
+      "description": "Somehow Further Hildibrand Adventures quest.",
+      "location": "Radz-at-Han (X:11.8 Y:11.2)",
+      "npc_location": "Excitable Youth"
+    },
+    {
+      "name": "??? (Hildibrand)",
+      "description": "Somehow Further Hildibrand Adventures quest.",
+      "location": "???",
+      "npc_location": "???"
+    },
+    {
+      "name": "Of Mothers and Merchants",
+      "description": "Custom Deliveries quest for Ameliance.",
+      "location": "Old Sharlayan (X:12.6 Y:9.7)",
+      "npc_location": "Well-dressed Attendant"
+    },
+    {
+      "name": "??? (Ameliance)",
+      "description": "Custom Deliveries quest.",
+      "location": "???",
+      "npc_location": "???"
+    },
+    {
+      "name": "Hippos Born to Run",
+      "description": "Arkasodara tribal main quest.",
+      "location": "Thavnair (X:25.3 Y:31.2)",
+      "npc_location": "Kancana"
+    },
+    {
+      "name": "Arkasodara Tribal Quests",
+      "description": "Tribal quest series with daily quests and automatic level adjustment (quest sync).",
+      "location": "Thavnair",
+      "npc_location": "Kancana"
+    },
+    {
+      "name": "Quest Sync",
+      "description": "Automatic level adjustment system that matches battle difficulty to the player's current job and class levels.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Custom Deliveries: Ameliance",
+      "description": "System allowing players to provide items to Ameliance to receive gil, experience, and scrips.",
+      "location": "Old Sharlayan",
+      "npc_location": "Ameliance"
+    },
+    {
+      "name": "Triple Triad",
+      "description": "New cards and NPC opponents added to the Gold Saucer.",
+      "location": "The Manderville Gold Saucer",
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Raised Wooden Deck",
+      "description": "An elevated platform designed for access by only those who dare to hop, skip, or jump.",
+      "image_url": null
+    },
+    {
+      "name": "Log Pillar",
+      "description": "A decorative wooden pillar designed to resemble the tree it came from.",
+      "image_url": null
+    },
+    {
+      "name": "Iron Chair",
+      "description": "A refined chair wrought with diligence.",
+      "image_url": null
+    },
+    {
+      "name": "Stuffed Sanduruva",
+      "description": "Said to bring prosperity to the one who displays it. Any rumors that great wealth is hidden within are certainly exaggerated.",
+      "image_url": null
+    },
+    {
+      "name": "Stuffed Minduruva",
+      "description": "Said to bestow talent in the arts to the one who displays it. Any reports of it crafting shoes by night are likely exaggerated.",
+      "image_url": null
+    },
+    {
+      "name": "Stuffed Cinduruva",
+      "description": "Said to bless the one who displays it with wisdom. Any reports of its eyes moving on their own accord are greatly exaggerated. Probably.",
+      "image_url": null
+    },
+    {
+      "name": "Sweetfish Skewers",
+      "description": "Lightly salted and roasted to perfection, these sweetfish skewers make for a simple-yet-sublime snack.",
+      "image_url": null
+    },
+    {
+      "name": "Ornamental Crystal Array",
+      "description": "A decorative wall ornament dripping with jewels.",
+      "image_url": null
+    },
+    {
+      "name": "Simple Arched Window",
+      "description": "An arched window lovely in its simplicity.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Appointed Cap",
+      "description": "Head piece of the appointed attire set.",
+      "image_url": null
+    },
+    {
+      "name": "Appointed Jacket",
+      "description": "Body piece of the appointed attire set.",
+      "image_url": null
+    },
+    {
+      "name": "Appointed Gloves",
+      "description": "Hands piece of the appointed attire set.",
+      "image_url": null
+    },
+    {
+      "name": "Appointed Slacks",
+      "description": "Legs piece of the appointed attire set.",
+      "image_url": null
+    },
+    {
+      "name": "Appointed Shoes",
+      "description": "Feet piece of the appointed attire set.",
+      "image_url": null
+    },
+    {
+      "name": "Appointed Attire Coffer",
+      "description": "A banded chest containing a complete set of appointed attire.",
+      "image_url": null
+    }
+  ]
 }

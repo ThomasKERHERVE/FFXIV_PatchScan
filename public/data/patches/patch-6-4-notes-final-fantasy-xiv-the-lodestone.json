@@ -1,163 +1,166 @@
 {
   "patch_title": "Patch 6.4 Notes",
   "patch_date": "2023-06-06",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/7533e7a9b6b72d8e5aad3c1e7c4247967b3ee196/",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/7533e7a9b6b72d8e5aad3c1e7c4247967b3ee196",
   "jobs_pve": [
     {
       "job": "Gladiator / Paladin",
       "changes": [
-        "Riot Blade potency increased from 120 to 140; combo potency increased from 280 to 300.",
-        "Circle of Scorn potency increased from 100 to 120.",
-        "Divine Veil effect radius increased from 15 to 30 yalms.",
-        "Royal Authority potency increased from 120 to 140; combo potency increased from 380 to 400.",
-        "Atonement potency increased from 380 to 400; execution no longer interrupts action combos."
+        "Riot Blade: Potency increased from 120 to 140; combo potency increased from 280 to 300.",
+        "Circle of Scorn: Potency increased from 100 to 120.",
+        "Divine Veil: Effect radius increased from 15 to 30 yalms.",
+        "Royal Authority: Potency increased from 120 to 140; combo potency increased from 380 to 400.",
+        "Atonement: Potency increased from 380 to 400; execution no longer interrupts action combos."
       ]
     },
     {
       "job": "Marauder / Warrior",
       "changes": [
-        "Storm's Path potency increased from 150 to 160; combo potency increased from 430 to 440.",
-        "Vengeance: Vulnerability Down status effect combined with the Vengeance status effect.",
-        "Storm's Eye potency increased from 150 to 160; combo potency increased from 430 to 440.",
-        "Fell Cleave potency increased from 490 to 520.",
-        "Upheaval potency increased from 370 to 400.",
-        "Shake It Off effect radius increased from 15 to 30 yalms.",
-        "Inner Chaos potency increased from 650 to 660."
+        "Storm's Path: Potency increased from 150 to 160; combo potency increased from 430 to 440.",
+        "Vengeance: The Vulnerability Down status effect has been combined with the Vengeance status effect.",
+        "Storm's Eye: Potency increased from 150 to 160; combo potency increased from 430 to 440.",
+        "Fell Cleave: Potency increased from 490 to 520.",
+        "Upheaval: Potency increased from 370 to 400.",
+        "Shake It Off: Effect radius increased from 15 to 30 yalms.",
+        "Inner Chaos: Potency increased from 650 to 660."
       ]
     },
     {
       "job": "Dark Knight",
       "changes": [
-        "Dark Missionary effect radius increased from 15 to 30 yalms."
+        "Dark Missionary: Effect radius increased from 15 to 30 yalms."
       ]
     },
     {
       "job": "Gunbreaker",
       "changes": [
-        "Keen Edge potency increased from 170 to 200.",
-        "Brutal Shell potency increased from 130 to 160; combo potency increased from 270 to 300.",
-        "Heart of Light effect radius increased from 15 to 30 yalms."
+        "Keen Edge: Potency increased from 170 to 200.",
+        "Brutal Shell: Potency increased from 130 to 160; combo potency increased from 270 to 300.",
+        "Heart of Light: Effect radius increased from 15 to 30 yalms."
       ]
     },
     {
       "job": "Pugilist / Monk",
       "changes": [
-        "Mantra effect radius increased from 15 to 30 yalms.",
-        "Brotherhood effect radius increased from 15 to 30 yalms."
+        "Mantra: Effect radius increased from 15 to 30 yalms.",
+        "Brotherhood: Effect radius increased from 15 to 30 yalms."
       ]
     },
     {
       "job": "Dragoon",
       "changes": [
-        "Jump: Can now be executed while bound, no longer affects character's position as recognized by the server, and camera will no longer follow character.",
-        "Battle Litany effect radius increased from 15 to 30 yalms.",
-        "Dragon Sight now nullifies action direction requirements for self.",
-        "High Jump: Can now be executed while bound, no longer affects character's position as recognized by the server, and camera will no longer follow character."
+        "Jump: Can now be executed while bound; will no longer affect the character's position as recognized by the server; the camera will no longer follow the character.",
+        "Battle Litany: Effect radius increased from 15 to 30 yalms.",
+        "Dragon Sight: Now nullifies action direction requirements for self.",
+        "High Jump: Can now be executed while bound; will no longer affect the character's position as recognized by the server; the camera will no longer follow the character."
       ]
     },
     {
       "job": "Samurai",
       "changes": [
-        "Tenka Goken effect radius increased from 5 to 8 yalms.",
-        "Hissatsu: Senei potency increased from 800 to 860.",
-        "Kaeshi: Goken effect radius increased from 5 to 8 yalms.",
-        "Shoha potency increased from 520 to 560.",
-        "Ogi Namikiri potency increased from 800 to 860.",
-        "Kaeshi: Namikiri potency increased from 800 to 860."
+        "Tenka Goken: Effect radius increased from 5 to 8 yalms.",
+        "Hissatsu: Senei: Potency increased from 800 to 860.",
+        "Kaeshi: Goken: Effect radius increased from 5 to 8 yalms.",
+        "Shoha: Potency increased from 520 to 560.",
+        "Ogi Namikiri: Potency increased from 800 to 860.",
+        "Kaeshi: Namikiri: Potency increased from 800 to 860."
       ]
     },
     {
       "job": "Reaper",
       "changes": [
-        "Arcane Circle effect radius increased from 15 to 30 yalms."
+        "Arcane Circle: Effect radius increased from 15 to 30 yalms."
       ]
     },
     {
       "job": "Bard",
       "changes": [
-        "Mage's Ballad range of additional effect granting to self and party members increased from 30 to 50 yalms.",
-        "Army's Paeon range of additional effect granting to self and party members increased from 30 to 50 yalms.",
-        "Battle Voice effect radius increased from 20 to 30 yalms.",
-        "The Wanderer's Minuet range of additional effect granting to self and party members increased from 30 to 50 yalms.",
-        "Troubadour effect radius increased from 20 to 30 yalms.",
-        "Nature's Minne effect radius increased from 20 to 30 yalms.",
-        "Radiant Finale effect radius increased from 20 to 30 yalms."
+        "Mage's Ballad: Range of the additional effect granting Mage's Ballad to self and party members increased from 30 to 50 yalms.",
+        "Army's Paeon: Range of the additional effect granting Army's Paeon to self and party members increased from 30 to 50 yalms.",
+        "Battle Voice: Effect radius increased from 20 to 30 yalms.",
+        "The Wanderer's Minuet: Range of the additional effect granting the Wanderer's Minuet to self and party members increased from 30 to 50 yalms.",
+        "Troubadour: Effect radius increased from 20 to 30 yalms.",
+        "Nature's Minne: Effect radius increased from 20 to 30 yalms.",
+        "Radiant Finale: Effect radius increased from 20 to 30 yalms."
       ]
     },
     {
       "job": "Machinist",
       "changes": [
-        "Tactician effect radius increased from 20 to 30 yalms."
+        "Tactician: Effect radius increased from 20 to 30 yalms."
       ]
     },
     {
       "job": "Dancer",
       "changes": [
-        "Shield Samba effect radius increased from 20 to 30 yalms.",
-        "Single, Double, Triple, and Quadruple Technical Finish: Range of step bonus effect granting Technical Finish and Esprit to self and party members increased from 15 to 30 yalms."
+        "Shield Samba: Effect radius increased from 20 to 30 yalms.",
+        "Single Technical Finish: Range of step bonus effect increased from 15 to 30 yalms.",
+        "Double Technical Finish: Range of step bonus effect increased from 15 to 30 yalms.",
+        "Triple Technical Finish: Range of step bonus effect increased from 15 to 30 yalms.",
+        "Quadruple Technical Finish: Range of step bonus effect increased from 15 to 30 yalms."
       ]
     },
     {
       "job": "Black Mage",
       "changes": [
-        "Xenoglossy potency increased from 800 to 880.",
+        "Xenoglossy: Potency increased from 800 to 880.",
         "Enhanced Enochian III: Magic damage increase changed from 21% to 23%."
       ]
     },
     {
       "job": "Summoner",
       "changes": [
-        "Searing Light effect radius increased from 15 to 30 yalms."
+        "Searing Light: Effect radius increased from 15 to 30 yalms."
       ]
     },
     {
       "job": "Red Mage",
       "changes": [
-        "Embolden effect radius increased from 15 to 30 yalms.",
-        "Magick Barrier effect radius increased from 15 to 30 yalms."
+        "Embolden: Effect radius increased from 15 to 30 yalms.",
+        "Magick Barrier: Effect radius increased from 15 to 30 yalms."
       ]
     },
     {
       "job": "White Mage",
       "changes": [
-        "Asylum effect radius increased from 10 to 15 yalms.",
-        "Dia potency increased from 60 to 65; damage over time potency increased from 60 to 65.",
-        "Temperance range of effect reducing damage taken by self and party members increased from 30 to 50 yalms."
+        "Asylum: Effect radius increased from 10 to 15 yalms.",
+        "Dia: Potency increased from 60 to 65; damage over time potency increased from 60 to 65.",
+        "Temperance: Range of effect reducing damage taken increased from 30 to 50 yalms."
       ]
     },
     {
       "job": "Scholar",
       "changes": [
-        "Fey Illumination effect radius increased from 15 to 30 yalms.",
-        "Sacred Soil effect radius increased from 10 to 15 yalms.",
-        "Deployment Tactics effect radius increased from 15 to 30 yalms.",
-        "Seraphic Illumination effect radius increased from 15 to 30 yalms.",
-        "Consolation effect radius increased from 20 to 30 yalms.",
-        "Expedient effect radius increased from 15 to 30 yalms.",
-        "Summon Selene has been removed."
+        "Fey Illumination: Effect radius increased from 15 to 30 yalms.",
+        "Sacred Soil: Effect radius increased from 10 to 15 yalms.",
+        "Deployment Tactics: Effect radius increased from 15 to 30 yalms.",
+        "Seraphic Illumination: Effect radius increased from 15 to 30 yalms.",
+        "Consolation: Effect radius increased from 20 to 30 yalms.",
+        "Expedient: Effect radius increased from 15 to 30 yalms.",
+        "Summon Selene: Action has been removed."
       ]
     },
     {
       "job": "Astrologian",
       "changes": [
-        "Divination effect radius increased from 15 to 30 yalms.",
-        "Collective Unconscious: Range of additional effect reducing damage taken increased from 8 to 30 yalms; duration of damage reduction effect set to 5 seconds (reapplied upon re-entering bounds)."
+        "Divination: Effect radius increased from 15 to 30 yalms.",
+        "Collective Unconscious: Range of additional damage reduction effect increased from 8 to 30 yalms; additional effect now has a duration of 5 seconds and will be reapplied upon re-entering the bounds of Collective Unconscious."
       ]
     },
     {
       "job": "Sage",
       "changes": [
-        "Kerachole effect radius increased from 15 to 30 yalms.",
-        "Physis II effect radius increased from 15 to 30 yalms.",
-        "Holos effect radius increased from 15 to 30 yalms.",
-        "Panhaima effect radius increased from 15 to 30 yalms.",
-        "Eukrasian Dosis III potency increased from 70 to 75."
+        "Kerachole: Effect radius increased from 15 to 30 yalms.",
+        "Physis II: Effect radius increased from 15 to 30 yalms.",
+        "Holos: Effect radius increased from 15 to 30 yalms.",
+        "Panhaima: Effect radius increased from 15 to 30 yalms.",
+        "Eukrasian Dosis III: Potency increased from 70 to 75."
       ]
     },
     {
       "job": "Physical Ranged DPS Role Actions",
       "changes": [
-        "Peloton effect radius increased from 20 to 30 yalms."
+        "Peloton: Effect radius increased from 20 to 30 yalms."
       ]
     }
   ],
@@ -205,8 +208,8 @@
         "Soul Slice: Recast time has been reduced from 20 to 15 seconds.",
         "Grim Swathe: Maximum stacks of Soul Reaver have been reduced from 2 to 1.",
         "Guillotine: New action added. Delivers an attack with a potency of 8,000 to all enemies in a cone before you. Can only be executed while under the effect of Soul Reaver.",
-        "Gibbet: Removed.",
-        "Gallows: Removed."
+        "Gibbet: Action removed.",
+        "Gallows: Action removed."
       ]
     },
     {
@@ -227,7 +230,7 @@
         "Bioblaster: Potency is now also doubled while under the effect of Analysis.",
         "Chain Saw: Damage potency has been reduced from 12,000 to 8,000.",
         "Chain Saw: Potency is now increased by 50% when target's HP is below 50%.",
-        "Chain Saw: The additional effect '3% chance to deal damage equal to 95% of target's HP while under the effect of Analysis' has been changed to 'Potency is increased by 50% while under the effect of Analysis.'"
+        "Chain Saw: Changed additional effect from 3% chance to deal 95% damage to target while under Analysis to 'Potency is increased by 50% while under the effect of Analysis'."
       ]
     },
     {
@@ -261,85 +264,79 @@
     },
     {
       "name": "The Voidcast Dais (Extreme)",
-      "description": "A new extreme difficulty trial.",
-      "location": "Old Sharlayan",
-      "npc_location": "Wandering Minstrel (X:12.7 Y:14.2)"
+      "description": "A new extreme trial.",
+      "location": "Old Sharlayan (X:12.7 Y:14.2)",
+      "npc_location": "Wandering Minstrel"
     },
     {
       "name": "Containment Bay Z1T9 (Unreal)",
-      "description": "A new unreal difficulty trial.",
-      "location": "Idyllshire",
-      "npc_location": "Painfully Ishgardian Man (X:7.0 Y:5.9)"
+      "description": "A new unreal trial.",
+      "location": "Idyllshire (X:7.0 Y:5.9)",
+      "npc_location": "Fantastic Mr. Faux"
     },
     {
       "name": "Pandæmonium: Anabaseios",
       "description": "A new raid dungeon.",
-      "location": "Labyrinthos",
-      "npc_location": "Ruissenaud (X:8.6 Y:27.5)"
+      "location": "Labyrinthos (X:8.6 Y:27.5)",
+      "npc_location": "Ruissenaud"
     },
     {
       "name": "Pandæmonium: Anabaseios (Savage)",
-      "description": "A new savage difficulty raid dungeon.",
-      "location": "Labyrinthos",
-      "npc_location": "Nemjiji (X:8.4 Y:27.4)"
+      "description": "A new savage raid dungeon.",
+      "location": "Labyrinthos (X:8.4 Y:27.4)",
+      "npc_location": "Nemjiji"
     },
     {
       "name": "Currying Flavor",
       "description": "Main scenario quest.",
-      "location": "Radz-at-Han",
-      "npc_location": "Varshahn (X:4.4 Y:9.8)"
+      "location": "Radz-at-Han (X:4.4 Y:9.8)",
+      "npc_location": "Varshahn"
     },
     {
       "name": "Eater of Souls",
       "description": "Chronicles of a New Era quest.",
-      "location": "Labyrinthos",
-      "npc_location": "Ruissenaud (X:8.6 Y:27.5)"
+      "location": "Labyrinthos (X:8.6 Y:27.5)",
+      "npc_location": "Ruissenaud"
     },
     {
       "name": "A Faerie Tale Come True",
-      "description": "Scholar job quest.",
-      "location": "Limsa Lominsa Lower Decks",
-      "npc_location": "Thubyrgeim (X:4.7 Y:11.4)"
+      "description": "Side story quest for Scholar.",
+      "location": "Limsa Lominsa Lower Decks (X:4.7 Y:11.4)",
+      "npc_location": "Thubyrgeim"
     },
     {
       "name": "Aggressive Expansion",
-      "description": "Tataru's Grand Endeavor side story quest.",
-      "location": "Old Sharlayan",
-      "npc_location": "Mehdjina (X:11.8 Y:9.8)"
+      "description": "Side story quest for Tataru's Grand Endeavor.",
+      "location": "Old Sharlayan (X:11.8 Y:9.8)",
+      "npc_location": "Mehdjina"
     },
     {
       "name": "An Ideal Marriage",
-      "description": "Island Sanctuary side story quest.",
-      "location": "Unnamed Island",
-      "npc_location": "Curious Courier (X:12.4 Y:28.7)"
+      "description": "Island Sanctuary quest.",
+      "location": "Unnamed Island (X:12.4 Y:28.7)",
+      "npc_location": "Curious Courier"
+    },
+    {
+      "name": "Battle System",
+      "description": "Adjustments to job actions and traits, and limit break damage variance reduction.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "PvP",
+      "description": "Adjustments to Crystalline Conflict and Frontline, including job actions and UI elements.",
+      "location": null,
+      "npc_location": null
     },
     {
       "name": "Island Sanctuary",
-      "description": "System update: increased rank, new gathering areas, construction plots, and furnishing glamours.",
+      "description": "Increased max rank, new visions, construction plots, facilities, gathering areas, and furnishing glamours.",
       "location": null,
       "npc_location": null
     },
     {
-      "name": "Furnishing Glamours",
-      "description": "System feature allowing placement of furnishings as glamours in the Island Sanctuary.",
-      "location": null,
-      "npc_location": null
-    },
-    {
-      "name": "Subaquatic Voyages",
-      "description": "Company system update adding new nautical maps, areas, and items.",
-      "location": null,
-      "npc_location": null
-    },
-    {
-      "name": "Ruby Route",
-      "description": "New exploration zone/voyage route for Ocean Fishing.",
-      "location": null,
-      "npc_location": null
-    },
-    {
-      "name": "Foraging Expedition Area",
-      "description": "New area added for foraging expeditions in Island Sanctuary.",
+      "name": "Duty Support",
+      "description": "Added for The Sirensong Sea, Bardam's Mettle, Doma Castle, Castrum Abania, and Ala Mhigo.",
       "location": null,
       "npc_location": null
     }
@@ -574,17 +571,17 @@
   "glamour": [
     {
       "name": "Valentione Rose Ribboned Gloves",
-      "description": "Adjustments have been made to the graphics of the following equipment.",
+      "description": "Adjustments have been made to the graphics.",
       "image_url": null
     },
     {
       "name": "Valentione Forget-me-not Ribboned Gloves",
-      "description": "Adjustments have been made to the graphics of the following equipment.",
+      "description": "Adjustments have been made to the graphics.",
       "image_url": null
     },
     {
       "name": "Valentione Acacia Ribboned Gloves",
-      "description": "Adjustments have been made to the graphics of the following equipment.",
+      "description": "Adjustments have been made to the graphics.",
       "image_url": null
     },
     {

@@ -1,0 +1,163 @@
+{
+  "patch_title": "Patch 5.01 Notes",
+  "patch_date": "2019-07-23",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/4ddd33c83933ec4ad3dccb0e6538bbb9e85e63e7",
+  "jobs_pve": [
+    {
+      "job": "Lancer/Dragoon",
+      "changes": [
+        "Disembowel: Duration has been increased from 24 to 30 seconds."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Art of War: MP cost reduced from 800 to 600."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Gravity: MP cost reduced from 700 to 600."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Dancer",
+      "changes": [
+        "Standard Finish: Potency reduced from 400 to 300.",
+        "Single Standard Finish: Potency reduced from 800 to 600.",
+        "Double Standard Finish: Potency reduced from 1,200 to 900.",
+        "Technical Finish: Potency reduced from 400 to 300.",
+        "Single Technical Finish: Potency reduced from 800 to 600.",
+        "Double Technical Finish: Potency reduced from 1,200 to 900.",
+        "Triple Technical Finish: Potency reduced from 1,600 to 1,200.",
+        "Quadruple Technical Finish: Potency reduced from 2,000 to 1,500."
+      ]
+    },
+    {
+      "job": "Adrenaline Rush",
+      "changes": [
+        "Terminal Velocity: Potency reduced from 7,500 to 6,000.",
+        "Cometeor: Potency reduced from 5,000 to 4,000."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Eden's Gate",
+      "description": "A new raid dungeon consisting of tokens traded for gear; requires completion of Chronicles of a New Era quests.",
+      "location": "The Empty",
+      "npc_location": null
+    },
+    {
+      "name": "Eden's Gate: Resurrection",
+      "description": "Duty added to Duty Roulette: Mentor and Duty Roulette: Normal Raids.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Eden's Gate: Descent",
+      "description": "Duty added to Duty Roulette: Mentor and Duty Roulette: Normal Raids.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Eden's Gate: Inundation",
+      "description": "Duty added to Duty Roulette: Mentor and Duty Roulette: Normal Raids.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Eden's Gate: Sepulture",
+      "description": "Duty added to Duty Roulette: Mentor and Duty Roulette: Normal Raids; provides a blade of early antiquity as a completion reward.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "In the Middle of Nowhere",
+      "description": "Chronicles of a New Era quest.",
+      "location": "The Crystarium",
+      "npc_location": "Anxious Crystarium Guard"
+    },
+    {
+      "name": "Deploy the Core",
+      "description": "Chronicles of a New Era quest.",
+      "location": "The Empty",
+      "npc_location": "???"
+    },
+    {
+      "name": "Duty Roulette: Mentor",
+      "description": "System updated with new duties and increased item level requirements.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Duty Roulette: Normal Raids",
+      "description": "System updated to include Eden's Gate duties.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Empty",
+      "description": "Exploration zone where Eden's Gate is located.",
+      "location": "The Empty",
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Force Your Way Orchestrion Roll",
+      "description": "Music roll for Force Your Way. Use to add to your orchestrion list.",
+      "image_url": null
+    },
+    {
+      "name": "Blinding Indigo Orchestrion Roll",
+      "description": "Music roll for Blinding Indigo. Use to add to your orchestrion list.",
+      "image_url": null
+    },
+    {
+      "name": "Landslide Orchestrion Roll",
+      "description": "Music roll for Landslide. Use to add to your orchestrion list.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Helm of Early Antiquity",
+      "description": "A winged helmet forged by some ancient civilization, recovered from Eden's Gate. Two helms can be traded for special headgear.",
+      "image_url": null
+    },
+    {
+      "name": "Armor of Early Antiquity",
+      "description": "Emblazoned armor forged by some ancient civilization, recovered from Eden's Gate. Four suits can be traded for special body gear.",
+      "image_url": null
+    },
+    {
+      "name": "Gauntlets of Early Antiquity",
+      "description": "Wrought-iron gauntlets forged by some ancient civilization, recovered from Eden's Gate. Two pairs can be traded for special arm gear.",
+      "image_url": null
+    },
+    {
+      "name": "Chausses of Early Antiquity",
+      "description": "Heavy chausses forged by some ancient civilization, recovered from Eden's Gate. Four pairs can be traded for special leg gear.",
+      "image_url": null
+    },
+    {
+      "name": "Greaves of Early Antiquity",
+      "description": "Tarnished greaves forged by some ancient civilization, recovered from Eden's Gate. Two pairs can be traded for special foot gear.",
+      "image_url": null
+    },
+    {
+      "name": "Belt of Early Antiquity",
+      "description": "An ornamented belt created by some ancient civilization, recovered from Eden's Gate. One belt can be traded for special waist gear.",
+      "image_url": null
+    },
+    {
+      "name": "Bangle of Early Antiquity",
+      "description": "An extravagant bangle forged by some ancient civilization, recovered from Eden's Gate. One bangle can be traded for a special accessory.",
+      "image_url": null
+    }
+  ]
+}

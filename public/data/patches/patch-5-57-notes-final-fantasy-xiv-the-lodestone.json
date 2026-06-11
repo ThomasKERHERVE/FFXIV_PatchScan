@@ -1,0 +1,71 @@
+{
+  "patch_title": "Patch 5.57 Notes",
+  "patch_date": "2021-06-08",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/4f379e06b6471c55ea02f138b6ada581b088ab2e",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Eden's Promise (Savage)",
+      "description": "High-difficulty raid tier receiving adjustments including the addition of the Echo, removal of weekly restrictions, and automatic coffer spawning.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Tower at Paradigm's Breach",
+      "description": "Added to the Duty Roulette: Alliance Raids rotation.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Bozjan southern front",
+      "description": "Exploration zone receiving adjustments to rewards, critical engagement rewards, and exchange rates for forgotten fragments.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Delubrum Reginae",
+      "description": "Duty receiving an increase in the number of timeworn artifacts rewarded upon completion.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Weapon's Refrain (Ultimate)",
+      "description": "Duty where an issue regarding player incapacitation at the edge of the battlefield was resolved.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "A New Path of Resistance",
+      "description": "Quest required to receive timeworn artifacts from Delubrum Reginae.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Duty Roulette: Alliance Raids",
+      "description": "System feature updated to include The Tower at Paradigm's Breach.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Visit Another World Server",
+      "description": "System feature allowing players to log in on another World to alleviate congestion.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Character Profile Quest Tracking",
+      "description": "System feature allowing players to confirm quest completion status via the Lodestone.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Zadnor",
+      "description": "Exploration zone where issues with NPC displays in skirmishes and duels were resolved.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [],
+  "glamour": []
+}

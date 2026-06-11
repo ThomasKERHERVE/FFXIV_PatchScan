@@ -1,0 +1,443 @@
+{
+  "patch_title": "Patch 5.5 Notes",
+  "patch_date": "2021-04-20",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/6526ce95a595e8a557b55736f85f19687dc11883",
+  "jobs_pve": [
+    {
+      "job": "Marauder / Warrior",
+      "changes": [
+        "Maim: Combo potency has been increased from 300 to 320.",
+        "Storm's Path: Combo potency has been increased from 380 to 420.",
+        "Storm's Eye: Combo potency has been increased from 380 to 420."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Grit: Increased enmity effect now applies to attacks dealt by Living Shadow."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Riddle of Earth: The effects of this action have been completely revamped. Riddle of Earth now grants 3 stacks of Riddle of Earth, each stack reducing damage taken by 10% and nullifying all action direction requirements for 10s. Maximum charges: 3. Effect ends when time expires or upon execution of three weaponskills."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Fang and Claw: Potency has been increased from 330 to 340. Potency when executed from a target's flank has been increased from 370 to 380.",
+        "Wheeling Thrust: Potency has been increased from 330 to 340. Potency when executed from a target's rear has been increased from 370 to 380.",
+        "Lance Mastery: Increase to Fang and Claw and Wheeling Thrust potency has been changed from 100 to 110."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Succor: MP cost has been reduced from 1,100 to 1,000."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Warrior",
+      "changes": [
+        "Nascent Flash: Now reduces damage taken by 10%."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Tornado Kick: Potency has been increased from 1,600 to 2,000."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Life Surge: The additional effect \"Absorbs 100% of damage dealt as HP\" has been removed.",
+        "Life Surge: Maximum charges have been increased from 1 to 2."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Trick Attack: Increase to target's damage taken has been reduced from 15% to 10%."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Temperance: Increase to damage dealt and healing potency has been reduced from 25% to 20%."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Paglth'an",
+      "description": "A new dungeon.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Cloud Deck",
+      "description": "A new trial.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Cloud Deck (Extreme)",
+      "description": "A new extreme trial.",
+      "location": null,
+      "npc_location": "The Lochs (X:11.5 Y:22.5)"
+    },
+    {
+      "name": "The Whorleater (Unreal)",
+      "description": "A new unreal trial.",
+      "location": null,
+      "npc_location": "Idyllshire (X:7.0 Y:5.9)"
+    },
+    {
+      "name": "The Tower at Paradigm's Breach",
+      "description": "A new alliance raid dungeon.",
+      "location": null,
+      "npc_location": "The Puppets' Bunker (X:9.8 Y:14.3)"
+    },
+    {
+      "name": "Unto the Breach",
+      "description": "Main scenario quest.",
+      "location": "The Rising Stones (X:6.0 Y:5.9)",
+      "npc_location": "Alisaie"
+    },
+    {
+      "name": "Here Be Dragons",
+      "description": "Main scenario quest.",
+      "location": "The Lochs (X:36.3 Y:32.0)",
+      "npc_location": "Alphinaud"
+    },
+    {
+      "name": "Righteous Indignation",
+      "description": "Main scenario quest.",
+      "location": "Azys Lla (X:12.1 Y:25.4)",
+      "npc_location": "Estinien"
+    },
+    {
+      "name": "Konogg, Alone",
+      "description": "Chronicles of a New Era quest.",
+      "location": "Kholusia (X:34.7 Y:18.2)",
+      "npc_location": "Dig Site Chief"
+    },
+    {
+      "name": "Brave New World",
+      "description": "Chronicles of a New Era quest.",
+      "location": "The Puppets' Bunker (X:9.8 Y:14.3)",
+      "npc_location": "Dig Site Chief"
+    },
+    {
+      "name": "Duty in the Sky with Diamond",
+      "description": "Chronicles of a New Era quest.",
+      "location": "The Lochs (X:11.3 Y:22.5)",
+      "npc_location": "Resistance Officer"
+    },
+    {
+      "name": "The Dragon Made",
+      "description": "Side story quest.",
+      "location": "The Lochs (X:11.5 Y:22.5)",
+      "npc_location": "Warmachina Fanatic"
+    },
+    {
+      "name": "You Can Count on It",
+      "description": "Custom Delivery quest.",
+      "location": "The Firmament (X:11.0 Y:14.5)",
+      "npc_location": "Francel"
+    },
+    {
+      "name": "Those Who Serve",
+      "description": "Custom Delivery quest.",
+      "location": "The Firmament (X:8.9 Y:8.4)",
+      "npc_location": "Maurilette"
+    },
+    {
+      "name": "PlayStation 5 Open Beta",
+      "description": "Eligible players can take part in the open beta test for PlayStation 5.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Fêtes",
+      "description": "Large-scale games held at regular intervals to celebrate the completion of the Firmament.",
+      "location": "The Firmament",
+      "npc_location": null
+    },
+    {
+      "name": "Notoriety",
+      "description": "A new parameter at the Bozjan southern front that influences a player's chances of being selected to duel enemies.",
+      "location": "Bozjan southern front",
+      "npc_location": null
+    },
+    {
+      "name": "Explorer Mode",
+      "description": "Expansion of supported duties allowing level sync and item level sync to be removed.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Small Forge's Walls",
+      "description": "A set of four walls designed for those who wish to transform their estate into a forge. ※Can only be used with cottages on small plots of land.",
+      "image_url": null
+    },
+    {
+      "name": "Medium Forge's Walls",
+      "description": "A set of four walls designed for those who wish to transform their estate into a forge. ※Can only be used with houses on medium plots of land.",
+      "image_url": null
+    },
+    {
+      "name": "Large Forge's Walls",
+      "description": "A set of four walls designed for those who wish to transform their estate into a forge. ※Can only be used with mansions on large plots of land.",
+      "image_url": null
+    },
+    {
+      "name": "Storm Blue Interior Wall",
+      "description": "A blue interior wall for those estate owners who wish to make a simple statement.",
+      "image_url": null
+    },
+    {
+      "name": "Cream Yellow Carpet",
+      "description": "Durable-yet-fuzzy loop carpet in a cozy cream yellow.",
+      "image_url": null
+    },
+    {
+      "name": "Cloud Acorn Chandelier",
+      "description": "\"Quaint\" does not begin to describe this chandelier made with cloud acorns still hanging on the branch.",
+      "image_url": null
+    },
+    {
+      "name": "Forging Bench",
+      "description": "An outdoor furnishing perfect for those who prefer to do their smithing out in the open.",
+      "image_url": null
+    },
+    {
+      "name": "Garden Anvil",
+      "description": "Best placed outdoors, as it tends to leave rather an undesirable impression on all but the most durable of floors.",
+      "image_url": null
+    },
+    {
+      "name": "Materiel Table",
+      "description": "An outdoor furnishing including an assortment of arms and armor.",
+      "image_url": null
+    },
+    {
+      "name": "Fête Party Balloons",
+      "description": "Seen adorning the Firmament during the Skyrise Celebration, this colorful bunch of balloons is guaranteed to fill the air with festive cheer.",
+      "image_url": null
+    },
+    {
+      "name": "Fête Skyrise Balloon",
+      "description": "Seen adorning the Firmament during the Skyrise Celebration, this oversized balloon set upon an elegant mount brings a touch of sophistication to any festive occasion.",
+      "image_url": null
+    },
+    {
+      "name": "Azim Steppe Phasmascape",
+      "description": "This advanced magitek contraption displays the wide, sweeping landscape of the Azim Steppe in vivid detail.",
+      "image_url": null
+    },
+    {
+      "name": "Blue Moon Phasmascape",
+      "description": "This advanced magitek contraption displays a full moon hanging majestically in the night sky.",
+      "image_url": null
+    },
+    {
+      "name": "Windowed Partition",
+      "description": "Extending to the ceiling, this partition incorporates a wide rectangular window.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Windowed Partition",
+      "description": "Extending to the ceiling, this partition incorporates a round Hingan-style window.",
+      "image_url": null
+    },
+    {
+      "name": "Country Dining Set",
+      "description": "Enjoy the bucolic life with this wooden dining set for four, finished with a checkered tablecloth.",
+      "image_url": null
+    },
+    {
+      "name": "Red Brick Counter",
+      "description": "For years, academics have sought to explain why such counters of brick and timber enhance the flavor of liquor.",
+      "image_url": null
+    },
+    {
+      "name": "Back Bar",
+      "description": "A tall wooden shelf commonly used in taverns to store and display liquor.",
+      "image_url": null
+    },
+    {
+      "name": "Major-General Cushion",
+      "description": "It's a shark. With legs. And is also a cushion.",
+      "image_url": null
+    },
+    {
+      "name": "Diamond Weapon Bust",
+      "description": "Arguably more shoulders than bust, but undeniably menacing in either case.",
+      "image_url": null
+    },
+    {
+      "name": "Stuffed Android Units",
+      "description": "As they stood together as comrades, it is only fitting that 2B and 9S stand together as stuffed toys.",
+      "image_url": null
+    },
+    {
+      "name": "Wooden Reel Table",
+      "description": "Formerly used to carry ropes and cables, this wooden reel has been repurposed as a table.",
+      "image_url": null
+    },
+    {
+      "name": "Violin Showcase",
+      "description": "A wooden cabinet custom made for displaying violins. Comes complete with instruments.",
+      "image_url": null
+    },
+    {
+      "name": "Pub Signboard",
+      "description": "When it comes to indicating the presence of a pub, nary a word is needed.",
+      "image_url": null
+    },
+    {
+      "name": "Mushroom Lamp",
+      "description": "Grown from a ball of moss, this luminescent mushroom gives off a gentle light.",
+      "image_url": null
+    },
+    {
+      "name": "Sealed Letter",
+      "description": "While the contents are a mystery, whoever reads this letter is certain to regret it for the rest of their days.",
+      "image_url": null
+    },
+    {
+      "name": "Approved Ishgardian Lunch",
+      "description": "Tasty and wholesome, this lunch set is said to be a favorite among skybuilders.",
+      "image_url": null
+    },
+    {
+      "name": "Akadaemia Prospectuses",
+      "description": "This collection of brochures provides detailed information to prospective students of the Akadaemia Anyder.",
+      "image_url": null
+    },
+    {
+      "name": "Ice Box",
+      "description": "Rather than with magic or magitek, this wooden box keeps its contents chilled the old-fashioned way─with a large block of ice.",
+      "image_url": null
+    },
+    {
+      "name": "Necrologos Transcription",
+      "description": "While appearing to be gibberish, the words written within this tome fiendishly incorporate a summoning spell.",
+      "image_url": null
+    },
+    {
+      "name": "Hand-poured Coffee",
+      "description": "Aromatic coffee brewed by the time-honored pour-over method.",
+      "image_url": null
+    },
+    {
+      "name": "Pixie Apple Basket",
+      "description": "A basket of pixie apples and a bottle of grape juice, perfect as a palate cleanser or simply a snack.",
+      "image_url": null
+    },
+    {
+      "name": "Armor Hanger",
+      "description": "Originally designed for ceremonial purposes for those of the Elezen persuasion.",
+      "image_url": null
+    },
+    {
+      "name": "G-Warrior MG",
+      "description": "A dynamic tabletop statue based on Garlond Ironworks' G-Warrior.",
+      "image_url": null
+    },
+    {
+      "name": "Bar Rack",
+      "description": "A wooden rack for holding a selection of drinks and glasses.",
+      "image_url": null
+    },
+    {
+      "name": "Portrait of Gestahl",
+      "description": "A beautiful rendering of a sweet little dog who somehow exudes the air of a tyrannical emperor.",
+      "image_url": null
+    },
+    {
+      "name": "Mounted Dinosaur Skull",
+      "description": "The cranium of this ferocious predator is now doomed to spend eternity in ignominy mounted as a trophy.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Frontier Hat",
+      "description": "Head piece, fits all males.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/M/jbKfsST_zxfBTU9FZzme5iwhF0.png"
+    },
+    {
+      "name": "Frontier Ribbon",
+      "description": "Head piece, fits all females.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/L/EbtcXqPUGzsVYdi23FpUR25oH4.png"
+    },
+    {
+      "name": "Peacelover's Hat",
+      "description": "Head piece.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/_/45sv0DETIHyh_gl2FyLgD6kUJE.png"
+    },
+    {
+      "name": "Frontier Jacket",
+      "description": "Body piece, fits all males.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/M/5T9l7AE_cSDlsD4EM4rjEQRgCE.png"
+    },
+    {
+      "name": "Frontier Dress",
+      "description": "Body piece, fits all females.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/v/oxRQz2cT8riqV5VLCu2-nADVkE.png"
+    },
+    {
+      "name": "Peacelover's Shirt",
+      "description": "Body piece.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/v/hyXqlwktN4v0EssRTzkbMf_7OQ.png"
+    },
+    {
+      "name": "Frontier Dress Gloves",
+      "description": "Hand piece, fits all females.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/U/15QxPO___EcPlhMI9ydNRRxEY8.png"
+    },
+    {
+      "name": "Peacelover's Gloves",
+      "description": "Hand piece.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/E/8R4FrEQFMaGtRtuRNMU0nhfZ9c.png"
+    },
+    {
+      "name": "Frontier Trousers",
+      "description": "Leg piece, fits all males.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/i/OfvDbUY2NolZsL2r-nN_N8G6Sc.png"
+    },
+    {
+      "name": "Peacelover's Pantaloons",
+      "description": "Leg piece.",
+      "image_url": null
+    },
+    {
+      "name": "Frontier Shoes",
+      "description": "Foot piece, fits all males.",
+      "image_url": null
+    },
+    {
+      "name": "Frontier Pumps",
+      "description": "Foot piece, fits all females.",
+      "image_url": null
+    },
+    {
+      "name": "Peacelover's Longboots",
+      "description": "Foot piece.",
+      "image_url": null
+    },
+    {
+      "name": "Peacelover's Attire Coffer",
+      "description": "A banded chest containing a complete set of peacelover's attire.",
+      "image_url": null
+    }
+  ]
+}

@@ -1,68 +1,68 @@
 {
   "patch_title": "Patch 7.1 Notes",
   "patch_date": "2025-04-08",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/9b42b2425f3a680caea3281ccd65c99677cb00e2/",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/9b42b2425f3a680caea3281ccd65c99677cb00e2",
   "jobs_pve": [
     {
       "job": "Paladin",
       "changes": [
-        "Cover: Range has been extended from 10 to 20 yalms.",
+        "Cover: Range extended from 10 to 20 yalms.",
         "Intervene: Now acquired at level 66 (previously level 74).",
-        "Hallowed Ground: The effects of this action will now be applied earlier."
+        "Hallowed Ground: Effects now applied earlier."
       ]
     },
     {
       "job": "Warrior",
       "changes": [
-        "Holmgang: The effects of this action will now be applied earlier.",
-        "Chaotic Cyclone: The hit detection for this action will now trigger earlier."
+        "Holmgang: Effects now applied earlier.",
+        "Chaotic Cyclone: Hit detection now triggers earlier."
       ]
     },
     {
       "job": "Dark Knight",
       "changes": [
         "Dark Mind: Now also reduces physical damage taken by 10%.",
-        "Living Dead: The effects of this action will now be applied earlier.",
-        "Abyssal Drain: Cure potency has been increased from 200 to 500.",
-        "Carve and Spit: The additional effect 'Restores own HP' has been added with a cure potency of 500.",
-        "Bloodspiller: Potency has been increased from 580 to 600.",
-        "Dark Missionary: Now acquired at level 66 (previously level 76) and now also reduces physical damage taken by 5%.",
-        "Scarlet Delirium: Potency has been increased from 600 to 620.",
-        "Comeuppance: Potency has been increased from 700 to 720.",
-        "Torcleaver: Potency has been increased from 800 to 820."
+        "Living Dead: Effects now applied earlier.",
+        "Abyssal Drain: Cure potency increased from 200 to 500.",
+        "Carve and Spit: Additional effect 'Restores own HP' added with cure potency of 500.",
+        "Bloodspiller: Potency increased from 580 to 600.",
+        "Dark Missionary: Now acquired at level 66 (previously level 76); now also reduces physical damage taken by 5%.",
+        "Scarlet Delirium: Potency increased from 600 to 620.",
+        "Comeuppance: Potency increased from 700 to 720.",
+        "Torcleaver: Potency increased from 800 to 820."
       ]
     },
     {
       "job": "Gunbreaker",
       "changes": [
-        "Aurora: Cure potency has been increased from 200 to 300.",
-        "Superbolide: The effects of this action will now be applied earlier; no longer reduces HP to 1, and instead reduces HP to 50% of maximum.",
+        "Aurora: Cure potency increased from 200 to 300.",
+        "Superbolide: Effects now applied earlier; no longer reduces HP to 1, instead reduces HP to 50% of maximum.",
         "Heart of Light: Now also reduces physical damage taken by 5%.",
-        "Hypervelocity: Potency has been reduced from 180 to 160.",
-        "Melee Mastery II: Potency increase change from 220 to 200.",
-        "Double Down: Cartridge cost has been reduced from 2 to 1."
+        "Hypervelocity: Potency reduced from 180 to 160.",
+        "Melee Mastery II: Potency increase changed from 220 to 200.",
+        "Double Down: Cartridge cost reduced from 2 to 1."
       ]
     },
     {
       "job": "Dragoon",
       "changes": [
-        "Piercing Talon: Lance Mastery trait increases potency from 150 to 200; Enhanced Piercing Talon effect added, increasing potency to 350.",
-        "Elusive Jump: Additional effect 'Grants Enhanced Piercing Talon' added with a duration of 15 seconds.",
+        "Piercing Talon: Trait Lance Mastery now increases potency from 150 to 200; effect Enhanced Piercing Talon added (increases potency to 350).",
+        "Elusive Jump: Additional effect 'Grants Enhanced Piercing Talon' added with 15-second duration.",
         "Geirskogul: Stacks of Nastrond Ready granted reduced from 3 to 1.",
         "Mirage Dive: Potency increased from 200 to 380.",
-        "Nastrond: Potency increased from 300 to 600; Lance Mastery III potency increase changed from 360 to 720.",
-        "Stardiver: Potency increased from 620 to 720; Melee Mastery potency increase changed from 720 to 820.",
-        "Starcross: Range increased from 3 to 20 yalms; Potency increased from 900 to 1,000."
+        "Nastrond: Potency increased from 300 to 600; trait Lance Mastery III potency increase changed from 360 to 720.",
+        "Stardiver: Potency increased from 620 to 720; trait Melee Mastery potency increase changed from 720 to 820.",
+        "Starcross: Range increased from 3 to 20 yalms; potency increased from 900 to 1,000."
       ]
     },
     {
       "job": "Ninja",
       "changes": [
-        "Throwing Dagger: Melee Mastery II trait increases potency from 120 to 200.",
+        "Throwing Dagger: Trait Melee Mastery II now increases potency from 120 to 200.",
         "Dream Within a Dream: Potency increased from 150 to 180.",
-        "Dokumori: Changed from single target to a cone dealing 300 potency to the first target and 25% less for remaining.",
+        "Dokumori: Attack changed from single target to a cone (300 potency to first target, 25% less for remaining).",
         "Ten Chi Jin: Players can now move while under the effect.",
-        "Tenri Jindo: Hit detection triggers earlier."
+        "Tenri Jindo: Hit detection now triggers earlier."
       ]
     },
     {
@@ -71,23 +71,23 @@
         "Hissatsu: Gyoten: Recast time reduced from 10 to 5 seconds.",
         "Gyofu: Potency increased from 230 to 240.",
         "Zanshin: Potency increased from 820 to 900.",
-        "Tendo Kaeshi Setsugekka: Motions and visual effects changed."
+        "Tendo Kaeshi Setsugekka: Character motions and visual effects changed."
       ]
     },
     {
       "job": "Reaper",
       "changes": [
-        "Arcane Circle: Circle of Sacrifice now also grants stacks of Immortal Sacrifice when you or party members successfully land an ability.",
-        "Void Reaping, Cross Reaping, Grim Reaping: Hotbar icon no longer illuminated when remaining Lemure Shroud stacks are at 1 (after learning Communio).",
-        "Executioner's Gallows: Hit detection triggers earlier."
+        "Arcane Circle: Circle of Sacrifice effect now also grants stacks of Immortal Sacrifice when party members land an ability.",
+        "Void Reaping, Cross Reaping, Grim Reaping: Hotbar icon no longer illuminated when remaining Lemure Shroud stacks are at 1 after learning Communio.",
+        "Executioner's Gallows: Hit detection now triggers earlier."
       ]
     },
     {
       "job": "Machinist",
       "changes": [
-        "Heated Clean Shot: Potency increased from 140 to 160; Combo potency increased from 400 to 420.",
+        "Heated Clean Shot: Potency increased from 140 to 160; combo potency increased from 400 to 420.",
         "Blazing Shot: Potency increased from 220 to 240.",
-        "Flamethrower: Area of effect increased from 8 to 12 yalms; Potency increased from 80 to 100.",
+        "Flamethrower: Area of effect increased from 8 to 12 yalms; potency increased from 80 to 100.",
         "Double Check: Potency increased from 160 to 170.",
         "Checkmate: Potency increased from 160 to 170."
       ]
@@ -95,18 +95,18 @@
     {
       "job": "Dancer",
       "changes": [
-        "Fan Dance: Dynamic Dancer trait increases potency from 150 to 180.",
+        "Fan Dance: Trait Dynamic Dancer now increases potency from 150 to 180.",
         "Curing Waltz: Area of effect increased from 3 to 5 yalms.",
-        "Fan Dance III: Dynamic Dancer trait increases potency from 200 to 220.",
-        "Starfall Dance: Action change settings enabled to switch with Devilment."
+        "Fan Dance III: Trait Dynamic Dancer now increases potency from 200 to 220.",
+        "Starfall Dance: Action change settings can now switch Starfall Dance with Devilment."
       ]
     },
     {
       "job": "Black Mage",
       "changes": [
         "Flare: Cast time reduced from 4 to 3 seconds.",
-        "Ley Lines: Now a charged action (max 2 charges); Cannot be executed while under the effect of Ley Lines.",
-        "Despair: Enhanced Astral Fire trait makes cast time instant.",
+        "Ley Lines: Now a charged action with a maximum of 2 charges; cannot be executed while under the effect of Ley Lines.",
+        "Despair: Trait Enhanced Astral Fire now makes cast time instant.",
         "Enhanced Enochian IV: Effect potency reduced from 33% to 32%."
       ]
     },
@@ -114,10 +114,8 @@
       "job": "Summoner",
       "changes": [
         "Crimson Cyclone: Additional effect 'Grants Crimson Strike Ready' added.",
-        "Crimson Strike: No longer a combo action; requires Crimson Strike Ready.",
-        "Summon Ifrit II: Inferno potency increased from 750 to 800.",
-        "Summon Titan II: Earthen Fury potency increased from 750 to 800.",
-        "Summon Garuda II: Aerial Blast potency increased from 750 to 800.",
+        "Crimson Strike: No longer a combo action, requires Crimson Strike Ready effect.",
+        "Summon Ifrit II, Summon Titan II, Summon Garuda II: Potency of signature actions increased from 750 to 800.",
         "Sunflare: Potency increased from 700 to 800."
       ]
     },
@@ -133,14 +131,12 @@
     {
       "job": "Pictomancer",
       "changes": [
-        "Pom Motif: A pom will appear on canvas upon entering instanced duties or restarting.",
-        "Hammer Motif: A hammer will appear on canvas upon entering instanced duties or restarting.",
-        "Starry Sky Motif: A starry sky will appear on canvas upon entering instanced duties or restarting.",
-        "Starry Muse: Ground effect will not appear when battle effects are set to Show Limited."
+        "Pom Motif, Hammer Motif, Starry Sky Motif: Motif will now appear on canvas upon entering instanced duties or restarting encounters.",
+        "Starry Muse: Ground effect will no longer appear when battle effects are set to Show Limited."
       ]
     },
     {
-      "job": "Healer",
+      "job": "Healer (General)",
       "changes": [
         "Esuna: Cast time made instant."
       ]
@@ -149,7 +145,7 @@
       "job": "White Mage",
       "changes": [
         "Holy: Cast time reduced from 2.5 to 1.5 seconds.",
-        "Asylum: Visual effects adjusted.",
+        "Asylum: Visual effects indicating area of effect adjusted.",
         "Glare III: Potency increased from 330 to 340.",
         "Holy III: Cast time reduced from 2.5 to 1.5 seconds.",
         "Afflatus Misery: Potency increased from 1,320 to 1,360.",
@@ -193,250 +189,250 @@
     {
       "job": "Paladin",
       "changes": [
-        "Maximum HP has been increased from 60,000 to 64,500.",
-        "Damage Dealt: Reduced from 0% to -20%.",
-        "Damage Taken: Increased from -30% to -20% (Rival Wings)."
+        "Maximum HP increased from 60,000 to 64,500.",
+        "Damage Dealt reduced from 0% to -20%.",
+        "Damage Taken increased from -30% to -20% (Rival Wings)."
       ]
     },
     {
       "job": "Warrior",
       "changes": [
-        "Maximum HP has been increased from 63,000 to 66,000.",
-        "Damage Taken: Increased from -30% to -20% (Rival Wings)."
+        "Maximum HP increased from 63,000 to 66,000.",
+        "Damage Taken increased from -30% to -20% (Rival Wings)."
       ]
     },
     {
       "job": "Dark Knight",
       "changes": [
-        "Maximum HP has been increased from 60,000 to 64,500.",
-        "Damage Dealt: Reduced from -15% to -20% (Frontline).",
-        "Damage Taken: Increased from -50% to -40% (Frontline).",
-        "Limit Gauge Fill Rate: Increased from +15 seconds to +45 seconds (Frontline).",
-        "Damage Taken: Increased from -30% to -20% (Rival Wings)."
+        "Maximum HP increased from 60,000 to 64,500.",
+        "Damage Dealt reduced from -15% to -20% (Frontline).",
+        "Damage Taken increased from -50% to -40% (Frontline).",
+        "Limit Gauge Fill Rate increased from +15 seconds to +45 seconds (Frontline).",
+        "Damage Taken increased from -30% to -20% (Rival Wings)."
       ]
     },
     {
       "job": "Gunbreaker",
       "changes": [
-        "Maximum HP has been increased from 61,500 to 63,000.",
-        "Damage Dealt: Reduced from -5% to -10% (Frontline).",
-        "Damage Taken: Increased from -30% to -20% (Rival Wings)."
+        "Maximum HP increased from 61,500 to 63,000.",
+        "Damage Dealt reduced from -5% to -10% (Frontline).",
+        "Damage Taken increased from -30% to -20% (Rival Wings)."
       ]
     },
     {
       "job": "Monk",
       "changes": [
-        "Maximum HP has been increased from 60,000 to 63,000.",
-        "Limit Gauge Fill Rate: Increased from 0 seconds to +15 seconds (Frontline).",
-        "Damage Taken: Increased from -30% to -20% (Rival Wings)."
+        "Maximum HP increased from 60,000 to 63,000.",
+        "Limit Gauge Fill Rate increased from 0 seconds to +15 seconds (Frontline).",
+        "Damage Taken increased from -30% to -20% (Rival Wings)."
       ]
     },
     {
       "job": "Dragoon",
       "changes": [
-        "Maximum HP has been increased from 58,500 to 61,500.",
-        "Damage Dealt: Reduced from -10% to -20% (Frontline).",
-        "Limit Gauge Fill Rate: Increased from +15 seconds to +45 seconds (Frontline).",
-        "Damage Taken: Increased from -30% to -20% (Rival Wings)."
+        "Maximum HP increased from 58,500 to 61,500.",
+        "Damage Dealt reduced from -10% to -20% (Frontline).",
+        "Limit Gauge Fill Rate increased from +15 seconds to +45 seconds (Frontline).",
+        "Damage Taken increased from -30% to -20% (Rival Wings)."
       ]
     },
     {
       "job": "Ninja",
       "changes": [
-        "Maximum HP has been increased from 57,000 to 60,000.",
-        "Damage Taken: Increased from -30% to -20% (Rival Wings)."
+        "Maximum HP increased from 57,000 to 60,000.",
+        "Damage Taken increased from -30% to -20% (Rival Wings)."
       ]
     },
     {
       "job": "Samurai",
       "changes": [
-        "Maximum HP has been increased from 58,500 to 63,000.",
-        "Damage Taken: Increased from -30% to -20% (Rival Wings)."
+        "Maximum HP increased from 58,500 to 63,000.",
+        "Damage Taken increased from -30% to -20% (Rival Wings)."
       ]
     },
     {
       "job": "Reaper",
       "changes": [
-        "Maximum HP has been increased from 58,500 to 61,500.",
-        "Limit Gauge Fill Rate: Increased from 0 seconds to +15 seconds (Frontline).",
-        "Damage Taken: Increased from -30% to -20% (Rival Wings)."
+        "Maximum HP increased from 58,500 to 61,500.",
+        "Limit Gauge Fill Rate increased from 0 seconds to +15 seconds (Frontline).",
+        "Damage Taken increased from -30% to -20% (Rival Wings)."
       ]
     },
     {
       "job": "Viper",
       "changes": [
-        "Maximum HP has been increased from 57,000 to 60,000.",
-        "Damage Taken: Increased from -30% to -20% (Rival Wings)."
+        "Maximum HP increased from 57,000 to 60,000.",
+        "Damage Taken increased from -30% to -20% (Rival Wings)."
       ]
     },
     {
       "job": "Bard",
       "changes": [
-        "Maximum HP has been increased from 51,000 to 55,500.",
-        "Damage Taken: Reduced from -25% to -30% (Frontline).",
-        "Damage Taken: Increased from -15% to -10% (Rival Wings)."
+        "Maximum HP increased from 51,000 to 55,500.",
+        "Damage Taken reduced from -25% to -30% (Frontline).",
+        "Damage Taken increased from -15% to -10% (Rival Wings)."
       ]
     },
     {
       "job": "Machinist",
       "changes": [
-        "Maximum HP has been increased from 52,500 to 57,000.",
-        "Damage Taken: Reduced from -25% to -30% (Frontline).",
-        "Damage Taken: Increased from -15% to -10% (Rival Wings)."
+        "Maximum HP increased from 52,500 to 57,000.",
+        "Damage Taken reduced from -25% to -30% (Frontline).",
+        "Damage Taken increased from -15% to -10% (Rival Wings)."
       ]
     },
     {
       "job": "Dancer",
       "changes": [
-        "Maximum HP has been increased from 54,000 to 58,500.",
-        "Damage Taken: Increased from -15% to -10% (Rival Wings)."
+        "Maximum HP increased from 54,000 to 58,500.",
+        "Damage Taken increased from -15% to -10% (Rival Wings)."
       ]
     },
     {
       "job": "Black Mage",
       "changes": [
-        "Maximum HP has been increased from 49,500 to 54,000.",
-        "Damage Taken: Reduced from -25% to -30% (Frontline).",
-        "Damage Taken: Increased from -15% to -10% (Rival Wings)."
+        "Maximum HP increased from 49,500 to 54,000.",
+        "Damage Taken reduced from -25% to -30% (Frontline).",
+        "Damage Taken increased from -15% to -10% (Rival Wings)."
       ]
     },
     {
       "job": "Summoner",
       "changes": [
-        "Maximum HP has been increased from 49,500 to 57,000.",
-        "Damage Dealt: Increased from -15% to -10% (Frontline).",
-        "Damage Taken: Reduced from -25% to -30% (Frontline).",
-        "Damage Taken: Increased from -15% to -10% (Rival Wings)."
+        "Maximum HP increased from 49,500 to 57,000.",
+        "Damage Dealt increased from -15% to -10% (Frontline).",
+        "Damage Taken reduced from -25% to -30% (Frontline).",
+        "Damage Taken increased from -15% to -10% (Rival Wings)."
       ]
     },
     {
       "job": "Red Mage",
       "changes": [
-        "Maximum HP has been increased from 51,000 to 58,500.",
-        "Damage Taken: Increased from -15% to -10% (Rival Wings)."
+        "Maximum HP increased from 51,000 to 58,500.",
+        "Damage Taken increased from -15% to -10% (Rival Wings)."
       ]
     },
     {
       "job": "Pictomancer",
       "changes": [
-        "Maximum HP has been increased from 49,500 to 55,500.",
-        "Damage Dealt: Reduced from 0% to -10% (Frontline).",
-        "Damage Taken: Reduced from -25% to -30% (Frontline).",
-        "Damage Taken: Increased from -15% to -10% (Rival Wings)."
+        "Maximum HP increased from 49,500 to 55,500.",
+        "Damage Dealt reduced from 0% to -10% (Frontline).",
+        "Damage Taken reduced from -25% to -30% (Frontline).",
+        "Damage Taken increased from -15% to -10% (Rival Wings)."
       ]
     },
     {
       "job": "White Mage",
       "changes": [
-        "Maximum HP has been increased from 51,000 to 55,500.",
-        "Damage Taken: Reduced from -25% to -30% (Frontline).",
-        "Damage Taken: Increased from -15% to -10% (Rival Wings)."
+        "Maximum HP increased from 51,000 to 55,500.",
+        "Damage Taken reduced from -25% to -30% (Frontline).",
+        "Damage Taken increased from -15% to -10% (Rival Wings)."
       ]
     },
     {
       "job": "Scholar",
       "changes": [
-        "Maximum HP has been increased from 49,500 to 55,500.",
-        "Damage Dealt: Reduced from 0% to -10% (Frontline).",
-        "Damage Taken: Reduced from -25% to -30% (Frontline).",
-        "Damage Taken: Increased from -15% to -10% (Rival Wings)."
+        "Maximum HP increased from 49,500 to 55,500.",
+        "Damage Dealt reduced from 0% to -10% (Frontline).",
+        "Damage Taken reduced from -25% to -30% (Frontline).",
+        "Damage Taken increased from -15% to -10% (Rival Wings)."
       ]
     },
     {
       "job": "Astrologian",
       "changes": [
-        "Maximum HP has been increased from 49,500 to 54,000.",
-        "Damage Dealt: Reduced from -5% to -10% (Frontline).",
-        "Damage Taken: Reduced from -25% to -30% (Frontline).",
-        "Damage Taken: Increased from -15% to -10% (Rival Wings)."
+        "Maximum HP increased from 49,500 to 54,000.",
+        "Damage Dealt reduced from -5% to -10% (Frontline).",
+        "Damage Taken reduced from -25% to -30% (Frontline).",
+        "Damage Taken increased from -15% to -10% (Rival Wings)."
       ]
     },
     {
       "job": "Sage",
       "changes": [
-        "Maximum HP has been increased from 48,000 to 54,000.",
-        "Damage Taken: Reduced from -25% to -30% (Frontline).",
-        "Damage Taken: Increased from -15% to -10% (Rival Wings)."
+        "Maximum HP increased from 48,000 to 54,000.",
+        "Damage Taken reduced from -25% to -30% (Frontline).",
+        "Damage Taken increased from -15% to -10% (Rival Wings)."
       ]
     }
   ],
   "new_content": [
     {
+      "name": "Jeuno: The First Walk",
+      "description": "A new alliance raid dungeon where the worlds of FINAL FANTASY XI and XIV collide.",
+      "location": "Tuliyollal",
+      "npc_location": "Tuliyollal (X:13.0 Y:11.6)"
+    },
+    {
       "name": "Yuweyawata Field Station",
-      "description": "A new dungeon.",
+      "description": "A new dungeon for Disciples of War or Magic level 100.",
       "location": null,
       "npc_location": null
     },
     {
-      "name": "Jeuno: The First Walk",
-      "description": "A new alliance raid dungeon.",
-      "location": "Tuliyollal (X:13.0 Y:11.6)",
-      "npc_location": "Hoobigo messenger"
-    },
-    {
       "name": "The Minstrel's Ballad: Sphene's Burden",
-      "description": "A new trial.",
-      "location": "Tuliyollal (X:11.1 Y:14.6)",
-      "npc_location": "Wandering Minstrel"
+      "description": "A new trial accessible via the Raid Finder.",
+      "location": "Tuliyollal",
+      "npc_location": "Tuliyollal (X:11.1 Y:14.6)"
     },
     {
       "name": "The Jade Stoa (Unreal)",
-      "description": "A new unreal trial.",
-      "location": "Idyllshire (X:7.0 Y:5.9)",
-      "npc_location": "Painfully Ishgardian Man"
+      "description": "A new unreal trial available in the Raid Finder.",
+      "location": "Idyllshire",
+      "npc_location": "Idyllshire (X:7.0 Y:5.9)"
     },
     {
       "name": "A Royal Invitation",
       "description": "New main scenario quest.",
-      "location": "Tuliyollal (X:10.0 Y:15.0)",
-      "npc_location": "Bol Wuruq"
+      "location": "Tuliyollal",
+      "npc_location": "Tuliyollal (X:10.0 Y:15.0)"
     },
     {
       "name": "An Otherworldly Encounter",
-      "description": "Chronicles of a New Era quest.",
-      "location": "Tuliyollal (X:13.0 Y:11.6)",
-      "npc_location": "Hoobigo Messenger"
+      "description": "New Chronicles of a New Era quest.",
+      "location": "Tuliyollal",
+      "npc_location": "Tuliyollal (X:13.0 Y:11.6)"
     },
     {
       "name": "A Present from the Present",
-      "description": "Chronicles of a New Era quest.",
-      "location": "Old Sharlayan (X:11.0 Y:10.6)",
-      "npc_location": "Affable Researcher"
+      "description": "Chronicles of a New Era quest (Pandæmonium: Epilogue).",
+      "location": "Old Sharlayan",
+      "npc_location": "Old Sharlayan (X:11.0 Y:10.6)"
     },
     {
       "name": "An Intrepid New Enterprise",
-      "description": "Pelupelu allied society quest.",
-      "location": "Tuliyollal (X:13.6 Y:12.9)",
-      "npc_location": "Blue-garbed Pelu"
+      "description": "First main quest for the Pelupelu allied society.",
+      "location": "Tuliyollal",
+      "npc_location": "Tuliyollal (X:13.6 Y:12.9)"
+    },
+    {
+      "name": "Pelupelu Allied Society Quests",
+      "description": "New allied society quests involving daily requests and reputation building.",
+      "location": "Dock Poga, Kozama'uka",
+      "npc_location": "Dock Poga, Kozama'uka (X:37.2 Y:16.8)"
     },
     {
       "name": "Duty Support",
-      "description": "Expansion of Duty Support to include Halatali and Yuweyawata Field Station.",
+      "description": "Added support for Halatali and Yuweyawata Field Station.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Outfit Glamour",
+      "description": "New feature allowing players to condense sets of gear into single slots in the glamour dresser.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Hall of the Novice (Tactical Training)",
-      "description": "New tactical training exercises added.",
+      "description": "New training exercises added to familiarize players with battle mechanics.",
       "location": "Adventurers' Guild",
-      "npc_location": "Smith"
-    },
-    {
-      "name": "Outfit Glamour",
-      "description": "Feature to condense a set combination of items into a single slot in the glamour dresser.",
-      "location": null,
       "npc_location": null
     },
     {
-      "name": "Pelupelu Allied Society",
-      "description": "New allied society with a base of operations at Dock Poga.",
-      "location": "Kozama'uka (X:37.2 Y:16.8)",
-      "npc_location": null
-    },
-    {
-      "name": "Graphical Update",
-      "description": "Improvements to player character models, gear, and vegetation rendering.",
-      "location": null,
+      "name": "Dock Poga",
+      "description": "A new base of operations for the Pelupelu allied society.",
+      "location": "Kozama'uka",
       "npc_location": null
     }
   ],
@@ -444,293 +440,468 @@
     {
       "name": "Pure White Interior Wall",
       "description": "An interior wall of plain, pristine white for maximum versatility.",
-      "image_url": null
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
     },
     {
       "name": "Light Wood Flooring",
       "description": "Flooring made from rustic planks in an unpretentious pale shade.",
-      "image_url": null
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/v/P_Alm3vC59j61Igjyp_v--KDic.png"
     },
     {
       "name": "Flat Ceiling Lamp",
       "description": "This unobtrusive lighting fixture is ideal for those who would rather not draw attention to the ceiling.",
-      "image_url": null
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
     },
     {
       "name": "Square Stepping Stones",
       "description": "Square stones of varying sizes, carefully placed so as to avoid crushing the flowers.",
-      "image_url": null
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/lLyx2UZU_8Es7j3Y29vnbrr3ZM.png"
     },
     {
       "name": "Ja Ja Gural Tree",
       "description": "Originating in the depths of Cenote Ja Ja Gural, this luminescent tree lights up your lawn quite vividly.",
-      "image_url": null
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/C/J2d-TfDPxM7uO1aUhf4eZmMlZ8.png"
     },
     {
       "name": "Far Eastern Gazebo",
       "description": "A gazebo designed in the Far Eastern fashion.",
-      "image_url": null
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/W/_rGm8qjr0c_B-ZoDM3L7dexlwY.png"
     },
     {
       "name": "Royal Bed",
       "description": "Rumor has it a royal family in the world of Vana'diel sleeps on resplendent beds such as these.",
-      "image_url": null
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/0/sHt_LQF4_ezwmPnnMSmcV5_CPA.png"
     },
     {
       "name": "Classroom Chair",
       "description": "This sturdy chair was built to accommodate young students throughout their educational journey.",
-      "image_url": null
-    },
-    {
-      "name": "Storybook Bench",
-      "description": "Beloved by the orphans of Menphina's Arms, this bench is perfect for reading stories aloud to friends.",
-      "image_url": null
-    },
-    {
-      "name": "Sweet Dreamer's Stall",
-      "description": "Packed chock-full of sweets and treats, this stall is guaranteed to delight children and inner children alike.",
-      "image_url": null
-    },
-    {
-      "name": "Billiard Table",
-      "description": "Upon this finely crafted table, a pole is used to strike a ball at other balls to knock them into the side pockets.",
-      "image_url": null
-    },
-    {
-      "name": "Climbing Wall Partition",
-      "description": "Colorful footholds have been added to this partition to create an indoor climbing fixture.",
-      "image_url": null
-    },
-    {
-      "name": "Wood-fired Range",
-      "description": "This multi-purpose brick oven doubles as a charming fireplace.",
-      "image_url": null
-    },
-    {
-      "name": "Tea Caddy Cabinet",
-      "description": "A professional tea drinker must always keep their estate well stocked.",
-      "image_url": null
-    },
-    {
-      "name": "Cushioned Bench",
-      "description": "A wooden bench fitted with a sumptuously soft seat.",
-      "image_url": null
-    },
-    {
-      "name": "Patchwork Sofa",
-      "description": "Stitched together using a hodgepodge of leather scraps, this sofa has a uniquely colorful charm.",
-      "image_url": null
-    },
-    {
-      "name": "Tropical Canopy Bed",
-      "description": "To rest upon this bed is to be whisked away to warmer climes and memories of past vacations.",
-      "image_url": null
-    },
-    {
-      "name": "Rail-and-stile Partition",
-      "description": "With no panes of glass, what's to stop you from climbing straight through?",
-      "image_url": null
-    },
-    {
-      "name": "Classroom Desk",
-      "description": "This compact desk was built to accommodate young students throughout their educational journey.",
-      "image_url": null
-    },
-    {
-      "name": "Laboratory Counter",
-      "description": "The inclusion of a sink makes this table well suited to experiments that involve dangerous chemicals.",
-      "image_url": null
-    },
-    {
-      "name": "Contemporary Iron Shelf",
-      "description": "The metal framework will support even the heaviest of potted plants.",
-      "image_url": null
-    },
-    {
-      "name": "Fighting Ring",
-      "description": "A scaled-down version of the type commonly used in martial arts competitions, this arena still gives you plenty of room to maneuver.",
-      "image_url": null
-    },
-    {
-      "name": "Gleaner's Knapsack",
-      "description": "Used to carry both supplies and commissions, the knapsack is arguably the most vital item among a gleaner's possessions.",
-      "image_url": null
-    },
-    {
-      "name": "Apothecary Mortar",
-      "description": "Includes a selection of wild herbs commonly ground into medicine.",
-      "image_url": null
-    },
-    {
-      "name": "Popoto Chips",
-      "description": "Thin slices of popoto, fried to a golden crisp and lightly salted to create the perfect snack.",
-      "image_url": null
-    },
-    {
-      "name": "Kugane-yaki",
-      "description": "The official name of this Far Eastern snack is hotly contested, with some insisting upon \"blade buns\" as a nod to the fan-like pattern.",
-      "image_url": null
-    },
-    {
-      "name": "Eternal Cenotaph",
-      "description": "This monument stands as a solemn reminder of a queen who placed her beloved people above all else.",
-      "image_url": null
-    },
-    {
-      "name": "Classroom Blackboard",
-      "description": "Large enough to fit a single day's lesson in any one subject. Chalk and duster included.",
-      "image_url": null
-    },
-    {
-      "name": "Weathered Porthole",
-      "description": "Relax below deck and enjoy smooth sailing, all from the comfort of your estate.",
-      "image_url": null
-    },
-    {
-      "name": "Investigation Map",
-      "description": "Clues and clippings linked together with thread in the fashion of a master sleuth.",
-      "image_url": null
-    },
-    {
-      "name": "Dartboard Cabinet",
-      "description": "Unlike archery or javelin throwing, this game may safely be played indoors.",
-      "image_url": null
-    },
-    {
-      "name": "Holodisplay",
-      "description": "Activate (and deactivate) projections of important-looking graphs with the press of a button.",
-      "image_url": null
-    },
-    {
-      "name": "Botanist's Wall Frames",
-      "description": "A collection of wall hangings that celebrate flora and fauna. A painting of one's choosing may be placed in the center frame.",
-      "image_url": null
-    },
-    {
-      "name": "Frilly Curtains",
-      "description": "The lace hem of the top treatment adds a delicate touch to these cutesy curtains.",
-      "image_url": null
-    },
-    {
-      "name": "Imitation Closet",
-      "description": "For those who only want the appearance of storage space.",
-      "image_url": null
-    },
-    {
-      "name": "Botanical Loft",
-      "description": "Lush green ivy dangles through the slats of this wood lattice fixture.",
-      "image_url": null
-    },
-    {
-      "name": "Indoor Awning",
-      "description": "The perfect accompaniment to reading nooks, storefront counters, and more.",
-      "image_url": null
-    },
-    {
-      "name": "Grassy Rug",
-      "description": "Brings new meaning to the phrase \"home turf.\"",
-      "image_url": null
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/M/jbKfsST_zxfBTU9FZzme5iwhF0.png"
     }
   ],
   "glamour": [
     {
-      "name": "Wintertide Trapper's Hat",
-      "description": "Head piece part of the Wintertide set.",
+      "name": "Red Tori Kabuto",
+      "description": "Head piece glamour item.",
       "image_url": null
     },
     {
-      "name": "Red Cattleya Corsage",
-      "description": "A bunch of red cattleyas.",
+      "name": "Black Tori Kabuto",
+      "description": "Head piece glamour item.",
       "image_url": null
     },
     {
-      "name": "Blue Cattleya Corsage",
-      "description": "A bunch of blue cattleyas.",
+      "name": "White Inu Kabuto",
+      "description": "Head piece glamour item.",
       "image_url": null
     },
     {
-      "name": "Yellow Cattleya Corsage",
-      "description": "A bunch of yellow cattleyas.",
+      "name": "Black Inu Kabuto",
+      "description": "Head piece glamour item.",
       "image_url": null
     },
     {
-      "name": "Green Cattleya Corsage",
-      "description": "A bunch of green cattleyas.",
+      "name": "Inoshishi Kabuto",
+      "description": "Head piece glamour item.",
       "image_url": null
     },
     {
-      "name": "Orange Cattleya Corsage",
-      "description": "A bunch of orange cattleyas.",
+      "name": "Crimson Inoshishi Kabuto",
+      "description": "Head piece glamour item.",
       "image_url": null
     },
     {
-      "name": "Purple Cattleya Corsage",
-      "description": "A bunch of purple cattleyas.",
+      "name": "Crimson Nezumi Kabuto",
+      "description": "Head piece glamour item.",
       "image_url": null
     },
     {
-      "name": "White Cattleya Corsage",
-      "description": "A bunch of white cattleyas.",
+      "name": "Cobalt Nezumi Kabuto",
+      "description": "Head piece glamour item.",
       "image_url": null
     },
     {
-      "name": "Black Cattleya Corsage",
-      "description": "A bunch of black cattleyas.",
+      "name": "Crimson Ushi Kabuto",
+      "description": "Head piece glamour item.",
       "image_url": null
     },
     {
-      "name": "Rainbow Cattleya Corsage",
-      "description": "A bunch of multicolored cattleyas.",
+      "name": "Black Ushi Kabuto",
+      "description": "Head piece glamour item.",
       "image_url": null
     },
     {
-      "name": "Pelubill Calot",
-      "description": "A piece of headwear.",
+      "name": "Golden Tora Kabuto",
+      "description": "Head piece glamour item.",
       "image_url": null
     },
     {
-      "name": "Loose Fit Cap",
-      "description": "A simple cap.",
+      "name": "Silver Tora Kabuto",
+      "description": "Head piece glamour item.",
       "image_url": null
     },
     {
-      "name": "Wintertide Blouson",
-      "description": "Body piece part of the Wintertide set.",
+      "name": "Heavensturn Domaru",
+      "description": "Body piece glamour item.",
       "image_url": null
     },
     {
-      "name": "Loose Fit Overshirt",
-      "description": "A comfortable overshirt.",
+      "name": "Heavensturn Kote",
+      "description": "Hands piece glamour item.",
       "image_url": null
     },
     {
-      "name": "Loose Fit Wristguards",
-      "description": "Handwear piece.",
+      "name": "Heavensturn Haidate",
+      "description": "Legs piece glamour item.",
       "image_url": null
     },
     {
-      "name": "Wintertide Culottes",
-      "description": "Legs piece part of the Wintertide set.",
+      "name": "Heavensturn Sune-ate",
+      "description": "Feet piece glamour item.",
       "image_url": null
     },
     {
-      "name": "Wintertide Sheath Skirt",
-      "description": "Legs piece part of the Wintertide set.",
+      "name": "Black-feathered Flat Hat",
+      "description": "Head piece glamour item.",
       "image_url": null
     },
     {
-      "name": "Loose Fit Cargo Trousers",
-      "description": "Legs piece.",
+      "name": "Red-feathered Flat Hat",
+      "description": "Head piece glamour item.",
       "image_url": null
     },
     {
-      "name": "Wintertide Shoes",
-      "description": "Feet piece part of the Wintertide set.",
+      "name": "Flower Crown",
+      "description": "Head piece glamour item.",
       "image_url": null
     },
     {
-      "name": "Loose Fit Shoes",
-      "description": "A simple pair of shoes.",
+      "name": "Seneschal's Monocle",
+      "description": "Head piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Princess's Peach Corsage",
+      "description": "Head piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Reindeer Antlers",
+      "description": "Head piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Reindeer Suit",
+      "description": "Body piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Dream Tunic",
+      "description": "Body piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Dream Boots",
+      "description": "Feet piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Sweet Dream Tunic",
+      "description": "Body piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Sweet Dream Boots",
+      "description": "Feet piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Saint's Cap",
+      "description": "Head piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Starlight Robe",
+      "description": "Body piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Choir Hat",
+      "description": "Head piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Choir Robe",
+      "description": "Body piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Choir Shoes",
+      "description": "Feet piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Riviera Doublet",
+      "description": "Body piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Riviera Slops",
+      "description": "Legs piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Riviera Dress",
+      "description": "Body piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Oasis Doublet",
+      "description": "Body piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Oasis Halftrews",
+      "description": "Legs piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Oasis Tunic",
+      "description": "Body piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Oasis Sarouel",
+      "description": "Legs piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Alpine Coat",
+      "description": "Body piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Ishgardian Gown",
+      "description": "Body piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Ishgardian Thighboots",
+      "description": "Feet piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Far Eastern Smock",
+      "description": "Body piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Yanxian Merchant's Haori",
+      "description": "Body piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Crystarium Helm",
+      "description": "Head piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Crystarium Tabard",
+      "description": "Body piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Crystarium Gauntlets",
+      "description": "Hands piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Crystarium Greaves",
+      "description": "Feet piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Gleaner's Coat",
+      "description": "Body piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Gleaner's Work Gloves",
+      "description": "Hands piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Gleaner's Breeches",
+      "description": "Legs piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Gleaner's Longboots",
+      "description": "Feet piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Kupo Crown",
+      "description": "Head piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Kupo Jacket",
+      "description": "Body piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Kupo Trousers",
+      "description": "Legs piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Kupo Shoes",
+      "description": "Feet piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Kupo Knit Cap",
+      "description": "Head piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Hraesvelgr Hat",
+      "description": "Head piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Hraesvelgr Jacket",
+      "description": "Body piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Hraesvelgr Gloves",
+      "description": "Hands piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Hraesvelgr Trousers",
+      "description": "Legs piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Hraesvelgr Boots",
+      "description": "Feet piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Twinsilk Suspenders",
+      "description": "Body piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Anemos Suspenders",
+      "description": "Body piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Scion Hearer's Hood",
+      "description": "Head piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Scion Hearer's Coat",
+      "description": "Body piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Scion Hearer's Shoes",
+      "description": "Feet piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Scion Rogue's Jacket",
+      "description": "Body piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Scion Rogue's Armguards",
+      "description": "Hands piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Scion Rogue's Gaskins",
+      "description": "Legs piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Scion Rogue's Boots",
+      "description": "Feet piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Scion Healer's Robe",
+      "description": "Body piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Scion Healer's Highboots",
+      "description": "Feet piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Brand-new Alphinaud's Attire",
+      "description": "Full set glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Brand-new Alisaie's Attire",
+      "description": "Full set glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Crystarium Prodigy's Top",
+      "description": "Body piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Crystarium Prodigy's Fingerless Gloves",
+      "description": "Hands piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Crystarium Prodigy's Hose",
+      "description": "Legs piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Crystarium Prodigy's Thighboots",
+      "description": "Feet piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Gown of Light",
+      "description": "Body piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Skirt of Light",
+      "description": "Legs piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Oracle Top",
+      "description": "Body piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Oracle Pantalettes",
+      "description": "Legs piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Oracle Leggings",
+      "description": "Legs piece glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Gaia's Attire",
+      "description": "Full set glamour item.",
       "image_url": null
     }
   ]

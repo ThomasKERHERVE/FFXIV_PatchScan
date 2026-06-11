@@ -1,16 +1,680 @@
 {
   "patch_title": "Patch 6.2 Notes",
-  "patch_date": "2022-08-23",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/2a75878d6b82bb86121f68eb946fdf67eb8bf178",
-  "jobs_pve": [],
-  "jobs_pvp": [],
-  "new_content": [
+  "patch_date": "2022-08-30",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/6eee1ca8a733856669d901d95d2fa9db46a466e6",
+  "jobs_pve": [
     {
-      "name": "System Update",
-      "description": "Minor adjustments, hotfixes and database optimization for Patch 6.2 Notes.",
-      "location": "Eorzea"
+      "job": "Tank Role Actions",
+      "changes": [
+        "Provoke: Enmity generated has been increased."
+      ]
+    },
+    {
+      "job": "Paladin",
+      "changes": [
+        "Holy Spirit: Potency increased from 270 to 280.",
+        "Requiescat: Potency increased from 540 to 560.",
+        "Blade of Faith: Potency increased from 420 to 460.",
+        "Blade of Truth: Potency increased from 500 to 540.",
+        "Blade of Valor: Potency increased from 580 to 620."
+      ]
+    },
+    {
+      "job": "Marauder / Warrior",
+      "changes": [
+        "Maim: Potency increased from 130 to 150; Combo potency increased from 280 to 300.",
+        "Storm's Path: Potency increased from 120 to 130; Combo potency increased from 400 to 410.",
+        "Storm's Eye: Potency increased from 120 to 130; Combo potency increased from 400 to 410.",
+        "Shake It Off: Effects of this action will now be applied more quickly."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Abyssal Drain: Potency increased from 150 to 240.",
+        "Living Shadow: Effect duration reduced from 24 to 20 seconds; The simulacrum will now always attack the first target the player attacks after it is summoned; The simulacrum will no longer attack with Quietus; Shadowbringer potency increased from 450 to 500; Potency of all other simulacrum actions increased from 300 to 350."
+      ]
+    },
+    {
+      "job": "Gunbreaker",
+      "changes": [
+        "Brutal Shell: Potency increased from 120 to 130; Combo potency increased from 260 to 270.",
+        "Solid Barrel: Potency increased from 120 to 140; Combo potency increased from 340 to 360.",
+        "Jugular Rip: Range increased from 3 to 5 yalms.",
+        "Abdomen Tear: Range increased from 3 to 5 yalms.",
+        "Eye Gouge: Range increased from 3 to 5 yalms.",
+        "Fated Circle: Potency increased from 290 to 300.",
+        "Bloodfest: Recast time increased from 90 to 120 seconds.",
+        "Hypervelocity: Range increased from 3 to 5 yalms.",
+        "Blasting Zone: Potency increased from 700 to 720.",
+        "Double Down: Reduction in potency after the first target changed from 20% to 15%."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Jump: No longer replaced by Mirage Dive; Mirage Dive must be set to hotbar separately; Jump recast timer no longer affects Mirage Dive execution.",
+        "High Jump: No longer replaced by Mirage Dive; Mirage Dive must be set to hotbar separately; High Jump recast timer no longer affects Mirage Dive execution."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Tenka Goken: Potency increased from 280 to 300.",
+        "Hissatsu: Kyuten: Potency increased from 110 to 120.",
+        "Hissatsu: Guren: Reduction in potency after the first target changed from 50% to 25%.",
+        "Kaeshi: Goken: Potency increased from 280 to 300."
+      ]
+    },
+    {
+      "job": "Reaper",
+      "changes": [
+        "Slice: Potency increased from 300 to 320.",
+        "Waxing Slice: Potency increased from 140 to 160; Combo potency increased from 380 to 400.",
+        "Infernal Slice: Potency increased from 140 to 180; Combo potency increased from 460 to 500.",
+        "Death Scythe Mastery II: New trait at level 84 increasing potencies of Slice, Waxing Slice, and Infernal Slice."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Rook Autoturret: Duration fixed at 9 seconds; Base potency reduced from 70 to 35; Potency increases as Battery Gauge exceeds cost, up to 75.",
+        "Rook Overdrive: Base potency reduced from 320 to 160; Potency increases as Battery Gauge exceeds cost, up to 320.",
+        "Rook Overload: Base potency reduced from 320 to 160; Potency increases as Battery Gauge exceeds cost, up to 320.",
+        "Automaton Queen: Always attacks first target player attacks; Duration fixed at 12 seconds; Potency increases as Battery Gauge exceeds cost.",
+        "Roller Dash: Potency increases as Battery Gauge exceeds cost (min 240, max 480).",
+        "Arm Punch: Potency increases as Battery Gauge exceeds cost (min 120, max 240)."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Liturgy of the Bell: Effect duration increased from 15 to 20 seconds."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Embrace: No longer generates enmity.",
+        "Seraphic Veil: No longer generates enmity.",
+        "Fey Union: No longer generates enmity when activating HP restoration."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Redraw: Drawn card will never have the same Astrosign as the current card.",
+        "Minor Arcana: Action now changes to the drawn arcanum.",
+        "Crown Play: Removed."
+      ]
+    },
+    {
+      "job": "Sage",
+      "changes": [
+        "Kardia: No longer generates enmity when activating HP restoration.",
+        "Holos: Added effect: Erects a magicked barrier which nullifies damage equaling the amount of HP restored (Duration 30s)."
+      ]
     }
   ],
-  "housing": [],
-  "glamour": []
+  "jobs_pvp": [
+    {
+      "job": "Warrior",
+      "changes": [
+        "Bloodwhetting: Portion of damage absorbed as HP has been increased from 75% to 100%."
+      ]
+    },
+    {
+      "job": "Gunbreaker",
+      "changes": [
+        "Draw and Junction: Recast time has been reduced from 30 to 20 seconds."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Meteodrive: Time required to fill the limit gauge has been increased."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Chaotic Spring: Portion of damage absorbed as HP has been increased from 100% to 150%.",
+        "Horrid Roar: Recast time has been reduced from 30 to 25 seconds."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Hissatsu: Chiten: Recast time has been reduced from 30 to 25 seconds."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Seiton Tenchu: The effect duration of Unsealed Seiton Tenchu is now reduced by 1s each time it is applied to a target with a minimum duration of 4s."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Chain Saw: Additional damage dealt when under the effect of Analysis has been reduced from 100% of target's HP to 95% of target's HP."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Slipstream: Now grants increased movement speed to party members standing in the Slipstream."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Afflatus Misery: Potency has been increased from 10,000 to 12,000.",
+        "Aquaveil: Barrier strength has been increased from a heal potency of 6,000 to 8,000.",
+        "Miracle of Nature: Range has been reduced from 25 to 15 yalms.",
+        "Seraph Strike: Potency has been increased from 6,000 to 8,000.",
+        "Cure III: Cure potency has been increased from 12,000 to 16,000."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Adloquium: Increase to potency has been changed from 10% to 8%.",
+        "Biolysis: Increase to potency has been changed from 10% to 8%."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "New PvP action added: The Bole (Reduces damage taken by 10% for 15s).",
+        "New PvP action added: The Arrow (Reduces weaponskill/spell cast and recast time by 10%, increases movement speed for 10s).",
+        "The Ewer (Removed).",
+        "The Spire (Removed)."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Pandæmonium: Abyssos",
+      "description": "A new raid dungeon containing four circles.",
+      "location": "Labyrinthos",
+      "npc_location": "Labyrinthos (X:8.6 Y:27.5)"
+    },
+    {
+      "name": "Pandæmonium: Abyssos (Savage)",
+      "description": "A challenging savage-difficulty raid dungeon.",
+      "location": "Labyrinthos",
+      "npc_location": "Labyrinthos (X:8.4 Y:27.4)"
+    },
+    {
+      "name": "The Fell Court of Troia",
+      "description": "A new level 90 dungeon.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Containment Bay S1T7 (Unreal)",
+      "description": "A new unreal trial replacing Ultima's Bane (Unreal).",
+      "location": null,
+      "npc_location": "Idyllshire (X:7.0 Y:5.9)"
+    },
+    {
+      "name": "Island Sanctuary",
+      "description": "A personal paradise where players can collect resources, build accommodations, and grow crops.",
+      "location": "Cieldalaes",
+      "npc_location": "Old Sharlayan (X:11.9 Y:11.0)"
+    },
+    {
+      "name": "In Search of Azdaja",
+      "description": "Main scenario quest.",
+      "location": "Radz-at-Han",
+      "npc_location": "Radz-at-Han (X:4.4 Y:9.8)"
+    },
+    {
+      "name": "An Unwelcome Visitor",
+      "description": "Chronicles of a New Era quest.",
+      "location": "Labyrinthos",
+      "npc_location": "Labyrinthos (X:8.6 Y:27.5)"
+    },
+    {
+      "name": "Soaring Profits",
+      "description": "Tataru's Grand Endeavor side story quest.",
+      "location": "Old Sharlayan",
+      "npc_location": "Old Sharlayan (X:11.8 Y:9.8)"
+    },
+    {
+      "name": "Tales of Newfound Adventure",
+      "description": "Side story quest.",
+      "location": "Radz-at-Han",
+      "npc_location": "Radz-at-Han (X:4.8 Y:11.9)"
+    },
+    {
+      "name": "Adventurer Plates",
+      "description": "Official release of the personalized calling card system.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Portraits",
+      "description": "Official release of the portrait customization system for gear sets.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Gear Repair Requests",
+      "description": "System allowing players to request repairs from party and alliance members.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Dynamic Resolution",
+      "description": "Graphics feature that reduces 3D resolution during heavy GPU load to improve frame rates.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Leveilleur Estate Interior Wall",
+      "description": "Adopt the modest─yet still somehow incredibly expensive─style of the Leveilleur estate walls.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Leveilleur Estate Flooring",
+      "description": "Live like a Leveilleur lord or lady with this fancy flooring beneath your feet.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Leveilleur Estate Chandelier",
+      "description": "A light fixture crafted to resemble the opulent chandeliers of the Leveilleur estate. Not an actual chandelier from the Leveilleur estate.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Damaged Highland Turret",
+      "description": "The ruined shell of a watchtower, transported stone by stone from the wilds of Coerthas.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Shoveled Snow",
+      "description": "A never-melting pile of pristine white snow. Snow shovels included.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Far Eastern Well",
+      "description": "A well of wood and stone that wouldn't look out of place in some remote Far Eastern settlement.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Far Eastern Lamppost",
+      "description": "A tile-roofed lamppost such as one might find on the streets of Kugane.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Elpis Stone Pillar",
+      "description": "Crowned with lush greenery, this pillar puts one in mind of ancient gardens.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Chocobo Stable Essentials",
+      "description": "Everything a budding breeder needs to raise strong, healthy chocobos.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Camping Tent",
+      "description": "Camp out under the stars in the privacy of your own backyard.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Bamboo Fence",
+      "description": "A garden partition evoking a distinctly Far Eastern aesthetic.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Camping Furniture",
+      "description": "A set of outdoor furniture constructed of weather-resistant materials.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Gaol Partition Door",
+      "description": "A partition with a built-in door. Allows you access to your self-made prison.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Gaol Partition",
+      "description": "A wall of sturdy bars reaching from floor to ceiling. For that \"woke up on the wrong side of the law\" feeling.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Kugane Phasmascape",
+      "description": "This advanced magitek contraption displays the vibrancy of a nighttime Kugane.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Costa del Sol Phasmascape",
+      "description": "This advanced magitek contraption displays a languid scene of Costa del Sol on a typical summer's day.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Garlean Stove",
+      "description": "A magitek heating device common in the frozen climes of Garlemald.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Farmer's Straw Bed",
+      "description": "A comfy pile to lay back on and dream of swaying fields of wheat.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Mummer's Shelf",
+      "description": "A shelving unit stocked with various tools and costume pieces one might use in a theatrical production.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Simple Basket",
+      "description": "The sort of simple, square basket one might fill with simple, square things.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Coconut Water",
+      "description": "An invigorating liquid served as nature intended─with a straw and an oversized bunch of vivid floral garnishes.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Cheese Fondue Set",
+      "description": "A steaming pot complete with fondue forks and an assortment of foods to slather in delicious, dripping cheese.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Rousing Chronometer",
+      "description": "Though it sits in foreboding silence, you can easily imagine the jarring, clanging cacophony this object will make at the designated hour.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Countertop Coffee Service",
+      "description": "An elegantly simple coffee service designed to complement any décor.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Storm's Crown Sword Stand",
+      "description": "Enveloped in swirling winds, this impressive greatsword exudes a palpable sense of power.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Wall-climbing Ivy",
+      "description": "These obstinate vines will survive anywhere. Anywhere.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Hydaelyn, as We Know Her",
+      "description": "A map of Hydaelyn as drawn by a Baldesion cartographer. The \"unknown\" regions are obscured by billowing clouds.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Wall-mounted Wings",
+      "description": "An ornamental pair of feathery wings to brighten up a plain wall.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Flagstone Steps",
+      "description": "Where these stone stairs lead is entirely up to you.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Flagstone Loft",
+      "description": "This heavy stone platform requires surprisingly little in the way of support.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Exciting Neon Wall Light",
+      "description": "The incessant flashing of these lights keeps you alert and on your toes─just like the Excitatron 6000.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Bill of Contrition (S-1)",
+      "description": "An illustrated apology issued in lieu of a receipt for a first-class plot of small size. Purchased with gil unintentionally refunded by lottery processing mishaps.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Bill of Deep Contrition (M-1)",
+      "description": "An illustrated apology issued in lieu of a receipt for a first-class plot of medium size. Purchased with gil unintentionally refunded by lottery processing mishaps.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Bill of Deepest Contrition (L-1)",
+      "description": "An illustrated apology issued in lieu of a receipt for a first-class plot of large size. Purchased with gil unintentionally refunded by lottery processing mishaps.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Beyond Gloam's Veil",
+      "description": "A commissioned portrait of Y'shtola Rhul entitled Beyond Gloam's Veil.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Love and Loss",
+      "description": "A commissioned portrait of Thancred Waters entitled Love and Loss.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Wherewith We Learn",
+      "description": "A commissioned portrait of Urianger Augurelt entitled Wherewith We Learn.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Business's Pleasure",
+      "description": "A commissioned portrait of Tataru Taru entitled Business's Pleasure.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Scion of Wisdom",
+      "description": "A commissioned portrait of Alphinaud Leveilleur entitled Scion of Wisdom.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Scion of Valor",
+      "description": "A commissioned portrait of Alisaie Leveilleur entitled Scion of Valor.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Discernment",
+      "description": "A commissioned portrait of Krile Baldesion entitled Discernment.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Adventure Calls",
+      "description": "A commissioned portrait of G'raha Tia entitled Adventure Calls.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Imitation Stained Crystal Roundel",
+      "description": "All the beauty of the original imitation stained crystal pane without the sharp edges.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Hanging Planter Branch",
+      "description": "A set of hanging potted plants that come with their own handy branch.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Wondrous Windoor",
+      "description": "You thought it was door, but it was actually window.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Side-tied Curtain",
+      "description": "A flowing curtain tied to one side with a decorative cord.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Korpokkur Chronometer",
+      "description": "This woodwork wall-mounted clock includes a cheery korpokkur design.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Natural Wooden Beam",
+      "description": "This wooden beam retains a natural, unfinished appearance.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Bill of Contrition (S-2)",
+      "description": "An illustrated apology issued in lieu of a receipt for a second-class plot of small size. Purchased with gil unintentionally refunded by lottery processing mishaps.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Bill of Contrition (S-3)",
+      "description": "An illustrated apology issued in lieu of a receipt for a third-class plot of small size. Purchased with gil unintentionally refunded by lottery processing mishaps.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Bill of Contrition (S-4)",
+      "description": "An illustrated apology issued in lieu of a receipt for a fourth-class plot of small size. Purchased with gil unintentionally refunded by lottery processing mishaps.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Bill of Contrition (S-5)",
+      "description": "An illustrated apology issued in lieu of a receipt for a fifth-class plot of small size. Purchased with gil unintentionally refunded by lottery processing mishaps.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Bill of Deep Contrition (M-2)",
+      "description": "An illustrated apology issued in lieu of a receipt for a second-class plot of medium size. Purchased with gil unintentionally refunded by lottery processing mishaps.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Bill of Deep Contrition (M-3)",
+      "description": "An illustrated apology issued in lieu of a receipt for a third-class plot of medium size. Purchased with gil unintentionally refunded by lottery processing mishaps.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Bill of Deep Contrition (M-4)",
+      "description": "An illustrated apology issued in lieu of a receipt for a fourth-class plot of medium size. Purchased with gil unintentionally refunded by lottery processing mishaps.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Bill of Deep Contrition (M-5)",
+      "description": "An illustrated apology issued in lieu of a receipt for a fifth-class plot of medium size. Purchased with gil unintentionally refunded by lottery processing mishaps.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Bill of Deepest Contrition (L-2)",
+      "description": "An illustrated apology issued in lieu of a receipt for a second-class plot of large size. Purchased with gil unintentionally refunded by lottery processing mishaps.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Bill of Deepest Contrition (L-3)",
+      "description": "An illustrated apology issued in lieu of a receipt for a third-class plot of large size. Purchased with gil unintentionally refunded by lottery processing mishaps.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Bill of Deepest Contrition (L-4)",
+      "description": "An illustrated apology issued in lieu of a receipt for a fourth-class plot of large size. Purchased with gil unintentionally refunded by lottery processing mishaps.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    },
+    {
+      "name": "Bill of Deepest Contrition (L-5)",
+      "description": "An illustrated apology issued in lieu of a receipt for a fifth-class plot of large size. Purchased with gil unintentionally refunded by lottery processing mishaps.",
+      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Far Eastern Maiden's Hat",
+      "description": "Can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Far Eastern Maiden's Tunic",
+      "description": "Can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Far Eastern Maiden's Armband",
+      "description": "Can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Far Eastern Maiden's Bottoms",
+      "description": "Can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Far Eastern Maiden's Boots",
+      "description": "Can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Eastern Socialite's Hat",
+      "description": "Can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Eastern Socialite's Cheongsam",
+      "description": "Can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Eastern Socialite's Gloves",
+      "description": "Can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Eastern Socialite's Skirt",
+      "description": "Can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Eastern Socialite's Boots",
+      "description": "Can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Far Eastern Officer's Hat",
+      "description": "Can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Far Eastern Officer's Robe",
+      "description": "Can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Far Eastern Officer's Armband",
+      "description": "Can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Far Eastern Officer's Bottoms",
+      "description": "Can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Far Eastern Officer's Boots",
+      "description": "Can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Mun'gaek Hat",
+      "description": "Can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Mun'gaek Uibok",
+      "description": "Can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Mun'gaek Cuffs",
+      "description": "Can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Mun'gaek Trousers",
+      "description": "Can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Mun'gaek Boots",
+      "description": "Can now be equipped regardless of gender.",
+      "image_url": null
+    }
+  ]
 }

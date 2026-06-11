@@ -1,0 +1,268 @@
+{
+  "patch_title": "Patch 5.35 Notes",
+  "patch_date": "2020-10-20",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/f1e5bfcb2a0bf477bcc8c81845c440f300e12f75",
+  "jobs_pve": [],
+  "jobs_pvp": [
+    {
+      "job": "Warrior",
+      "changes": [
+        "Inner Chaos: The effect 'Absorbs 100% of damage dealt as HP' has been added.",
+        "Chaotic Cyclone: The effect 'Absorbs 100% of damage dealt as HP' has been added."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Mirage Dive: Potency has been reduced from 1,200 to 1,000."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Hissatsu: Soten: Potency has been increased from 1,200 to 1,600."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Gauss Round: Potency has been increased from 1,000 to 1,200."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Afflatus Solace: Cure potency has been increased from 3,000 to 4,000; Regen potency has been reduced from 600 to 400.",
+        "Afflatus Rapture: Cure potency has been increased from 1,500 to 2,000; Regen potency has been reduced from 300 to 200.",
+        "Tetragrammaton: Maximum charges has been increased from 1 to 2.",
+        "Temperance: Increase to damage dealt and healing potency has been changed from 20% to 25%."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Biolysis: Reduction to target's HP recovered by healing actions has been changed from 15% to 10%.",
+        "Excogitation: Maximum charges has been increased from 1 to 2.",
+        "Dissipation: Increase to healing potency has been changed from 40% to 50%."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "The Bozjan southern front",
+      "description": "A new instanced encounter wherein players assist the Bozjan Resistance in reclaiming their homeland from the IVth Imperial Legion. Features include skirmishes, critical engagements, Mettle, Resistance rank, and Lost Actions.",
+      "location": "Bozjan southern front",
+      "npc_location": "Gangos (X:5.5 Y:5.4)"
+    },
+    {
+      "name": "Save the Queen: Blades of Gunnhildr",
+      "description": "A side story quest series involving the Resistance weapons.",
+      "location": "Gangos",
+      "npc_location": "Gangos (X:6.4 Y:5.7)"
+    },
+    {
+      "name": "Skysteel Tools",
+      "description": "Quest series to enhance crafter and gatherer tools.",
+      "location": "Foundation",
+      "npc_location": "Foundation (X:7.9 Y:10.6)"
+    },
+    {
+      "name": "Wards 22 through 24",
+      "description": "Addition of three new wards to all residential districts, including subdivisions and apartment buildings.",
+      "location": "Residential Districts",
+      "npc_location": null
+    },
+    {
+      "name": "New Game+ Chapters",
+      "description": "New chapters added for A Realm Reborn (Parts 1-6).",
+      "location": null,
+      "npc_location": "Western Thanalan (X:12.0 Y:14.0)"
+    },
+    {
+      "name": "Triple Triad Additions",
+      "description": "New cards and NPC opponents added.",
+      "location": "The Manderville Gold Saucer",
+      "npc_location": null
+    },
+    {
+      "name": "Field Operations",
+      "description": "A new category added to achievements.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Oriental Wooden Deck",
+      "description": "A slatted deck in the Far Eastern fashion, perfect for quiet contemplation or loud consumption of dango.",
+      "image_url": null
+    },
+    {
+      "name": "Slanted Wall",
+      "description": "This freestanding wall adds fashionable and potentially confounding angles to any interior.",
+      "image_url": null
+    },
+    {
+      "name": "Slanted Skylight",
+      "description": "A freestanding sloped wall with an inbuilt window to let the sun─and only the sun, somehow─in.",
+      "image_url": null
+    },
+    {
+      "name": "Helldiver SD",
+      "description": "An amazingly lifelike model constructed using specially engineered cloth and cotton bolls by Ironworks employees with a particular...enthusiasm for the helldiver variety of machina. Designation: snuggly.",
+      "image_url": null
+    },
+    {
+      "name": "Dainsleif SD",
+      "description": "An amazingly lifelike model constructed using specially engineered cloth and cotton bolls by Ironworks employees with a particular...enthusiasm for the Dáinsleif machina. Designation: snuggly.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Honorbound Replica",
+      "description": "Gladiator's Arm, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    },
+    {
+      "name": "Skullrender Replica",
+      "description": "Marauder's Arm, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    },
+    {
+      "name": "Woeborn Replica",
+      "description": "Dark Knight's Arm, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    },
+    {
+      "name": "Crownsblade Replica",
+      "description": "Gunbreaker's Arm, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    },
+    {
+      "name": "Replica Samsara",
+      "description": "Pugilist's Arm, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    },
+    {
+      "name": "Dreizack Replica",
+      "description": "Lancer's Arm, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    },
+    {
+      "name": "Hoshikiri Replica",
+      "description": "Samurai's Arm, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    },
+    {
+      "name": "Replica Honeshirazu",
+      "description": "Rogue's Arm, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    },
+    {
+      "name": "Brilliance Replica",
+      "description": "Archer's Arm, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    },
+    {
+      "name": "Lawman Replica",
+      "description": "Machinist's Arm, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    },
+    {
+      "name": "Replica Enchufla",
+      "description": "Dancer's Arm, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    },
+    {
+      "name": "Soulscourge Replica",
+      "description": "Two-handed Thaumaturge's Arm, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    },
+    {
+      "name": "Espiritus Replica",
+      "description": "Arcanist's Grimoire, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    },
+    {
+      "name": "Talekeeper Replica",
+      "description": "Red Mage's Arm, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    },
+    {
+      "name": "Ingrimm Replica",
+      "description": "Two-handed Conjurer's Arm, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    },
+    {
+      "name": "Akademos Replica",
+      "description": "Scholar's Arm, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    },
+    {
+      "name": "Solstice Replica",
+      "description": "Astrologian's Arm, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    },
+    {
+      "name": "Tenacity Replica",
+      "description": "Shield, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    },
+    {
+      "name": "Dragonsung Saw Replica",
+      "description": "Carpenter's Primary Tool, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    },
+    {
+      "name": "Dragonsung Cross-pein Hammer Replica",
+      "description": "Blacksmith's Primary Tool, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    },
+    {
+      "name": "Dragonsung Raising Hammer Replica",
+      "description": "Armorer's Primary Tool, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    },
+    {
+      "name": "Dragonsung Lapidary Hammer Replica",
+      "description": "Goldsmith's Primary Tool, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    },
+    {
+      "name": "Dragonsung Round Knife Replica",
+      "description": "Leatherworker's Primary Tool, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    },
+    {
+      "name": "Dragonsung Needle Replica",
+      "description": "Weaver's Primary Tool, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    },
+    {
+      "name": "Dragonsung Alembic Replica",
+      "description": "Alchemist's Primary Tool, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    },
+    {
+      "name": "Dragonsung Frypan Replica",
+      "description": "Culinarian's Primary Tool, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    },
+    {
+      "name": "Dragonsung Pickaxe Replica",
+      "description": "Miner's Primary Tool, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    },
+    {
+      "name": "Dragonsung Hatchet Replica",
+      "description": "Botanist's Primary Tool, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    },
+    {
+      "name": "Dragonsung Fishing Rod Replica",
+      "description": "Fisher's Primary Tool, Item Level: 1 / Equipment Level: 80",
+      "image_url": null
+    }
+  ]
+}

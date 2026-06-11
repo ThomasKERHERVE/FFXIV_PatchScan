@@ -1,0 +1,585 @@
+{
+  "patch_title": "Patch 5.2 Notes",
+  "patch_date": "2020-03-02",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/b0151eaed1faecb46061b947cf9c08bed75d230d",
+  "jobs_pve": [
+    {
+      "job": "Warrior",
+      "changes": [
+        "Shake It Off: Barrier damage absorption increased from 12% to 15% of maximum HP."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Foul: Potency reduction after the first enemy is now fixed at 25%."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Bio III: Damage over time potency reduced from 50 to 45.",
+        "Miasma III: Potency reduced from 50 to 45. Damage over time potency reduced from 50 to 45."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Fleche: Potency increased from 420 to 440.",
+        "Contre Sixte: Potency increased from 380 to 400. Potency is no longer reduced after the first enemy.",
+        "Enhanced Jolt: Increase to Verthunder and Veraero potency changed from 350 to 370."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Afflatus Misery: Potency reduction after the first enemy is now fixed at 25%."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "A Meditation Gauge has been added."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Holy Spirit: Potency has been increased from 1,600 to 1,800.",
+        "Intervention: Recast time has been reduced from 30 to 15 seconds.",
+        "Testudo: Barrier strength has been increased from a heal potency of 2,500 to 3,000."
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "Onslaught: Potency has been increased from 1,000 to 1,200.",
+        "Shake It Off: Barrier strength while under the effect of Rampart has been increased from 3,000 to 4,000.",
+        "Holmgang: Effect duration has been reduced from 4 to 3 seconds.",
+        "Nascent Flash: Portion of damage absorbed as HP by Nascent Flash effect has been increased from 50% to 100%. Nascent Glint effect now reduces target's damage taken by 10%. Recast time has been reduced from 30 to 15 seconds."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Edge of Shadow: Duration of effect reducing target's HP recovered by healing actions has been reduced from 10 to 6 seconds.",
+        "Flood of Shadow: Duration of effect reducing target's HP recovered by healing actions has been reduced from 10 to 6 seconds.",
+        "The Blackest Night: MP cost has been reduced from 2,500 to 0."
+      ]
+    },
+    {
+      "job": "Gunbreaker",
+      "changes": [
+        "Bow Shock: The additional effect 'Removes all Regen and barrier effects from targets' has been added. The additional effect 'Heavy +50%' has been removed.",
+        "Aurora: Now restores target's HP with a cure potency of 3,000. Recast time has been reduced from 30 to 15 seconds. The additional effect 'Creates a barrier around target that absorbs damage equivalent to a heal of 2,000 potency' has been removed.",
+        "Heart of Light: The additional effect 'When under the effect of Brutal Shell, its effect is doubled and granted to nearby party members' has been added. The additional effect 'Creates a barrier around self and nearby party members that absorbs damage equivalent to a heal of 1,000 potency' has been removed.",
+        "Gnashing Fang: The additional effect 'Absorbs 50% of damage dealt as HP' has been removed.",
+        "Savage Claw: The additional effect 'Absorbs 50% of damage dealt as HP' has been removed.",
+        "Wicked Talon: The additional effect 'Absorbs 50% of damage dealt as HP' has been removed.",
+        "Burst Strike: Potency has been reduced from 2,000 to 1,800. Portion of damage absorbed as HP has been increased from 50% to 100%.",
+        "Fated Circle: Portion of damage absorbed as HP has been increased from 50% to 100%.",
+        "Jugular Rip: Potency has been increased from 600 to 800.",
+        "Abdomen Tear: Potency has been increased from 600 to 800.",
+        "Eye Gouge: Potency has been increased from 600 to 800."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Riddle of Earth: Barrier strength has been reduced from a heal potency of 3,000 to 2,000.",
+        "Axe Kick: Recast time has been reduced from 45 to 30 seconds.",
+        "Tornado Kick: Potency has been reduced from 2,000 to 1,800.",
+        "The Forbidden Chakra: Potency has been reduced from 2,000 to 1,800."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Piercing Talon: Range has been reduced from 20 to 15 yalms.",
+        "High Jump: Potency has been increased from 1,600 to 2,000.",
+        "Spineshatter Dive: Potency has been increased from 600 to 800. The additional effect 'Reduces the recast time of Mirage Dive by 15 seconds' has been added.",
+        "Mirage Dive: Potency has been increased from 800 to 1,200.",
+        "Geirskogul: Potency has been reduced from 2,000 to 1,600.",
+        "Nastrond: Potency has been reduced from 2,400 to 2,000.",
+        "Life Surge: Increase to potency has been changed from 20% to 50%."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Hyosho Ranryu: Potency has been reduced from 2,400 to 2,000.",
+        "Goka Mekkyaku: Potency has been reduced from 1,600 to 1,200. Range has been reduced from 25 to 15 yalms.",
+        "Bunshin: Melee attack potency has been increased from 600 to 1,000. Area attack potency has been increased from 400 to 600. Ranged attack potency has been increased from 400 to 800.",
+        "Shukuchi: Barrier strength has been increased from a heal potency of 1,000 to 2,000."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Shoha: Maximum stacks of Meditation has been reduced from 5 to 3. Potency with 1 stack of Meditation has been increased from 600 to 800. Potency with 2 stacks of Meditation has been increased from 1,200 to 1,600. Potency with 3 stacks of Meditation has been increased from 1,800 to 2,400."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Burst Shot: Potency has been increased from 1,000 to 1,200.",
+        "Pitch Perfect: Potency with 1 stack of Repertoire has been increased from 400 to 600. Potency with 2 stacks of Repertoire has been increased from 800 to 1,200. Potency with 3 stacks of Repertoire has been increased from 1,200 to 1,800.",
+        "Repelling Shot: Increase to Soul Voice Gauge has been changed from 10 to 20.",
+        "Nature's Minne: Increase to HP recovery has been reduced from 20% to 10%. Effect duration has been increased from 10 to 15 seconds. Recast time has been reduced from 45 to 30 seconds."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Heated Split Shot: Potency has been increased from 800 to 1,000.",
+        "Heated Slug Shot: Potency has been increased from 1,000 to 1,200.",
+        "Heated Clean Shot: Potency has been increased from 1,200 to 1,400.",
+        "Heat Blast: Potency has been increased from 1,000 to 1,200.",
+        "Gauss Round: Potency has been increased from 800 to 1,000.",
+        "Ricochet: Potency has been reduced from 800 to 600.",
+        "Bioblaster: Potency has been increased from 1,000 to 1,400.",
+        "Blank: The additional effect 'If target is suffering from a Wildfire effect inflicted by you, Blank potency is tripled' has been added.",
+        "Tactician: Recast time has been reduced from 60 to 45 seconds."
+      ]
+    },
+    {
+      "job": "Dancer",
+      "changes": [
+        "Saber Dance: Effect duration has been reduced from 30 to 15 seconds.",
+        "Fan Dance III: Effect duration has been reduced from 30 to 15 seconds.",
+        "Standard Finish: Potency for 0 steps has been changed from 400-800 to 200-600. Potency for 1 step has been changed from 600-1,200 to 400-1,200. Potency for 2 steps has been changed from 800-1,600 to 600-1,800.",
+        "Technical Finish: Potency for 0 steps has been changed from 400-800 to 200-600. Potency for 1 step has been changed from 600-1,200 to 400-1,200. Potency for 2 steps has been changed from 800-1,600 to 600-1,800. Potency for 3 steps has been changed from 1,000-2,000 to 800-2,400. Potency for 4 steps has been changed from 1,200-2,400 to 1,000-3,000."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Blizzard: Potency has been increased from 600 to 800.",
+        "Blizzard IV: Potency has been increased from 1,200 to 1,600.",
+        "Flare: Potency has been increased from 1,600 to 1,800.",
+        "Freeze: Potency has been increased from 800 to 1,200."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Energy Drain: Potency has been increased from 600 to 800."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Corps-a-corps: The additional effect 'Heavy +50%' has been added, with a duration of 5 seconds.",
+        "Displacement: The additional effect 'Bind' has been added, with a duration of 3 seconds.",
+        "Vercure: Cure potency has been increased from 2,000 to 3,000. The additional effect 'Increases both Black Mana and White Mana by 5 when used to restore HP of self or a party member while in combat' has been added.",
+        "Embolden (Added): Increases damage dealt by self and nearby party members by 10%. Effect is reduced by 2% every 3s. Duration: 15s.",
+        "Tether (Removed)"
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Afflatus Solace: Regen potency has been reduced from 800 to 600.",
+        "Afflatus Rapture: Regen potency has been reduced from 400 to 300."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Physick: The additional effect 'Increases Faerie Gauge by 10 when action is used to restore HP of self or a party member while in combat' has been added.",
+        "Adloquium: The additional effect 'Increases Faerie Gauge by 10 when action is used to restore HP of self or a party member while in combat' has been added.",
+        "Succor: The additional effect 'Increases Faerie Gauge by 5 for each party member healed when used to restore HP of self or a party member while in combat' has been added.",
+        "Broil III: Increase to Faerie Gauge has been changed from 10 to 20.",
+        "Biolysis: Increase to Faerie Gauge has been changed from 10 to 20.",
+        "Indomitability: Now shares a recast timer with Lustrate. Maximum charges has been increased from 2 to 3. Recast time has been reduced from 30 to 15 seconds.",
+        "Excogitation: Recast time has been reduced from 45 to 30 seconds.",
+        "Focalization: Recast time has been reduced from 60 to 45 seconds.",
+        "Lustrate: Now shares a recast timer with Indomitability.",
+        "Aura Blast: Potency has been increased from 1,000 to 1,600. Recast time has been reduced from 45 to 30 seconds. The additional effect '10-yalm knockback' has been removed.",
+        "Dissipation (Added): Increases healing potency by 50%. Duration: 6s. Reduces the recast time of both Lustrate and Indomitability by 15s. Faerie Gauge Cost: 50.",
+        "Summon Seraph (Removed)",
+        "Seraphic Veil (Removed)"
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Gravity: Potency has been changed from 600-3,000 to 800-3,200. Cast time has been reduced from 2 to 1.5 seconds. Recast time has been reduced from 45 to 30 seconds.",
+        "Essential Dignity: Cure potency has been changed from 2,000-4,000 to 2,500-5,000."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Anamnesis Anyder",
+      "description": "A new dungeon.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Cinder Drift",
+      "description": "A new trial.",
+      "location": "The Lochs",
+      "npc_location": "Resistance Officer (X:36.4 Y:31.8)"
+    },
+    {
+      "name": "Cinder Drift (Extreme)",
+      "description": "An extreme version of the new trial.",
+      "location": "The Lochs",
+      "npc_location": "Warmachina Fanatic (X:11.5 Y:22.5)"
+    },
+    {
+      "name": "Eden's Verse",
+      "description": "A new raid dungeon.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Eden's Verse (Savage)",
+      "description": "A new savage raid dungeon.",
+      "location": "Amh Araeng",
+      "npc_location": "Lewrey (X:26.8 Y:16.4)"
+    },
+    {
+      "name": "Old Enemies, New Threats",
+      "description": "Main scenario quest.",
+      "location": "The Rising Stones",
+      "npc_location": "Krile (X:6.0 Y:5.9)"
+    },
+    {
+      "name": "Ruby Doomsday",
+      "description": "Chronicles of a New Era quest.",
+      "location": "The Lochs",
+      "npc_location": "Resistance Officer (X:36.4 Y:31.8)"
+    },
+    {
+      "name": "Away with the Faerie",
+      "description": "Chronicles of a New Era quest.",
+      "location": "Amh Araeng",
+      "npc_location": "Yalfort (X:26.7 Y:16.7)"
+    },
+    {
+      "name": "Carnivals and Confrontations",
+      "description": "Chronicles of a New Era quest.",
+      "location": "Kholusia",
+      "npc_location": "Dig Site Chief (X:34.7 Y:18.2)"
+    },
+    {
+      "name": "All the Fish in the Sea",
+      "description": "New side story quest.",
+      "location": "Limsa Lominsa Lower Decks",
+      "npc_location": "Fhilsnoe (X:7.8 Y:14.5)"
+    },
+    {
+      "name": "The Stewards of Note",
+      "description": "Qitari beast tribe main quest.",
+      "location": "Rak'tika",
+      "npc_location": "Concerned Mother (X:21.0 Y:27.6)"
+    },
+    {
+      "name": "Ocean Fishing",
+      "description": "Content for fishers to sail on the Endeavor.",
+      "location": "Limsa Lominsa Lower Decks",
+      "npc_location": "Dryskthota (X:3.0 Y:12.7)"
+    },
+    {
+      "name": "Materia Extraction",
+      "description": "System to extract materia from spiritbound gear without losing the item.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Calculations Feature",
+      "description": "Feature in the crafting window to view expected progress and quality increases.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Qitari beast tribe settlement",
+      "description": "New beast tribe settlement location.",
+      "location": "Rak'tika Greatwood",
+      "npc_location": "Hopl's Stopple (X:37.2 Y:17.5)"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Half-timbered Cottage Walls",
+      "description": "A set of four walls designed for those who wish to transform their estate into a quaint mercantile establishment. ※Can only be used with cottages on small plots of land.",
+      "image_url": null
+    },
+    {
+      "name": "Half-timbered House Walls",
+      "description": "A set of four walls designed for those who wish to transform their estate into a quaint mercantile establishment. ※Can only be used with houses on medium plots of land.",
+      "image_url": null
+    },
+    {
+      "name": "Half-timbered Mansion Walls",
+      "description": "A set of four walls designed for those who wish to transform their estate into a quaint mercantile establishment. ※Can only be used with mansions on large plots of land.",
+      "image_url": null
+    },
+    {
+      "name": "Rough Stone Interior Wall",
+      "description": "An imposing interior wall of haphazardly arranged hunks of stone.",
+      "image_url": null
+    },
+    {
+      "name": "Rough Stone Flooring",
+      "description": "Unpolished flagstone─for everyone's favorite seedy tavern ambience.",
+      "image_url": null
+    },
+    {
+      "name": "Wooden Chandelier",
+      "description": "Ideal for swinging on with roguish grace─though do try not to burn the place down.",
+      "image_url": null
+    },
+    {
+      "name": "Dohn Trellis",
+      "description": "Make even the Fae jealous with the trellises designed to evoke Dohn Mheg.",
+      "image_url": null
+    },
+    {
+      "name": "Lakeland Elf Tree",
+      "description": "Elf trees are in such high demand that some are grown for the express purpose of being cut down and sold.",
+      "image_url": null
+    },
+    {
+      "name": "Lakeland Flower Garden",
+      "description": "Lakeland's most arresting flowers right in your own home.",
+      "image_url": null
+    },
+    {
+      "name": "Brick Garden Wall",
+      "description": "A portion of brick wall that would complement nearly any garden, be it full of flowers or full of more subdued plant life.",
+      "image_url": null
+    },
+    {
+      "name": "Cosmos Partition",
+      "description": "A partition design to evoke the grandeur and magnificence of the Grand Cosmos.",
+      "image_url": null
+    },
+    {
+      "name": "White Screen",
+      "description": "That this screen always maintains its sterling whiteness speaks to the quality of its construction.",
+      "image_url": null
+    },
+    {
+      "name": "Steppe Bed",
+      "description": "Sleep as soundly as the nomadic peoples of the Azim Steppe do.",
+      "image_url": null
+    },
+    {
+      "name": "Bomb Cauldron",
+      "description": "Crafted with painstaking attention to detail, put this cauldron in any room to terrify guests and pets alike.",
+      "image_url": null
+    },
+    {
+      "name": "Ronkan Rocking Chair",
+      "description": "A rocking chair representing Ronkan resourcefulness and resilience.",
+      "image_url": null
+    },
+    {
+      "name": "Crystallized Coral",
+      "description": "This crystallized mass of coral matches almost any color scheme one could imagine.",
+      "image_url": null
+    },
+    {
+      "name": "Cheese Collection",
+      "description": "Why in the gods' name would a person amass such an amount of cheese? A peculiar obsession? A craving that transcends all reason? Some manner of cheese-related divination known only to a forbidden sect? Whatever the reason, one can only hope that the results are still saleable.",
+      "image_url": null
+    },
+    {
+      "name": "Used Banquet Table",
+      "description": "There's no telling how many banquets have been eaten off of this table.",
+      "image_url": null
+    },
+    {
+      "name": "Wine Rack",
+      "description": "Nice vintage you've got there. Be a shame if someone were to...quaff it.",
+      "image_url": null
+    },
+    {
+      "name": "Cardpaper Box",
+      "description": "Not recommended for subterfuge.",
+      "image_url": null
+    },
+    {
+      "name": "Golden Crystal Boule",
+      "description": "A mounted sample of the luminous yellow crystals that grow uninhibited on the sea floor.",
+      "image_url": null
+    },
+    {
+      "name": "Sunflower Bouquet",
+      "description": "A bouquet sure to brighten any room it is in.",
+      "image_url": null
+    },
+    {
+      "name": "Cutting Board",
+      "description": "Perfect for cutting all manner of vegetables on. Also suitable for placing already cut vegetables on.",
+      "image_url": null
+    },
+    {
+      "name": "Open Book",
+      "description": "Opened to the page revealing the most impressively wordy words entirely by accident.",
+      "image_url": null
+    },
+    {
+      "name": "Milk Carton",
+      "description": "A paper milk carton, fortunately lacking an illustration of someone's face on the side.",
+      "image_url": null
+    },
+    {
+      "name": "Dishware",
+      "description": "A full set of dishes, washed and all.",
+      "image_url": null
+    },
+    {
+      "name": "Cosmetics Box",
+      "description": "This enormous case is replete with enough paints and powders to satisfy an entire Eorzean theater troupe─or one Eulmoran dame.",
+      "image_url": null
+    },
+    {
+      "name": "Dish Rack",
+      "description": "A spacious box in which to dry dishware, with accompanying mat for glasses.",
+      "image_url": null
+    },
+    {
+      "name": "Folded Futon",
+      "description": "Put it away─quick, before the guests see!",
+      "image_url": null
+    },
+    {
+      "name": "The Bismarck",
+      "description": "Impressive enough to bear the name of Limsa's premier culinary establishment as its own, this is the sort of sandwich one eats off of a nice plate.",
+      "image_url": null
+    },
+    {
+      "name": "Picnic Basket",
+      "description": "Includes everything required for a sunlit meal in the outdoors.",
+      "image_url": null
+    },
+    {
+      "name": "First Chair's Trumpet",
+      "description": "Designed in homage to a legendary trumpeter, its majesty may someday inspire someone to finally pick up that instrument they have been meaning to learn.",
+      "image_url": null
+    },
+    {
+      "name": "Siphon Coffee Brewer",
+      "description": "Many a connoisseur have sworn off all other methods of making coffee after trying a single sip of a cup made with this one.",
+      "image_url": null
+    },
+    {
+      "name": "Ruby Weapon Bust",
+      "description": "The heart of this Garlond Ironworks scale replica of a select portion of the Ruby Weapon pulsates menacingly. Accept no substitutes.",
+      "image_url": null
+    },
+    {
+      "name": "Small Angler's Canvas",
+      "description": "A tiny blank canvas on which an ink print of some aquatic creature or another might be rendered, complete with frame.",
+      "image_url": null
+    },
+    {
+      "name": "Medium Angler's Canvas",
+      "description": "A modest blank canvas on which an ink print of some aquatic creature or another might be rendered, complete with frame.",
+      "image_url": null
+    },
+    {
+      "name": "Large Angler's Canvas",
+      "description": "A robust blank canvas on which an ink print of some aquatic creature or another might be rendered, complete with frame.",
+      "image_url": null
+    },
+    {
+      "name": "Extra Large Angler's Canvas",
+      "description": "An imposing blank canvas on which an ink print of a truly enormous aquatic creature might be rendered, complete with frame.",
+      "image_url": null
+    },
+    {
+      "name": "Amaurot Wall Lamp",
+      "description": "A metallic fixture of the sort popular in the Amaurot of Emet-Selch's recollection.",
+      "image_url": null
+    },
+    {
+      "name": "Cosmos Decoration",
+      "description": "Be transported to the majestic Grand Cosmos without stepping foot from your room.",
+      "image_url": null
+    },
+    {
+      "name": "Oldrose Wall Planter",
+      "description": "A riot of vibrant red and pale pink blooms within this quaint wall-mounted box.",
+      "image_url": null
+    },
+    {
+      "name": "Fat Cat Wall Chronometer",
+      "description": "This convenient timekeeping device will always remind you when it is time to eat, or maybe when it is time to put down that third dessert.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "The Emperor's New Shield",
+      "description": "Invisible glamour item for the shield slot.",
+      "image_url": null
+    },
+    {
+      "name": "Orange Hyacinth Corsage",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Purple Hyacinth Corsage",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "White Hyacinth Corsage",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Black Hyacinth Corsage",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Rainbow Hyacinth Corsage",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Red Hyacinth Corsage",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Blue Hyacinth Corsage",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Yellow Hyacinth Corsage",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Green Hyacinth Corsage",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Dalmascan Draped Top",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Dalmascan Draped Bottoms",
+      "description": "Legs glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Dalmascan Leather Shoes",
+      "description": "Feet glamour item.",
+      "image_url": null
+    }
+  ]
+}

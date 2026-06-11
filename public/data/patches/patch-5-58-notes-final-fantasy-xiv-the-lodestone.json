@@ -1,0 +1,168 @@
+{
+  "patch_title": "Patch 5.58 Notes",
+  "patch_date": "2021-07-20",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/20c842781ec0a2ebd7a2ad2510e8849372cb139e",
+  "jobs_pve": [],
+  "jobs_pvp": [
+    {
+      "job": "Shared Tank Actions",
+      "changes": [
+        "Retaliation: Recast time has been reduced from 60 to 45 seconds."
+      ]
+    },
+    {
+      "job": "Shared Magic DPS Actions",
+      "changes": [
+        "Aetheric Burst: Potency has been increased from 1,200 to 1,600."
+      ]
+    },
+    {
+      "job": "Paladin",
+      "changes": [
+        "Atonement: Increase to Oath Gauge bar has been changed from 5 to 10.",
+        "Glory Slash: Increase to Oath Gauge bar has been changed from 5 to 10."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Bloodspiller: The additional effect 'Absorbs 100% of damage dealt as HP' has been added.",
+        "Quietus: The additional effect 'Absorbs 100% of damage dealt as HP' has been added."
+      ]
+    },
+    {
+      "job": "Gunbreaker",
+      "changes": [
+        "Draw and Junction: Detrimental effect duration has been increased from 10 to 15 seconds. Beneficial effect duration has been reduced from 60 to 15 seconds."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Tornado Kick: Potency has been reduced from 2,000 to 1,800."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Heat Blast: Potency has been increased from 1,200 to 1,400."
+      ]
+    },
+    {
+      "job": "Dancer",
+      "changes": [
+        "Saber Dance: Potency has been increased from 1,800 to 2,000.",
+        "Standard Finish: Potency for 0 steps has been changed from 200-600 to 300-600. Potency for 1 step has been changed from 400-1,200 to 600-1,200. Potency for 2 steps has been changed from 600-1,800 to 900-1,800.",
+        "Technical Finish: Potency for 0 steps has been changed from 200-600 to 300-600. Potency for 1 step has been changed from 400-1,200 to 600-1,200. Potency for 2 steps has been changed from 600-1,800 to 900-1,800. Potency for 3 steps has been changed from 800-2,400 to 1,200-2,400. Potency for 4 steps has been changed from 1,000-3,000 to 1,500 to 3,000."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Thunder: Damage required to trigger Thundercloud has been increased from 6,000 to 8,000.",
+        "Thunder III: Damage required to trigger Thundercloud has been increased from 6,000 to 8,000."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Wither: Potency has been increased from 1,000 to 1,600."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Aura Blast: Potency has been increased from 1,600 to 2,000.",
+        "Succor: The additional effect 'Increases Faerie Gauge by 5 for each party member healed when used to restore HP of self or a party member while in combat' has been changed to 'Increases Faerie Gauge by 10 when used to restore HP of self or a party member while in combat.'",
+        "Dissipation: The additional effect 'Increases damage dealt by 25%' has been added. Effect duration has been increased from 6 to 10."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Gravity: Potency has been increased from 800 to 1,600.",
+        "Lord of Crowns: Effect duration has been increased from 10 to 15 seconds.",
+        "Lady of Crowns: Effect duration has been increased from 10 to 15 seconds."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "The Cloud Deck (Extreme)",
+      "description": "Extreme difficulty trial; moved from Raid Finder to Duty Finder; drop rate for Diamond Gwiber Trumpet increased.",
+      "location": null,
+      "npc_location": "C'intana in Mor Dhona (X:22.7 Y:6.7)"
+    },
+    {
+      "name": "Eden's Promise (Savage)",
+      "description": "Savage raid tier; Echo strength increased to 15%; weekly restriction on Blades of Lost Antiquity removed.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Tower at Paradigm's Breach",
+      "description": "Alliance raid; weekly restrictions on rewards and Breach Coins removed; added various items to treasure chests.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Bozjan southern front",
+      "description": "Exploration zone; Mettle rewards increased for Resistance ranks 1-14; drop rate for Loathsome Memory of the Dying increased.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Zadnor",
+      "description": "Exploration zone; Mettle rewards increased for Resistance ranks 1-14; adjustments to critical engagement 'On Serpents' Wings'.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Feast",
+      "description": "PvP system; Season Twenty begins.",
+      "location": "Wolves' Den Pier (X:4.9 Y:5.7)",
+      "npc_location": "Feast Quartermaster at the Wolves' Den Pier"
+    },
+    {
+      "name": "Battle of Castrum Lacus Litore",
+      "description": "Critical engagement; adjustments made to 4th Legion helldiver, NPC ally tunnel armor, and gate switch mechanic.",
+      "location": "Bozjan southern front",
+      "npc_location": null
+    },
+    {
+      "name": "Auto-Logout",
+      "description": "System feature; automatically logs out players inactive for more than 30 minutes to ease server congestion.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Stuffed Android Units",
+      "description": "A furnishing item obtained as a reward from the Tower at Paradigm's Breach.",
+      "image_url": null
+    },
+    {
+      "name": "Smaller Stubby",
+      "description": "A furnishing item obtained as a reward from the Tower at Paradigm's Breach.",
+      "image_url": null
+    },
+    {
+      "name": "9S Automaton",
+      "description": "A furnishing item obtained as a reward from the Tower at Paradigm's Breach.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Modern Aesthetics - Battle-ready Bobs",
+      "description": "An item used to unlock a new hairstyle.",
+      "image_url": null
+    },
+    {
+      "name": "Modern Aesthetics - Scanning for Style",
+      "description": "An item used to unlock a new hairstyle.",
+      "image_url": null
+    }
+  ]
+}

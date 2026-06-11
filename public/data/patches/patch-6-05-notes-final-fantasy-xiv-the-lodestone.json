@@ -1,16 +1,191 @@
 {
   "patch_title": "Patch 6.05 Notes",
   "patch_date": "2022-01-04",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/e6a00f68153b6fa0f0ca9b64eb593c921b434eca",
-  "jobs_pve": [],
-  "jobs_pvp": [],
-  "new_content": [
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/674bcc0a4da4caba1ded710a7af99389094d52a8",
+  "jobs_pve": [
     {
-      "name": "System Update",
-      "description": "Minor adjustments, hotfixes and database optimization for Patch 6.05 Notes.",
-      "location": "Eorzea"
+      "job": "Pugilist/Monk",
+      "changes": [
+        "Arm of the Destroyer: When under the effect of Perfect Balance, now grants Raptor Chakra even when missing a target.",
+        "Rockbreaker: When under the effect of Perfect Balance, now grants Opo-opo Chakra even when missing a target.",
+        "Four-point Fury: When under the effect of Perfect Balance, now grants Coeurl Chakra even when missing a target.",
+        "Shadow of the Destroyer: When under the effect of Perfect Balance, now grants Raptor Chakra even when missing a target.",
+        "Elixir Field: Now grants Lunar Nadi and Formless Fist even when missing a target.",
+        "Flint Strike: Now grants Solar Nadi and Formless Fist even when missing a target.",
+        "Rising Phoenix: Now grants Solar Nadi and Formless Fist even when missing a target."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Wyrmwind Thrust: Potency has been increased from 370 to 420.",
+        "Geirskogul: Potency has been increased from 250 to 260.",
+        "Nastrond: Potency has been increased from 350 to 360."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Raiton: The status effect granted upon execution has been changed from \"Forked Raiju Ready\" to \"Raiju Ready.\" The status effect duration has been increased from 15 to 30 seconds.",
+        "Bunshin: The Phantom Kamaitachi Ready status effect no longer expires when the effect of Bunshin ends. This action now changes to Phantom Kamaitachi upon execution. The Phantom Kamaitachi Ready status effect now has a duration of 45 seconds.",
+        "Phantom Kamaitachi: Execution no longer consumes a stack of Bunshin. Increase to Ninki Gauge has been changed from 5 to 10.",
+        "Forked Raiju: Potency has been increased from 400 to 560. The additional effect \"Grants Fleeting Raiju Ready\" has been removed. The requirement for execution has been changed from \"while under the effect of Forked Raiju Ready\" to \"while under the effect of Raiju Ready.\"",
+        "Fleeting Raiju: Players will no longer rush target upon execution. Range has been reduced from 20 yalms to 3 yalms. Potency has been increased from 450 to 560. The requirement for execution has been changed from \"while under the effect of Fleeting Raiju Ready\" to \"while under the effect of Raiju Ready.\" Can now be set to the Hotbar."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Higanbana: Range has been increased from 3 yalms to 6 yalms.",
+        "Kaeshi: Higanbana: Range has been increased from 3 yalms to 6 yalms.",
+        "Midare Setsugekka: Range has been increased from 3 yalms to 6 yalms.",
+        "Kaeshi: Setsugekka: Range has been increased from 3 yalms to 6 yalms."
+      ]
+    },
+    {
+      "job": "Reaper",
+      "changes": [
+        "Arcane Crest: Cure potency of the Crest of Time Returned effect has been reduced from 100 to 50."
+      ]
+    },
+    {
+      "job": "Dancer",
+      "changes": [
+        "Standard Finish: Action category has been changed from ability to weaponskill.",
+        "Technical Finish: Action category has been changed from ability to weaponskill.",
+        "Tillana: Action category has been changed from ability to weaponskill."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Fountain of Fire: Potency has been increased from 430 to 520.",
+        "Brand of Purgatory: Potency has been increased from 180 to 240."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Fey Union: Range has been increased from 15 yalms to 30 yalms. The range within which players must stay has been increased from 15 yalms to 30 yalms."
+      ]
     }
   ],
-  "housing": [],
-  "glamour": []
+  "jobs_pvp": [
+    {
+      "job": "Warrior",
+      "changes": [
+        "An issue wherein the healing effect of Nascent Flash could not be triggered on party members in PvP."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Pandæmonium: Asphodelos (Savage)",
+      "description": "A high-end raid dungeon consisting of four circles featuring increased difficulty and exclusive gear rewards.",
+      "location": "Labyrinthos",
+      "npc_location": "Nemjiji (Labyrinthos X:8.4 Y:27.4)"
+    },
+    {
+      "name": "The Excitatron 6000",
+      "description": "A special treasure dungeon accessed by finding and opening treasure coffers obtained from kumbhiraskin treasure maps.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Allagan tomestones of astronomy",
+      "description": "A new currency system for level 90 players used to exchange for and enhance high-level gear.",
+      "location": "Radz-at-Han",
+      "npc_location": "Cihanti (Radz-at-Han X:10.8 Y:10.3)"
+    },
+    {
+      "name": "Duty Complete (Weekly Reward Unclaimed)",
+      "description": "A new Party Finder recruitment option for high-end raids to filter for players who have not yet claimed their weekly reward.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Coldbare Tree",
+      "description": "A plant bereft of its foliage and thus ill-fit to fend off the elements.",
+      "image_url": null
+    },
+    {
+      "name": "Poroggo Lawn Ornament",
+      "description": "An adorable little waterwheel adorned with an even cuter amphibian familiar.",
+      "image_url": null
+    },
+    {
+      "name": "Miniature Antique Clock Tower",
+      "description": "An outdoor clock that will always tell you the time─so long as you keep it wound.",
+      "image_url": null
+    },
+    {
+      "name": "Shirogane Pinwheel",
+      "description": "A tiny spinning toy that is quite popular among Hingan children.",
+      "image_url": null
+    },
+    {
+      "name": "Dance Pole",
+      "description": "Even seasoned adventurers may find that sensually swiveling upon this pole proves a challenge to their balance and brawn alike.",
+      "image_url": null
+    },
+    {
+      "name": "Loft Bed",
+      "description": "A bed-over-desk set for authors whose solution to writer's block is sleeping on it.",
+      "image_url": null
+    },
+    {
+      "name": "Shoe Rack",
+      "description": "A stack of shelves suited for storing shoes.",
+      "image_url": null
+    },
+    {
+      "name": "Matching Cushions",
+      "description": "A pair of fluffy pillows that support not only your neck and shoulders, but each other as well.",
+      "image_url": null
+    },
+    {
+      "name": "Walnut Flower Vases",
+      "description": "A stable set of wooden stands, each adorned with a brightly colored blossom.",
+      "image_url": null
+    },
+    {
+      "name": "Ivy Mural",
+      "description": "A plant-patterned wall adornment for those who wish to bring a taste of the outside in.",
+      "image_url": null
+    },
+    {
+      "name": "Imitation Wooden Skylight",
+      "description": "A ceiling fixture for those who prefer their sunlight simulated.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Cape of Happiness",
+      "description": "Body item, Level 1",
+      "image_url": null
+    },
+    {
+      "name": "Wristlet of Happiness",
+      "description": "Hands item, Level 1",
+      "image_url": null
+    },
+    {
+      "name": "Hose of Happiness",
+      "description": "Legs item, Level 1",
+      "image_url": null
+    },
+    {
+      "name": "Boots of Happiness",
+      "description": "Feet item, Level 1",
+      "image_url": null
+    },
+    {
+      "name": "Archangel Wings",
+      "description": "Miscellany item, For those who go gaga for gold.",
+      "image_url": null
+    }
+  ]
 }

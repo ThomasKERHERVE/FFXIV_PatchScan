@@ -1,0 +1,227 @@
+{
+  "patch_title": "Patch 5.0 Notes",
+  "patch_date": "2019-07-04",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/330f2b280067d69d85b17831c66712a499e97484",
+  "jobs_pve": [
+    {
+      "job": "All Jobs",
+      "changes": [
+        "Level cap raised to 80.",
+        "A fixed set of role actions has been assigned to all jobs. Players will learn role actions as they level and will no longer be required to select a subset of these actions.",
+        "Maximum MP for all jobs has been fixed at 10,000.",
+        "TP has been removed.",
+        "Enmity gained for certain healing actions has been reduced.",
+        "The time frame within which players must execute actions to continue or complete combos has been extended.",
+        "Charged actions implemented (allowing multiple executions in quick succession via charges).",
+        "Unique recast timers implemented for certain weaponskills and spells."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Umbral Ice now also reduces the MP cost of ice spells, with the effect increasing with each stack gained."
+      ]
+    },
+    {
+      "job": "Healer (General)",
+      "changes": [
+        "Piety attribute effect changed from increasing Maximum MP to increasing MP regeneration rate.",
+        "Limit break gauge fill rate from healing actions reduced.",
+        "Limit break gauge will no longer fill when non-healer jobs use healing actions."
+      ]
+    },
+    {
+      "job": "Summoner / Scholar (Pet users)",
+      "changes": [
+        "Pet actions have been removed and incorporated into player actions.",
+        "Pets can no longer be targeted by player or enemy actions.",
+        "Pets will no longer be displayed in the party list.",
+        "Pet HP will no longer be displayed when targeted.",
+        "Attacks performed by a pet will generate enmity for the player who summoned it."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "All Jobs",
+      "changes": [
+        "PvP traits have been removed.",
+        "PvP actions for all jobs have been adjusted.",
+        "Additional actions are now adjusted based on current job's role.",
+        "It is no longer possible to manually remove enhancements applied to your character.",
+        "TP has been removed.",
+        "The range of melee attacks has been increased from 3 to 5 yalms.",
+        "The global cooldown time of actions has been increased from 2.3 to 2.4 seconds.",
+        "HP recovery rate outside of combat has been increased from 10% to 20% of maximum HP.",
+        "MP recovery rate in combat has been increased from 200 to 250.",
+        "MP recovery rate outside of combat has been increased from 400 to 500.",
+        "Players will now be granted temporary immunity to knockback and draw-in effects after being affected by them."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Eden's Gate",
+      "description": "Raid content scheduled for release in 5.01.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Eden's Gate (Savage)",
+      "description": "Raid content scheduled for release in 5.05.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Dungeons of Lyhe Ghiah",
+      "description": "Treasure hunt instance scheduled for release in 5.05.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Syrcus Trench",
+      "description": "Main scenario quest.",
+      "location": "The Rising Stones",
+      "npc_location": "Tataru"
+    },
+    {
+      "name": "The Man with Too Many Scars",
+      "description": "Tank role quest.",
+      "location": "The Crystarium",
+      "npc_location": "Granson"
+    },
+    {
+      "name": "No Greater Sport",
+      "description": "Physical DPS role quest.",
+      "location": "The Crystarium",
+      "npc_location": "Lue-Reeq"
+    },
+    {
+      "name": "Hollow Pursuits",
+      "description": "Magical DPS role quest.",
+      "location": "The Crystarium",
+      "npc_location": "Cerrig"
+    },
+    {
+      "name": "Traditions and Travails",
+      "description": "Healer role quest.",
+      "location": "The Crystarium",
+      "npc_location": "Giott"
+    },
+    {
+      "name": "The Crystalline Mean",
+      "description": "Facets of the Crystalline Mean quest.",
+      "location": "The Crystarium",
+      "npc_location": "Katliss"
+    },
+    {
+      "name": "Trust System",
+      "description": "System that allows players to challenge main scenario dungeons with a party of allied NPCs.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Quest Sync",
+      "description": "Automatic level adjust system for side story quests.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Lakeland",
+      "description": "New field area.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Kholusia",
+      "description": "New field area.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Amh Araeng",
+      "description": "New field area.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Il Mheg",
+      "description": "New field area.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Rak'tika Greatwood",
+      "description": "New field area.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Crystarium",
+      "description": "New city.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Eulmore",
+      "description": "New city.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Lawns",
+      "description": "Expansion of Stone, Sky, Sea for level 80 trials.",
+      "location": "Eulmore",
+      "npc_location": "Weary Dockworker"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Furnishings from the FFXIV Furnishing Design Contest",
+      "description": "New furnishings added from the FFXIV Furnishing Design Contest.",
+      "image_url": null
+    },
+    {
+      "name": "Mannequins (Blue Mage, Gunbreaker, and Dancer gear)",
+      "description": "New gear added for mannequins.",
+      "image_url": null
+    },
+    {
+      "name": "Estate Tags",
+      "description": "New tags added: Atelier, Bathhouse, Garden, Far Eastern.",
+      "image_url": null
+    },
+    {
+      "name": "Crystarium Striking Dummies",
+      "description": "Level 80 striking dummies added.",
+      "image_url": null
+    },
+    {
+      "name": "Orchestrion Rolls",
+      "description": "New orchestrion rolls have been added.",
+      "image_url": null
+    },
+    {
+      "name": "Aquarium Fishes",
+      "description": "New aquarium fishes have been added.",
+      "image_url": null
+    },
+    {
+      "name": "Hydrangea Seeds",
+      "description": "A new seed for flowerpots.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Glamour Dresser",
+      "description": "A storage facility for gear that allows players to convert items into glamours.",
+      "image_url": null
+    },
+    {
+      "name": "Glamour Plates",
+      "description": "Customizable sets of glamours that can be applied to gear sets, increased to 15 in this patch.",
+      "image_url": null
+    }
+  ]
+}

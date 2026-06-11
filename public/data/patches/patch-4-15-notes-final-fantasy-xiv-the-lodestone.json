@@ -1,0 +1,102 @@
+{
+  "patch_title": "Patch 4.15 Notes",
+  "patch_date": "2017-11-21",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/fc2b7b7429f139b0bbab2f19620f3c1efcf30368",
+  "jobs_pve": [
+    {
+      "job": "Black Mage",
+      "changes": [
+        "To improve usability for colorblind players, the color of the icons for astral fire and umbral ice in the simplified black mage job gauge has been adjusted."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Holy Spirit: Potency increased from 1,250 to 1,500.",
+        "Requiescat: Potency increased from 500 to 1,000.",
+        "Requiescat: The effect increasing potency up to 400% has been reduced to 200%."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Assassinate: Potency now increases up to a maximum of 2,500."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Flamethrower: Potency increased from 250 to 500.",
+        "Flamethrower: Duration reduced from 10 to 5 seconds.",
+        "Flamethrower: Additional effect potency increased from 250 to 400.",
+        "Flamethrower: Maximum stacks reduced from 10 to 5."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Vercure: Healing potency increased from 1,500 to 2,000.",
+        "Monomachy: Recast time reduced from 45 to 30 seconds."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Regen: MP cost increased from 500 to 750."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Chain Stratagem: Duration reduced from 6 to 5 seconds."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Rival Wings",
+      "description": "A large-scale PvP battle involving up to 48 combatants divided into two teams (Falcons and Ravens) that incorporates goblin-made machina.",
+      "location": "Astragalos",
+      "npc_location": "Wolves' Den Pier (X:5.7 Y:5.4)"
+    },
+    {
+      "name": "Performance Actions",
+      "description": "A system allowing players to create music using the bard job through specific musical note actions.",
+      "location": "Old Gridania (X:10.4 Y:8.4)",
+      "npc_location": "Old Gridania (X:10.4 Y:8.4)"
+    },
+    {
+      "name": "Plucking the Heartstrings",
+      "description": "Quest required to unlock the Performance Actions system.",
+      "location": "Old Gridania",
+      "npc_location": "Simpkin (X:10.4 Y:8.4)"
+    },
+    {
+      "name": "Earning Your Wings",
+      "description": "Quest required to unlock the Rival Wings PvP encounter.",
+      "location": "Wolves' Den Pier",
+      "npc_location": "Softknox (X:5.7 Y:5.4)"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Birds of Prey Orchestrion Roll",
+      "description": "Music roll for Birds of Prey. Use to add to your orchestrion list.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Nomad's Coat of Casting",
+      "description": "Equipment which had a display issue when equipped by a Roegadyn male.",
+      "image_url": null
+    },
+    {
+      "name": "Far Eastern Noble's Robe",
+      "description": "Equipment which had a display issue when equipped by a Lalafell.",
+      "image_url": null
+    }
+  ]
+}

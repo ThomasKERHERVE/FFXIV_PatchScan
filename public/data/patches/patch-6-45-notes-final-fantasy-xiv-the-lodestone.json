@@ -1,16 +1,16 @@
 {
-  "patch_title": "Patch 6.45 Notes",
+  "patch_title": "Patch 6.45",
   "patch_date": "2023-07-25",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/2a6c65f39b5b16b58bd4f0d9b1edaa8c0b7ec4f3/",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/2a6c65f39b5b16b58bd4f0d9b1edaa8c0b7ec4f3",
   "jobs_pve": [
     {
       "job": "Blue Mage",
       "changes": [
-        "Level cap increased to 80.",
-        "New blue magic spells added.",
+        "The level cap for blue mage has been increased to 80.",
+        "New blue magic spells have been added.",
         "Ice Spikes: Veil of the Whorl and Schiltron cannot be applied simultaneously.",
         "Veil of the Whorl: Ice Spikes and Schiltron cannot be applied simultaneously.",
-        "Aetheric Mimicry: Healer now increases the potency of all healing effects.",
+        "Aetheric Mimicry: Aetheric Mimicry: Healer now increases the potency of all healing effects.",
         "Help text for blue magic spells will now indicate with which other blue magic spells they share a recast timer."
       ]
     }
@@ -19,25 +19,25 @@
   "new_content": [
     {
       "name": "Mount Rokkon",
-      "description": "Variant dungeon where players explore winding paths to uncover the mountain's history.",
+      "description": "A variant dungeon where players explore winding paths to uncover the history of the mountain; difficulty scales according to party size.",
       "location": "Old Sharlayan",
       "npc_location": "Shallow Moor (X:12.0 Y:13.3)"
     },
     {
       "name": "Another Mount Rokkon",
-      "description": "Criterion dungeon requiring a party of four players.",
+      "description": "A criterion dungeon for a party of four players with item level and role requirements.",
       "location": "Old Sharlayan",
       "npc_location": "Osmon (X:11.9 Y:13.3)"
     },
     {
       "name": "Another Mount Rokkon (Savage)",
-      "description": "Savage criterion dungeon requiring a pre-formed party of four players.",
+      "description": "A savage criterion dungeon for a pre-formed party of four, featuring strict resurrection and reset rules.",
       "location": "Old Sharlayan",
       "npc_location": "Osmon (X:11.9 Y:13.3)"
     },
     {
       "name": "Somehow Further Hildibrand Adventures",
-      "description": "New side story quest line continuation.",
+      "description": "New side story quest line.",
       "location": "Radz-at-Han",
       "npc_location": "Delion (X:11.4 Y:11.5)"
     },
@@ -49,37 +49,31 @@
     },
     {
       "name": "Splendorous Tools",
-      "description": "Enhancement quest line for Disciples of the Hand and Land tools.",
+      "description": "Enhancement series for Disciples of the Hand and Land tools.",
       "location": "The Crystarium",
       "npc_location": "Grenoldt (X:10.5 Y:7.7)"
     },
     {
       "name": "Blue Mage Job Quests",
-      "description": "New job quests for Blue Mage as the level cap increases to 80.",
+      "description": "New job quests to accommodate the level cap increase to 80.",
       "location": "Ul'dah - Steps of Thal",
       "npc_location": "Martyn (X:12.5 Y:13.0)"
     },
     {
+      "name": "Blue Mage",
+      "description": "Level cap increased to 80; new spells, stages in the Masked Carnivale, and log entries added.",
+      "location": null,
+      "npc_location": null
+    },
+    {
       "name": "V&C Dungeon Finder",
-      "description": "A new system used to access Variant and Criterion dungeons.",
+      "description": "System used to register for Variant and Criterion dungeons.",
       "location": null,
       "npc_location": null
     },
     {
-      "name": "Variant Actions",
-      "description": "Special actions granted in Variant and Criterion dungeons to allow for greater role versatility.",
-      "location": null,
-      "npc_location": null
-    },
-    {
-      "name": "Masked Carnivale",
-      "description": "New stages added to the Blue Mage solo challenge arena.",
-      "location": null,
-      "npc_location": null
-    },
-    {
-      "name": "Blue Mage Log",
-      "description": "New entries added to the Blue Mage challenge log.",
+      "name": "New Game+",
+      "description": "New chapters added to the New Game+ system.",
       "location": null,
       "npc_location": null
     }
@@ -154,97 +148,97 @@
   "glamour": [
     {
       "name": "Shishu Bujin Eboshi",
-      "description": "Head piece",
+      "description": "Head piece, Item Level 1, Equipment Level 1",
       "image_url": null
     },
     {
       "name": "Shishu Gozen Kanzashi",
-      "description": "Head piece",
+      "description": "Head piece, Item Level 1, Equipment Level 1",
       "image_url": null
     },
     {
       "name": "Phantasmal Hat",
-      "description": "Head piece",
+      "description": "Head piece, Item Level 530, Equipment Level 80",
       "image_url": null
     },
     {
       "name": "Shishu Bujin Hitatare",
-      "description": "Body piece",
+      "description": "Body piece, Item Level 1, Equipment Level 1",
       "image_url": null
     },
     {
       "name": "Shishu Gozen Kochiki",
-      "description": "Body piece",
+      "description": "Body piece, Item Level 1, Equipment Level 1",
       "image_url": null
     },
     {
       "name": "Phantasmal Robe",
-      "description": "Body piece",
+      "description": "Body piece, Item Level 530, Equipment Level 80",
       "image_url": null
     },
     {
       "name": "Phantasmal Gloves",
-      "description": "Hands piece",
+      "description": "Hands piece, Item Level 530, Equipment Level 80",
       "image_url": null
     },
     {
       "name": "Shishu Bujin Kiribakama",
-      "description": "Legs piece",
+      "description": "Legs piece, Item Level 1, Equipment Level 1",
       "image_url": null
     },
     {
       "name": "Shishu Gozen Hakama",
-      "description": "Legs piece",
+      "description": "Legs piece, Item Level 1, Equipment Level 1",
       "image_url": null
     },
     {
       "name": "Phantasmal Slacks",
-      "description": "Legs piece",
+      "description": "Legs piece, Item Level 530, Equipment Level 80",
       "image_url": null
     },
     {
       "name": "Shishu Obutozori",
-      "description": "Feet piece",
+      "description": "Feet piece, Item Level 1, Equipment Level 1",
       "image_url": null
     },
     {
       "name": "Phantasmal Shoes",
-      "description": "Feet piece",
+      "description": "Feet piece, Item Level 530, Equipment Level 80",
       "image_url": null
     },
     {
       "name": "Phantasmal Sardine Earring",
-      "description": "Earrings",
+      "description": "Earrings, Item Level 530, Equipment Level 80",
       "image_url": null
     },
     {
       "name": "Phantasmal Sardine Necklace",
-      "description": "Necklace",
+      "description": "Necklace, Item Level 530, Equipment Level 80",
       "image_url": null
     },
     {
       "name": "Phantasmal Sardine Bracelet",
-      "description": "Bracelets",
+      "description": "Bracelets, Item Level 530, Equipment Level 80",
       "image_url": null
     },
     {
       "name": "Phantasmal Sardine Ring",
-      "description": "Ring",
-      "image_url": null
-    },
-    {
-      "name": "Tsukumogami Parasol",
-      "description": "Fashion accessory parasol",
-      "image_url": null
-    },
-    {
-      "name": "Rose-colored Spectacles",
-      "description": "Fashion accessory glasses",
+      "description": "Ring, Item Level 530, Equipment Level 80",
       "image_url": null
     },
     {
       "name": "Phantasmal Attire Coffer (IL 530)",
-      "description": "Contains a complete set of phantasmal attire",
+      "description": "Banded chest containing a complete set of phantasmal attire.",
+      "image_url": null
+    },
+    {
+      "name": "Tsukumogami Parasol",
+      "description": "Fashion accessory item used to unlock a tsukumogami parasol.",
+      "image_url": null
+    },
+    {
+      "name": "Rose-colored Spectacles",
+      "description": "Fashion accessory item used to unlock a pair of rose-colored spectacles.",
       "image_url": null
     }
   ]

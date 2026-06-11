@@ -1,0 +1,41 @@
+{
+  "patch_title": "Patch 4.18 Notes",
+  "patch_date": "2017-12-12",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/fb2cfeec68d0da7ae33b84f5c2eee0e39c815192",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Deltascape",
+      "description": "Raid content where weekly restrictions for crystalloid completion rewards have been removed and exchange costs reduced.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Deltascape (Savage)",
+      "description": "Raid content where treasure coffers have been adjusted to always drop two items, weekly restrictions have been removed, and area entrance restrictions have been lifted.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Rival Wings",
+      "description": "PvP system with adjustments to ceruleum tank spawns, mammet movement speed, and steam cannon actions.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Lost Allagan roborant exchange",
+      "description": "Players can exchange Rabanastran coins for lost Allagan roborant.",
+      "location": "Rhalgr's Reach",
+      "npc_location": "Eschina (X:13.8 Y:11.8)"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Fat chocobo table chronometer",
+      "description": "A table-top clock featuring a fat chocobo design. An issue was resolved regarding the incorrect display of its clock face.",
+      "image_url": null
+    }
+  ],
+  "glamour": []
+}

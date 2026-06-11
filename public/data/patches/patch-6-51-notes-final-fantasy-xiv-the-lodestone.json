@@ -1,16 +1,182 @@
 {
   "patch_title": "Patch 6.51 Notes",
-  "patch_date": "2023-10-31",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/2db4e815e810a9f5d1334c449520e7228a47890f",
-  "jobs_pve": [],
-  "jobs_pvp": [],
-  "new_content": [
+  "patch_date": "2023-11-07",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/46ff678d764ec5b14996fcd2fae85a7170f385f0",
+  "jobs_pve": [
     {
-      "name": "System Update",
-      "description": "Minor adjustments, hotfixes and database optimization for Patch 6.51 Notes.",
-      "location": "Eorzea"
+      "job": "Dark Knight",
+      "changes": [
+        "Resolved an issue wherein the PvE action Unleash did not consume stacks of Blood Weapon despite still restoring MP."
+      ]
     }
   ],
-  "housing": [],
-  "glamour": []
+  "jobs_pvp": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Confiteor: Healing potency of Sacred Claim effect has been increased from 2,000 to 3,000.",
+        "Blade of Faith: Healing potency of Sacred Claim effect has been increased from 2,000 to 3,000.",
+        "Blade of Truth: Healing potency of Sacred Claim effect has been increased from 2,000 to 3,000.",
+        "Blade of Valor: Healing potency of Sacred Claim effect has been increased from 2,000 to 3,000."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Doton: Potency has been increased from 2,000 to 3,000.",
+        "Hollow Nozuchi: Potency has been increased from 2,000 to 3,000.",
+        "Seiton Tenchu: Potency has been increased from 10,000 to 12,000."
+      ]
+    },
+    {
+      "job": "Sage",
+      "changes": [
+        "Pneuma: Barrier potency has been increased from 2,000 to 3,000.",
+        "Pneuma: Stacks of Haimatinon granted have been reduced from 5 to 4.",
+        "Eukrasian Dosis III: Damage over time duration has been increased from 12 to 15 seconds."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Aloalo Island",
+      "description": "A variant dungeon where players explore winding paths to uncover mysteries. Supports solo or party play for up to four players with difficulty scaling.",
+      "location": "Old Sharlayan",
+      "npc_location": "Osmon (X:11.9 Y:13.3)"
+    },
+    {
+      "name": "Another Aloalo Island",
+      "description": "A criterion dungeon requiring a party of four players with set role composition.",
+      "location": "Old Sharlayan",
+      "npc_location": "Osmon (X:11.9 Y:13.3)"
+    },
+    {
+      "name": "Another Aloalo Island (Savage)",
+      "description": "A savage-level criterion dungeon for a pre-formed party of four players.",
+      "location": "Old Sharlayan",
+      "npc_location": "Osmon (X:11.9 Y:13.3)"
+    },
+    {
+      "name": "Blunderville",
+      "description": "A battle royale mode collaboration with Fall Guys where up to 24 players compete in three stages of obstacle courses.",
+      "location": "The Manderville Gold Saucer",
+      "npc_location": "Lewena (X:4.8 Y:6.1)"
+    },
+    {
+      "name": "Splendorous Tools enhancement quest series",
+      "description": "A continuation of the quest series to enhance tools for Disciples of the Hand and Land.",
+      "location": "The Crystarium",
+      "npc_location": "Grenoldt (X:10.5 Y:7.7)"
+    },
+    {
+      "name": "Dance Like Mowen Is Watching",
+      "description": "Quest required to continue the Splendorous Tools enhancement.",
+      "location": "The Crystarium",
+      "npc_location": "Grenoldt (X:10.5 Y:7.7)"
+    },
+    {
+      "name": "Stranger from Paradise",
+      "description": "Quest required to unlock the Aloalo Island variant dungeon.",
+      "location": "Old Sharlayan",
+      "npc_location": "Shallow Moor (X:12.0 Y:13.3)"
+    },
+    {
+      "name": "Just Crowning Around",
+      "description": "Quest required to unlock access to Blunderville.",
+      "location": "The Gold Saucer",
+      "npc_location": "Lewena (X:4.8 Y:6.1)"
+    },
+    {
+      "name": "V&C Dungeon Finder",
+      "description": "A new system under Duty used to register for variant and criterion dungeons.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Variant Actions",
+      "description": "Special abilities granted in variant dungeons to allow for greater freedom of role choices.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Red Sands",
+      "description": "A new arena for the Crystalline Conflict PvP mode.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "South Seas Coelacanth Display",
+      "description": "Proudly boast of this beautiful fish to your closest friends, or whomever else will forgive you for forcing them to admire a hanging fish.",
+      "image_url": null
+    },
+    {
+      "name": "Sagely Sparrow Statue",
+      "description": "This replica of the avian figures enshrined on Aloalo Island is rather reminiscent of someone you know...",
+      "image_url": null
+    },
+    {
+      "name": "Aloalo Island Palm",
+      "description": "This tree was imported from the balmy climes of Aloalo Island to brighten your abode with tropical whimsy. Pay no heed to the leaves it drops in homesickness.",
+      "image_url": null
+    },
+    {
+      "name": "Aloalo Roselle Hedge",
+      "description": "Beautiful blooms of the south sea isles curated into a garden-friendly shrubbery.",
+      "image_url": null
+    },
+    {
+      "name": "Aloalo Faerie Cushion",
+      "description": "A rude surprise awaits all those who dare plant their buttocks upon the image of Aloalo Island's most mischievous faerie.",
+      "image_url": null
+    },
+    {
+      "name": "Forgotten Figure",
+      "description": "A stunning replica of a statue once lost to the ages─but no longer.",
+      "image_url": null
+    },
+    {
+      "name": "Aloalo Pendant Wall Lamp",
+      "description": "The design of this wall-mounted light was inspired by similar relics discovered on Aloalo Island.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Free Spirit's Hat",
+      "description": "Head",
+      "image_url": null
+    },
+    {
+      "name": "Free Spirit's Jacket",
+      "description": "Body",
+      "image_url": null
+    },
+    {
+      "name": "Free Spirit's Ringbands",
+      "description": "Hands",
+      "image_url": null
+    },
+    {
+      "name": "Free Spirit's Cropped Slops",
+      "description": "Legs",
+      "image_url": null
+    },
+    {
+      "name": "Free Spirit's Backless Loafers",
+      "description": "Feet",
+      "image_url": null
+    },
+    {
+      "name": "Statice's Wings",
+      "description": "Use to acquire a pair of Statice's wings.",
+      "image_url": null
+    },
+    {
+      "name": "Giant Leaf Parasol",
+      "description": "Use to acquire a giant leaf parasol.",
+      "image_url": null
+    }
+  ]
 }

@@ -1,0 +1,136 @@
+{
+  "patch_title": "Patch 5.31 Notes",
+  "patch_date": "2020-09-15",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/193fc17936818e36fb58224398aaabda0a6f6adc",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "The Making of a Market",
+      "description": "Ishgardian Restoration story quest.",
+      "location": "The Firmament",
+      "npc_location": "Augebert (The Firmament X:11.4 Y:14.1) / Francel (The Firmament X:12.2 Y:11.3)"
+    },
+    {
+      "name": "Ishgardian Restoration Story Quests (Unknown/Additional)",
+      "description": "Additional story quests following 'The Making of a Market'.",
+      "location": "???",
+      "npc_location": null
+    },
+    {
+      "name": "Ishgardian Restoration Sidequests (Unknown/Additional)",
+      "description": "Sidequests unlocked after completing Ishgardian Restoration story quests.",
+      "location": "???",
+      "npc_location": null
+    },
+    {
+      "name": "Ishgardian Restoration (Phase 3)",
+      "description": "Third phase of the reconstruction of the Firmament, featuring new supplies, gathering in the Diadem, and rankings.",
+      "location": "The Firmament",
+      "npc_location": "Augebert, Flotpassant, Enie, Face of the Firmament"
+    },
+    {
+      "name": "Diadem",
+      "description": "Exploration zone with updated gathering items for the third phase of the Ishgardian Restoration.",
+      "location": "Diadem",
+      "npc_location": null
+    },
+    {
+      "name": "Eden's Verse (Savage)",
+      "description": "Adjustments to the raid (removal of weekly restrictions and entrance restrictions).",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Ishgardian Restoration Rankings",
+      "description": "System to tally skyward points and award special titles and achievements based on rankings.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Battle System (Enhancement)",
+      "description": "Weapon enhancement system for equipment purchased with Allagan tomestones of allegory.",
+      "location": "Eulmore",
+      "npc_location": "Fathard (X:10.1 Y:11.7) / Shee-Tatch (X:10.3 Y:12.0)"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Fortemps Sofa",
+      "description": "An ostentatious, though elegant, round seat of the sort favored by House Fortemps.",
+      "image_url": null
+    },
+    {
+      "name": "Ishgardian Display Stand",
+      "description": "A decorative pedestal in the Coerthan style.",
+      "image_url": null
+    },
+    {
+      "name": "Mandragora Table Chronometer",
+      "description": "A massive mandragora-themed timepiece, for those who are into that.",
+      "image_url": null
+    },
+    {
+      "name": "Huggable Gaelicat",
+      "description": "This stuffed imitation of the weatherproof gaelicat looks as if it is─rightly─ready to be adored.",
+      "image_url": null
+    },
+    {
+      "name": "Stuffed Estinien",
+      "description": "Though cuddlier than the real thing, still decidedly prickly. Please enjoy responsibly.",
+      "image_url": null
+    },
+    {
+      "name": "Paissa Rug",
+      "description": "What have they seen? What do they know?",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Hraesvelgr Hat",
+      "description": "Head piece of the Hraesvelgr attire.",
+      "image_url": null
+    },
+    {
+      "name": "Hraesvelgr Jacket",
+      "description": "Body piece of the Hraesvelgr attire.",
+      "image_url": null
+    },
+    {
+      "name": "Hraesvelgr Gloves",
+      "description": "Hands piece of the Hraesvelgr attire.",
+      "image_url": null
+    },
+    {
+      "name": "Hraesvelgr Trousers",
+      "description": "Legs piece of the Hraesvelgr attire.",
+      "image_url": null
+    },
+    {
+      "name": "Hraesvelgr Boots",
+      "description": "Feet piece of the Hraesvelgr attire.",
+      "image_url": null
+    },
+    {
+      "name": "Hraesvelgr Attire Coffer",
+      "description": "A banded chest containing a complete set of Hraesvelgr attire.",
+      "image_url": null
+    },
+    {
+      "name": "Modern Aesthetics - Saintly Style",
+      "description": "Unlock a new hairstyle at the aesthetician.",
+      "image_url": null
+    },
+    {
+      "name": "Calming Checkered Parasol",
+      "description": "Fashion accessory that creates a small, portable circle of shade.",
+      "image_url": null
+    },
+    {
+      "name": "Cheerful Checkered Parasol",
+      "description": "Fashion accessory that creates a small, portable circle of shade.",
+      "image_url": null
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 {
   "patch_title": "Patch 6.1 Notes",
-  "patch_date": "2022-04-11",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/c73cd284013587066d8f9e697fab1db9f007372c/",
+  "patch_date": "2022-04-20",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/c73cd284013587066d8f9e697fab1db9f007372c",
   "jobs_pve": [
     {
-      "job": "Healer (Role Action)",
+      "job": "Healer Role Actions",
       "changes": [
         "Lucid Dreaming is now acquired at level 14 (previously level 24)."
       ]
@@ -12,218 +12,199 @@
     {
       "job": "Paladin",
       "changes": [
-        "Iron Will: Recast time reduced from 10 to 3 seconds.",
-        "Clemency: Execution no longer interrupts action combos.",
-        "Holy Spirit: Execution no longer interrupts action combos.",
-        "Requiescat: Added additional effect 'Grants Blade of Faith Ready when the effect of Requiescat ends' with a duration of 30 seconds.",
-        "Holy Circle: Execution no longer interrupts action combos.",
-        "Confiteor: Added additional effect 'Restores own HP' with a cure potency of 400.",
-        "Blade of Faith: No longer a combo action with Confiteor; requirement of 'Blade of Faith Ready' added; added additional effect 'Restores own HP' with a cure potency of 400.",
-        "Blade of Truth: Added additional effect 'Restores own HP' with a cure potency of 400.",
-        "Blade of Valor: Added additional effect 'Restores own HP' with a cure potency of 400.",
-        "Divine Magic Mastery II: Now adds a healing effect to Confiteor."
+        "Iron Will recast time reduced from 10 to 3 seconds.",
+        "Clemency execution no longer interrupts action combos.",
+        "Holy Spirit execution no longer interrupts action combos.",
+        "Requiescat additional effect added: Grants Blade of Faith Ready when the effect of Requiescat ends (duration 30s).",
+        "Holy Circle execution no longer interrupts action combos.",
+        "Confiteor additional effect added: Restores own HP (cure potency 400).",
+        "Blade of Faith no longer a combo action with Confiteor; requirement of 'Blade of Faith Ready' added; additional effect added: Restores own HP (cure potency 400).",
+        "Blade of Truth additional effect added: Restores own HP (cure potency 400).",
+        "Blade of Valor additional effect added: Restores own HP (cure potency 400).",
+        "Divine Magic Mastery II now adds a healing effect to Confiteor."
       ]
     },
     {
       "job": "Warrior",
       "changes": [
-        "Defiance: Recast time reduced from 10 to 3 seconds.",
-        "Overpower: Area of effect changed from a cone to all nearby enemies.",
-        "Inner Release: Stacks now only apply to Fell Cleave and Decimate; effect 'Nullifies Stun, Sleep, Bind, Heavy, and most knockback and draw-in effects' changed to 'Grants Inner Strength, nullifying Stun, Sleep, Bind, Heavy, and most knockback and draw-in effects'."
+        "Defiance recast time reduced from 10 to 3 seconds.",
+        "Overpower area of effect changed from a cone to all nearby enemies.",
+        "Inner Release stacks now only apply to Fell Cleave and Decimate.",
+        "Inner Release additional effect 'Nullifies Stun, Sleep, Bind, Heavy, and most knockback and draw-in effects' changed to 'Grants Inner Strength, nullifying Stun, Sleep, Bind, Heavy, and most knockback and draw-in effects'."
       ]
     },
     {
       "job": "Dark Knight",
       "changes": [
-        "Grit: Recast time reduced from 10 to 3 seconds.",
-        "Flood of Darkness: Potency reduced from 130 to 100.",
-        "Blood Weapon: Now grants 5 stacks of the Blood Weapon effect; effect duration increased from 10 to 15 seconds.",
-        "Stalwart Soul: Now acquired at level 40 (previously level 72).",
-        "Living Dead: Added additional effect 'Restores HP with each weaponskill successfully delivered or spell cast' with a cure potency of 1,500. If max HP is restored before the timer ends, the effect changes to 'Undead Rebirth', allowing most attacks to not lower HP below 1."
+        "Grit recast time reduced from 10 to 3 seconds.",
+        "Flood of Darkness potency reduced from 130 to 100.",
+        "Blood Weapon now grants 5 stacks of the Blood Weapon effect; duration increased from 10 to 15 seconds.",
+        "Stalwart Soul now acquired at level 40 (previously 72).",
+        "Living Dead additional effect added: Restores HP with each weaponskill successfully delivered or spell cast (cure potency 1,500).",
+        "Living Dead effect changed: If HP totaling maximum HP is restored before Walking Dead expires, effect changes to Undead Rebirth; while under Undead Rebirth, most attacks will not lower HP below 1."
       ]
     },
     {
       "job": "Gunbreaker",
       "changes": [
-        "Royal Guard: Recast time reduced from 10 to 3 seconds."
+        "Royal Guard recast time reduced from 10 to 3 seconds."
       ]
     },
     {
       "job": "Monk",
       "changes": [
-        "Perfect Balance: Can no longer be executed while under the effect of any Beast Chakra."
+        "Perfect Balance can no longer be executed while under the effect of any Beast Chakra."
       ]
     },
     {
       "job": "Dragoon",
       "changes": [
-        "Jump: Animation shortened; now changes to Mirage Dive while under the effect of Mirage Dive Ready.",
-        "High Jump: Animation shortened; now changes to Mirage Dive while under the effect of Mirage Dive Ready.",
-        "Elusive Jump: Animation shortened.",
-        "Spineshatter Dive: Animation shortened.",
-        "Dragonfire Dive: Animation shortened."
+        "Jump animation shortened; now changes to Mirage Dive while under effect of Mirage Dive Ready.",
+        "High Jump animation shortened; now changes to Mirage Dive while under effect of Mirage Dive Ready.",
+        "Elusive Jump animation shortened.",
+        "Spineshatter Dive animation shortened.",
+        "Dragonfire Dive animation shortened."
       ]
     },
     {
       "job": "Ninja",
       "changes": [
-        "Hide: Now dispels the effect of Doton upon execution.",
-        "Mug: Added effect 'Increases target's damage taken by 5%' for 20 seconds.",
-        "Trick Attack: Changed effect from 'Increases target's damage taken by 5%' to 'Increases damage you deal target by 10%'.",
-        "Aeolian Edge: Potency increased from 360 to 380; rear combo potency increased from 420 to 440.",
-        "Shukuchi: Animation shortened.",
-        "Doton: Potency increased from 70 to 80; duration reduced from 24 to 18 seconds.",
-        "Hakke Mujinsatsu: Combo potency increased from 120 to 130.",
-        "Armor Crush: Combo potency increased from 340 to 360; flank combo potency increased from 400 to 420.",
-        "Bhavacakra: Potency reduced from 400 to 350.",
-        "Phantom Kamaitachi: Potency increased from 550 to 600.",
-        "Melee Mastery: Now acquired at level 74 (previously 84).",
-        "Melee Mastery II (Level 84): New trait, increases potency of Spinning Edge to 220 and Gust Slash to 160."
+        "Hide now dispels the effect of Doton upon execution.",
+        "Mug additional effect added: Increases target's damage taken by 5% (duration 20s).",
+        "Trick Attack additional effect changed to: Increases damage you deal target by 10%.",
+        "Aeolian Edge potency increased from 360 to 380; rear combo potency increased from 420 to 440.",
+        "Shukuchi animation shortened.",
+        "Doton potency increased from 70 to 80; effect duration reduced from 24 to 18 seconds.",
+        "Hakke Mujinsatsu combo potency increased from 120 to 130.",
+        "Armor Crush combo potency increased from 340 to 360; flank combo potency increased from 400 to 420.",
+        "Bhavacakra potency reduced from 400 to 350.",
+        "Phantom Kamaitachi potency increased from 550 to 600.",
+        "Melee Mastery now acquired at level 74 (previously 84).",
+        "Melee Mastery II (Level 84) added: Increases potency of Spinning Edge to 220 and Gust Slash to 160."
       ]
     },
     {
       "job": "Samurai",
       "changes": [
-        "Hakaze: Potency increased from 180 to 200.",
-        "Jinpu: Potency increased from 100 to 120.",
-        "Third Eye: Duration increased from 3 to 4 seconds.",
-        "Shifu: Potency increased from 100 to 120.",
-        "Gekko: Potency increased from 100 to 120; combo potency increased from 320 to 330; rear combo potency increased from 370 to 380.",
-        "Higanbana: Damage over time potency increased from 30 to 45.",
-        "Mangetsu: Combo potency increased from 110 to 120.",
-        "Kasha: Potency increased from 100 to 120; combo potency increased from 320 to 330; flank combo potency increased from 370 to 380.",
-        "Tenka Goken: Area of effect changed from a cone to all nearby enemies.",
-        "Oka: Combo potency increased from 110 to 120.",
-        "Yukikaze: Potency increased from 100 to 120; combo potency increased from 280 to 300.",
-        "Midare Setsugekka: Potency reduced from 660 to 600; now guaranteed to land a critical hit.",
-        "Meikyo Shisui: Ranged weaponskills no longer count toward the effect.",
-        "Hissatsu: Shinten: Now acquired at level 52 (previously 62); potency reduced from 270 to 250.",
-        "Hissatsu: Yaten: Activation time adjusted to match other backstep actions.",
-        "Hissatsu: Kyuten: Now acquired at level 62 (previously 64).",
-        "Kaeshi: Higanbana: Potency reduced from 300 to 200.",
-        "Kaeshi: Goken: Potency reduced from 420 to 280; AoE changed from cone to all nearby enemies.",
-        "Kaeshi: Setsugekka: Potency reduced from 990 to 600; now guaranteed to land a critical hit.",
-        "Shoha: Potency reduced from 580 to 500.",
-        "Ogi Namikiri: Potency reduced from 900 to 800; now guaranteed to land a critical hit.",
-        "Kaeshi: Namikiri: Potency reduced from 1,350 to 800; now guaranteed to land a critical hit.",
-        "Way of the Samurai (Level 66): New trait, increases potency of Hakaze, Jinpu, and Shifu.",
-        "Way of the Samurai II (Level 84): New trait, increases potency of Gekko, Kasha, and Yukikaze.",
-        "Hissatsu: Kaiten: Removed."
+        "Hakaze potency increased from 180 to 200.",
+        "Jinpu potency increased from 100 to 120.",
+        "Third Eye effect duration increased from 3 to 4 seconds.",
+        "Shifu potency increased from 100 to 120.",
+        "Gekko potency increased from 100 to 120; combo potency increased from 320 to 330; rear combo potency increased from 370 to 380.",
+        "Higanbana DoT potency increased from 30 to 45.",
+        "Mangetsu combo potency increased from 110 to 120.",
+        "Kasha potency increased from 100 to 120; combo potency increased from 320 to 330; flank combo potency increased from 370 to 380.",
+        "Tenka Goken area of effect changed from a cone to all nearby enemies.",
+        "Oka combo potency increased from 110 to 120.",
+        "Yukikaze potency increased from 100 to 120; combo potency increased from 280 to 300.",
+        "Midare Setsugekka potency reduced from 660 to 600; attack is now a guaranteed critical hit.",
+        "Meikyo Shisui: Ranged weaponskills no longer count toward this effect.",
+        "Hissatsu: Shinten now acquired at level 52 (previously 62); potency reduced from 270 to 250.",
+        "Hissatsu: Yaten backstep activation time adjusted.",
+        "Hissatsu: Kyuten now acquired at level 62 (previously 64).",
+        "Kaeshi: Higanbana potency reduced from 300 to 200.",
+        "Kaeshi: Goken potency reduced from 420 to 280; area of effect changed from a cone to all nearby enemies.",
+        "Kaeshi: Setsugekka potency reduced from 990 to 600; attack is now a guaranteed critical hit.",
+        "Shoha potency reduced from 580 to 500.",
+        "Ogi Namikiri potency reduced from 900 to 800; attack is now a guaranteed critical hit.",
+        "Kaeshi: Namikiri potency reduced from 1,350 to 800; attack is now a guaranteed critical hit.",
+        "Way of the Samurai (Level 66) added: Increases potency of Hakaze, Jinpu, and Shifu.",
+        "Way of the Samurai II (Level 84) added: Increases potency of Gekko, Kasha, and Yukikaze.",
+        "Hissatsu: Kaiten removed."
       ]
     },
     {
       "job": "Reaper",
       "changes": [
-        "Hell's Ingress: Duration of Enhanced Harpe increased from 15 to 20 seconds; animation shortened.",
-        "Hell's Egress: Duration of Enhanced Harpe increased from 15 to 20 seconds; animation shortened.",
-        "Regress: Animation shortened."
+        "Hell's Ingress duration of Enhanced Harpe increased from 15 to 20 seconds; animation shortened.",
+        "Hell's Egress duration of Enhanced Harpe increased from 15 to 20 seconds; animation shortened.",
+        "Regress animation shortened."
       ]
     },
     {
       "job": "Bard",
       "changes": [
-        "Repelling Shot: Range increased from 5 to 15 yalms; activation time adjusted to match other backsteps.",
-        "Battle Voice: No longer requires Mage's Ballad, Army's Paeon, or Wanderer's Minuet to be active.",
-        "The Wanderer's Minuet: Action changes to Pitch Perfect upon execution."
+        "Repelling Shot range increased from 5 to 15 yalms; backstep activation time adjusted.",
+        "Battle Voice no longer requires Mage's Ballad, Army's Paeon, or The Wanderer's Minuet to be active.",
+        "The Wanderer's Minuet now changes to Pitch Perfect upon execution."
       ]
     },
     {
       "job": "Machinist",
       "changes": [
-        "Heat Blast: Potency increased from 170 to 180.",
-        "Wildfire: Potency increase per weaponskill increased from 150 to 200.",
-        "Drill: Potency increased from 570 to 580.",
-        "Air Anchor: Potency increased from 570 to 580.",
-        "Pile Bunker: Potency increased from 650 to 680.",
-        "Crowned Collider: Potency increased from 750 to 780.",
-        "Chain Saw: Potency increased from 570 to 580."
+        "Heat Blast potency increased from 170 to 180.",
+        "Wildfire potency increase per weaponskill landed increased from 150 to 200.",
+        "Drill potency increased from 570 to 580.",
+        "Air Anchor potency increased from 570 to 580.",
+        "Pile Bunker potency increased from 650 to 680.",
+        "Crowned Collider potency increased from 750 to 780.",
+        "Chain Saw potency increased from 570 to 580."
       ]
     },
     {
       "job": "Dancer",
       "changes": [
-        "Standard Step: Now categorized as a weaponskill.",
-        "Emboite: Now categorized as a weaponskill.",
-        "Entrechat: Now categorized as a weaponskill.",
-        "Jete: Now categorized as a weaponskill.",
-        "Pirouette: Now categorized as a weaponskill.",
-        "Cascade: Added effect changed to Silken Symmetry.",
-        "Fountain: Added effect changed to Silken Flow.",
-        "Windmill: Added effect changed to Silken Symmetry.",
-        "Reverse Cascade: Requirements changed to include Silken Symmetry.",
-        "Bladeshower: Added effect changed to Silken Flow.",
-        "Rising Windmill: Requirements changed to include Silken Symmetry.",
-        "Fountainfall: Requirements changed to include Silken Flow.",
-        "Bloodshower: Requirements changed to include Silken Flow.",
-        "Technical Step: Now categorized as a weaponskill."
+        "Standard Step, Emboite, Entrechat, Jete, Pirouette, and Technical Step are now categorized as weaponskills.",
+        "Flourishing Symmetry/Flow status effects renamed/replaced by Silken Symmetry/Flow effects in various combos.",
+        "Reverse Cascade, Rising Windmill, Fountainfall, and Bloodshower requirements adjusted to Silken or Flourishing states."
       ]
     },
     {
       "job": "Summoner",
       "changes": [
-        "Ruby Ruin: Recast increased to 3s, potency increased to 340.",
-        "Ruby Outburst: Recast increased to 3s, potency increased to 160.",
-        "Ruby Ruin II: Recast increased to 3s, potency increased to 380.",
-        "Ruby Ruin III: Recast increased to 3s, potency increased to 410.",
-        "Ruby Rite: Recast increased to 3s, potency increased to 510.",
-        "Searing Light: Now executed from the caster, not Carbuncle.",
-        "Ruby Disaster: Recast increased to 3s, potency increased to 190.",
-        "Ruby Catastrophe: Recast increased to 3s, potency increased to 210.",
-        "Ruin Mastery IV: Potency of Ruby Rite changed to 510."
+        "Ruby Ruin/Outburst/Ruin II/Ruin III/Rite/Disaster/Catastrophe recast time increased from 2.5 to 3 seconds.",
+        "Ruby Ruin/Outburst/Ruin II/Ruin III/Rite/Disaster/Catastrophe potencies increased.",
+        "Searing Light now executed directly from the caster rather than via Carbuncle.",
+        "Ruin Mastery IV adjusted to reflect Ruby Rite potency increase."
       ]
     },
     {
       "job": "Red Mage",
       "changes": [
-        "Displacement: Animation shortened."
+        "Displacement animation shortened."
       ]
     },
     {
       "job": "White Mage",
       "changes": [
-        "Stone: MP cost reduced to 200.",
-        "Aero: MP cost reduced to 200; duration increased to 30s.",
-        "Stone II: MP cost reduced to 200.",
-        "Regen: MP cost reduced to 400.",
-        "Cure III: AoE radius increased to 10 yalms.",
-        "Aero II: MP cost reduced to 200; duration increased to 30s.",
-        "Asylum: Range increased to 10 yalms.",
-        "Secret of the Lily: Lily generation reduced to every 20 seconds.",
-        "Stone III: Potency reduced to 220; MP cost reduced to 300.",
-        "Stone IV: Potency reduced to 260.",
-        "Afflatus Misery: Potency increased to 1,240; potency reduction after first enemy increased to 50%.",
-        "Liturgy of the Bell: Extra healing triggers when time expires or manual execution."
+        "Stone, Aero, Stone II, Aero II MP costs reduced.",
+        "Stone III, Stone IV potencies reduced; MP costs reduced.",
+        "Aero/Aero II effect duration increased from 18 to 30 seconds.",
+        "Regen MP cost reduced.",
+        "Cure III AoE radius increased from 6 to 10 yalms.",
+        "Asylum range increased from 8 to 10 yalms.",
+        "Secret of the Lily gauge generation reduced from 30s to 20s.",
+        "Afflatus Misery potency increased from 900 to 1,240; reduction after first enemy increased from 25% to 50%.",
+        "Liturgy of the Bell additional healing effect now triggers when time expires or upon re-execution."
       ]
     },
     {
       "job": "Scholar",
       "changes": [
-        "Ruin: MP cost reduced to 300.",
-        "Embrace: Target range increased.",
-        "Bio: MP cost reduced to 300.",
-        "Bio II: MP cost reduced to 300.",
-        "Sacred Soil: AoE radius increased to 10 yalms.",
-        "Expedient: Duration reduced to 10 seconds."
+        "Ruin, Bio, Bio II MP costs reduced.",
+        "Embrace range increased.",
+        "Sacred Soil AoE radius increased from 8 to 10 yalms.",
+        "Expedient effect duration reduced from 20 to 10 seconds."
       ]
     },
     {
       "job": "Astrologian",
       "changes": [
-        "Combust: Duration increased to 30s."
+        "Combust effect duration increased from 18 to 30 seconds."
       ]
     },
     {
       "job": "Sage",
       "changes": [
-        "Dosis: MP cost reduced to 300.",
-        "Soteria: Now grants 4 stacks; potency increased to 70%.",
-        "Addersting: Now grants max stacks upon entering instances."
+        "Dosis MP cost reduced.",
+        "Soteria now grants 4 stacks; effect potency increased from 50% to 70%.",
+        "Addersting now grants maximum stacks upon entering/restarting an instance."
       ]
     }
   ],
   "jobs_pvp": [
     {
-      "job": "General",
+      "job": "All Jobs",
       "changes": [
         "PvP actions have been fully reworked.",
         "Maximum HP and MP for all jobs has been adjusted.",
@@ -231,45 +212,45 @@
         "Damage modifiers for both damage taken and dealt have been adjusted on a per-job basis.",
         "Damage taken and dealt will no longer be subject to RNG.",
         "Resistance effects will no longer be applied upon the expiration of status afflictions.",
-        "Adrenaline Rush has been renamed to Limit Break and each job now has a unique limit break action.",
-        "Adrenaline gauge has been changed to the limit gauge."
+        "The adrenaline gauge has been changed to the limit gauge.",
+        "Each job will have its own unique limit break action."
       ]
     }
   ],
   "new_content": [
     {
       "name": "Aglaia",
-      "description": "The new alliance raid dungeon.",
+      "description": "The first installment in the new alliance raid series, Myths of the Realm, which delves into the mysteries surrounding the Twelve.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Porta Decumana",
+      "description": "New trial featuring the battle with the Ultima Weapon, formerly part of The Praetorium.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "The Minstrel's Ballad: Endsinger's Aria",
-      "description": "A new trial.",
-      "location": "Old Sharlayan (X:12.7 Y:14.2)",
-      "npc_location": "Wandering Minstrel"
+      "description": "New trial.",
+      "location": null,
+      "npc_location": "Old Sharlayan (X:12.7 Y:14.2)"
     },
     {
       "name": "Ultima's Bane (Unreal)",
-      "description": "A new unreal trial.",
-      "location": "Idyllshire (X:7.0 Y:5.9)",
-      "npc_location": "Fantastic Mr. Faux"
-    },
-    {
-      "name": "The Porta Decumana",
-      "description": "A trial featuring the battle with the Ultima Weapon, formerly part of The Praetorium.",
+      "description": "New unreal trial.",
       "location": null,
-      "npc_location": null
+      "npc_location": "Idyllshire (X:7.0 Y:5.9)"
     },
     {
       "name": "Crystalline Conflict",
-      "description": "A new competitive PvP mode involving tactical crystal transport.",
-      "location": "Wolves' Den Pier (X:4.9 Y:6.4)",
-      "npc_location": "Gungi Zelungi"
+      "description": "A new type of PvP match between small teams transporting a tactical crystal.",
+      "location": null,
+      "npc_location": "Wolves' Den Pier (X:4.9 Y:6.4)"
     },
     {
       "name": "Duty Support",
-      "description": "A new system allowing solo players to tackle main scenario duties with a party of NPCs.",
+      "description": "A system that allows solo players to tackle duties with a party of NPCs.",
       "location": null,
       "npc_location": null
     },
@@ -281,7 +262,7 @@
     },
     {
       "name": "Adventurer Plate (Beta Version)",
-      "description": "A personalized calling card interface for introducing yourself to other players.",
+      "description": "An interface that allows you to create a personalized calling card to introduce yourself to other players.",
       "location": null,
       "npc_location": null
     },
@@ -293,7 +274,7 @@
     },
     {
       "name": "A Mission in Mor Dhona",
-      "description": "Chronicles of a New Era quest.",
+      "description": "Chronicles of a New Era quest for Myths of the Realm.",
       "location": "Old Sharlayan (X:9.1 Y:11.5)",
       "npc_location": "Fresh-faced Student"
     },
@@ -307,47 +288,47 @@
   "housing": [
     {
       "name": "Highland Cottage Permit (Wood)",
-      "description": "Allows the construction of a Coerthan-style cottage in Empyreum. ※Can hold up to 200 furnishing items. ※Small plot of land required.",
+      "description": "Allows the construction of a Coerthan-style cottage in Empyreum.",
       "image_url": null
     },
     {
       "name": "Highland Cottage Permit (Composite)",
-      "description": "Allows the construction of a Coerthan-style cottage in Empyreum. ※Can hold up to 200 furnishing items. ※Small plot of land required.",
+      "description": "Allows the construction of a Coerthan-style cottage in Empyreum.",
       "image_url": null
     },
     {
       "name": "Highland Cottage Permit (Stone)",
-      "description": "Allows the construction of a Coerthan-style cottage in Empyreum. ※Can hold up to 200 furnishing items. ※Small plot of land required.",
+      "description": "Allows the construction of a Coerthan-style cottage in Empyreum.",
       "image_url": null
     },
     {
       "name": "Highland House Permit (Wood)",
-      "description": "Allows the construction of a Coerthan-style house in Empyreum. ※Can hold up to 300 furnishing items. ※Medium plot of land required.",
+      "description": "Allows the construction of a Coerthan-style house in Empyreum.",
       "image_url": null
     },
     {
       "name": "Highland House Permit (Composite)",
-      "description": "Allows the construction of a Coerthan-style house in Empyreum. ※Can hold up to 300 furnishing items. ※Medium plot of land required.",
+      "description": "Allows the construction of a Coerthan-style house in Empyreum.",
       "image_url": null
     },
     {
       "name": "Highland House Permit (Stone)",
-      "description": "Allows the construction of a Coerthan-style house in Empyreum. ※Can hold up to 300 furnishing items. ※Medium plot of land required.",
+      "description": "Allows the construction of a Coerthan-style house in Empyreum.",
       "image_url": null
     },
     {
       "name": "Highland Mansion Permit (Wood)",
-      "description": "Allows the construction of a Coerthan-style mansion in Empyreum. ※Can hold up to 400 furnishing items. ※Large plot of land required.",
+      "description": "Allows the construction of a Coerthan-style mansion in Empyreum.",
       "image_url": null
     },
     {
       "name": "Highland Mansion Permit (Composite)",
-      "description": "Allows the construction of a Coerthan-style mansion in Empyreum. ※Can hold up to 400 furnishing items. ※Large plot of land required.",
+      "description": "Allows the construction of a Coerthan-style mansion in Empyreum.",
       "image_url": null
     },
     {
       "name": "Highland Mansion Permit (Stone)",
-      "description": "Allows the construction of a Coerthan-style mansion in Empyreum. ※Can hold up to 400 furnishing items. ※Large plot of land required.",
+      "description": "Allows the construction of a Coerthan-style mansion in Empyreum.",
       "image_url": null
     },
     {
@@ -397,17 +378,17 @@
     },
     {
       "name": "Gingerbread Cottage Walls",
-      "description": "A set of four walls designed for those who wish to transform their estate into a delicious gingerbread cottage. ※Can only be used with cottages on small plots of land.",
+      "description": "A set of four walls designed for those who wish to transform their estate into a delicious gingerbread cottage.",
       "image_url": null
     },
     {
       "name": "Gingerbread House Walls",
-      "description": "A set of four walls designed for those who wish to transform their estate into a delicious gingerbread house. ※Can only be used with houses on medium plots of land.",
+      "description": "A set of four walls designed for those who wish to transform their estate into a delicious gingerbread house.",
       "image_url": null
     },
     {
       "name": "Gingerbread Mansion Walls",
-      "description": "A set of four walls designed for those who wish to transform their estate into a delicious gingerbread mansion. ※Can only be used with mansions on large plots of land.",
+      "description": "A set of four walls designed for those who wish to transform their estate into a delicious gingerbread mansion.",
       "image_url": null
     },
     {
@@ -587,249 +568,404 @@
     },
     {
       "name": "Snowy Red Brick Bench",
-      "description": "Outdoor Furnishing: Someone might have sat here, alone in the snow, thinking of warmer days since passed...",
+      "description": "Someone might have sat here, alone in the snow, thinking of warmer days since passed...",
       "image_url": null
     },
     {
       "name": "Sweet Lawn Ornaments",
-      "description": "Outdoor Furnishing: Giant, lifelike lawn ornaments that look tasty enough to lick.",
+      "description": "Giant, lifelike lawn ornaments that look tasty enough to lick.",
       "image_url": null
     },
     {
       "name": "Damaged Ishgardian Wall",
-      "description": "Outdoor Furnishing: A damaged wall preserved for posterity during the Ishgardian Restoration.",
+      "description": "A damaged wall preserved for posterity during the Ishgardian Restoration.",
       "image_url": null
     },
     {
       "name": "Ishgardian Lamppost",
-      "description": "Outdoor Furnishing: A lamppost of steel such as one might see lining an Ishgardian street. Authentically frigid!",
+      "description": "A lamppost of steel such as one might see lining an Ishgardian street. Authentically frigid!",
       "image_url": null
     },
     {
       "name": "Alpine Open-air Bath",
-      "description": "Outdoor Furnishing: A luxurious, outdoor bath designed in the alpine fashion.",
+      "description": "A luxurious, outdoor bath designed in the alpine fashion.",
       "image_url": null
     },
     {
       "name": "Ivy-covered Bridge",
-      "description": "Outdoor Furnishing: A stone bridge tastefully hemmed with tendrils of creeping ivy.",
+      "description": "A stone bridge tastefully hemmed with tendrils of creeping ivy.",
       "image_url": null
     },
     {
       "name": "Garden Gate",
-      "description": "Outdoor Furnishing: Curious what lies beyond the garden wall? The garden gate is here to help.",
+      "description": "Curious what lies beyond the garden wall? The garden gate is here to help.",
       "image_url": null
     },
     {
       "name": "Planter Set",
-      "description": "Outdoor Furnishing: A vibrant arrangement of plant life bursting from a cluster of sturdy planters.",
+      "description": "A vibrant arrangement of plant life bursting from a cluster of sturdy planters.",
       "image_url": null
     },
     {
       "name": "Curved Marble Partition",
-      "description": "Furnishing: A gently curved, cream-colored partition with a white marble baseboard.",
+      "description": "A gently curved, cream-colored partition with a white marble baseboard.",
       "image_url": null
     },
     {
       "name": "Scholasticate Chair",
-      "description": "Furnishing: A wooden chair much like those found at Saint Endalim's Scholasticate.",
+      "description": "A wooden chair much like those found at Saint Endalim's Scholasticate.",
       "image_url": null
     },
     {
       "name": "Scholasticate Bookshelf",
-      "description": "Furnishing: A laden bookshelf much like those found at Saint Endalim's Scholasticate.",
+      "description": "A laden bookshelf much like those found at Saint Endalim's Scholasticate.",
       "image_url": null
     },
     {
       "name": "Royal Menagerie Phasmascape",
-      "description": "Furnishing: This advanced magitek contraption displays the splendor of Ala Mhigo's Royal Menagerie under a dying sun.",
+      "description": "This advanced magitek contraption displays the splendor of Ala Mhigo's Royal Menagerie under a dying sun.",
       "image_url": null
     },
     {
       "name": "Sea of Clouds Phasmascape",
-      "description": "Furnishing: This advanced magitek contraption displays the bevy of isles floating above Abalathia's Spine.",
+      "description": "This advanced magitek contraption displays the bevy of isles floating above Abalathia's Spine.",
       "image_url": null
     },
     {
       "name": "Log Rack",
-      "description": "Furnishing: A lovely rack to organize your logs.",
+      "description": "A lovely rack to organize your logs.",
       "image_url": null
     },
     {
       "name": "Indoor Marble Fountain",
-      "description": "Furnishing: A fountain carved from deep-sea marble and whimsically decorated with Moogle statuettes.",
+      "description": "A fountain carved from deep-sea marble and whimsically decorated with Moogle statuettes.",
       "image_url": null
     },
     {
       "name": "Eastern Canopy Bed",
-      "description": "Furnishing: Sleep in luxury under a canopy of softly blooming flowers from the Far East.",
+      "description": "Sleep in luxury under a canopy of softly blooming flowers from the Far East.",
       "image_url": null
     },
     {
       "name": "Eulmoran Divan",
-      "description": "Furnishing: A cushioned settee expressly designed for contemplating one's more opulent sins.",
+      "description": "A cushioned settee expressly designed for contemplating one's more opulent sins.",
       "image_url": null
     },
     {
       "name": "Trick Bookshelf Partition",
-      "description": "Furnishing: Pull the correct tome from the shelf to trigger the hidden door.",
+      "description": "Pull the correct tome from the shelf to trigger the hidden door. Perfect for bibliophiles with a secret agenda.",
       "image_url": null
     },
     {
       "name": "Factory Pillar",
-      "description": "Furnishing: A rusted metal pillar with an uncanny resemblance to those found in the Copied Factory.",
+      "description": "A rusted metal pillar with an uncanny resemblance to those found in the Copied Factory.",
       "image_url": null
     },
     {
       "name": "Indoor Climbing Frame",
-      "description": "Table: A curious, latticelike structure that inspires rampant frolicking and climbing upon contact.",
+      "description": "A curious, latticelike structure that inspires rampant frolicking and climbing upon contact.",
       "image_url": null
     },
     {
       "name": "Alpine Cabinet",
-      "description": "Table: A decorative cabinet designed in the alpine style.",
+      "description": "A decorative cabinet designed in the alpine style.",
       "image_url": null
     },
     {
       "name": "Scholasticate Table",
-      "description": "Table: A long desk much like those found at Saint Endalim's Scholasticate.",
+      "description": "A long desk much like those found at Saint Endalim's Scholasticate.",
       "image_url": null
     },
     {
       "name": "Classic Dresser",
-      "description": "Table: A lavish vanity that hearkens back to days long past.",
+      "description": "A lavish vanity that hearkens back to days long past.",
       "image_url": null
     },
     {
       "name": "Riviera Swinging-door Counter",
-      "description": "Table: Be advised not to let the doors of this handsome counter hit you on the way out.",
+      "description": "Be advised not to let the doors of this handsome counter hit you on the way out.",
       "image_url": null
     },
     {
       "name": "Steel Locker",
-      "description": "Table: A metal cupboard perfectly suited for stowing cleaning instruments, sundry items, and lithographs.",
+      "description": "A metal cupboard perfectly suited for stowing cleaning instruments, sundry items, and lithographs of your sweetheart.",
       "image_url": null
     },
     {
       "name": "House Fortemps Fireplace",
-      "description": "Table: A faithful replica of the fireplace found in Fortemps Manor.",
+      "description": "A faithful replica of the fireplace found in Fortemps Manor.",
       "image_url": null
     },
     {
       "name": "Cathedral Lectern",
-      "description": "Table: An uncanny recreation of the lectern used in Saint Reymanaud's Cathedral.",
+      "description": "An uncanny recreation of the lectern used in Saint Reymanaud's Cathedral.",
       "image_url": null
     },
     {
       "name": "Astrologicum Star Map",
-      "description": "Tabletop: An august chart rich with the secrets of the heavens.",
+      "description": "An august chart rich with the secrets of the heavens. Good for study and impressing your guests.",
       "image_url": null
     },
     {
       "name": "Wondrous Parfait",
-      "description": "Tabletop: A massive dessert layered with plenty of fresh fruit, whipped cream, and frozen confectionary.",
+      "description": "A massive dessert layered with plenty of fresh fruit, whipped cream, and frozen confectionary.",
       "image_url": null
     },
     {
       "name": "Bluefeather Astrolabos",
-      "description": "Tabletop: A hauntingly beautiful model of the universe.",
+      "description": "A hauntingly beautiful model of the universe.",
       "image_url": null
     },
     {
       "name": "Small Blackboard",
-      "description": "Wall-mounted: Experience the joy of slapping two dusty erasers together again and again.",
+      "description": "Experience the joy of slapping two dusty erasers together again and again.",
       "image_url": null
     },
     {
       "name": "Alpine Wall Lantern",
-      "description": "Wall-mounted: A wall lantern crafted in the alpine style.",
+      "description": "A wall lantern crafted in the alpine style.",
       "image_url": null
     },
     {
       "name": "Emperor Portrait",
-      "description": "Wall-mounted: A commissioned portrait of the Garlean Empire's founding father, Solus zos Galvus.",
+      "description": "A commissioned portrait of the Garlean Empire's founding father, Solus zos Galvus, entitled Beyond the Horizon.",
       "image_url": null
     },
     {
       "name": "Azure Banner of Conflict",
-      "description": "Wall-mounted: A brilliant blue banner distributed at the Wolves' Den.",
+      "description": "A brilliant blue banner distributed at the Wolves' Den.",
       "image_url": null
     },
     {
       "name": "Crimson Banner of Conflict",
-      "description": "Wall-mounted: A fierce red banner distributed at the Wolves' Den.",
+      "description": "A fierce red banner distributed at the Wolves' Den.",
       "image_url": null
     },
     {
       "name": "Kweh-kweh Clock",
-      "description": "Wall-mounted: A charming chronometer designed to alert you of the time with a rousing \"Kweh-kweh!\"",
+      "description": "A charming chronometer designed to alert you of the time with a rousing \"Kweh-kweh!\" at convenient intervals.",
       "image_url": null
     },
     {
       "name": "Ivy Curtain",
-      "description": "Wall-mounted: A natural veil of trailing greenery.",
+      "description": "A natural veil of trailing greenery.",
       "image_url": null
     },
     {
       "name": "Luminous Wooden Loft",
-      "description": "Wall-mounted: All the fun of a regular wooden loft, now with built-in light fixtures!",
+      "description": "All the fun of a regular wooden loft, now with built-in light fixtures!",
       "image_url": null
     },
     {
       "name": "Ironworks Tool Set",
-      "description": "Wall-mounted: A set of Garlond Ironworks' finest instruments.",
+      "description": "A set of Garlond Ironworks' finest instruments.",
       "image_url": null
     },
     {
       "name": "Imitation Alpine Window",
-      "description": "Wall-mounted: Who needs a house in the freezing peaks when you can mount a frosty windowpane upon your wall instead?",
+      "description": "Who needs a house in the freezing peaks when you can mount a frosty windowpane upon your wall instead?",
       "image_url": null
     },
     {
       "name": "Alpine Doormat",
-      "description": "Rug: A welcome mat designed to complement alpine residences.",
+      "description": "A welcome mat designed to complement alpine residences.",
       "image_url": null
     }
   ],
   "glamour": [
     {
       "name": "Spotted Attire Coffer",
-      "description": "A banded chest containing a spotted fedora and spencer. Cannot be used in instanced areas such as dungeons, PvP areas, or raids.",
-      "image_url": "https://lds-img.finalfantasyxiv.com/h/W/_rGm8qjr0c_B-ZoDM3L7dexlwY.png"
+      "description": "A banded chest containing a spotted fedora and spencer.",
+      "image_url": null
     },
     {
       "name": "Coeurl Beach Womenswear Coffer",
-      "description": "A banded chest containing a flashy set of spotted swimwear. Fits: All ♀. Cannot be opened in instanced areas such as dungeons, PvP areas, or raids.",
+      "description": "A banded chest containing a flashy set of spotted swimwear.",
       "image_url": null
     },
     {
       "name": "Coeurl Beach Menswear Coffer",
-      "description": "A banded chest containing a flashy set of spotted swimwear. Fits: All ♂. Cannot be opened in instanced areas such as dungeons, PvP areas, or raids.",
+      "description": "A banded chest containing a flashy set of spotted swimwear.",
       "image_url": null
     },
     {
       "name": "Archfiend Attire Coffer",
-      "description": "A banded chest containing a full set of archfiend attire. Required level: 1. IL: 1. Cannot be opened in instanced areas such as dungeons, PvP areas, or raids.",
+      "description": "A banded chest containing a full set of archfiend attire.",
       "image_url": null
     },
     {
-      "name": "White Lace Parasol",
-      "description": "A frill-rimmed umbrella perfect for any weather except rain. Use to unlock a white lace parasol.",
+      "name": "Varsity Flat Cap",
+      "description": "Head glamour item.",
       "image_url": null
     },
     {
-      "name": "Blue Blossom Parasol",
-      "description": "A white umbrella printed with a charming pattern of blue flowers, moogles, chocobos, and more. Use to unlock a blue blossom parasol.",
+      "name": "Archfiend Helm",
+      "description": "Head glamour item.",
       "image_url": null
     },
     {
-      "name": "False Shaded Spectacles",
-      "description": "These tinted lenses will place you at the forefront of trendiness─so long as you avoid bumping into anything while wearing them. Use to unlock a pair of false shaded spectacles.",
+      "name": "Virtu Creed Wings",
+      "description": "Head glamour item.",
       "image_url": null
     },
     {
-      "name": "False Classic Spectacles",
-      "description": "Wear these for a classic look of intelligence. Use to unlock a pair of false classic spectacles.",
+      "name": "Virtu Ravager's Helm",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Virtu Chaos Burgeonet",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Virtu Bodyguard's Blinder",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Virtu Tantra Tantour",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Virtu Dragonlancer's Mesail",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Virtu Myochin Jingasa",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Virtu Reaper's Chapeau",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Virtu Iga Zukin",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Virtu Aoidos' Turban",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Virtu Machinist's Goggles",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Virtu Dancer's Headdress",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Virtu Goetia Tricorne",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Virtu Caller's Horn",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Virtu Duelist's Chapeau",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Virtu Orison Hood",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Virtu Savant's Top Hat",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Virtu Welkin Hat",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Virtu Didact's Visor",
+      "description": "Head glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Varsity Jacket",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Buttoned Varsity Jacket",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Wayfarer's Tabard",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Archfiend Armor",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Wayfarer's Fingerless Gloves",
+      "description": "Hands glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Archfiend Gauntlets",
+      "description": "Hands glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Varsity Bottoms",
+      "description": "Legs glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Varsity Skirt",
+      "description": "Legs glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Archfiend Breeches",
+      "description": "Legs glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Varsity Shoes",
+      "description": "Feet glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Wayfarer's Boots",
+      "description": "Feet glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Archfiend Sabatons",
+      "description": "Feet glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Wayfarer's Earcuff",
+      "description": "Earrings glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Wayfarer's Necklace",
+      "description": "Necklace glamour item.",
       "image_url": null
     }
   ]

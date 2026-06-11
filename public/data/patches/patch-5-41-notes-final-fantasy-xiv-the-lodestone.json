@@ -1,0 +1,475 @@
+{
+  "patch_title": "Patch 5.41 Notes",
+  "patch_date": "2021-01-19",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/bb3c277326e77817273a0029760223422d86935a",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Ishgardian Restoration (Phase IV)",
+      "description": "The fourth and final chapter of the restoration effort, focusing on the construction of a cultural district.",
+      "location": "The Firmament",
+      "npc_location": "Augebert (The Firmament X:11.4 Y:14.1)"
+    },
+    {
+      "name": "Not by Bread Alone",
+      "description": "Ishgardian Restoration story quest.",
+      "location": "The Firmament",
+      "npc_location": "Francel (The Firmament X:12.2 Y:11.3)"
+    },
+    {
+      "name": "Francel's Fervent Wish",
+      "description": "Ishgardian Restoration story quest.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Eden's Verse (Savage)",
+      "description": "The Echo has been implemented, increasing maximum HP, damage dealt, and healing potency by 10%.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Diadem",
+      "description": "Added new gathering points and items for the fourth phase of the Ishgardian Restoration.",
+      "location": "The Diadem",
+      "npc_location": "Flotpassant (The Firmament X:12.2 Y:14.6)"
+    },
+    {
+      "name": "Ishgardian Restoration Rankings",
+      "description": "A seasonal competition where skyward points are tallied by class for each World.",
+      "location": "The Firmament",
+      "npc_location": null
+    },
+    {
+      "name": "Battle System (Echo)",
+      "description": "Buff applied to Eden's Verse (Savage) instances.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Spring Meadow Partition",
+      "description": "If one wishes to experience the joys of spring, this partition should be just the ticket. Alternatively, one could try stepping outside, assuming that it is currently the correct season.",
+      "image_url": null
+    },
+    {
+      "name": "Stuffed Cait Sith",
+      "description": "Those expecting this stuffed creature to start shouting through a voice amplification device and riding a remarkably burly moogle may be disappointed.",
+      "image_url": null
+    },
+    {
+      "name": "Ishgardian Stove",
+      "description": "Perhaps not quite as stable as one would like, considering that it is likely to contain burning coals and have a pot of boiling liquid balanced precariously on top.",
+      "image_url": null
+    },
+    {
+      "name": "Extra-stuffed Carbuncle",
+      "description": "How much more stuffed could this be? The answer is none. None more stuffed.",
+      "image_url": null
+    },
+    {
+      "name": "Carbuncle House Slippers",
+      "description": "\"Don't get me wrong, I like Carbuncles. I just don't want them on my feet, that's all.\" ─A bemused arcanist",
+      "image_url": null
+    },
+    {
+      "name": "Painting of the New Nest",
+      "description": "A painting of the New Nest based off your own observations.",
+      "image_url": null
+    },
+    {
+      "name": "Painting of Featherfall",
+      "description": "A painting of Featherfall based off your own observations.",
+      "image_url": null
+    },
+    {
+      "name": "Painting of the Risensong Quarter",
+      "description": "A painting of the Risensong Quarter based off your own observations.",
+      "image_url": null
+    },
+    {
+      "name": "Painting of the Firmament",
+      "description": "A painting of the Firmament based off your own observations.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Skyworker's Helmet",
+      "description": "Head piece from the Skyworker's set.",
+      "image_url": null
+    },
+    {
+      "name": "Millfiend's Costume Cap",
+      "description": "Head piece from the Millfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Forgefiend's Costume Goggles",
+      "description": "Head piece from the Forgefiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Hammerfiend's Costume Visor",
+      "description": "Head piece from the Hammerfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Gemfiend's Costume Monocle",
+      "description": "Head piece from the Gemfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Hidefiend's Costume Cap",
+      "description": "Head piece from the Hidefiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Boltfiend's Costume Top Hat",
+      "description": "Head piece from the Boltfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Cauldronfiend's Costume Spectacles",
+      "description": "Head piece from the Cauldronfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Galleyfiend's Costume Toque",
+      "description": "Head piece from the Galleyfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Minefiend's Costume Helmet",
+      "description": "Head piece from the Minefiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Fieldfiend's Costume Hat",
+      "description": "Head piece from the Fieldfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Tacklefiend's Costume Hat",
+      "description": "Head piece from the Tacklefiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Casual Jacket",
+      "description": "Body piece from the Casual attire set.",
+      "image_url": null
+    },
+    {
+      "name": "Skyworker's Singlet",
+      "description": "Body piece from the Skyworker's set.",
+      "image_url": null
+    },
+    {
+      "name": "Millfiend's Costume Apron",
+      "description": "Body piece from the Millfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Forgefiend's Costume Apron",
+      "description": "Body piece from the Forgefiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Hammerfiend's Costume Apron",
+      "description": "Body piece from the Hammerfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Gemfiend's Costume Vest",
+      "description": "Body piece from the Gemfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Hidefiend's Costume Jacket",
+      "description": "Body piece from the Hidefiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Boltfiend's Costume Swallowtail",
+      "description": "Body piece from the Boltfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Cauldronfiend's Costume Coat",
+      "description": "Body piece from the Cauldronfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Galleyfiend's Costume Apron",
+      "description": "Body piece from the Galleyfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Minefiend's Costume Work Shirt",
+      "description": "Body piece from the Minefiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Fieldfiend's Costume Shirt",
+      "description": "Body piece from the Fieldfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Tacklefiend's Costume Jacket",
+      "description": "Body piece from the Tacklefiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Skyworker's Gloves",
+      "description": "Hands piece from the Skyworker's set.",
+      "image_url": null
+    },
+    {
+      "name": "Millfiend's Costume Halfgloves",
+      "description": "Hands piece from the Millfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Forgefiend's Costume Work Gloves",
+      "description": "Hands piece from the Forgefiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Hammerfiend's Costume Work Gloves",
+      "description": "Hands piece from the Hammerfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Gemfiend's Costume Shortgloves",
+      "description": "Hands piece from the Gemfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Hidefiend's Costume Armlets",
+      "description": "Hands piece from the Hidefiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Boltfiend's Costume Fingerstalls",
+      "description": "Hands piece from the Boltfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Cauldronfiend's Costume Gloves",
+      "description": "Hands piece from the Cauldronfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Galleyfiend's Costume Mittens",
+      "description": "Hands piece from the Galleyfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Minefiend's Costume Work Gloves",
+      "description": "Hands piece from the Minefiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Fieldfiend's Costume Halfgloves",
+      "description": "Hands piece from the Fieldfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Tacklefiend's Costume Work Gloves",
+      "description": "Hands piece from the Tacklefiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Casual Halfslops",
+      "description": "Legs piece from the Casual attire set.",
+      "image_url": null
+    },
+    {
+      "name": "Skyworker's Bottoms",
+      "description": "Legs piece from the Skyworker's set.",
+      "image_url": null
+    },
+    {
+      "name": "Millfiend's Costume Kecks",
+      "description": "Legs piece from the Millfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Forgefiend's Costume Trousers",
+      "description": "Legs piece from the Forgefiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Hammerfiend's Costume Trousers",
+      "description": "Legs piece from the Hammerfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Gemfiend's Costume Trousers",
+      "description": "Legs piece from the Gemfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Hidefiend's Costume Kecks",
+      "description": "Legs piece from the Hidefiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Boltfiend's Costume Slacks",
+      "description": "Legs piece from the Boltfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Cauldronfiend's Costume Kecks",
+      "description": "Legs piece from the Cauldronfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Galleyfiend's Costume Trousers",
+      "description": "Legs piece from the Galleyfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Minefiend's Costume Slops",
+      "description": "Legs piece from the Minefiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Fieldfiend's Costume Slops",
+      "description": "Legs piece from the Fieldfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Tacklefiend's Costume Slops",
+      "description": "Legs piece from the Tacklefiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Casual Boots",
+      "description": "Feet piece from the Casual attire set.",
+      "image_url": null
+    },
+    {
+      "name": "Skyworker's Boots",
+      "description": "Feet piece from the Skyworker's set.",
+      "image_url": null
+    },
+    {
+      "name": "Millfiend's Costume Workboots",
+      "description": "Feet piece from the Millfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Forgefiend's Costume Leggings",
+      "description": "Feet piece from the Forgefiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Hammerfiend's Costume Workboots",
+      "description": "Feet piece from the Hammerfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Gemfiend's Costume Boots",
+      "description": "Feet piece from the Gemfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Hidefiend's Costume Thighboots",
+      "description": "Feet piece from the Hidefiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Boltfiend's Costume Boots",
+      "description": "Feet piece from the Boltfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Cauldronfiend's Costume Shoes",
+      "description": "Feet piece from the Cauldronfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Galleyfiend's Costume Pattens",
+      "description": "Feet piece from the Galleyfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Minefiend's Costume Workboots",
+      "description": "Feet piece from the Minefiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Fieldfiend's Costume Workboots",
+      "description": "Feet piece from the Fieldfiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Tacklefiend's Costume Workboots",
+      "description": "Feet piece from the Tacklefiend's costume set.",
+      "image_url": null
+    },
+    {
+      "name": "Casual Attire Coffer",
+      "description": "A banded chest containing a complete set of casual attire.",
+      "image_url": null
+    },
+    {
+      "name": "Millfiend's Costume Coffer",
+      "description": "A banded chest containing a complete set of millfiend's costume attire.",
+      "image_url": null
+    },
+    {
+      "name": "Forgefiend's Costume Coffer",
+      "description": "A banded chest containing a complete set of forgefiend's costume attire.",
+      "image_url": null
+    },
+    {
+      "name": "Hammerfiend's Costume Coffer",
+      "description": "A banded chest containing a complete set of hammerfiend's costume attire.",
+      "image_url": null
+    },
+    {
+      "name": "Gemfiend's Costume Coffer",
+      "description": "A banded chest containing a complete set of gemfiend's costume attire.",
+      "image_url": null
+    },
+    {
+      "name": "Hidefiend's Costume Coffer",
+      "description": "A banded chest containing a complete set of hidefiend's costume attire.",
+      "image_url": null
+    },
+    {
+      "name": "Boltfiend's Costume Coffer",
+      "description": "A banded chest containing a complete set of boltfiend's costume attire.",
+      "image_url": null
+    },
+    {
+      "name": "Cauldronfiend's Costume Coffer",
+      "description": "A banded chest containing a complete set of cauldronfiend's costume attire.",
+      "image_url": null
+    },
+    {
+      "name": "Galleyfiend's Costume Coffer",
+      "description": "A banded chest containing a complete set of galleyfiend's costume attire.",
+      "image_url": null
+    },
+    {
+      "name": "Minefiend's Costume Coffer",
+      "description": "A banded chest containing a complete set of minefiend's costume attire.",
+      "image_url": null
+    },
+    {
+      "name": "Fieldfiend's Costume Coffer",
+      "description": "A banded chest containing a complete set of fieldfiend's costume attire.",
+      "image_url": null
+    },
+    {
+      "name": "Tacklefiend's Costume Coffer",
+      "description": "A banded chest containing a complete set of tacklefiend's costume attire.",
+      "image_url": null
+    }
+  ]
+}

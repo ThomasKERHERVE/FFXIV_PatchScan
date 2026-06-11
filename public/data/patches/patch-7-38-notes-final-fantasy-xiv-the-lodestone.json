@@ -1,75 +1,69 @@
 {
   "patch_title": "Patch 7.38 Notes",
-  "patch_date": "2025-11-25",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/85a6675e2d561446784faae5a43fac4af65554f1/",
+  "patch_date": "2025-05-20",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/85a6675e2d561446784faae5a43fac4af65554f1",
   "jobs_pve": [],
   "jobs_pvp": [],
   "new_content": [
     {
       "name": "AAC Cruiserweight Tier (Savage)",
-      "description": "High-difficulty raid tier with removed weekly restrictions, entry requirements, and reward limitations.",
+      "description": "Weekly limitations and entrance restrictions removed; treasure coffers now always appear with no reduction of rewards.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "AAC Cruiserweight M4",
-      "description": "Raid encounter with removed weekly restrictions on Cruiser Holosabers.",
+      "description": "Weekly restriction on receiving Cruiser Holosabers has been removed.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Royal City of Rabanastre",
-      "description": "Raid instance updated with a reward added to shared treasure coffers.",
+      "description": "A reward has been added to the shared treasure coffers.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Ridorana Lighthouse",
-      "description": "Raid instance updated with a reward added to shared treasure coffers.",
+      "description": "A reward has been added to the shared treasure coffers.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Orbonne Monastery",
-      "description": "Raid instance updated with a reward added to shared treasure coffers.",
+      "description": "A reward has been added to the shared treasure coffers.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Pilgrim's Traverse",
-      "description": "Duty/System updated to resolve issues with Pomanders of Steel and status effects.",
+      "description": "Dungeon addressed for issues regarding pomanders of steel, floor section statuses, and party finder participation.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "The Final Verse",
-      "description": "Duty/System updated to address timer and party finder issues.",
+      "description": "Duty addressed for issues regarding floor section statuses, duty timer functionality, and party finder participation.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "The Final Verse (Quantum)",
-      "description": "Duty/System updated to address boss action, timer, and party finder issues.",
+      "description": "Duty addressed for issues regarding floor section statuses, duty timer functionality, boss action functionality, and party finder participation.",
       "location": null,
       "npc_location": null
     },
     {
-      "name": "Cosmic Exploration",
-      "description": "Feature updated to correct fishing stellar missions on Phaenna.",
+      "name": "Cosmic exploration",
+      "description": "System addressed for issues regarding incorrect fish obtained from certain fishing stellar missions.",
       "location": "Phaenna",
       "npc_location": null
     },
     {
       "name": "Upgrading Equipment",
-      "description": "System for enhancing gear purchased with Allagan tomestones of mathematics.",
+      "description": "Process to exchange tokens for enhanced equipment.",
       "location": "Solution Nine",
       "npc_location": "Theone (X:8.5 Y:13.6)"
-    },
-    {
-      "name": "Equipment Exchange Vendor",
-      "description": "Vendor for acquiring Evercharged Ester using coins.",
-      "location": "Solution Nine",
-      "npc_location": "Uah'shepya (X:8.7 Y:13.5)"
     }
   ],
   "housing": [
@@ -79,5 +73,21 @@
       "image_url": null
     }
   ],
-  "glamour": []
+  "glamour": [
+    {
+      "name": "Cactuar Neotunic",
+      "description": "A neotunic featuring the likeness of a cactuar.",
+      "image_url": "https://img2.finalfantasyxiv.com/f/6fd699132806b61c9dcb8613c3ae11a3_0e336ff6ad415f47233f0aaf127feac0fc0.jpg?1781174045"
+    },
+    {
+      "name": "Isle Farmhand's Widebottoms",
+      "description": "Relaxed-fit trousers designed for ease of movement during farm work.",
+      "image_url": "https://img2.finalfantasyxiv.com/f/046cac14dbe3e6ef9539383496a8498d_6132295fcf5570fb8b0a944ef322a598fc0.jpg?1781173964"
+    },
+    {
+      "name": "Isle Farmhand's Boots",
+      "description": "Sturdy boots crafted to withstand the rigors of island labor.",
+      "image_url": "https://img2.finalfantasyxiv.com/f/68812b87a9696aa37e66983a6569a3dd_c33f640c0cdd35f7def85b8aa31a0007fc0.jpg?1781177353"
+    }
+  ]
 }

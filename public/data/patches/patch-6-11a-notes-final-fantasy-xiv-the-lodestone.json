@@ -1,14 +1,129 @@
 {
   "patch_title": "Patch 6.11a Notes",
-  "patch_date": "2022-05-24",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/f47055e8df1bbd906a5b28d05ee0e0281b37cae0",
-  "jobs_pve": [],
-  "jobs_pvp": [],
+  "patch_date": "2022-04-26",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/d88afafea8d33e11ff14d39f3d07ff7412b92b79",
+  "jobs_pve": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Resolved an issue wherein the potency of Holy Spirit and Holy Circle did not increase when the player had one stack of Requiescat."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Resolved an issue wherein attempting to execute the action Wanderer's Minuet multiple times in quick succession prevented players from queueing another action for execution."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Gunbreaker",
+      "changes": [
+        "Rough Divide: Increased damage and healing potency of the additional effect No Mercy has been changed from 10% to 20%.",
+        "Relentless Rush: The additional effect 'reduces damage taken by 25%' has been added."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Powerful Shot: Base potency has been increased from 3,000 to 4,000.",
+        "Empyreal Arrow: Potency has been increased from 3,000 to 4,000."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Drill: Potency has been increased from 9,000 to 10,000.",
+        "Drill: Potency when under the effect of Analysis has been increased from 18,000 to 20,000.",
+        "Bioblaster: Damage over time effect duration has been increased from 9 to 12 seconds.",
+        "Chain Saw: Potency has been increased from 10,000 to 12,000."
+      ]
+    },
+    {
+      "job": "Dancer",
+      "changes": [
+        "Honing Dance: The additional effect 'reduces damage taken by 20%' has been added.",
+        "Fan Dance: Potency has been increased from 4,000 to 5,000."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Fire: Astral Fire II effect duration has been increased from 15 to 30 seconds.",
+        "Blizzard: Umbral Ice II effect duration has been increased from 15 to 30 seconds.",
+        "Burst: Potency has been increased from 12,000 to 16,000.",
+        "Burst: Barrier potency has been increased from 12,000 to 16,000.",
+        "Paradox: Now a charged action with a maximum of 2 charges.",
+        "Night Wing: Half-asleep effect now also reduces movement speed by 50%.",
+        "Night Wing: Half-asleep effect duration has been reduced from 4 to 3 seconds.",
+        "Night Wing: Sleep effect duration has been reduced from 4 to 3 seconds.",
+        "Fire IV: Cast time has been reduced from 1.92 to 1.44 seconds.",
+        "Fire IV: Astral Fire III effect duration has been increased from 15 to 30 seconds.",
+        "Flare: Cast time has been reduced from 1.92 to 1.44 seconds.",
+        "Flare: Damage dealt to primary target has been increased from 8,000 to 12,000.",
+        "Blizzard IV: Cast time has been reduced from 1.92 to 1.44 seconds.",
+        "Blizzard IV: Umbral Ice III effect duration has been increased from 15 to 30 seconds.",
+        "Freeze: Cast time has been reduced from 1.92 to 1.44 seconds.",
+        "Freeze: Damage dealt to primary target has been increased from 8,000 to 12,000.",
+        "Soul Resonance: Now grants Apocatastasis, reducing damage taken by 20% with a duration of 15 seconds."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Slipstream: Potency has been increased from 6,000 to 8,000.",
+        "Slipstream: Windstorm potency has been increased from 3,000 to 4,000.",
+        "Radiant Aegis: Damage reduction has been increased from 10% to 20%.",
+        "Radiant Aegis: Barrier potency has been increased from 8,000 to 10,000.",
+        "Mountain Buster: Potency has been increased from 2,000 to 4,000.",
+        "Revelation: Potency has been increased from 3,000 to 6,000."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Corps-a-corps: Damage reduction has been changed from 20% to 10%."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Aspected Benefic: Base cure potency has been increased from 4,000 to 5,000.",
+        "Aspected Benefic: Maximum cure potency has been reduced from 12,000 to 10,000."
+      ]
+    }
+  ],
   "new_content": [
     {
-      "name": "System Update",
-      "description": "Minor adjustments, hotfixes and database optimization for Patch 6.11a Notes.",
-      "location": "Eorzea"
+      "name": "Custom Deliveries",
+      "description": "New custom deliveries content.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Arkasodara tribal quests",
+      "description": "New tribal quests.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Somehow Further Hildibrand Adventures",
+      "description": "New questline.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Data Center Travel",
+      "description": "System allowing travel between data centers.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Crystalline Conflict",
+      "description": "PvP battle system with tiered matchmaking.",
+      "location": null,
+      "npc_location": null
     }
   ],
   "housing": [],

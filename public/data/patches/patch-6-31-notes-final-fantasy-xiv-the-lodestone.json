@@ -1,12 +1,12 @@
 {
   "patch_title": "Patch 6.31 Notes",
   "patch_date": "2023-02-07",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/8eebddf71a43266f45fba4c27b78853be2801343/",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/8eebddf71a43266f45fba4c27b78853be2801343",
   "jobs_pve": [
     {
       "job": "Warrior",
       "changes": [
-        "Resolved an issue wherein the amount of HP recovered by the action 'Shake It Off' was incorrect when healing only self under certain conditions."
+        "Resolved an issue wherein the amount of HP recovered when only healing self using the action 'Shake It Off' was incorrect under certain conditions."
       ]
     }
   ],
@@ -14,8 +14,8 @@
   "new_content": [
     {
       "name": "The Omega Protocol (Ultimate)",
-      "description": "A high-end ultimate duty where players imagine a scenario of Omega's relentless testing and follow the experiment to its ultimate conclusion.",
-      "location": null,
+      "description": "A high-end ultimate duty where players imagine a scenario where Omega's relentless testing continued to its ultimate conclusion.",
+      "location": "Raid Finder",
       "npc_location": "Old Sharlayan (X:12.7 Y:14.2)"
     }
   ],

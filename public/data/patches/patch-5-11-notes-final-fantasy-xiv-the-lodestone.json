@@ -1,0 +1,450 @@
+{
+  "patch_title": "Patch 5.11 Notes",
+  "patch_date": "2019-11-19",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/d7d53d91c131adfdc71ad0f270f1d38252e5aa39",
+  "jobs_pve": [
+    {
+      "job": "Samurai",
+      "changes": [
+        "The hotbar icon for the PvE action Shoha is now clearly indicated when the action is ready to use."
+      ]
+    },
+    {
+      "job": "Tank (General)",
+      "changes": [
+        "Resolved an issue wherein auto-attacks failed to execute after performing the tank role action Reprisal."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Resolved an issue wherein auto-attacks failed to execute after performing the PvE action Rockbreaker."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Resolved an issue wherein the effects of the PvE actions Mage's Ballad, Army's Paeon, and The Wanderer's Minuet were not applied to the pets of party members."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Resolved an issue wherein the graphical effect for recipients of the PvE action Plenary Indulgence was not displayed correctly.",
+        "Resolved a known issue in The Epic of Alexander (Ultimate) wherein the Healing Gauge would retain its charge after a reset."
+      ]
+    }
+  ],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "The Epic of Alexander (Ultimate)",
+      "description": "A high-end duty featuring a ballad of hope and despair centered on a mechanical god.",
+      "location": null,
+      "npc_location": "Kugane (X:11.6 Y:12.6)"
+    },
+    {
+      "name": "Ishgardian Restoration",
+      "description": "A collaborative project for Disciples of the Hand and Land to reconstruct the Firmament district.",
+      "location": "The Firmament",
+      "npc_location": "Ishgard ─ Foundation (X:9.7 Y:11.5)"
+    },
+    {
+      "name": "Towards the Firmament",
+      "description": "Quest to unlock the Ishgardian Restoration project.",
+      "location": "Ishgard ─ Foundation",
+      "npc_location": "Ishgard ─ Foundation (X:9.7 Y:11.5)"
+    },
+    {
+      "name": "Concerted Works",
+      "description": "Collaborative tasks within the Ishgardian Restoration where players join forces to rebuild sections of the Firmament.",
+      "location": "The Firmament",
+      "npc_location": null
+    },
+    {
+      "name": "Skybuilders' Board",
+      "description": "A board providing information on reconstruction status and details of upcoming concerted works.",
+      "location": "The Firmament (X:11.4 Y:14.1)",
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Imposing Ishgardian Shelf",
+      "description": "An exceedinly large frame that is so heavy it must be placed on the floor, rather than mounted on a wall. It features a striking image of Ishgard, so true to life that you can almost feel an icy chill exuding from the painting.",
+      "image_url": null
+    },
+    {
+      "name": "Stuffed Hraesvelgr",
+      "description": "As few homeowners have the space to accommodate a member of the First Brood, this stuffed version of Hraesvelgr has been created especially for those who enjoy the sensation of an ancient dragon observing their every move.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Replica Sky Pirate's Helm of Fending",
+      "description": "Head, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Mask of Fending",
+      "description": "Head, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Helm of Maiming",
+      "description": "Head, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Mask of Maiming",
+      "description": "Head, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Mask of Striking",
+      "description": "Head, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Mask of Striking",
+      "description": "Head, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Beret of Aiming",
+      "description": "Head, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Mask of Aiming",
+      "description": "Head, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Mask of Scouting",
+      "description": "Head, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Mask of Scouting",
+      "description": "Head, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Cap of Healing",
+      "description": "Head, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Mask of Healing",
+      "description": "Head, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Cap of Casting",
+      "description": "Head, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Mask of Casting",
+      "description": "Head, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Craftsman's Coverall Top",
+      "description": "Body, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Craftsman's Singlet",
+      "description": "Body, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Coat of Fending",
+      "description": "Body, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Harness of Fending",
+      "description": "Body, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Coat of Maiming",
+      "description": "Body, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Harness of Maiming",
+      "description": "Body, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Jacket of Striking",
+      "description": "Body, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Harness of Striking",
+      "description": "Body, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Vest of Aiming",
+      "description": "Body, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Harness of Aiming",
+      "description": "Body, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Jacket of Scouting",
+      "description": "Body, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Harness of Scouting",
+      "description": "Body, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Coat of Healing",
+      "description": "Body, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Harness of Healing",
+      "description": "Body, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Coat of Casting",
+      "description": "Body, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Harness of Casting",
+      "description": "Body, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Gauntlets of Fending",
+      "description": "Hands, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Hook of Fending",
+      "description": "Hands, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Gauntlets of Maiming",
+      "description": "Hands, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Hook of Maiming",
+      "description": "Hands, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Gloves of Striking",
+      "description": "Hands, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Fingerless Gloves of Striking",
+      "description": "Hands, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Gloves of Aiming",
+      "description": "Hands, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Fingerless Gloves of Aiming",
+      "description": "Hands, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Gloves of Scouting",
+      "description": "Hands, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Hook of Scouting",
+      "description": "Hands, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Gloves of Healing",
+      "description": "Hands, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Hook of Healing",
+      "description": "Hands, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Gloves of Casting",
+      "description": "Hands, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Fingerless Gloves of Casting",
+      "description": "Hands, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Craftsman's Coverall Bottoms",
+      "description": "Legs, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Gaskins of Fending",
+      "description": "Legs, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Breeches of Fending",
+      "description": "Legs, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Gaskins of Maiming",
+      "description": "Legs, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Breeches of Maiming",
+      "description": "Legs, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Trousers of Striking",
+      "description": "Legs, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Breeches of Striking",
+      "description": "Legs, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Halfslops of Aiming",
+      "description": "Legs, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Breeches of Aiming",
+      "description": "Legs, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Trousers of Scouting",
+      "description": "Legs, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Breeches of Scouting",
+      "description": "Legs, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Bottoms of Healing",
+      "description": "Legs, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Breeches of Healing",
+      "description": "Legs, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Bottoms of Casting",
+      "description": "Legs, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Breeches of Casting",
+      "description": "Legs, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Boots of Fending",
+      "description": "Feet, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Hookboots of Fending",
+      "description": "Feet, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Boots of Maiming",
+      "description": "Feet, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Hookboots of Maiming",
+      "description": "Feet, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Boots of Striking",
+      "description": "Feet, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Ironclad Boots of Striking",
+      "description": "Feet, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Boots of Aiming",
+      "description": "Feet, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Ironclad Boots of Aiming",
+      "description": "Feet, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Boots of Scouting",
+      "description": "Feet, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Hookboots of Scouting",
+      "description": "Feet, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Shoes of Healing",
+      "description": "Feet, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Hookboots of Healing",
+      "description": "Feet, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Pirate's Shoes of Casting",
+      "description": "Feet, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sky Rat Ironclad Boots of Casting",
+      "description": "Feet, Item Level: 1, Equipment Level: 1",
+      "image_url": null
+    }
+  ]
+}

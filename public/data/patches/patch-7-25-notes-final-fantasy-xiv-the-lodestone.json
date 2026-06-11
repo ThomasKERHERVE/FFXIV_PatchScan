@@ -1,7 +1,7 @@
 {
-  "patch_title": "Patch 7.25 Notes",
+  "patch_title": "Patch 7.25",
   "patch_date": "2025-06-03",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/3c12f110983c5f4288d43aa5ac2ed3c022a75b48/",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/3c12f110983c5f4288d43aa5ac2ed3c022a75b48",
   "jobs_pve": [
     {
       "job": "Ninja",
@@ -56,7 +56,8 @@
     {
       "job": "Magical Ranged DPS",
       "changes": [
-        "Rust: Potency of the reduced damage dealt effect has been increased from 25% to 33%. Potency of the reduced healing potency effect has been increased from 25% to 33%."
+        "Rust: Potency of the reduced damage dealt effect has been increased from 25% to 33%.",
+        "Rust: Potency of the reduced healing potency effect has been increased from 25% to 33%."
       ]
     },
     {
@@ -64,20 +65,23 @@
       "changes": [
         "Haelan: Cure potency has been increased from 12,000 to 15,000.",
         "Stoneskin II: Barrier potency has been increased from 10,000 to 12,000.",
-        "Diabrosis: Potency has been increased from 8,000 to 9,000. Potency of reduced HP recovered effect has been increased from 25% to 33%."
+        "Diabrosis: Potency has been increased from 8,000 to 9,000.",
+        "Diabrosis: Potency of reduced HP recovered effect has been increased from 25% to 33%."
       ]
     },
     {
       "job": "Warrior",
       "changes": [
-        "Primal Scream: Increase to maximum HP has been changed from 20% to 25%. Amount of HP restored has been increased from 20% to 25% of maximum HP.",
+        "Primal Scream: Increase to maximum HP has been changed from 20% to 25%.",
+        "Primal Scream: Amount of HP restored has been increased from 20% to 25% of maximum HP.",
         "Fell Cleave: The additional effect 'Absorbs 25% of damage dealt as HP' has been added."
       ]
     },
     {
       "job": "Dark Knight",
       "changes": [
-        "Eventide: Base potency has been increased from 10,000 to 12,000. Maximum potency has been increased from 20,000 to 24,000."
+        "Eventide: Base potency has been increased from 10,000 to 12,000.",
+        "Eventide: Maximum potency has been increased from 20,000 to 24,000."
       ]
     },
     {
@@ -118,15 +122,18 @@
       "changes": [
         "Repelling Shot: Recast time has been reduced from 12 to 10 seconds.",
         "The Warden's Paean: Effect duration has been increased from 8 to 10 seconds.",
-        "Warden's Grace effect duration has been increased from 4 to 5 seconds. The additional effect 'increases movement speed by 25%' has been added to Warden's Grace.",
-        "Harmonic Arrow: Potency when consuming 1 charge has been increased from 8,000 to 9,000. Potency when consuming 4 charges has been increased from 4,250 to 4,500."
+        "Warden's Grace: Effect duration has been increased from 4 to 5 seconds.",
+        "Warden's Grace: The additional effect 'increases movement speed by 25%' has been added.",
+        "Harmonic Arrow: Potency when consuming 1 charge has been increased from 8,000 to 9,000.",
+        "Harmonic Arrow: Potency when consuming 4 charges has been increased from 4,250 to 4,500."
       ]
     },
     {
       "job": "Machinist",
       "changes": [
         "Bioblaster: Effect duration has been increased from 9 to 12 seconds.",
-        "Aether Mortar: Potency has been increased from 6,000 to 7,500. Barrier potency has been increased from 6,000 to 7,500."
+        "Aether Mortar: Potency has been increased from 6,000 to 7,500.",
+        "Aether Mortar: Barrier potency has been increased from 6,000 to 7,500."
       ]
     },
     {
@@ -134,14 +141,16 @@
       "changes": [
         "Starfall Dance: Potency has been increased from 10,000 to 12,000.",
         "Saber Dance: Potency for enemies after the first has been increased from 8,000 to 9,000.",
-        "Dance of the Dawn: Potency has been increased from 15,000 to 16,000. Potency for enemies after the first has been increased from 10,000 to 12,000."
+        "Dance of the Dawn: Potency has been increased from 15,000 to 16,000.",
+        "Dance of the Dawn: Potency for enemies after the first has been increased from 10,000 to 12,000."
       ]
     },
     {
       "job": "Black Mage",
       "changes": [
         "Soul Resonance: Maximum stacks has been increased from 5 to 6.",
-        "Flare Star: Potency has been increased from 18,000 to 20,000. Damage over time effect duration has been increased from 9 to 12 seconds.",
+        "Flare Star: Potency has been increased from 18,000 to 20,000.",
+        "Flare Star: Damage over time effect duration has been increased from 9 to 12 seconds.",
         "Frost Star: Potency has been increased from 12,000 to 15,000."
       ]
     },
@@ -181,217 +190,249 @@
       "job": "Sage",
       "changes": [
         "Mesotes: Damage over time potency has been increased from 8,000 to 9,000.",
-        "Toxikon: Effect duration has been increased from 6 to 7 seconds. The time between action execution and effect activation has been shortened.",
-        "Toxikon II: Effect duration has been increased from 6 to 7 seconds. The time between action execution and effect activation has been shortened."
+        "Toxikon: Effect duration has been increased from 6 to 7 seconds.",
+        "Toxikon: The time between action execution and effect activation has been shortened.",
+        "Toxikon II: Effect duration has been increased from 6 to 7 seconds.",
+        "Toxikon II: The time between action execution and effect activation has been shortened."
       ]
     },
     {
-      "job": "Paladin (Frontline)",
+      "job": "Paladin",
       "changes": [
-        "Damage Dealt: Increased from -20% to -10%."
+        "Frontline: Damage Dealt increased from -20% to -10%."
       ]
     },
     {
       "job": "Gunbreaker (Frontline)",
       "changes": [
-        "Damage Dealt: Increased from -10% to 0%.",
-        "Damage Taken: Reduced from -50% to -55%."
+        "Damage Dealt increased from -10% to 0%.",
+        "Damage Taken reduced from -50% to -55%."
       ]
     },
     {
       "job": "Monk (Frontline)",
       "changes": [
-        "Limit Gauge Fill Rate: Reduced from +15 seconds to +0 seconds."
+        "Limit Gauge Fill Rate reduced from +15 seconds to +0 seconds."
       ]
     }
   ],
   "new_content": [
     {
       "name": "Occult Crescent: South Horn",
-      "description": "A new large-scale encounter for Disciples of War and Magic level 100, featuring a separate leveling system (Knowledge), critical encounters, and phantom jobs.",
+      "description": "A new large-scale, instanced exploration encounter for Disciples of War and Magic level 100 with a separate leveling system (Knowledge), phantom jobs, and unique currencies.",
       "location": "Shades' Triangle",
       "npc_location": "The Phantom Village (X:4.5 Y:6.6) via Jeffroy"
     },
     {
       "name": "The Forked Tower: Blood",
-      "description": "A high-level challenge accessible on the Occult Crescent for up to 48 players, requiring Knowledge level 20 or greater.",
+      "description": "A challenging large-scale battle for up to 48 players accessible upon reaching Knowledge Level 20 in the Occult Crescent.",
       "location": "Occult Crescent: South Horn",
       "npc_location": null
     },
     {
-      "name": "Occult Crescent: South Horn (Quests)",
-      "description": "A series of side story quests related to the exploration of the Occult Crescent, including 'One Last Hurrah', 'The Phantom Village', 'Unfamiliar Territory', and 'New Job, Old Tricks'.",
-      "location": "Various locations",
-      "npc_location": "Tuliyollal (X:17.1 Y:11.8), The Phantom Village (X:7.0 Y:6.9), South Horn (X:38.3 Y:7.4)"
+      "name": "One Last Hurrah",
+      "description": "Side story quest required to unlock the Occult Crescent.",
+      "location": "Tuliyollal (X:17.1 Y:11.8)",
+      "npc_location": "Expedition Messenger"
+    },
+    {
+      "name": "The Phantom Village",
+      "description": "Side story quest.",
+      "location": "The Phantom Village (X:7.0 Y:6.9)",
+      "npc_location": "Ketenramm"
+    },
+    {
+      "name": "Unfamiliar Territory",
+      "description": "Side story quest.",
+      "location": "The Phantom Village (X:6.1 Y:6.4)",
+      "npc_location": "Archive"
+    },
+    {
+      "name": "New Job, Old Tricks",
+      "description": "Side story quest.",
+      "location": "South Horn (X:38.3 Y:7.4)",
+      "npc_location": "Ketenramm"
+    },
+    {
+      "name": "Arcane Artistry",
+      "description": "Quest line related to obtaining phantom weapons.",
+      "location": "The Phantom Village (X:6.6 Y:7.1)",
+      "npc_location": "Lydirceil"
+    },
+    {
+      "name": "Forging the Phantasmal",
+      "description": "Quest line related to obtaining phantom weapons.",
+      "location": "The Phantom Village (X:6.6 Y:7.1)",
+      "npc_location": "Lydirceil"
+    },
+    {
+      "name": "Wizened Testimony",
+      "description": "Part of the Inconceivably Further Hildibrand Adventures.",
+      "location": "Solution Nine (X:18.5 Y:13.6)",
+      "npc_location": "Nashu Mhakaracca"
+    },
+    {
+      "name": "Cultivating Hope",
+      "description": "Quest to unlock Mamool Ja allied society quests.",
+      "location": "Yak T'el (X:35.6 Y:32.0)",
+      "npc_location": "Gotoll Ja"
+    },
+    {
+      "name": "Quest Sync",
+      "description": "Automatic level adjustment system for Mamool Ja allied society quests to match player job/class levels.",
+      "location": null,
+      "npc_location": null
     },
     {
       "name": "Phantom Weapons",
-      "description": "A new quest line involving the acquisition and enhancement of job-specific phantom weapons.",
-      "location": "The Phantom Village",
-      "npc_location": "The Phantom Village (X:6.6 Y:7.1) via Lydirceil"
+      "description": "Job-specific weapons obtained and enhanced through the Occult Crescent quest line.",
+      "location": null,
+      "npc_location": null
     },
     {
-      "name": "Inconceivably Further Hildibrand Adventures",
-      "description": "The continuation of the Hildibrand quest line.",
-      "location": "Solution Nine",
-      "npc_location": "Solution Nine (X:18.5 Y:13.6) via Nashu Mhakaracca"
-    },
-    {
-      "name": "Mamool Ja Allied Society Quests",
-      "description": "New allied society quests featuring an automatic level adjustment system known as 'quest sync'.",
+      "name": "Mamool Ja allied society",
+      "description": "New allied society featuring main and daily quests with a unique currency (Mamool Ja nanook).",
       "location": "Yak T'el",
-      "npc_location": "Yak T'el (X:35.6 Y:32.0) via Gotoll Ja"
-    },
-    {
-      "name": "Knowledge System",
-      "description": "A separate leveling system specific to the Occult Crescent, where players accumulate knowledge through quests and combat.",
-      "location": "Occult Crescent: South Horn",
-      "npc_location": null
-    },
-    {
-      "name": "Phantom Jobs System",
-      "description": "A system allowing players to acquire supplemental jobs and actions on the Occult Crescent using 'soul shards'.",
-      "location": "Occult Crescent: South Horn",
-      "npc_location": null
+      "npc_location": "Gotoll Ja"
     },
     {
       "name": "Occult Record",
-      "description": "A collection feature that tracks discoveries and progression on the Occult Crescent.",
-      "location": "N/A",
-      "npc_location": "Duty Section, Main Menu"
+      "description": "Collection system tracking discoveries and progress made on the Occult Crescent.",
+      "location": null,
+      "npc_location": null
     }
   ],
   "housing": [
     {
       "name": "Occult Epitaph",
-      "description": "An outdoor furnishing. A replica of a sizable stone engraved with esoteric carvings found on the Occult Crescent.",
+      "description": "A replica of a sizable stone engraved with esoteric carvings found on the Occult Crescent.",
       "image_url": null
     },
     {
       "name": "Occult Chair",
-      "description": "A furnishing. A plush seat undoubtedly filled with secrets. And dust.",
+      "description": "A plush seat undoubtedly filled with secrets. And dust.",
       "image_url": null
     },
     {
       "name": "Knowledge Crystal Replica",
-      "description": "A furnishing. An inert reproduction of the crystals found across the Occult Crescent.",
+      "description": "An inert reproduction of the crystals found across the Occult Crescent.",
       "image_url": null
     },
     {
       "name": "Occult Table",
-      "description": "A table. This table is well suited to spreading one's copious notes.",
+      "description": "This table is well suited to spreading one's copious notes.",
       "image_url": null
     },
     {
       "name": "Tiika Selvaas",
-      "description": "A tabletop item. A Turali sandwich of lightly roasted meat and vegetables topped with savory olives.",
+      "description": "A Turali sandwich of lightly roasted meat and vegetables topped with savory olives.",
       "image_url": null
     },
     {
       "name": "Celestial Sphere",
-      "description": "A tabletop item. A mysterious orb showing visions of the cosmos.",
+      "description": "A mysterious orb showing visions of the cosmos.",
       "image_url": null
     },
     {
       "name": "Crescent Trophy",
-      "description": "A tabletop item. An elegantly sculpted trophy from the Occult Crescent.",
+      "description": "Though it may be difficult to explain how this elegantly sculpted trophy proves that you have visited Shades' Triangle and lived to tell of it, it will come in useful should any naysayers doubt the veracity of your claims to know the names of basic shapes.",
       "image_url": null
     },
     {
       "name": "Occult Tablets",
-      "description": "A tabletop item. Stone tablets with undecipherable inscriptions.",
+      "description": "The inscriptions upon these stone tablets defy any attempt to decipher them, but perhaps taking them home without regard for historical preservation protocols will help.",
       "image_url": null
     },
     {
       "name": "Occult Crescent Map",
-      "description": "A wall-mounted item. A map believed to have been inked by a navigator who made landfall on the isle.",
+      "description": "This map is believed to have been inked by a navigator whose vessel made landfall on the isle in years past.",
       "image_url": null
     }
   ],
   "glamour": [
     {
       "name": "Lix Temple Chain",
-      "description": "Head piece, Item Level: 1",
+      "description": "Head piece, Item Level 1",
       "image_url": null
     },
     {
       "name": "Tycoon Hairpin",
-      "description": "Head piece, Item Level: 1",
+      "description": "Head piece, Item Level 1",
       "image_url": null
     },
     {
       "name": "Scherwiz Hairpin",
-      "description": "Head piece, Item Level: 1",
+      "description": "Head piece, Item Level 1",
       "image_url": null
     },
     {
       "name": "Lix Chiton",
-      "description": "Body piece, Item Level: 1",
+      "description": "Body piece, Item Level 1",
       "image_url": null
     },
     {
       "name": "Tycoon Leotard",
-      "description": "Body piece, Item Level: 1",
+      "description": "Body piece, Item Level 1",
       "image_url": null
     },
     {
       "name": "Scherwiz Coat",
-      "description": "Body piece, Item Level: 1",
+      "description": "Body piece, Item Level 1",
       "image_url": null
     },
     {
       "name": "Lix Fingerless Gloves",
-      "description": "Hands piece, Item Level: 1",
+      "description": "Hands piece, Item Level 1",
       "image_url": null
     },
     {
       "name": "Tycoon Dress Gloves",
-      "description": "Hands piece, Item Level: 1",
+      "description": "Hands piece, Item Level 1",
       "image_url": null
     },
     {
       "name": "Scherwiz Vambraces",
-      "description": "Hands piece, Item Level: 1",
+      "description": "Hands piece, Item Level 1",
       "image_url": null
     },
     {
       "name": "Lix Hose",
-      "description": "Legs piece, Item Level: 1",
+      "description": "Legs piece, Item Level 1",
       "image_url": null
     },
     {
       "name": "Tycoon Tights",
-      "description": "Legs piece, Item Level: 1",
+      "description": "Legs piece, Item Level 1",
       "image_url": null
     },
     {
       "name": "Scherwiz Skirt",
-      "description": "Legs piece, Item Level: 1",
+      "description": "Legs piece, Item Level 1",
       "image_url": null
     },
     {
       "name": "Lix Longboots",
-      "description": "Feet piece, Item Level: 1",
+      "description": "Feet piece, Item Level 1",
       "image_url": null
     },
     {
       "name": "Tycoon Bootlets",
-      "description": "Feet piece, Item Level: 1",
+      "description": "Feet piece, Item Level 1",
       "image_url": null
     },
     {
       "name": "Scherwiz Boots",
-      "description": "Feet piece, Item Level: 1",
+      "description": "Feet piece, Item Level 1",
       "image_url": null
     },
     {
       "name": "White Embroidered Parasol",
-      "description": "Fashion accessory, frilled parasol.",
+      "description": "Fashion accessory parasol",
       "image_url": null
     },
     {
       "name": "Black Embroidered Parasol",
-      "description": "Fashion accessory, ornate lace parasol.",
+      "description": "Fashion accessory parasol",
       "image_url": null
     }
   ]

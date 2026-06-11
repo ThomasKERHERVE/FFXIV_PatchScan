@@ -1,7 +1,7 @@
 {
   "patch_title": "Patch 6.21 Notes",
-  "patch_date": "2022-09-13",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/3740d2052d6f21aa5d3b8d4cc94795a082fca0f6/",
+  "patch_date": "2022-09-16",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/3740d2052d6f21aa5d3b8d4cc94795a082fca0f6",
   "jobs_pve": [
     {
       "job": "Paladin",
@@ -17,10 +17,8 @@
     {
       "job": "Marauder / Warrior",
       "changes": [
-        "Storm's Path: Potency has been increased from 130 to 150.",
-        "Storm's Path: Combo potency has been increased from 410 to 430.",
-        "Storm's Eye: Potency has been increased from 130 to 150.",
-        "Storm's Eye: Combo potency has been increased from 410 to 430.",
+        "Storm's Path: Potency has been increased from 130 to 150. Combo potency has been increased from 410 to 430.",
+        "Storm's Eye: Potency has been increased from 130 to 150. Combo potency has been increased from 410 to 430.",
         "Fell Cleave: Potency has been increased from 460 to 470.",
         "Upheaval: Potency has been increased from 350 to 360."
       ]
@@ -30,43 +28,43 @@
   "new_content": [
     {
       "name": "Variant dungeons",
-      "description": "Content scheduled to be released in Patch 6.25.",
+      "description": "Additional feature scheduled to be released in Patch 6.25.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Criterion dungeons",
-      "description": "Content scheduled to be released in Patch 6.25.",
-      "location": null,
-      "npc_location": null
-    },
-    {
-      "name": "Pandæmonium: Asphodelos (Savage)",
-      "description": "Players will now receive the power of the Echo, increasing maximum HP, damage dealt, and healing potency by 10%.",
-      "location": null,
-      "npc_location": null
-    },
-    {
-      "name": "Abyssos: The Eighth Circle (Savage)",
-      "description": "The HP of Hephaistos has been reduced in both phases of the battle.",
+      "description": "Additional feature scheduled to be released in Patch 6.25.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Manderville weapon quests",
-      "description": "Content scheduled to be released in Patch 6.25.",
+      "description": "Additional feature scheduled to be released in Patch 6.25.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Omicron tribal quests",
-      "description": "Content scheduled to be released in Patch 6.25.",
+      "description": "Additional feature scheduled to be released in Patch 6.25.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Pandæmonium: Asphodelos (Savage)",
+      "description": "Raid content that now includes the power of the Echo, increasing players' maximum HP, damage dealt, and healing potency by 10%.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Abyssos: The Eighth Circle (Savage)",
+      "description": "Raid battle in which the HP of the boss, Hephaistos, has been reduced.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Island sanctuary",
-      "description": "A system where various issues regarding animal appearances, pasture placement, workshop and granary functionality, and achievement acquisition were resolved.",
+      "description": "A system where various issues were resolved, including animal appearances, pasture placement, workshop and granary functionality, and achievement acquisition.",
       "location": null,
       "npc_location": null
     }
@@ -74,14 +72,14 @@
   "housing": [
     {
       "name": "Pendant Wall Light",
-      "description": "The illumination of the Pendant Wall Light furnishing has been adjusted.",
+      "description": "An interior furnishing item whose illumination has been adjusted.",
       "image_url": null
     }
   ],
   "glamour": [
     {
       "name": "Isle Farmhand's Boots",
-      "description": "Gear item mentioned in the resolved issues section regarding display errors.",
+      "description": "An item mentioned in the resolved issues as having incorrect graphics when equipped with certain other gear.",
       "image_url": null
     }
   ]

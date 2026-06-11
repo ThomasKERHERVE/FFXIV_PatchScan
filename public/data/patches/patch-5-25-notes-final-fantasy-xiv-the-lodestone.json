@@ -1,0 +1,530 @@
+{
+  "patch_title": "Patch 5.25 Notes",
+  "patch_date": "2020-04-12",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/b1a1fb2c812285a29a27bf477b0c895c78666296",
+  "jobs_pve": [
+    {
+      "job": "Monk",
+      "changes": [
+        "Resolved an issue wherein using the PvE action Arm of the Destroyer would cause the player to lose the effect of Opo-opo Form even when missing an enemy."
+      ]
+    }
+  ],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Save the Queen: Blades of Gunnhildr",
+      "description": "A new quest series offering upgradeable equipment known as resistance weapons.",
+      "location": "Kugane",
+      "npc_location": "Keiten (X:12.2 Y:12.3)"
+    },
+    {
+      "name": "Hail to the Queen",
+      "description": "Initial quest for the resistance weapons quest line.",
+      "location": "Kugane",
+      "npc_location": "Keiten (X:12.2 Y:12.3)"
+    },
+    {
+      "name": "Skysteel Tool Quests",
+      "description": "Quest series to obtain and enhance Skysteel crafter and gatherer tools.",
+      "location": "Foundation",
+      "npc_location": "Skysteel Engineer (X:14.2 Y:12.5)"
+    },
+    {
+      "name": "Mislaid Plans",
+      "description": "Starting quest for the Skysteel tool quest line.",
+      "location": "Foundation",
+      "npc_location": "Skysteel Engineer (X:14.2 Y:12.5)"
+    },
+    {
+      "name": "Work It Harder, Make It Better",
+      "description": "Follow-up quest for Skysteel tools.",
+      "location": "Foundation",
+      "npc_location": "Neillemard (X:7.9 Y:10.6)"
+    },
+    {
+      "name": "Unnamed Trial",
+      "description": "A new trial accessible only via the Raid Finder.",
+      "location": "???",
+      "npc_location": "???"
+    },
+    {
+      "name": "Resistance Weapon Quest Battle",
+      "description": "A lengthy instanced duty required to complete the resistance weapon quest.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Feast (Season Fifteen)",
+      "description": "New season for the PvP competitive mode.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Resistance Weapons System",
+      "description": "System to obtain and enhance job-specific weapons.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Skysteel Tools System",
+      "description": "System to obtain and enhance class-specific tools for Disciples of the Hand and Land.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Mahogany Aqueduct",
+      "description": "Reliable and stylish irrigation well suited to residential properties.",
+      "image_url": null
+    },
+    {
+      "name": "Wooden Table",
+      "description": "Now there is one less tree in the woods, and one more table in your room.",
+      "image_url": null
+    },
+    {
+      "name": "Manor Dressing Table",
+      "description": "A haunting dressing table custom-made for Haukke Manor. ...In retrospect, Lady Amandine wasn't very subtle about the whole voidsent issue.",
+      "image_url": null
+    },
+    {
+      "name": "Rope Stanchion",
+      "description": "A set of velvety ropes for your queue management needs.",
+      "image_url": null
+    },
+    {
+      "name": "Devil's Salad Bowl",
+      "description": "A pleasant mix of crisp greens topped by satisfying and zesty deviled eggs.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Idealized Chevalier's Temple Chain",
+      "description": "Head piece for Paladin",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Boii Burgeonet",
+      "description": "Head piece for Warrior",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Bale Burgeonet",
+      "description": "Head piece for Dark Knight",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Bodyguard's Blinder",
+      "description": "Head piece for Gunbreaker",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Bhikku Knotcap",
+      "description": "Head piece for Monk",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Pteroslaver Armet",
+      "description": "Head piece for Dragoon",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Kasuga Hanbo",
+      "description": "Head piece for Samurai",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Hattori Somen",
+      "description": "Head piece for Ninja",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Fili Chapeau",
+      "description": "Head piece for Bard",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Gunslinger's Hat",
+      "description": "Head piece for Machinist",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Dancer's Headdress",
+      "description": "Head piece for Dancer",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Wicce Petasos",
+      "description": "Head piece for Black Mage",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Beckoner's Horn",
+      "description": "Head piece for Summoner",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Estoqueur's Tricorne",
+      "description": "Head piece for Red Mage",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Ebers Hood",
+      "description": "Head piece for White Mage",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Arbatel Mortarboard",
+      "description": "Head piece for Scholar",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Soothsayer's Turban",
+      "description": "Head piece for Astrologian",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Chevalier's Cuirass",
+      "description": "Body piece for Paladin",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Boii Tunic",
+      "description": "Body piece for Warrior",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Bale Cuirass",
+      "description": "Body piece for Dark Knight",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Bodyguard's Coat",
+      "description": "Body piece for Gunbreaker",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Bhikku Cyclas",
+      "description": "Body piece for Monk",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Pteroslaver Mail",
+      "description": "Body piece for Dragoon",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Kasuga Haori",
+      "description": "Body piece for Samurai",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Hattori Chainmail",
+      "description": "Body piece for Ninja",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Fili Gilet",
+      "description": "Body piece for Bard",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Gunslinger's Coat",
+      "description": "Body piece for Machinist",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Dancer's Casaque",
+      "description": "Body piece for Dancer",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Wicce Coat",
+      "description": "Body piece for Black Mage",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Beckoner's Coat",
+      "description": "Body piece for Summoner",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Estoqueur's Bliaud",
+      "description": "Body piece for Red Mage",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Ebers Robe",
+      "description": "Body piece for White Mage",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Arbatel Cloak",
+      "description": "Body piece for Scholar",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Soothsayer's Chiton",
+      "description": "Body piece for Astrologian",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Chevalier's Gauntlets",
+      "description": "Hands piece for Paladin",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Boii Gauntlets",
+      "description": "Hands piece for Warrior",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Bale Gauntlets",
+      "description": "Hands piece for Dark Knight",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Bodyguard's Fingerless Gloves",
+      "description": "Hands piece for Gunbreaker",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Bhikku Gloves",
+      "description": "Hands piece for Monk",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Pteroslaver Gauntlets",
+      "description": "Hands piece for Dragoon",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Kasuga Kote",
+      "description": "Hands piece for Samurai",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Hattori Tekko",
+      "description": "Hands piece for Ninja",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Fili Armlets",
+      "description": "Hands piece for Bard",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Gunslinger's Halfgloves",
+      "description": "Hands piece for Machinist",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Dancer's Armlets",
+      "description": "Hands piece for Dancer",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Wicce Wrist Torque",
+      "description": "Hands piece for Black Mage",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Beckoner's Fingerless Gloves",
+      "description": "Hands piece for Summoner",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Estoqueur's Gloves",
+      "description": "Hands piece for Red Mage",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Ebers Armlets",
+      "description": "Hands piece for White Mage",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Arbatel Gloves",
+      "description": "Hands piece for Scholar",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Soothsayer's Armlets",
+      "description": "Hands piece for Astrologian",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Chevalier's Poleyns",
+      "description": "Legs piece for Paladin",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Boii Brais",
+      "description": "Legs piece for Warrior",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Bale Flanchard",
+      "description": "Legs piece for Dark Knight",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Bodyguard's Trousers",
+      "description": "Legs piece for Gunbreaker",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Bhikku Poleyns",
+      "description": "Legs piece for Monk",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Pteroslaver Subligar",
+      "description": "Legs piece for Dragoon",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Kasuga Tsutsu-hakama",
+      "description": "Legs piece for Samurai",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Hattori Trousers",
+      "description": "Legs piece for Ninja",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Fili Bottoms",
+      "description": "Legs piece for Bard",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Gunslinger's Bottoms",
+      "description": "Legs piece for Machinist",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Dancer's Bottoms",
+      "description": "Legs piece for Dancer",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Wicce Bottoms",
+      "description": "Legs piece for Black Mage",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Beckoner's Sarouel",
+      "description": "Legs piece for Summoner",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Estoqueur's Bottoms",
+      "description": "Legs piece for Red Mage",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Ebers Skirt",
+      "description": "Legs piece for White Mage",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Arbatel Bottoms",
+      "description": "Legs piece for Scholar",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Soothsayer's Skirt",
+      "description": "Legs piece for Astrologian",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Chevalier's Sollerets",
+      "description": "Feet piece for Paladin",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Boii Boots",
+      "description": "Feet piece for Warrior",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Bale Sollerets",
+      "description": "Feet piece for Dark Knight",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Bodyguard's Thighboots",
+      "description": "Feet piece for Gunbreaker",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Bhikku Boots",
+      "description": "Feet piece for Monk",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Pteroslaver Greaves",
+      "description": "Feet piece for Dragoon",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Kasuga Zori",
+      "description": "Feet piece for Samurai",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Hattori Kyahan",
+      "description": "Feet piece for Ninja",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Fili Shoes",
+      "description": "Feet piece for Bard",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Gunslinger's Thighboots",
+      "description": "Feet piece for Machinist",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Dancer's Shoes",
+      "description": "Feet piece for Dancer",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Wicce Shoes",
+      "description": "Feet piece for Black Mage",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Beckoner's Crakows",
+      "description": "Feet piece for Summoner",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Estoqueur's Thighboots",
+      "description": "Feet piece for Red Mage",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Ebers Thighboots",
+      "description": "Feet piece for White Mage",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Arbatel Thighboots",
+      "description": "Feet piece for Scholar",
+      "image_url": null
+    },
+    {
+      "name": "Idealized Soothsayer's Sandals",
+      "description": "Feet piece for Astrologian",
+      "image_url": null
+    }
+  ]
+}

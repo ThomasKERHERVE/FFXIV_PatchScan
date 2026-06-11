@@ -1,0 +1,76 @@
+{
+  "patch_title": "Patch 4.21 Notes",
+  "patch_date": "2018-02-27",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/98f632cc4aaa15ac51d0d581c72dc03d12d5c51a",
+  "jobs_pve": [
+    {
+      "job": "Ninja",
+      "changes": [
+        "Resolved an issue wherein the effect of the ninja action Smoke Screen in conjunction with the melee DPS and magic ranged DPS role action Diversion caused players to lose enmity after every action taken."
+      ]
+    }
+  ],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Omega: Deltascape (Savage)",
+      "description": "Raid content that now features the Echo, which increases players' maximum HP, damage dealt, and healing potency by 10%.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Jade Stoa (Extreme)",
+      "description": "Trial content for which issues regarding boss behavior and movement were resolved.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Sigmascape V1.0",
+      "description": "Raid content for which an issue regarding battlefield transitions was resolved.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Sigmascape V1.0 (Savage)",
+      "description": "Raid content for which an issue regarding battlefield transitions was resolved.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Fashion Report",
+      "description": "A system where high scores and remaining attempts were not updating correctly in the Timers window.",
+      "location": "Gold Saucer",
+      "npc_location": "Masked Rose"
+    },
+    {
+      "name": "Glamour Dresser",
+      "description": "A system used to transform gear into a glamour.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Moogle Wall Chronometer",
+      "description": "A wall-mounted clock featuring Moogle motifs.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Spring Shirt",
+      "description": "An item previously incorrectly named.",
+      "image_url": null
+    },
+    {
+      "name": "Spring Bottoms",
+      "description": "An item previously incorrectly named.",
+      "image_url": null
+    },
+    {
+      "name": "Spring Shoes",
+      "description": "An item previously incorrectly named.",
+      "image_url": null
+    }
+  ]
+}

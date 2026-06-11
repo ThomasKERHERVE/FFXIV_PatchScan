@@ -1,7 +1,7 @@
 {
   "patch_title": "Patch 6.38 Notes",
   "patch_date": "2023-04-13",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/99372e256a66b3103f633b1951efb38c9a050aab/",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/99372e256a66b3103f633b1951efb38c9a050aab",
   "jobs_pve": [],
   "jobs_pvp": [
     {
@@ -83,65 +83,52 @@
   ],
   "new_content": [
     {
-      "name": "Pandæmonium: Abyssos",
-      "description": "Raid tier; weekly restrictions on entrance and rewards removed; treasure coffers now always appear.",
-      "location": null,
-      "npc_location": null
-    },
-    {
-      "name": "Abyssos: The Eighth Circle",
-      "description": "Raid floor; weekly restriction on receiving Unsung Blades of Abyssos removed.",
+      "name": "Pandæmonium: Abyssos (Savage)",
+      "description": "Weekly entrance restrictions removed; players can now proceed directly to any circle; two treasure coffers now always appear; weekly restriction on rewards removed.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Crystalline Conflict",
-      "description": "PvP system; season transition; match mechanics and music track adjustments.",
+      "description": "Adjustments to time until tactical crystal is unbound and frequency of pneumatic parade on the Clockwork Castletown stage; Season Five ends and Season Six begins.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Eureka Orthos",
-      "description": "Deep dungeon; fixed issues regarding enemy attack timing and aetherpool gear stats.",
-      "location": null,
-      "npc_location": null
-    },
-    {
-      "name": "Island Sanctuary",
-      "description": "System feature; resolved issue regarding animal naming.",
-      "location": null,
-      "npc_location": null
-    },
-    {
-      "name": "Splendorous Tools",
-      "description": "System feature; resolved display issue with item helptext for third-tier tools.",
+      "description": "Fixed issues regarding enemy attack timing and damage output scaling for certain aetherpool gear levels.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Instance Consolidation",
-      "description": "System feature; Mor Dhona, Radz-at-Han, Thavnair, and Mare Lamentorum no longer use multiple instances.",
-      "location": null,
+      "description": "Mor Dhona, Radz-at-Han, Thavnair, and Mare Lamentorum will no longer be separated into multiple instances.",
+      "location": "Mor Dhona, Radz-at-Han, Thavnair, Mare Lamentorum",
       "npc_location": null
     },
     {
-      "name": "Gear Augmentation",
-      "description": "Major feature; exchange of coins for Moonshine Brine to upgrade tomestone gear.",
-      "location": "Radz-at-Han",
-      "npc_location": "Nesvaaz (X:10.6 Y:10.0), Khaldeen (X:10.9 Y:10.4)"
+      "name": "Upgrading Equipment",
+      "description": "Moonshine Brine can be used to enhance weapons purchased with Allagan tomestones of causality.",
+      "location": null,
+      "npc_location": "Nesvaaz, Radz-at-Han (X:10.6 Y:10.0); Khaldeen, Radz-at-Han (X:10.9 Y:10.4)"
     }
   ],
   "housing": [
     {
+      "name": "Orthos aetherpool gear",
+      "description": "Equipment items for use in the Eureka Orthos deep dungeon.",
+      "image_url": null
+    },
+    {
       "name": "Valentione Rose Heels",
-      "description": "Feet gear item mentioned in Resolved Issues (graphics display issue for male Lalafells).",
+      "description": "Feet gear item, specifically noted for graphical display issues on male Lalafells.",
       "image_url": null
     }
   ],
   "glamour": [
     {
       "name": "Valentione Rose Heels",
-      "description": "Feet gear for which an issue with graphics displaying incorrectly on male Lalafells was resolved.",
+      "description": "Feet gear for which an issue with graphics on male Lalafells was resolved.",
       "image_url": null
     }
   ]

@@ -1,0 +1,516 @@
+{
+  "patch_title": "Patch 5.4 Notes",
+  "patch_date": "2020-12-15",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/230f6e0af3536f9a40654d783c8c2f1094131070",
+  "jobs_pve": [
+    {
+      "job": "Monk",
+      "changes": [
+        "Bootshine: Potency increased from 150 to 200; Leaden Fist potency increased from 300 to 370.",
+        "True Strike: Potency increased from 220 to 270; rear potency increased from 240 to 300.",
+        "Snap Punch: Potency increased from 210 to 270; flank potency increased from 230 to 300; Greased Lightning combo bonus removed.",
+        "Twin Snakes: Potency increased from 150 to 230; flank potency increased from 170 to 260.",
+        "Arm of the Destroyer: Potency increased from 80 to 110; Opo-opo form potency increased from 110 to 140.",
+        "Enhanced Greased Lightning: Trait removed.",
+        "Demolish: Potency increased from 70 to 80; rear potency increased from 90 to 110; DoT potency increased from 65 to 80; Greased Lightning combo bonus removed.",
+        "Rockbreaker: Potency increased from 120 to 150; Greased Lightning combo bonus removed.",
+        "Four-point Fury: Potency increased from 120 to 140.",
+        "Enhanced Greased Lightning II: Trait removed.",
+        "Perfect Balance: Revamped to grant 6 stacks allowing weaponskills to ignore form requirements; duration increased from 10 to 15 seconds.",
+        "Dragon Kick: Potency increased from 180 to 230; flank potency increased from 200 to 260.",
+        "Form Shift: Revamped to grant Formless Fist for 15s, allowing form-specific weaponskills to be executed without being in that form.",
+        "Meditation: Recast time reduced from 1.2 to 1 second.",
+        "The Forbidden Chakra: Potency reduced from 370 to 340.",
+        "Elixir Field: Potency increased from 200 to 250.",
+        "Tornado Kick: Potency reduced from 430 to 400; recast time increased from 10 to 45 seconds; Greased Lightning stack requirement removed.",
+        "Deep Meditation: Chakra opening chance upon critical damage increased from 50% to 80%.",
+        "Riddle of Earth: Revamped to reduce damage taken by 10% and nullify action direction requirements for 6s; max charges 3; recast reduced to 30 seconds.",
+        "Brotherhood: Effect changed from physical damage bonus to general damage bonus; Meditative Brotherhood now triggers off spells; chakra opening chance reduced from 30% to 20%.",
+        "Deep Meditation II: Chakra opening chance upon critical damage increased from 70% to 100%.",
+        "Riddle of Wind: Trait removed.",
+        "Anatman: Revamped to extend Twin Snakes and current form duration to maximum and halt expiration for 30s.",
+        "Six-sided Star: Potency increased from 400 to 540; added movement speed increase for 5s; Greased Lightning extension effect removed.",
+        "Greased Lightning (Trait/Mechanic): Lightning Gauge removed; Enhanced Greased Lightning traits updated to reduce weaponskill/spell cast/recast times and auto-attack delay."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Chaos Thrust: DoT potency increased from 45 to 50.",
+        "Fang and Claw: Potency increased from 320 to 330; flank potency increased from 360 to 370.",
+        "Wheeling Thrust: Potency increased from 320 to 330; rear potency increased from 360 to 370."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Spinning Edge: Potency increased from 220 to 230.",
+        "Gust Slash: Combo potency increased from 330 to 340."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Burst Shot: Potency increased from 240 to 250."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Jolt II: Potency increased from 280 to 290.",
+        "Enchanted Riposte: Potency increased from 210 to 220.",
+        "Enhanced Jolt: Verfire/Verstone potency increase changed from 300 to 310."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Energy Drain: Potency reduced from 150 to 100.",
+        "Biolysis: DoT potency increased from 60 to 70.",
+        "Broil III: Potency increased from 280 to 290."
+      ]
+    },
+    {
+      "job": "Blue Mage",
+      "changes": [
+        "Mighty Guard: Damage dealt reduction changed from 70% to 40%.",
+        "Sticky Tongue: Added enmity increase effect.",
+        "Devour: Aetherial Mimicry: Tank duration increase changed from 15s to 70s."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Monk",
+      "changes": [
+        "Greased Lightning and the Lightning Gauge have been removed.",
+        "Bootshine: Recast time has been reduced from 2.4 to 2 seconds.",
+        "True Strike: Recast time has been reduced from 2.4 to 2 seconds.",
+        "Snap Punch: Recast time has been reduced from 2.4 to 2 seconds. The combo bonus 'Grants Greased Lightning' has been removed.",
+        "Four-point Fury: Recast time has been reduced from 2.4 to 2 seconds.",
+        "Rockbreaker: Recast time has been reduced from 2.4 to 2 seconds. The combo bonus 'Grants Greased Lightning' has been removed.",
+        "Shoulder Tackle: Potency has been increased from 600 to 800. The additional effect 'Grants Greased Lightning' has been removed.",
+        "Tornado Kick: Potency has been reduced from 2,000 to 1,600. No longer requires stacks of Greased Lightning to execute. Recast time has been increased from 1 to 15 seconds. Maximum charges have been increased from 1 to 2.",
+        "Axe Kick: The additional effect 'Grants a stack of Greased Lightning for each enemy hit' has been removed.",
+        "Six-sided Star: Potency has been increased from 1,600 to 2,400. The additional effect 'Grants Greased Lightning' has been removed. Recast time has been reduced from 4.8 to 4 seconds."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Midare Setsugekka: Potency has been increased from 2,400 to 2,600.",
+        "Kaeshi: Setsugekka: Potency has been increased from 2,400 to 2,600."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "HP has been increased from 15,000 to 16,000."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "HP has been increased from 15,000 to 16,000."
+      ]
+    },
+    {
+      "job": "Dancer",
+      "changes": [
+        "HP has been increased from 15,000 to 16,000."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Excogitation: Healing potency has been increased from 3,000 to 4,000."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Lord of Crowns: Effect duration has been reduced from 30 to 10 seconds. Increase to damage dealt has been changed from 10% to 20%.",
+        "Lady of Crowns: Effect duration has been reduced from 30 to 10 seconds. Reduction to damage taken has been changed from 10% to 20%."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Matoya's Relict",
+      "description": "A new dungeon.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Shifting Oubliettes of Lyhe Ghiah",
+      "description": "A new instance accessed via portals in treasure dungeons.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Castrum Marinum",
+      "description": "A new trial.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Castrum Marinum (Extreme)",
+      "description": "A new extreme trial.",
+      "location": null,
+      "npc_location": "The Lochs (X:11.5 Y:22.5)"
+    },
+    {
+      "name": "The Navel (Unreal)",
+      "description": "A new unreal trial.",
+      "location": null,
+      "npc_location": "Idyllshire (X:7.0 Y:5.9)"
+    },
+    {
+      "name": "Eden's Promise",
+      "description": "A new raid dungeon.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Eden's Promise (Savage)",
+      "description": "A new savage raid dungeon.",
+      "location": null,
+      "npc_location": "Amh Araeng (X:26.8 Y:16.4)"
+    },
+    {
+      "name": "Main Scenario Quests",
+      "description": "New main scenario quests added.",
+      "location": "The Rising Stones",
+      "npc_location": "Krile"
+    },
+    {
+      "name": "The Sorrow of Werlyt",
+      "description": "New Chronicles of a New Era quest series additions.",
+      "location": "The Lochs (X:11.3 Y:22.5)",
+      "npc_location": "Resistance Officer"
+    },
+    {
+      "name": "Eden",
+      "description": "New Chronicles of a New Era quest series additions.",
+      "location": "Amh Araeng (X:26.7 Y:16.7)",
+      "npc_location": "Yalfort"
+    },
+    {
+      "name": "YoRHa: Dark Apocalypse",
+      "description": "New Chronicles of a New Era quest series additions.",
+      "location": "Kholusia (X:33.8 Y:18.0)",
+      "npc_location": "Konogg"
+    },
+    {
+      "name": "Safekeeping",
+      "description": "New role quest.",
+      "location": "The Crystarium (X:10.7 Y:15.3)",
+      "npc_location": "Cyella"
+    },
+    {
+      "name": "Void Quests",
+      "description": "New side story quest series.",
+      "location": "The Crystarium (X:10.7 Y:15.3)",
+      "npc_location": "Cyella"
+    },
+    {
+      "name": "Explorer Mode",
+      "description": "A feature allowing players to freely explore previously completed dungeons without enemies or obstacles.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Trust System",
+      "description": "System adjustments for dungeon selection and interface.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Faux Hollows",
+      "description": "Mini-game adjustments and new trial rotation.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Triple Triad",
+      "description": "New tournament formats (Open and Invitational) and ruleset (Draft).",
+      "location": "The Manderville Gold Saucer (X:4.5 Y:7.4)",
+      "npc_location": "Open tournament official"
+    },
+    {
+      "name": "Doman Mahjong",
+      "description": "Added Quick Match functionality and display settings.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Small Florist's Walls",
+      "description": "A set of four walls designed for those who wish to bedeck their home with an abundance of flowers. Allergy sufferers beware.",
+      "image_url": null
+    },
+    {
+      "name": "Medium Florist's Walls",
+      "description": "A set of four walls designed for those who wish to bedeck their home with an abundance of flowers─and be forever dusting the pollen from their deck chairs.",
+      "image_url": null
+    },
+    {
+      "name": "Large Florist's Walls",
+      "description": "A set of four walls designed for those who wish to bedeck their home with an abundance of flowers. Note that certain flora are known to attract murderbees.",
+      "image_url": null
+    },
+    {
+      "name": "Varied Wood Interior Wall",
+      "description": "While the wooden pieces may appear to be randomly placed, there is method in the madness. Or possibly madness in the method.",
+      "image_url": null
+    },
+    {
+      "name": "Herringbone Flooring",
+      "description": "Most herring would argue that their bones bear little resemblance to this flooring design.",
+      "image_url": null
+    },
+    {
+      "name": "Skylight Chandelier",
+      "description": "This exquisite piece utilizes natural sunlight to provide illumination. How it continues to work at night, however, is a closely guarded secret.",
+      "image_url": null
+    },
+    {
+      "name": "Parkside Tree",
+      "description": "The parkside quality of this tree does depend rather heavily on its vicinity to a park.",
+      "image_url": null
+    },
+    {
+      "name": "Toymaker's Show Window",
+      "description": "A perfect demonstration of one's toy-making abilities, or perhaps \"toy-buying\" abilities.",
+      "image_url": null
+    },
+    {
+      "name": "Designer's Show Window",
+      "description": "Placing anything in a glass display case has the effect of making it appear expensive and luxurious, which many designers rely on to justify their ludicrously high prices.",
+      "image_url": null
+    },
+    {
+      "name": "Smith's Show Window",
+      "description": "In case of emergency, smash glass and commence hacking and slashing.",
+      "image_url": null
+    },
+    {
+      "name": "Artist's Show Window",
+      "description": "Though it is customary to charge for admission to art exhibitions, passersby can experience these works of fine art for free.",
+      "image_url": null
+    },
+    {
+      "name": "Baker's Show Window",
+      "description": "When the sunlight hits the glass at the right angle, it has the effect of keeping the bread inside warm.",
+      "image_url": null
+    },
+    {
+      "name": "Brick Paving",
+      "description": "All these squares make a square.",
+      "image_url": null
+    },
+    {
+      "name": "Dragon Icon",
+      "description": "One may struggle to fit a statue of a large golden dragon wrapped around an expensive-looking indigo orb into their existing décor without spending large amounts of gil on suitably opulent furnishings to match.",
+      "image_url": null
+    },
+    {
+      "name": "Rose Trellis",
+      "description": "Keeps even the wildest of roses neatly organized.",
+      "image_url": null
+    },
+    {
+      "name": "Florist's Counter",
+      "description": "For some reason, the name \"flowermonger\" never quite caught on.",
+      "image_url": null
+    },
+    {
+      "name": "Antique Sink",
+      "description": "If by \"antique\" one means \"very old and likely to break at any moment,\" this sink has been accurately described.",
+      "image_url": null
+    },
+    {
+      "name": "Royal Lion",
+      "description": "It may be best to consider this as half of a matching pair, as a single lion statue tends to look a bit lonely by itself.",
+      "image_url": null
+    },
+    {
+      "name": "Goobbue Lamp",
+      "description": "The elegance of the softly glowing fruit and beautiful verdant leaves is strangely juxtaposed by the gormless expression of the goobbue base.",
+      "image_url": null
+    },
+    {
+      "name": "Dress Form",
+      "description": "Judging by its proportions, it appears to have been modeled after a Roegadyn woman, who have been rather in vogue as of late.",
+      "image_url": null
+    },
+    {
+      "name": "Tankard",
+      "description": "Contains enough ale to drown at least a couple of sorrows.",
+      "image_url": null
+    },
+    {
+      "name": "Showcase",
+      "description": "The lack of shelves makes this case ideally suited to displaying larger objects, unless one prefers to crouch while observing smaller ornaments.",
+      "image_url": null
+    },
+    {
+      "name": "Shelving Showcase",
+      "description": "Ready to be filled with countless trophies, provided one is gifted enough to earn them in the first place.",
+      "image_url": null
+    },
+    {
+      "name": "Grilled Eel Set",
+      "description": "An Eastern delicacy that fills stomachs as quickly as it empties coin purses. Connoisseurs advise eating only the smallest amount at a time, so as to make it last as long as possible.",
+      "image_url": null
+    },
+    {
+      "name": "Shakshouka Pot",
+      "description": "Of the many and varied ingredients that comprise this dish, it is the humble hen's egg that takes center stage.",
+      "image_url": null
+    },
+    {
+      "name": "Homemade Cookie Set",
+      "description": "This decorative ornament is ideal for giving guests the impression that one is an accomplished culinarian. Little will they know that the \"dough\" is in fact entirely inedible.",
+      "image_url": null
+    },
+    {
+      "name": "Toy Showcase",
+      "description": "It appears that stuffed animals have infested this showcase, which is normally reserved for more austere pieces of ornamentation.",
+      "image_url": null
+    },
+    {
+      "name": "Apparel Showcase",
+      "description": "Some people like others to see their items of finery even when they are not being worn.",
+      "image_url": null
+    },
+    {
+      "name": "Armament Showcase",
+      "description": "While such arms are largely displayed for heraldic purposes, they would still come in handy in a pinch.",
+      "image_url": null
+    },
+    {
+      "name": "Art Showcase",
+      "description": "Provides fine pieces of art some degree of protection from the sticky hands of overly curious children.",
+      "image_url": null
+    },
+    {
+      "name": "Baked Goods Showcase",
+      "description": "Though some people may be baffled by the idea of using pastries as ornaments, this display case is not for those people.",
+      "image_url": null
+    },
+    {
+      "name": "Emerald Weapon Bust",
+      "description": "Includes six floating manipulators, all of which appear to be offering to take one's coat.",
+      "image_url": null
+    },
+    {
+      "name": "Elemental Wheel",
+      "description": "Depicts the intrinsic relationships between the six elements, which govern all life on this star, and probably a few other stars to boot.",
+      "image_url": null
+    },
+    {
+      "name": "Swag Valance",
+      "description": "\"This room has too much...wall. We should cover some of it in cloth.\" ─Unknown furnishing connoisseur",
+      "image_url": null
+    },
+    {
+      "name": "Iron Torch",
+      "description": "Give your home that authentic \"scary castle\" feel, but make sure the room is well ventilated to avoid smoke inhalation.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "High House Bustle",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Rainbow Bustle",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Expeditioner's Coat",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Expeditioner's Kecks",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Expeditioner's Tabard",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Expeditioner's Pantalettes",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Dhalmelskin Coat",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Ramie Kecks",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Ramie Tabard",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Ramie Pantalettes",
+      "description": "The following items can now be equipped regardless of gender.",
+      "image_url": null
+    },
+    {
+      "name": "Calfskin Rider's Cap",
+      "description": "Headgear item",
+      "image_url": null
+    },
+    {
+      "name": "Calfskin Rider's Jacket",
+      "description": "Body gear item",
+      "image_url": null
+    },
+    {
+      "name": "Calfskin Rider's Gloves",
+      "description": "Hand gear item",
+      "image_url": null
+    },
+    {
+      "name": "Calfskin Rider's Bottoms",
+      "description": "Leg gear item",
+      "image_url": null
+    },
+    {
+      "name": "Calfskin Rider's Shoes",
+      "description": "Foot gear item",
+      "image_url": null
+    },
+    {
+      "name": "Prim Dot Parasol",
+      "description": "Fashion accessory.",
+      "image_url": null
+    },
+    {
+      "name": "Gold Parasaucer",
+      "description": "Fashion accessory.",
+      "image_url": null
+    },
+    {
+      "name": "Angel Wings",
+      "description": "Fashion accessory.",
+      "image_url": null
+    }
+  ]
+}

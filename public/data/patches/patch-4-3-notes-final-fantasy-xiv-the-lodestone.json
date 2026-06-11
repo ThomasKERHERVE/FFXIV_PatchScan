@@ -1,0 +1,556 @@
+{
+  "patch_title": "Patch 4.3 Notes",
+  "patch_date": "2018-05-29",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/13e322580acb8e9861160a6e08ccabfaff09eeee",
+  "jobs_pve": [
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Power Slash: Added Dark Arts potency of 240 and Dark Arts combo potency of 440.",
+        "Grit: MP cost reduced.",
+        "Dark Passenger: Potency increased from 100 to 140; Dark Arts potency increased from 240 to 280; added enmity increase effect; recast time increased from 30 to 60 seconds.",
+        "Dark Mind: Magic vulnerability reduction changed from 15% to 30%; Dark Arts effect removed.",
+        "Darkside: Effect no longer ends upon being incapacitated.",
+        "Shadow Wall: Recast time reduced from 180 to 120 seconds.",
+        "Plunge: Added Dark Arts potency of 340 and Dark Arts effect of increased enmity; reduced delay before using a skill after this action.",
+        "Sole Survivor: HP and MP gain increased from 20% to 30%; now restores 20% max HP/MP if status expires before target is defeated."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Purification: Added effect to reduce enmity by half.",
+        "Brotherhood: Now grants effects to all nearby party members; players can now receive multiple stacks of Meditative Brotherhood."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Jinpu: Combo potency increased from 280 to 300.",
+        "Third Eye: Damage reduction changed from 5% to 10%.",
+        "Shifu: Combo potency increased from 280 to 300.",
+        "Gekko: Combo potency increased from 400 to 420.",
+        "Kasha: Combo potency increased from 400 to 420.",
+        "Yukikaze: Combo potency increased from 340 to 360.",
+        "Merciful Eyes: Added effect to reduce enmity by 20%."
+      ]
+    },
+    {
+      "job": "Rogue / Ninja",
+      "changes": [
+        "Hide: Effect will no longer be dispelled when using Sprint."
+      ]
+    },
+    {
+      "job": "Thaumaturge / Black Mage",
+      "changes": [
+        "Aetherial Manipulation: Delay before character movement reduced.",
+        "Between the Lines: Delay before character movement reduced."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Whispering Dawn: Category changed from Spell to Ability; cast time made instant; healing potency increased from 100 to 120.",
+        "Aetherpact: Recast time reduced from 5 to 3 seconds.",
+        "Fey Union: Can now be interrupted to order faeries to use another action.",
+        "Dissolve Union: Recast time reduced from 5 seconds to 1 second.",
+        "Pet Actions: Pet actions with cast times can now be canceled when ordered to use a different pet action; Downburst cast time made instant."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Malefic: Cast time reduced from 2.5 to 1.5 seconds.",
+        "Malefic II: Cast time reduced from 2.5 to 1.5 seconds.",
+        "Malefic III: Cast time reduced from 2.5 to 1.5 seconds.",
+        "Lightspeed: MP cost reduction changed from 25% to 50%; reduction to attack magic potency removed; recast time reduced from 150 to 120 seconds.",
+        "Aspected Helios: Cast time reduced from 3 to 2.5 seconds."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Black Mage",
+      "changes": [
+        "New PvP action added: Night Wing (Puts target and all enemies nearby it to sleep, Duration: 3s)",
+        "Flare: Potency reduced from 3,000 to 2,500.",
+        "Freeze: Potency reduced from 2,000 to 1,500. Bind duration reduced from 4 to 2 seconds.",
+        "Convert: Additional effect 'resets Swiftcast and Aetherial Manipulation recast timers' added.",
+        "Aetherial Manipulation: Delay before character movement reduced.",
+        "PvP action removed: Sleep"
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "New PvP action added: Wither (Deals unaspected damage in a cone, potency 1,000 with falloff. Resets Bio III/Miasma III timer if active. Increases target's damage taken by 5% for 5s)",
+        "PvP action removed: Tri-bind"
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "New PvP action added: Monomachy (Increases damage dealt to target by 10% and lowers damage taken from target by 10%. Ends when action is executed on a different target)",
+        "Corps-a-corps: Additional effect 'inflicts target with Heavy for 3 seconds if suffering from a Monomachy effect' added.",
+        "Displacement: Additional effect 'binds target for 2 seconds if suffering from a Monomachy effect' added.",
+        "PvP action removed: Flunge"
+      ]
+    },
+    {
+      "job": "Paladin",
+      "changes": [
+        "HP reduced from 15,000 to 14,500."
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "Inner Release: Effect changed from 'halves Beast Gauge costs' to 'allows the use of Beast Gauge actions without cost.' Duration reduced from 10 to 6 seconds.",
+        "Inner Beast: Damage reduction effect duration increased from 4 to 5 seconds."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Katon: Potency increased from 1,000 to 1,250.",
+        "Hyoton: Potency increased from 1,000 to 1,250. Bind duration reduced from 4 to 2 seconds.",
+        "Bhavacakra: Recast time reduced from 40 to 30 seconds."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Higanbana: Damage over time potency increased from 250 to 300.",
+        "Tenka Goken: Potency increased from 1,500 to 2,000. Knockback distance increased from 6 to 10 yalms."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Repelling Shot: Bind duration reduced from 3 to 2 seconds."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Cure II: Healing potency reduced from 5,000 to 4,500.",
+        "Regen: Healing over time potency increased from 1,250 to 1,500. Duration reduced from 18 to 15 seconds.",
+        "Fluid Aura: Bind duration reduced from 3 to 2 seconds."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Adloquium: Healing potency increased from 2,500 to 3,000. Barrier effect changed to nullify damage equaling half the amount of HP restored.",
+        "Eye for an Eye: Barrier duration reduced from 6 to 5 seconds. Barrier damage reduction duration reduced from 6 to 5 seconds."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Malefic III: Bind duration reduced from 3 to 2 seconds.",
+        "Benefic II: Healing potency reduced from 5,000 to 4,500.",
+        "Disable: Duration reduced from 6 to 5 seconds."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "The Weapon's Refrain (Ultimate)",
+      "description": "An ultimate difficulty duty scheduled for patch 4.31.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Heaven-on-High",
+      "description": "A deep dungeon scheduled for patch 4.35.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Even Further Hildibrand Adventures",
+      "description": "A side story questline scheduled for patch 4.35.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Forbidden Land, Eureka Pagos",
+      "description": "An exploration zone scheduled for patch 4.36.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Gosetsu and Tsuyu",
+      "description": "New main scenario quest.",
+      "location": "Ruby Bazaar Offices (X:6.0 Y:6.1)",
+      "npc_location": "Alphinaud"
+    },
+    {
+      "name": "Tortoise in Time",
+      "description": "Chronicles of a New Era quest for The Four Lords.",
+      "location": "The Ruby Sea (X:27.8 Y:16.4)",
+      "npc_location": "Bunchin"
+    },
+    {
+      "name": "Uninvited",
+      "description": "Chronicles of a New Era quest for Return to Ivalice.",
+      "location": "Kugane (X:10.3 Y:12.0)",
+      "npc_location": "Lina Mewrilah"
+    },
+    {
+      "name": "It Takes an Enclave",
+      "description": "Unlock quest for the Doman Enclave reconstruction effort.",
+      "location": "Doman Enclave (X:5.5 Y:5.7)",
+      "npc_location": "Kozakura"
+    },
+    {
+      "name": "The Seaweed Is Always Greener",
+      "description": "Unlock quest for Custom Deliveries.",
+      "location": "Kugane (X:10.1 Y:9.9)",
+      "npc_location": "Kojin Hireling"
+    },
+    {
+      "name": "Up Where They Trade All Day in the Sun",
+      "description": "Custom Delivery quest.",
+      "location": "The Ruby Sea (X:28.3 Y:15.3)",
+      "npc_location": "Kurenai"
+    },
+    {
+      "name": "Something Fishy This Way Comes",
+      "description": "Namazu beast tribe main quest.",
+      "location": "The Azim Steppe (X:17.4 Y:37.5)",
+      "npc_location": "Floundering Namazu"
+    },
+    {
+      "name": "One Size Fits All",
+      "description": "Namazu beast tribe quest.",
+      "location": "The Azim Steppe (X:6.1 Y:23.3)",
+      "npc_location": null
+    },
+    {
+      "name": "Cross-world linkshells (CWLS)",
+      "description": "A system enabling communication between players on different servers within the same data center.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Doman Enclave Reconstruction",
+      "description": "A feature where players donate items to finance the reconstruction of the Doman Enclave.",
+      "location": "Doman Enclave",
+      "npc_location": null
+    },
+    {
+      "name": "Swallow's Compass",
+      "description": "A new dungeon for four players.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Ridorana Lighthouse",
+      "description": "A new alliance raid for 24 players.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Duty Roulette: Normal Raids",
+      "description": "A new category of duty roulette.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Namazu Material Supplier Permit",
+      "description": "This permit allows the hiring of Namazu material suppliers on the estate.",
+      "image_url": null
+    },
+    {
+      "name": "Namazu Junkmonger Permit",
+      "description": "This permit allows the hiring of Namazu junkmongers on the estate.",
+      "image_url": null
+    },
+    {
+      "name": "Namazu Mender Permit",
+      "description": "This permit allows the hiring of Namazu menders on the estate.",
+      "image_url": null
+    },
+    {
+      "name": "Namazu Manservant Permit",
+      "description": "This permit allows the hiring of Namazu manservants on the estate.",
+      "image_url": null
+    },
+    {
+      "name": "Journeyman Salvager Permit",
+      "description": "This permit allows the hiring of journeyman salvagers on the estate.",
+      "image_url": null
+    },
+    {
+      "name": "Odder Otter Cottage Walls",
+      "description": "A set of four walls for those who wish to make their homes a bit odder.",
+      "image_url": null
+    },
+    {
+      "name": "Odder Otter House Walls",
+      "description": "A set of four walls for those who wish to make their homes somewhat odder.",
+      "image_url": null
+    },
+    {
+      "name": "Odder Otter Mansion Walls",
+      "description": "A set of four walls for those who wish to make their homes much odder.",
+      "image_url": null
+    },
+    {
+      "name": "Solid-brick Interior Wall",
+      "description": "An interior wall of rustic red brick.",
+      "image_url": null
+    },
+    {
+      "name": "Unfinished Wood Flooring",
+      "description": "Natural flooring made of unvarnished wood.",
+      "image_url": null
+    },
+    {
+      "name": "Dodo Message Book Stand",
+      "description": "A message book stand designed in the likeness of a dodo.",
+      "image_url": null
+    },
+    {
+      "name": "Picnic Set",
+      "description": "A picnic basket packed with a sumptuous feast. Quilted blanket included.",
+      "image_url": null
+    },
+    {
+      "name": "Namazu Effigy",
+      "description": "A towering and distinctly peculiar Namazu sculpture.",
+      "image_url": null
+    },
+    {
+      "name": "Merry Mog Bed",
+      "description": "A large bed with a lively moogle motif.",
+      "image_url": null
+    },
+    {
+      "name": "Disordered Wardrobe",
+      "description": "A wardrobe so cluttered one might fear a burglar's in their midst.",
+      "image_url": null
+    },
+    {
+      "name": "Glade Partition Door",
+      "description": "A dark wood partition with a built-in door designed to complement glade residences.",
+      "image_url": null
+    },
+    {
+      "name": "Oasis Partition Door",
+      "description": "A partition with a built-in door designed to complement oasis residences.",
+      "image_url": null
+    },
+    {
+      "name": "Bar Stool",
+      "description": "A stool to sit on, and tumble off of.",
+      "image_url": null
+    },
+    {
+      "name": "Grand Chair",
+      "description": "An imposing chair with an ornately wrought chocobo motif.",
+      "image_url": null
+    },
+    {
+      "name": "Portable Stepladder",
+      "description": "A versatile stepladder, perfect for ambitious homeowners attempting renovations.",
+      "image_url": null
+    },
+    {
+      "name": "Bar Counter",
+      "description": "That a homeowner in possession of a bar counter must be in desperate want of company is a truth acknowledged universally.",
+      "image_url": null
+    },
+    {
+      "name": "Southern Kitchen",
+      "description": "A lavishly carved freestanding stone kitchen.",
+      "image_url": null
+    },
+    {
+      "name": "Message Book Stand",
+      "description": "A tabletop message book stand for those with desk space to spare.",
+      "image_url": null
+    },
+    {
+      "name": "Sake Set",
+      "description": "A set of Hingan bottles and cups perfect for taking one's evening refreshment with guests.",
+      "image_url": null
+    },
+    {
+      "name": "Mellow Mog Lamp",
+      "description": "A gently glowing lamp depicting a moogle at rest upon his beloved cloud mallows.",
+      "image_url": null
+    },
+    {
+      "name": "Sewing Baskets",
+      "description": "Sewing baskets for the ambitious weaver, bursting with more materials than could ever conceivably be necessary.",
+      "image_url": null
+    },
+    {
+      "name": "Season Seven Lone Wolf Trophy",
+      "description": "A trophy awarded to those who \"left their mark\" in Season Seven of the Feast.",
+      "image_url": null
+    },
+    {
+      "name": "Laundry Basket",
+      "description": "A basket realistically filled past the brim with soiled habiliments.",
+      "image_url": null
+    },
+    {
+      "name": "Leather Bags",
+      "description": "No one need know that these bags are not real Fen-Ylls.",
+      "image_url": null
+    },
+    {
+      "name": "Cozy Leather Shoes",
+      "description": "Perfect for busy adventurers, this decorative set of shoes in assorted sizes will give even the most neglected home that lived-in look.",
+      "image_url": null
+    },
+    {
+      "name": "Assorted Candles",
+      "description": "Whatever you enshrine with these many, many candles is your business.",
+      "image_url": null
+    },
+    {
+      "name": "Glade Bachelor's Chest",
+      "description": "A compact chest of drawers designed to complement glade residences.",
+      "image_url": null
+    },
+    {
+      "name": "Wine Glass",
+      "description": "Merely placing this glass in any home adds a veneer of sophistication.",
+      "image_url": null
+    },
+    {
+      "name": "Sumptuous Dimension Castle Vase",
+      "description": "A vase of colorful flowers just as described in the pages of an ancient tome.",
+      "image_url": null
+    },
+    {
+      "name": "Imposing Dimension Castle Vase",
+      "description": "A towering vase just as described in the pages of an ancient tome.",
+      "image_url": null
+    },
+    {
+      "name": "Stuffed Namazu",
+      "description": "A lovingly rendered plush Namazu, complete with most meaningful bell and glazed gaze.",
+      "image_url": null
+    },
+    {
+      "name": "Basket of Steamed Buns",
+      "description": "Meat buns so fresh that they have yet to be removed from the steaming basket.",
+      "image_url": null
+    },
+    {
+      "name": "Miniature Iloh",
+      "description": "A charming scale model of a Xaela encampment.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Cleaning Supplies",
+      "description": "A broom and bucket of the sort commonly used in Hingan homes.",
+      "image_url": null
+    },
+    {
+      "name": "Ame-zaiku Set",
+      "description": "Candy kneaded into a variety of intricate shapes by a Doman artisan.",
+      "image_url": null
+    },
+    {
+      "name": "Jellyfish Lamp",
+      "description": "A lamp that resembles a luminous jellyfish in every way─except the painful ones.",
+      "image_url": null
+    },
+    {
+      "name": "Falcons Banner",
+      "description": "Show your undying support for the Falcons with this authentic banner.",
+      "image_url": null
+    },
+    {
+      "name": "Ravens Banner",
+      "description": "Show your undying support for the Ravens with this authentic banner.",
+      "image_url": null
+    },
+    {
+      "name": "Trouser Hanger",
+      "description": "Do not even consider hanging a jerkin on a trouser hanger.",
+      "image_url": null
+    },
+    {
+      "name": "Fool's Threshold",
+      "description": "A deceptively realistic imitation of a standard Hingan paper portal.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Quaintrelle's Hat",
+      "description": "Head piece item",
+      "image_url": null
+    },
+    {
+      "name": "Red Dahlia Corsage",
+      "description": "Head piece item",
+      "image_url": null
+    },
+    {
+      "name": "Blue Dahlia Corsage",
+      "description": "Head piece item",
+      "image_url": null
+    },
+    {
+      "name": "Yellow Dahlia Corsage",
+      "description": "Head piece item",
+      "image_url": null
+    },
+    {
+      "name": "Green Dahlia Corsage",
+      "description": "Head piece item",
+      "image_url": null
+    },
+    {
+      "name": "Orange Dahlia Corsage",
+      "description": "Head piece item",
+      "image_url": null
+    },
+    {
+      "name": "Purple Dahlia Corsage",
+      "description": "Head piece item",
+      "image_url": null
+    },
+    {
+      "name": "White Dahlia Corsage",
+      "description": "Head piece item",
+      "image_url": null
+    },
+    {
+      "name": "Black Dahlia Corsage",
+      "description": "Head piece item",
+      "image_url": null
+    },
+    {
+      "name": "Rainbow Dahlia Corsage",
+      "description": "Head piece item",
+      "image_url": null
+    },
+    {
+      "name": "Quaintrelle's Ruffled Dress",
+      "description": "Body piece item",
+      "image_url": null
+    },
+    {
+      "name": "Quaintrelle's Ruffled Skirt",
+      "description": "Legs piece item",
+      "image_url": null
+    },
+    {
+      "name": "Quaintrelle's Dress Shoes",
+      "description": "Feet piece item",
+      "image_url": null
+    }
+  ]
+}

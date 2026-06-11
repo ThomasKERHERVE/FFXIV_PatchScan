@@ -1,7 +1,7 @@
 {
   "patch_title": "Patch 7.15 Notes",
   "patch_date": "2024-12-24",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/864c7e51128b7a1dced4e193dcaefe7891620f8d/",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/864c7e51128b7a1dced4e193dcaefe7891620f8d",
   "jobs_pve": [],
   "jobs_pvp": [
     {
@@ -119,43 +119,43 @@
   "new_content": [
     {
       "name": "Cloud of Darkness (Chaotic)",
-      "description": "A new alliance raid designed for 24 players.",
+      "description": "A new alliance raid designed for 24 players. It requires item level 710 or above and features a 90-minute time limit.",
       "location": null,
-      "npc_location": "Tuliyollal (X:11.1 Y:14.6)"
+      "npc_location": "Wandering Minstrel in Tuliyollal (X:11.1 Y:14.6)"
     },
     {
       "name": "Appreciated Value",
-      "description": "New class quests for Disciples of the Hand or Land level 100.",
+      "description": "New class quest for Disciple of the Hand or Land level 100.",
       "location": "Tuliyollal (X:16.1 Y:11.1)",
       "npc_location": "Ropli"
     },
     {
-      "name": "Inconceivably Further Hildibrand Adventures",
-      "description": "New side story quest line titled 'The Case of the Displaced Inspector'.",
+      "name": "The Case of the Displaced Inspector",
+      "description": "New side story quest for Inconceivably Further Hildibrand Adventures (level 100).",
       "location": "Tuliyollal (X:14.5 Y:12.5)",
       "npc_location": "Nashu Mhakaracca"
     },
     {
       "name": "Laying New Tracks",
-      "description": "New custom deliveries quest featuring Nitowikwe.",
+      "description": "New custom delivery quest for Disciple of the Hand or Land level 90.",
       "location": "Tuliyollal (X:14.1 Y:12.1)",
       "npc_location": "Railroad Employee"
     },
     {
-      "name": "Custom Deliveries",
-      "description": "A system where players can deliver items to Nitowikwe for rewards such as gil, experience, and scrips.",
-      "location": null,
-      "npc_location": null
+      "name": "Custom Deliveries: Nitowikwe",
+      "description": "A system allowing players to complete deliveries to earn gil, experience points, and scrips, with the ability to unlock glamours for the NPC.",
+      "location": "Tuliyollal",
+      "npc_location": "Nitowikwe"
     },
     {
       "name": "Raid Finder",
-      "description": "The mandatory system used to register and enter the Cloud of Darkness (Chaotic) raid.",
+      "description": "System used to register and challenge Cloud of Darkness (Chaotic).",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Stone, Sky, Sea",
-      "description": "Combat training challenge system, now including Cloud of Darkness (Chaotic).",
+      "description": "Updated to include Cloud of Darkness (Chaotic) in the list of challenges.",
       "location": null,
       "npc_location": null
     }
@@ -163,7 +163,7 @@
   "housing": [
     {
       "name": "Ihuykatumu Flower Plot",
-      "description": "You don't know the name of these grotto flowers, but looking at them makes you feel a bit drowsie. ※Up to ten flower plots may be placed in a single garden, regardless of type.",
+      "description": "You don't know the name of these grotto flowers, but looking at them makes you feel a bit drowsie.",
       "image_url": null
     },
     {
@@ -264,206 +264,6 @@
   ],
   "glamour": [
     {
-      "name": "Dawnblazer Hat",
-      "description": "Head piece, Item Level: 1 / Equipment Level: 1",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Helm of Fending",
-      "description": "Head piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Helm of Maiming",
-      "description": "Head piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Headplume of Striking",
-      "description": "Head piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Headplume of Aiming",
-      "description": "Head piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Headplume of Scouting",
-      "description": "Head piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Horns of Casting",
-      "description": "Head piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Horns of Healing",
-      "description": "Head piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Dawnblazer Jerkin",
-      "description": "Body piece, Item Level: 1 / Equipment Level: 1",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Armor of Fending",
-      "description": "Body piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Armor of Maiming",
-      "description": "Body piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Chiton of Striking",
-      "description": "Body piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Cloak of Aiming",
-      "description": "Body piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Chiton of Scouting",
-      "description": "Body piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Top of Casting",
-      "description": "Body piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Top of Healing",
-      "description": "Body piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Dawnblazer Gloves",
-      "description": "Hands piece, Item Level: 1 / Equipment Level: 1",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Gauntlets of Fending",
-      "description": "Hands piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Gauntlets of Maiming",
-      "description": "Hands piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Clawtips of Striking",
-      "description": "Hands piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Clawtips of Aiming",
-      "description": "Hands piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Clawtips of Scouting",
-      "description": "Hands piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Gauntlets of Casting",
-      "description": "Hands piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Gauntlets of Healing",
-      "description": "Hands piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Dawnblazer Chaps",
-      "description": "Legs piece, Item Level: 1 / Equipment Level: 1",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Cuisses of Fending",
-      "description": "Legs piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Cuisses of Maiming",
-      "description": "Legs piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Tights of Striking",
-      "description": "Legs piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Tights of Aiming",
-      "description": "Legs piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Tights of Scouting",
-      "description": "Legs piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Brais of Casting",
-      "description": "Legs piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Brais of Healing",
-      "description": "Legs piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Dawnblazer Boots",
-      "description": "Feet piece, Item Level: 1 / Equipment Level: 1",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Greaves of Fending",
-      "description": "Feet piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Greaves of Maiming",
-      "description": "Feet piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Sollerets of Striking",
-      "description": "Feet piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Sollerets of Aiming",
-      "description": "Feet piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Sollerets of Scouting",
-      "description": "Feet piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Clawboots of Casting",
-      "description": "Feet piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
-      "name": "Clouddark Clawboots of Healing",
-      "description": "Feet piece, Item Level: 730 / Equipment Level: 100",
-      "image_url": null
-    },
-    {
       "name": "Dawnblazer Attire Coffer",
       "description": "A banded chest containing a complete set of Dawnblazer attire.",
       "image_url": null
@@ -495,7 +295,7 @@
     },
     {
       "name": "Shroud of Darkness",
-      "description": "Envelop yourself in this sliver of the Cloud of Darkness's raiment.",
+      "description": "Envelop yourself in this sliver of the Cloud of Darkness's raiment, and know the feeling of being the dread voidsent queen.",
       "image_url": null
     }
   ]

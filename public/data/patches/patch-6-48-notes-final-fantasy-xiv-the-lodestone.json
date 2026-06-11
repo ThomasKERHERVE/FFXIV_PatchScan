@@ -1,7 +1,7 @@
 {
   "patch_title": "Patch 6.48 Notes",
-  "patch_date": "2023-09-05",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/77ced00c8fc9b818f7a31b9925162a7007bf7882/",
+  "patch_date": "2023-08-08",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/77ced00c8fc9b818f7a31b9925162a7007bf7882",
   "jobs_pve": [],
   "jobs_pvp": [
     {
@@ -33,21 +33,29 @@
     {
       "job": "Astrologian",
       "changes": [
-        "Aspected Benefic: Cure potency of Diurnal Benefic has been increased from 1,000 to 2,000; Effect duration of Diurnal Benefic has been increased from 12 to 15 seconds; Barrier potency of Nocturnal Benefic has been increased from 4,000 to 5,000."
+        "Aspected Benefic: Cure potency of Diurnal Benefic has been increased from 1,000 to 2,000.",
+        "Aspected Benefic: Effect duration of Diurnal Benefic has been increased from 12 to 15 seconds.",
+        "Aspected Benefic: Barrier potency of Nocturnal Benefic has been increased from 4,000 to 5,000."
       ]
     }
   ],
   "new_content": [
     {
       "name": "Crystalline Conflict",
-      "description": "A competitive PvP mode featuring seasonal rankings and rewards.",
+      "description": "Season Seven will end and Season Eight will begin.",
       "location": "Wolves' Den Pier",
-      "npc_location": "Seasonal Quartermaster at Wolves' Den Pier (X:4.9 Y:5.7)"
+      "npc_location": "Seasonal Quartermaster (X:4.9 Y:5.7)"
     },
     {
-      "name": "The Omega Protocol (Ultimate)",
-      "description": "An Ultimate difficulty raid; patch 6.48 addressed an issue with the tower mechanic in the first phase.",
+      "name": "Omega Protocol (Ultimate)",
+      "description": "Resolved an issue where players would erroneously take damage when reentering the tower after successfully removing the Looper status effect.",
       "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Instance Management",
+      "description": "The division of Radz-at-Han and Thavnair into multiple instances has been removed.",
+      "location": "Radz-at-Han and Thavnair",
       "npc_location": null
     }
   ],

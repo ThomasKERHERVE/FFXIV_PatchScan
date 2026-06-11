@@ -1,0 +1,127 @@
+{
+  "patch_title": "Patch 4.41 Notes",
+  "patch_date": "2018-10-16",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/09707bd11f14584d48cb97f093d320c3bb3ecded",
+  "jobs_pve": [],
+  "jobs_pvp": [
+    {
+      "job": "Warrior",
+      "changes": [
+        "Holmgang: Recast time has been reduced from 60 to 45 seconds."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Power Slash: Reduction to target's HP recovered by healing magic has been increased from 10% to 15%.",
+        "The Blackest Night: Recast time has been increased from 10 to 15 seconds."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Chaos Thrust: Increase to damage dealt has been changed from 10% to 15%."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Demolish: Increase to damage dealt has been changed from 10% to 15%."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Yukikaze: Increase to damage dealt has been changed from 10% to 15%.",
+        "Hissatsu: Soten: Recast time has been increased from 5 to 10 seconds."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Shadow Fang: Increase to damage dealt has been changed from 10% to 15%."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Wither: Recast time has been reduced from 60 to 45 seconds."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Assize: The effect 'Reduces Assize recast time by a percentage corresponding to the number of healing Lilies stacked at time of action execution' has been removed.",
+        "Assize: Recast time has been reduced from 60 to 30 seconds."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Adloquium: Effect duration has been reduced from 15 to 10 seconds."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Essential Dignity: Recast time has been increased from 10 to 15 seconds."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Omega: Sigmascape (Savage)",
+      "description": "Battle instance featuring the Echo buff, which increases maximum HP, damage dealt, and healing potency by 10%.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Eureka Pagos",
+      "description": "Exploration zone where the rate of accumulating vitiated aether has been increased.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Feast (Season Ten)",
+      "description": "PvP competitive season where top solo combatants receive special rewards.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Duty Recorder",
+      "description": "System feature that can now be used in Alphascape V4.0 (Savage).",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Alphascape V4.0 (Savage)",
+      "description": "Raid instance that now supports the Duty Recorder.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Wooden Showcase",
+      "description": "An indoor furnishing item mentioned in relation to a recipe change.",
+      "image_url": null
+    },
+    {
+      "name": "Brick Garden Circle",
+      "description": "An outdoor furnishing item that was previously unobtainable.",
+      "image_url": null
+    },
+    {
+      "name": "Birdbath",
+      "description": "An outdoor furnishing item mentioned as part of a two-item set with the Brick Garden Circle from the FFXIV Furnishing Design Contest.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Yanxian Merchant's Haori",
+      "description": "A chest piece that had an issue preventing it from being used for glamour, which has been resolved in Patch 4.41.",
+      "image_url": null
+    }
+  ]
+}

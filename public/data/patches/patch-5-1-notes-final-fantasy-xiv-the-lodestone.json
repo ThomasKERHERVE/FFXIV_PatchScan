@@ -1,0 +1,616 @@
+{
+  "patch_title": "Patch 5.1 Notes",
+  "patch_date": "2019-10-29",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/3a23a8ba13b2c4152681ec4fa5716915b851002f",
+  "jobs_pve": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Sentinel: Duration has been increased from 10 to 15 seconds."
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "Vengeance: Duration has been increased from 10 to 15 seconds.",
+        "Holmgang: Duration has been increased from 6 to 8 seconds.",
+        "Raw Intuition: Duration has been increased from 5 to 6 seconds."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Shadow Wall: Duration has been increased from 10 to 15 seconds."
+      ]
+    },
+    {
+      "job": "Gunbreaker",
+      "changes": [
+        "Nebula: Duration has been increased from 10 to 15 seconds.",
+        "Resource cost display: Cartridge cost will no longer be displayed on action icons.",
+        "Job Gauge: A sound will now play when the Powder Gauge is full."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Rockbreaker: Area of effect has been changed from a cone to all nearby enemies.",
+        "Mantra: Effect potency has been reduced from 20% to 10%.",
+        "Anatman: Now triggers the cooldown of weaponskills upon execution and cannot be executed during weaponskill cooldown."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Blood of the Dragon: Recast time has been reduced from 30 to 25 seconds.",
+        "Geirskogul: Potency has been increased from 270 to 300.",
+        "Mirage Dive: Potency has been increased from 250 to 300.",
+        "Stardiver: Potency has been increased from 550 to 600."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Mug: Recast time has been increased from 110 to 120 seconds.",
+        "Trick Attack: Potency increased to 350; vulnerability up effect no longer requires rear execution; effect potency reduced to 5%; effect duration increased to 15 seconds.",
+        "Aeolian Edge: Combo potency increased to 420; rear combo potency increased to 480.",
+        "Shadow Fang: Potency increased to 200; no longer a combo action; DoT changed to additional effect with increased potency (90) and duration (30s); no longer shares recast; recast increased to 70s; does not interrupt combos.",
+        "Ten / Chi / Jin: Duration increased to 6s; max 2 charges; triggers cooldown of weaponskills, mudra, and Ninjutsu; weaponskills trigger its cooldown; recast increased to 20s; Mudra status no longer renewed by consecutive inputs.",
+        "Ninjutsu: Recast is no longer triggered when executed or when mudra timer runs out; triggers cooldown of weaponskills, mudra, and Ninjutsu; recast reduced to 1.5s.",
+        "Fuma Shuriken: Potency increased to 500; triggers cooldown of weaponskills, mudra, and Ninjutsu; recast reduced to 1.5s.",
+        "Katon: Potency increased to 500; triggers cooldown of weaponskills, mudra, and Ninjutsu; recast reduced to 1.5s.",
+        "Raiton: Potency increased to 800; triggers cooldown of weaponskills, mudra, and Ninjutsu; recast reduced to 1.5s.",
+        "Hyoton: Potency increased to 400; triggers cooldown of weaponskills, mudra, and Ninjutsu; recast reduced to 1.5s.",
+        "Huton: Triggers cooldown of weaponskills, mudra, and Ninjutsu; recast reduced to 1.5s.",
+        "Doton: Potency increased to 100; triggers cooldown of weaponskills, mudra, and Ninjutsu; recast reduced to 1.5s.",
+        "Suiton: Potency increased to 600; triggers cooldown of weaponskills, mudra, and Ninjutsu; recast reduced to 1.5s.",
+        "Kassatsu: No longer resets Ninjutsu recast; charges removed; grants one free ninjutsu; recast set to 60s.",
+        "Armor Crush: Combo potency increased to 400; flank combo potency increased to 460.",
+        "Dream Within a Dream: Duration increased to 15 seconds.",
+        "Hellfrog Medium: Potency reduced to 200; potency no longer reduced after first enemy; Ninki cost reduced to 50.",
+        "Bhavacakra: Potency reduced to 300; Ninki cost reduced to 50.",
+        "Ten Chi Jin: Revamped to convert 3 mudra into ninjutsu actions; duration 6s; same ninjutsu cannot be used twice; cannot be used with Kassatsu; ends upon moving; recast increased to 120s.",
+        "Meisui: Ninki increase changed to 50; recast increased to 120s.",
+        "Goka Mekkyaku: Potency increased to 750; triggers cooldown of weaponskills, mudra, and Ninjutsu; recast reduced to 1.5s.",
+        "Hyosho Ranryu: Potency increased to 1,200; triggers cooldown of weaponskills, mudra, and Ninjutsu; recast reduced to 1.5s.",
+        "Bunshin: Revamped to grant 5 stacks where shadow attacks on weaponskills; duration 30s; Ninki increase per attack 5; Ninki cost 50; recast 90s; shadow attacks remaining now displayed.",
+        "Shukiho: Ninki increase reduced to 5.",
+        "Shukiho II: Ninki increase changed to 10; requirement changed to landing Shadow Fang or Aeolian Edge/Armor Crush combos."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Meditate: Max stacks reduced to 3; status has no duration; triggers weaponskill cooldown.",
+        "Hagakure: Kenki increase changed to 10.",
+        "Tsubame-gaeshi: Cooldown affected by skill speed.",
+        "Shoha: Potency fixed at 400; requires 3 stacks of Meditation; recast increased to 15s.",
+        "Higanbana/Tenka Goken/Midare Setsugekka/Kaeshi:Higanbana/Kaeshi:Goken/Kaeshi:Setsugekka: Added effect: Grants a stack of Meditation (up to 3).",
+        "Jinpu/Shifu: Combo potency reduced to 320.",
+        "Fuga: Range and radius increased to 8; cone size increased.",
+        "Yukikaze: Combo potency reduced to 360.",
+        "Meikyo Shisui: Status icon will now display number of remaining weaponskills."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Mage's Ballad: Adds 1% damage dealt buff to party.",
+        "Army's Paeon: Adds 3% direct hit rate buff to party.",
+        "The Wanderer's Minuet: Adds 2% critical hit rate buff to party.",
+        "Sidewinder: Potency increased (200 for 1 effect, 300 for 2).",
+        "Troubadour: Recast reduced to 120s.",
+        "Apex Arrow: Range/radius increased to 25; potency reduced to 120 (scales up to 600 based on gauge).",
+        "Venomous/Wind/Caustic/Stormbite: DoT potency reduced.",
+        "Refulgent Arrow: Potency reduced to 330.",
+        "Job Gauge: Sound will now play when Soul Voice reaches 100."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Tactician: Recast reduced to 120s.",
+        "Split/Slug/Clean/Heat Blast/Heated Split/Heated Slug/Heated Clean Shot: Potency increased.",
+        "Flamethrower: Cooldown affected by skill speed.",
+        "Job Gauge: Battery Gauge cost displayed on icons; sound plays when gauge reaches 100."
+      ]
+    },
+    {
+      "job": "Dancer",
+      "changes": [
+        "Cascade: Potency increased to 250.",
+        "Fountain: Combo potency increased to 300.",
+        "Rising Windmill: Potency increased to 300.",
+        "Bloodshower: Potency increased to 350.",
+        "Curing Waltz: Cure potency increased to 300.",
+        "Shield Samba: Recast reduced to 120s.",
+        "Job Gauge: Cost no longer displayed on icons; sound plays at 4th Fourfold Feather."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Triplecast: Status icon now displays number of remaining stacks."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Egi Assault I/II: Category changed to spell.",
+        "Bane: No longer spreads Ruination; now applies Bio III and Miasma III.",
+        "Painflare: Potency reduced to 130.",
+        "Tri-disaster: Deals 300 potency damage; Ruination effect removed.",
+        "Dreadwyrm Trance/Firebird Trance: Recast reduced to 55s.",
+        "Ruin IV: Potency increased to 300.",
+        "Bio III/Miasma III: DoT/base potency increased.",
+        "Summon Bahamut: Wyrmwave can be executed immediately.",
+        "Everlasting Flight: Duration increased to 21s.",
+        "Pets (Carbuncles/Egi): Potencies adjusted; specific ability durations/effects adjusted.",
+        "Enhanced Bane: Now always extends duration of Bio and Miasma to max.",
+        "Enhanced Outburst: New trait at lvl 76 increases potency to 90.",
+        "Enhanced Tri-disaster: Trait removed.",
+        "Pets: Now displayed in party list; Demi-Phoenix no longer targetable; all pet attacks are magic."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Acceleration: Effect applies to next 3 spells; duration 20s; recast 55s.",
+        "Moulinet/Enchanted Moulinet: Range/radius increased to 8.",
+        "Contre Sixte: Potency increased to 380.",
+        "Jolt II: Potency increased to 280.",
+        "Enchanted Reprise: Potency increased to 300.",
+        "Enhanced Jolt: Increases potency of Verthunder/Veraero to 350 and Verfire/Verstone to 300.",
+        "Job Gauge: Mana costs now displayed on icons."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Asylum: Range/radius increased to 8.",
+        "Temperance: Effect applied immediately.",
+        "Job Gauge: Lily/Blood Lily costs no longer displayed on icons; sound plays when Blood Lily blooms; Balance Gauge changed to trigger at 80."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Summon Seraph: Duration increased to 22s; 2s delay after summon before acting.",
+        "Embrace/Seraphic Veil: No longer execute when pet is set to Steady.",
+        "Consolation: Recast increased to 30s."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Combust/Combust II/Combust III: DoT potency increased.",
+        "Essential Dignity: Max cure potency increased to 1,100.",
+        "Aspected Benefic/Helios: MP cost reduced.",
+        "Minor Arcana: Automatically changes to Lord/Lady of Crowns upon draw.",
+        "Collective Unconscious: Revamped to create celestial ring; effects based on Sect (Regen/Damage reduction); duration 18s/20s; radius increased to 8; recast reduced to 60s.",
+        "Malefic IV: Potency increased to 250."
+      ]
+    },
+    {
+      "job": "Blue Mage",
+      "changes": [
+        "Various actions: Potencies and mechanics (like 50% reduction after first enemy) adjusted.",
+        "Final Sting/Self-destruct/Transfusion: Apply 'Brush with Death' status; cannot be used while under effect.",
+        "Off-guard/Peculiar Light: Revamped; now share recast timer; effects/durations adjusted.",
+        "Learning: Success rate increased."
+      ]
+    },
+    {
+      "job": "Tank Role",
+      "changes": [
+        "Reprisal: Effect now applies to all nearby enemies; duration increased to 10 seconds."
+      ]
+    },
+    {
+      "job": "Healer Role",
+      "changes": [
+        "Rescue: Recast reduced to 120s."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "General PvP",
+      "changes": [
+        "Significant adjustments have been made to PvP actions.",
+        "The silence enfeeblement now affects weaponskills."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Resolved an issue wherein the additional effect of the white mage PvP action Dia could be stacked."
+      ]
+    },
+    {
+      "job": "Gunbreaker",
+      "changes": [
+        "Resolved an issue wherein the gunbreaker PvP action Rough Divide was executable even when bound."
+      ]
+    },
+    {
+      "job": "Healer Role",
+      "changes": [
+        "Resolved an issue wherein the healer PvP additional action Protect would reduce damage from Adrenaline Rush actions."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "YoRHa: Dark Apocalypse",
+      "description": "The first installment in the new alliance raid series.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Grand Cosmos",
+      "description": "A new dungeon that players may enter with Trust NPCs.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Minstrel's Ballad: Hades's Elegy",
+      "description": "A new trial accessible via the Raid Finder.",
+      "location": "The Crystarium",
+      "npc_location": "Minstreling Wanderer (X:7.5 Y:12.5)"
+    },
+    {
+      "name": "The Copied Factory",
+      "description": "A new alliance raid dungeon.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "New Game+",
+      "description": "A feature allowing players to revisit previously completed quests and cutscenes.",
+      "location": "Western Thanalan",
+      "npc_location": "Wistful whitebeard (X:12.0 Y:14.0)"
+    },
+    {
+      "name": "Fellowships",
+      "description": "A new social system for likeminded players to join together.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Ensemble Mode",
+      "description": "A performance feature that helps ensure party members are heard in sync.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Slice Is Right",
+      "description": "A new GATE added to the Manderville Gold Saucer.",
+      "location": "Gold Saucer",
+      "npc_location": "Strangely Garbed Gentleman (X:7.6 Y:4.7)"
+    },
+    {
+      "name": "Shaken Resolve",
+      "description": "A new main scenario quest.",
+      "location": "The Rising Stones",
+      "npc_location": "Tataru (X:6.0 Y:5.9)"
+    },
+    {
+      "name": "A Scandal in Komra",
+      "description": "A Chronicles of a New Era quest.",
+      "location": "Kholusia",
+      "npc_location": "Gossipy dwarf (X:12.9 Y:8.7)"
+    },
+    {
+      "name": "Oh, Beehive Yourself",
+      "description": "A new custom delivery quest.",
+      "location": "Eulmore",
+      "npc_location": "Kai-Shirr (X:11.7 Y:11.7)"
+    },
+    {
+      "name": "Manic Pixie Dream Realm",
+      "description": "A pixie beast tribe quest.",
+      "location": "The Crystarium",
+      "npc_location": "Pink Pixie (X:13.1 Y:15.3)"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Trader's Cottage Walls",
+      "description": "A set of four walls designed for those who wish to transform their estate into an item shop. ※Can only be used with cottages on small plots of land.",
+      "image_url": null
+    },
+    {
+      "name": "Trader's House Walls",
+      "description": "A set of four walls designed for those who wish to transform their estate into a trader's shop. ※Can only be used with houses on medium plots of land.",
+      "image_url": null
+    },
+    {
+      "name": "Trader's Mansion Walls",
+      "description": "A set of four walls designed for those who wish to transform their estate into an item shop. ※Can only be used with mansions on large plots of land.",
+      "image_url": null
+    },
+    {
+      "name": "Eulmoran Inner Wall",
+      "description": "A deep scarlet interior wall with a slightly rough texture for those estate owners who wish to recreate the opulence of Eulmore.",
+      "image_url": null
+    },
+    {
+      "name": "Eulmoran Marble Flooring",
+      "description": "Smooth, elegant floor tiling made of deep green marble.",
+      "image_url": null
+    },
+    {
+      "name": "Eulmoran Chandelier",
+      "description": "A bright and elegant ceiling light identical to those found throughout Eulmore.",
+      "image_url": null
+    },
+    {
+      "name": "Armorer's Stall",
+      "description": "Outdoor Furnishing. Place this stall in your garden to play at armorer whenever the mood takes you.",
+      "image_url": null
+    },
+    {
+      "name": "Weaponsmith's Stall",
+      "description": "Outdoor Furnishing. Place this stall in your garden to play at weaponsmith whenever the mood takes you.",
+      "image_url": null
+    },
+    {
+      "name": "Jeweler's Stall",
+      "description": "Outdoor Furnishing. Place this stall in your garden to play at jeweler whenever the mood takes you.",
+      "image_url": null
+    },
+    {
+      "name": "Florist's Stall",
+      "description": "Outdoor Furnishing. Place this stall in your garden to play at florist whenever the mood takes you.",
+      "image_url": null
+    },
+    {
+      "name": "Baker's Stall",
+      "description": "Outdoor Furnishing. Place this stall in your garden to play at baker whenever the mood takes you.",
+      "image_url": null
+    },
+    {
+      "name": "Fruiterer's Stall",
+      "description": "Outdoor Furnishing. Place this stall in your garden to play at fruiterer whenever the mood takes you.",
+      "image_url": null
+    },
+    {
+      "name": "Greengrocer's Stall",
+      "description": "Outdoor Furnishing. Place this stall in your garden to play at greengrocer whenever the mood takes you.",
+      "image_url": null
+    },
+    {
+      "name": "Bookseller's Stall",
+      "description": "Outdoor Furnishing. Place this stall in your garden to play at bookseller whenever the mood takes you.",
+      "image_url": null
+    },
+    {
+      "name": "Enchanter's Stall",
+      "description": "Outdoor Furnishing. Place this stall in your garden to play at enchanter whenever the mood takes you.",
+      "image_url": null
+    },
+    {
+      "name": "Butcher's Stall",
+      "description": "Outdoor Furnishing. Place this stall in your garden to play at butcher whenever the mood takes you.",
+      "image_url": null
+    },
+    {
+      "name": "Indoor Oriental Garden",
+      "description": "A miniaturized version of a traditional Far Eastern garden, complete with stone bridge, bamboo, and deer scarer.",
+      "image_url": null
+    },
+    {
+      "name": "Log Partition",
+      "description": "A partition designed in the style of a rustic cottage, reaching to the ceiling and so sturdy it may as well be a wall.",
+      "image_url": null
+    },
+    {
+      "name": "Lakeland Chair",
+      "description": "A chair in the classical elven style.",
+      "image_url": null
+    },
+    {
+      "name": "Leather Sofa",
+      "description": "This sofa is so luxurious that you will never want to get up.",
+      "image_url": null
+    },
+    {
+      "name": "Hades Trophy",
+      "description": "An ominous reminder of an unforgettable encounter with Hades, featuring a hefty base and ever-ominous purple aura.",
+      "image_url": null
+    },
+    {
+      "name": "Lakeland Table",
+      "description": "A table in the classical elven style.",
+      "image_url": null
+    },
+    {
+      "name": "Oriental Chawanmushi Lunch",
+      "description": "A piping hot bowl of the classic Far Eastern dish.",
+      "image_url": null
+    },
+    {
+      "name": "Golden Ewer",
+      "description": "A decorative metallic ewer that will bring a touch of decadence to any interior.",
+      "image_url": null
+    },
+    {
+      "name": "Misplaced Mog Slippers",
+      "description": "These delightful slippers can be placed—or misplaced—almost anywhere inside your home.",
+      "image_url": null
+    },
+    {
+      "name": "Basket of Flowers",
+      "description": "A simple basket of blooms that will work wonders in brightening up your home.",
+      "image_url": null
+    },
+    {
+      "name": "Ale Tap",
+      "description": "Capable of producing a stream of delicious ale whenever you please.",
+      "image_url": null
+    },
+    {
+      "name": "Allagan Tomestone of Frivolity",
+      "description": "Adds a dash of Allagan style to your interior.",
+      "image_url": null
+    },
+    {
+      "name": "Tabletop Hat Stand",
+      "description": "Comes complete with its own orange, wide-brimmed hat.",
+      "image_url": null
+    },
+    {
+      "name": "Necklace Display Stand",
+      "description": "This stand can be placed on almost any surface.",
+      "image_url": null
+    },
+    {
+      "name": "Set of Liquor Bottles",
+      "description": "Seven bottles of varying colors and sizes.",
+      "image_url": null
+    },
+    {
+      "name": "Stuffed Porxie",
+      "description": "Although porxies are generally created from animated clay, this stuffed version is somehow far more rigid.",
+      "image_url": null
+    },
+    {
+      "name": "Il Mheg Flower Lamp",
+      "description": "A softly glowing light fixture crafted to resemble one of the many lovely flowers in the pixies' home.",
+      "image_url": null
+    },
+    {
+      "name": "Macaron Cushion",
+      "description": "A cute cushion designed to resemble a popular pastry.",
+      "image_url": null
+    },
+    {
+      "name": "Oasis Wall-Mounted Fountain",
+      "description": "A wall-mounted fountain that sends water tumbling into the decorative dish below.",
+      "image_url": null
+    },
+    {
+      "name": "Imitation Long Window",
+      "description": "Its size and ability to illuminate your abode despite merely being mounted on your wall are sure to impress your guests.",
+      "image_url": null
+    },
+    {
+      "name": "Shirt Display Rack",
+      "description": "The shirts placed upon this shelf are perfectly folded.",
+      "image_url": null
+    },
+    {
+      "name": "Flooring Mat",
+      "description": "A large, square mat made from long wooden planks, perfect for decorating interior floors.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "No.2 Type B Goggles",
+      "description": "Head piece glamour item.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/a/1LbK-2Cqoku3zorQFR0VQ6jP0Y.png"
+    },
+    {
+      "name": "Red Campanula Corsage",
+      "description": "Head piece glamour item.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/z/6PLTZ82M99GJ7tKOee1RSwvNrQ.png"
+    },
+    {
+      "name": "Blue Campanula Corsage",
+      "description": "Head piece glamour item.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/8/2GwuzUcvqLa-hgQeLUyd8xarI8.png"
+    },
+    {
+      "name": "Yellow Campanula Corsage",
+      "description": "Head piece glamour item.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/5/67ZyAIzQUaYoWBmyvFwNvGmCnQ.png"
+    },
+    {
+      "name": "Green Campanula Corsage",
+      "description": "Head piece glamour item.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/-/Y5JdwnEWYfyO7OlH27eKIm91Ok.png"
+    },
+    {
+      "name": "Orange Campanula Corsage",
+      "description": "Head piece glamour item.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/s/-JfULvMAf26L7AaU1OGaGYwanI.png"
+    },
+    {
+      "name": "Purple Campanula Corsage",
+      "description": "Head piece glamour item.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/p/HPudyOQcwdv97RBwj3FQC552ps.png"
+    },
+    {
+      "name": "White Campanula Corsage",
+      "description": "Head piece glamour item.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/S/-IC2xIQhTl2ymYW7deE1fOII04.png"
+    },
+    {
+      "name": "Black Campanula Corsage",
+      "description": "Head piece glamour item.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/0/LIzzCdAQLNQ17P90_FIvlR_Dvg.jpg"
+    },
+    {
+      "name": "Rainbow Campanula Corsage",
+      "description": "Head piece glamour item.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/x/yLkmDjeDW9cU_l1mWtbQUnVIhs.png"
+    },
+    {
+      "name": "Urban Coat",
+      "description": "Body piece glamour item.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/c/tWvZpXDc_g6yQd5YKK2k5jhuns.png"
+    },
+    {
+      "name": "Rebel Coat",
+      "description": "Body piece glamour item.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/m/NCNLGrn3U9M85ky-NscraujvN8.png"
+    },
+    {
+      "name": "No.2 Type B Dress",
+      "description": "Body piece glamour item.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/udWU20sWmhYoEsQ_FtrAzVwJ3Q.png"
+    },
+    {
+      "name": "Urban Boots",
+      "description": "Feet piece glamour item.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/-/JlOGowlC5VCrSwg2z3aH8WGhGg.png"
+    },
+    {
+      "name": "Rebel Boots",
+      "description": "Feet piece glamour item.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/P/Lfl3LVb9KMPa5Ye8yxftZkelbc.png"
+    },
+    {
+      "name": "No.2 Type B Boots",
+      "description": "Feet piece glamour item.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/q/qy4dUGMNkjoyVqPweYMIpOApik.png"
+    },
+    {
+      "name": "No.2 Type B Goggles",
+      "description": "Head piece glamour item.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/N/OYPWhQVCkovUbVcMMck0O4HABU.png"
+    },
+    {
+      "name": "No.2 Type B Dress",
+      "description": "Body piece glamour item.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/W/wlHP1NMpdQHcPKUG-swlv71fhE.png"
+    },
+    {
+      "name": "No.2 Type B Gloves",
+      "description": "Hands piece glamour item.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/Z/1QWgBsVU7ZboWyMZlRjCQcDRJg.png"
+    },
+    {
+      "name": "No.2 Type B Leggings",
+      "description": "Legs piece glamour item.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/K/4fXwcEoJzDEmFRt-tD7PeeKvjE.png"
+    },
+    {
+      "name": "No.2 Type B Boots",
+      "description": "Feet piece glamour item.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/q/GiEpnP3oCXluFjrlPlM-mgIbS8.png"
+    }
+  ]
+}

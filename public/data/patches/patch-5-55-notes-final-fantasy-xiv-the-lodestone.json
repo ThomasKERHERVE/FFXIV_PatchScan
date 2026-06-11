@@ -1,0 +1,454 @@
+{
+  "patch_title": "Patch 5.55 Notes",
+  "patch_date": "2021-06-01",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/fdea72f70dafb7da0f7145ebc3f8c7d56dacb702",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Zadnor",
+      "description": "A new Bozjan battlefield where players assist the Bozjan Resistance in their effort to reclaim their homeland from the IVth Imperial Legion.",
+      "location": "Save the Queen area",
+      "npc_location": null
+    },
+    {
+      "name": "The Company We Keep",
+      "description": "Main scenario quest.",
+      "location": "The Rising Stones (X:6.0 Y:5.9)",
+      "npc_location": "Alisaie"
+    },
+    {
+      "name": "Whence the Heart Leads",
+      "description": "Chronicles of a New Era quest for YoRHa: Dark Apocalypse.",
+      "location": "Kholusia (X:34.7 Y:18.2)",
+      "npc_location": "Dig Site Chief"
+    },
+    {
+      "name": "A New Playing Field",
+      "description": "Save the Queen side story quest.",
+      "location": "Gangos (X:6.4 Y:5.7)",
+      "npc_location": "Marsak"
+    },
+    {
+      "name": "Resolve Unshaken",
+      "description": "Save the Queen side story quest.",
+      "location": "Zadnor (X:35.4 Y:35.0)",
+      "npc_location": "Mikoto"
+    },
+    {
+      "name": "Where Eagles Roost",
+      "description": "Save the Queen side story quest.",
+      "location": "Zadnor (X:35.0 Y:35.0)",
+      "npc_location": "Dmitar"
+    },
+    {
+      "name": "A Ruined Opportunity",
+      "description": "Repeatable side story quest.",
+      "location": "Gangos (X:6.8 Y:5.5)",
+      "npc_location": "Merlzirn"
+    },
+    {
+      "name": "What Dreams Are Made Of",
+      "description": "Resistance weapon story quest.",
+      "location": "Gangos (X:6.2 Y:5.0)",
+      "npc_location": "Gerolt"
+    },
+    {
+      "name": "Spare Parts",
+      "description": "Resistance weapon side story quest.",
+      "location": "Gangos (X:6.1 Y:4.9)",
+      "npc_location": "Zlatan"
+    },
+    {
+      "name": "Tell Me a Story",
+      "description": "Resistance weapon side story quest.",
+      "location": "Gangos (X:6.1 Y:4.9)",
+      "npc_location": "Zlatan"
+    },
+    {
+      "name": "A Fond Memory",
+      "description": "Resistance weapon side story quest.",
+      "location": "Gangos (X:6.1 Y:4.9)",
+      "npc_location": "Zlatan"
+    },
+    {
+      "name": "A Done Deal",
+      "description": "Resistance weapon side story quest.",
+      "location": "Gangos (X:6.2 Y:5.0)",
+      "npc_location": "Gerolt"
+    },
+    {
+      "name": "Irresistible",
+      "description": "Resistance weapon side story quest.",
+      "location": "Gangos (X:6.1 Y:4.9)",
+      "npc_location": "Zlatan"
+    },
+    {
+      "name": "The Adventurer with All the Cards",
+      "description": "Triple Triad side story quest.",
+      "location": "Gold Saucer (X:5.0 Y:6.7)",
+      "npc_location": "Gold Saucer Attendant"
+    },
+    {
+      "name": "Resistance honors system",
+      "description": "A system for players who have reached the maximum Resistance rank to receive honors (Suns of Fortitude, Valor, or Succor) to increase strength in Save the Queen areas.",
+      "location": "Zadnor",
+      "npc_location": "Resistance councilor (X:35.7 Y:34.9)"
+    },
+    {
+      "name": "Performance (Electric Guitar)",
+      "description": "A new instrument for the performance system with unique tone-changing capabilities.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Plot of Hydrangeas",
+      "description": "Lush hydrangea bushes with flowers blooming in all their vibrant glory.",
+      "image_url": null
+    },
+    {
+      "name": "Eastern Wisteria",
+      "description": "A tree native to the Far East that produces hanging clusters of light-purple flowers, pruned to fit in a garden.",
+      "image_url": null
+    },
+    {
+      "name": "Glade Gazebo",
+      "description": "A gazebo designed in the glade fashion.",
+      "image_url": null
+    },
+    {
+      "name": "Garden Tool Shelf",
+      "description": "A wooden shelf used for storing gardening implements.",
+      "image_url": null
+    },
+    {
+      "name": "Eastern Indoor Pond",
+      "description": "Constructed in the Eastern fashion, this pond is hemmed in natural stone and comes with carp swimming gracefully.",
+      "image_url": null
+    },
+    {
+      "name": "Grocery Counter Cart",
+      "description": "A mobile kitchen counter designed in the likeness of a wagon, laden with a selection of breads and fresh produce.",
+      "image_url": null
+    },
+    {
+      "name": "Wooden Spiral Staircase",
+      "description": "Spiral staircases are ideal for situations where there is insufficient space for conventional stairs.",
+      "image_url": null
+    },
+    {
+      "name": "Crystarium Wardrobe",
+      "description": "A simple-yet-elegant wardrobe designed in the Crystarium style, complete with an array of outfits.",
+      "image_url": null
+    },
+    {
+      "name": "Philosopher's Stone Table",
+      "description": "A round table of polished stone with a tree growing at its center, all of which is said to be conducive to enlightened debate.",
+      "image_url": null
+    },
+    {
+      "name": "Qiqirn Shelf",
+      "description": "Designed in a Qiqirn motif, this wooden shelf is as charming as it is practical.",
+      "image_url": null
+    },
+    {
+      "name": "Low Bookshelf",
+      "description": "A low, wide bookshelf featuring both open and closed compartments.",
+      "image_url": null
+    },
+    {
+      "name": "Mogbureau",
+      "description": "A writing table with storage designed in a moogle motif. Do not attempt to remove the pom-pom.",
+      "image_url": null
+    },
+    {
+      "name": "Queen's Rest",
+      "description": "A monument fashioned in the likeness of the holy blade Save the Queen, as sealed in its binding stone.",
+      "image_url": null
+    },
+    {
+      "name": "Stuffed Peerifool",
+      "description": "This stuffed Peerifool is so true to life, you can almost smell the cloying stench.",
+      "image_url": null
+    },
+    {
+      "name": "Aetherolectric Guitar",
+      "description": "This instrument, quickly adopted by minstrels and now beloved across Hydaelyn, represents the best that musical magitek has to offer.",
+      "image_url": null
+    },
+    {
+      "name": "Goobbue Wall Chronometer",
+      "description": "A wall chronometer designed in a goobbue motif, a dazed look upon the creature's face.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Replica Augmented Law's Order Bastard Sword",
+      "description": "Gladiator's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Replica Augmented Law's Order Labrys",
+      "description": "Marauder's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Replica Augmented Law's Order Zweihander",
+      "description": "Dark Knight's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Replica Augmented Law's Order Manatrigger",
+      "description": "Gunbreaker's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Replica Augmented Law's Order Knuckles",
+      "description": "Pugilist's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Replica Augmented Law's Order Spear",
+      "description": "Lancer's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Replica Augmented Law's Order Samurai Blade",
+      "description": "Samurai's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Replica Augmented Law's Order Knives",
+      "description": "Rogue's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Replica Augmented Law's Order Composite Bow",
+      "description": "Archer's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Replica Augmented Law's Order Revolver",
+      "description": "Machinist's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Replaced Augmented Law's Order Chakrams",
+      "description": "Dancer's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Replica Augmented Law's Order Rod",
+      "description": "Two-handed Thaumaturge's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Replica Augmented Law's Order Index",
+      "description": "Arcanist's Grimoire",
+      "image_url": null
+    },
+    {
+      "name": "Replica Augmented Law's Order Rapier",
+      "description": "Red Mage's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Replica Augmented Law's Order Cane",
+      "description": "Two-handed Conjurer's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Replica Augmented Law's Order Codex",
+      "description": "Scholar's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Replica Augmented Law's Order Astrometer",
+      "description": "Astrologian's Arm",
+      "image_url": null
+    },
+    {
+      "name": "Replica Augmented Law's Order Kite Shield",
+      "description": "Shield",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Circlet of Fending",
+      "description": "Head",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Circlet of Maiming",
+      "description": "Head",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Headband of Striking",
+      "description": "Head",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Headband of Scouting",
+      "description": "Head",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Headband of Aiming",
+      "description": "Head",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Circlet of Casting",
+      "description": "Head",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Circlet of Healing",
+      "description": "Head",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Harness of Fending",
+      "description": "Body",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Harness of Maiming",
+      "description": "Body",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Jerkin of Striking",
+      "description": "Body",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Jerkin of Scouting",
+      "description": "Body",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Jerkin of Aiming",
+      "description": "Body",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Acton of Casting",
+      "description": "Body",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Acton of Healing",
+      "description": "Body",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Gauntlets of Fending",
+      "description": "Hands",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Gauntlets of Maiming",
+      "description": "Hands",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Wristguards of Striking",
+      "description": "Hands",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Wristguards of Scouting",
+      "description": "Hands",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Wristguards of Aiming",
+      "description": "Hands",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Gloves of Casting",
+      "description": "Hands",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Gloves of Healing",
+      "description": "Hands",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Cuisses of Fending",
+      "description": "Legs",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Cuisses of Maiming",
+      "description": "Legs",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Hose of Striking",
+      "description": "Legs",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Hose of Scouting",
+      "description": "Legs",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Hose of Aiming",
+      "description": "Legs",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Tights of Casting",
+      "description": "Legs",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Tights of Healing",
+      "description": "Legs",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Shoes of Fending",
+      "description": "Feet",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Shoes of Maiming",
+      "description": "Feet",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Thighboots of Striking",
+      "description": "Feet",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Thighboots of Scouting",
+      "description": "Feet",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Thighboots of Aiming",
+      "description": "Feet",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Thighboots of Casting",
+      "description": "Feet",
+      "image_url": null
+    },
+    {
+      "name": "Blade's Thighboots of Healing",
+      "description": "Feet",
+      "image_url": null
+    }
+  ]
+}

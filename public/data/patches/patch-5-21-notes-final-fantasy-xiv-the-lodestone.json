@@ -1,0 +1,120 @@
+{
+  "patch_title": "Patch 5.21 Notes",
+  "patch_date": "2021-03-25",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/9ee566b4cad525c8330bfb3c09591b3f63f433fd",
+  "jobs_pve": [
+    {
+      "job": "All Jobs",
+      "changes": [
+        "Players will now receive the power of the Echo in Eden's Gate (Savage), increasing maximum HP, damage dealt, and healing potency by 10% upon entering."
+      ]
+    }
+  ],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "A Home in the Firmament",
+      "description": "Ishgardian Restoration story quest.",
+      "location": "The Firmament",
+      "npc_location": "Foncrineau (The Firmament X:11.0 Y:14.4)"
+    },
+    {
+      "name": "Ishgardian Restoration",
+      "description": "New restoration areas, materials, and expert recipes added to the Ishgardian Restoration system.",
+      "location": "The Firmament",
+      "npc_location": "Augebert (The Firmament X:11.4 Y:14.1)"
+    },
+    {
+      "name": "Kupo of Fortune",
+      "description": "A game of chance where players exchange stamps collected from Ishgardian Restoration item deliveries for a Kupo of Fortune card.",
+      "location": "The Firmament",
+      "npc_location": "Potkin (The Firmament X:12.2 Y:14.6) / Lizbeth (The Firmament X:12.2 Y:14.6)"
+    },
+    {
+      "name": "The Diadem",
+      "description": "Gatherer-exclusive content for collecting items for Ishgardian Restoration recipes.",
+      "location": "The Firmament",
+      "npc_location": "Aurvael (The Firmament X:10.8 Y:14.0)"
+    },
+    {
+      "name": "Ishgardian Restoration Rankings",
+      "description": "System to tally skyward points earned by crafters and gatherers during the seasonal ranking period.",
+      "location": "The Firmament",
+      "npc_location": "Ludovraint (The Firmament X:10.6 Y:14.6)"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Modern Mogseat",
+      "description": "Those who sit in this chair may be unable to get up again, but consider─will they really need to?",
+      "image_url": null
+    },
+    {
+      "name": "Garment Rack",
+      "description": "Featuring the latest in Ishgardian fashion...which is generally traditional Ishgardian fashion.",
+      "image_url": null
+    },
+    {
+      "name": "Moogle Round Table",
+      "description": "A charmingly rustic wooden table, attended by a trio of musical (though unmoving) moogles.",
+      "image_url": null
+    },
+    {
+      "name": "Apron Rack",
+      "description": "Every literally or figuratively butterfingered chef needs a good apron or two.",
+      "image_url": null
+    },
+    {
+      "name": "Lord Commander Portrait",
+      "description": "A commissioned portrait of Ser Aymeric entitled The Scion of House Borel. Original artist unknown.",
+      "image_url": null
+    },
+    {
+      "name": "Azure Dragoon Portrait",
+      "description": "A commissioned portrait of Ser Estinien entitled simply Azure. Original artist unknown.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Kupo Crown",
+      "description": "Head - Item Level: 1 / Equipment Level: 1",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/1/71x9270TssyZ-BY15BGKLpQ3_U.png"
+    },
+    {
+      "name": "Kupo Knit Cap",
+      "description": "Head - Item Level: 1 / Equipment Level: 1",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/c/WT9jpRaUeWfj_sHl9O2DibFQFw.png"
+    },
+    {
+      "name": "Kupo Jacket",
+      "description": "Body - Item Level: 1 / Equipment Level: 1",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/1/ENqmaGOvDLAmv2rsXL-19Y22qs.png"
+    },
+    {
+      "name": "Craftsman's Apron",
+      "description": "Body - Item Level: 1 / Equipment Level: 1",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/n/dzlIJG3KqRiEbORwH2d7LzyZaI.png"
+    },
+    {
+      "name": "Kupo Trousers",
+      "description": "Legs - Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Craftsman's Leather Trousers",
+      "description": "Legs - Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Kupo Shoes",
+      "description": "Feet - Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Craftsman's Leather Shoes",
+      "description": "Feet - Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    }
+  ]
+}

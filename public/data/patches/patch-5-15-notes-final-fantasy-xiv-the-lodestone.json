@@ -1,0 +1,143 @@
+{
+  "patch_title": "Patch 5.15 Notes",
+  "patch_date": "2019-12-12",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/c8640b7f57d04db1acf5434d9812b102c455cb79",
+  "jobs_pve": [
+    {
+      "job": "Blue Mage",
+      "changes": [
+        "The level cap has been increased to 60.",
+        "New blue magic spells have been added.",
+        "Mighty Guard: Enmity generation has been increased."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Ninja",
+      "changes": [
+        "Fixed an issue wherein the help text for the PvP actions Hyosho Ranryu and Goka Mekkyaku was incorrect (the effects of these actions were not changed)."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Fixed an issue wherein executing the PvP action Displacement would also trigger the cooldown of Corps-a-corps."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Onsal Hakair (Danshig Naadam)",
+      "description": "A new Frontline PvP campaign where three teams of 24 players battle to claim sacred sites known as ovoos to earn tactical ratings.",
+      "location": "Frontline",
+      "npc_location": null
+    },
+    {
+      "name": "Into the Blue Again",
+      "description": "New blue mage job quest.",
+      "location": "Ul'dah - Steps of Thal (X:12.5 Y:13.0)",
+      "npc_location": "Martyn"
+    },
+    {
+      "name": "Something Borrowed, Something Blue",
+      "description": "New blue mage job quest.",
+      "location": "Ul'dah - Steps of Thal (X:12.5 Y:13.0)",
+      "npc_location": "Martyn"
+    },
+    {
+      "name": "??? (Level 55 Blue Mage Quest)",
+      "description": "New blue mage job quest.",
+      "location": "Ul'dah - Steps of Thal (X:12.5 Y:13.0)",
+      "npc_location": "Martyn"
+    },
+    {
+      "name": "??? (Level 58 Blue Mage Quest)",
+      "description": "New blue mage job quest.",
+      "location": "Ul'dah - Steps of Thal (X:12.5 Y:13.0)",
+      "npc_location": "Martyn"
+    },
+    {
+      "name": "??? (Level 60 Blue Mage Quest)",
+      "description": "New blue mage job quest.",
+      "location": "Ul'dah - Steps of Thal (X:12.5 Y:13.0)",
+      "npc_location": "Martyn"
+    },
+    {
+      "name": "Blue Mage Log",
+      "description": "A system allowing blue mages to form parties and complete specific duties (dungeons, trials, and raids) to earn rewards.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Masked Carnivale",
+      "description": "New stages added to the existing Masked Carnivale challenge.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Vegetable Garden",
+      "description": "An enormous patch of soil for growing vegetables, complete with a selection of verdant crops. ※Up to ten flower plots may be placed in a single garden, regardless of type.",
+      "image_url": null
+    },
+    {
+      "name": "Cedar Tree",
+      "description": "A towering cedar tree that retains its vibrant green throughout the year.",
+      "image_url": null
+    },
+    {
+      "name": "Wooden Deck",
+      "description": "A large, rectangular section of wooden decking, complete with low fences, flower baskets, and a table laid with tea for two.",
+      "image_url": null
+    },
+    {
+      "name": "Greatwood Planter",
+      "description": "Botanists would no doubt be fascinated and confused in equal measure by this inexplicably effervescent potted plant.",
+      "image_url": null
+    },
+    {
+      "name": "Vanity Mirror",
+      "description": "This gold-framed mirror reflects your true self. Your true self apparently glows in a rather unsettling fashion.",
+      "image_url": null
+    },
+    {
+      "name": "Empty Boxes",
+      "description": "Though they take up rather a lot of floor space, this pile of boxes gives the impression that you have a host of admirers willing to shower you with gifts─which is surely more than worth the increased difficulty of walking through your home.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Incendiario",
+      "description": "Blue Mage's Arm, Item Level: 270 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Mask of Azuro",
+      "description": "Head, Item Level: 270 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Whalaqee Earrings",
+      "description": "Earrings, Item Level: 270 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Whalaqee Choker",
+      "description": "Necklace, Item Level: 270 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Whalaqee Bracelet",
+      "description": "Bracelets, Item Level: 270 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Whalaqee Ring",
+      "description": "Ring, Item Level: 270 / Equipment Level: 60",
+      "image_url": null
+    }
+  ]
+}

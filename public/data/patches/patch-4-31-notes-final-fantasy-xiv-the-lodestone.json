@@ -1,0 +1,98 @@
+{
+  "patch_title": "Patch 4.31 Notes",
+  "patch_date": "2018-06-12",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/661a0c5168742c1b2c1bacb42af5736902d63c36",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "The Weapon's Refrain (Ultimate)",
+      "description": "A high-end duty featuring a ballad of your triumph over the Ultima Weapon, as reimagined by the wandering minstrel.",
+      "location": "A battlefield that exists only in your mind's eye",
+      "npc_location": "Kugane (X:11.6 Y:12.6)"
+    }
+  ],
+  "housing": [],
+  "glamour": [
+    {
+      "name": "Curtana Ultima",
+      "description": "Gladiator's Arm, Item Level: 375 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Bravura Ultima",
+      "description": "Marauder's Arm, Item Level: 375 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Deathbringer Ultima",
+      "description": "Dark Knight's Arm, Item Level: 375 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Sphairai Ultima",
+      "description": "Pugilist's Arm, Item Level: 375 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Gae Bolg Ultima",
+      "description": "Lancer's Arm, Item Level: 375 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Amakura Ultima",
+      "description": "Samurai's Arm, Item Level: 375 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Yoshimitsu Ultima",
+      "description": "Rogue's Arm, Item Level: 375 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Artemis Bow Ultima",
+      "description": "Archer's Arm, Item Level: 375 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Ferdinand Ultima",
+      "description": "Machinist's Arm, Item Level: 375 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Stardust Rod Ultima",
+      "description": "Two-handed Thaumaturge's Arm, Item Level: 375 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "The Veil of Wiyu Ultima",
+      "description": "Arcanist's Grimoire, Item Level: 375 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Needle Ultima",
+      "description": "Red Mage's Arm, Item Level: 375 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Thyrus Ultima",
+      "description": "Two-handed Conjurer's Arm, Item Level: 375 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Omnilex Ultima",
+      "description": "Scholar's Arm, Item Level: 375 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Atlas Ultima",
+      "description": "Astrologian's Arm, Item Level: 375 / Equipment Level: 70",
+      "image_url": null
+    },
+    {
+      "name": "Holy Shield Ultima",
+      "description": "Shield, Item Level: 375 / Equipment Level: 70",
+      "image_url": null
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "patch_title": "Patch 5.05 Notes",
+  "patch_date": "2019-07-30",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/b6083dbda4e9497698b64163ffc8cee52472b81a",
+  "jobs_pve": [
+    {
+      "job": "Pugilist/Monk",
+      "changes": [
+        "Opo-Opo Form: Effect duration increased from 10 to 15 seconds.",
+        "Raptor Form: Effect duration increased from 10 to 15 seconds.",
+        "Coeurl Form: Effect duration increased from 10 to 15 seconds.",
+        "Mantra: Radius increased from 7 to 15 yalms.",
+        "Form Shift: The coeurl form bonus 'Extends Greased Lightning duration to maximum' has been added.",
+        "Meditation: The additional effect 'Opens all five chakra when used outside of combat.' has been added.",
+        "Riddle of Earth: Earth's Reply bonus now nullifies all action direction requirements.",
+        "Riddle of Fire: The effect 'increases weaponskill recast time by 15%' has been removed. Damage increase reduced from 30% to 25%.",
+        "The Forbidden Chakra: The condition 'Can only be executed while in combat' has been added.",
+        "Enlightenment: The condition 'Can only be executed while in combat' has been added."
+      ]
+    },
+    {
+      "job": "Rogue/Ninja",
+      "changes": [
+        "Gust Slash: Combo potency increased from 250 to 300."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Meikyo Shisui: Recast time reduced from 60 to 55 seconds.",
+        "Meditate: Effect duration increased from 30 to 45 seconds.",
+        "Tsubame-gaeshi: Cast time has been made instant.",
+        "Kaeshi: Higanbana: Cast time has been made instant.",
+        "Kaeshi: Goken: Cast time has been made instant.",
+        "Kaeshi: Setsugekka: Cast time has been made instant.",
+        "Shoha: Potency has been changed from 50/100/200/300/500 to 100/300/400/450/500.",
+        "Hagakure: New action added at level 68."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Reassemble: Recast time reduced from 60 to 55 seconds."
+      ]
+    },
+    {
+      "job": "Arcanist/Summoner",
+      "changes": [
+        "Summon: Recast time reduced from 10 to 3 seconds.",
+        "Summon II: Recast time reduced from 10 to 3 seconds.",
+        "Summon III: Recast time reduced from 10 to 3 seconds.",
+        "Bio: The delay before the detrimental status is applied has been reduced.",
+        "Bio II: The delay before the detrimental status is applied has been reduced.",
+        "Bio III: The delay before the detrimental status is applied has been reduced.",
+        "Tri-disaster: The delay before the detrimental status is applied has been reduced."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Jolt: MP cost has been reduced from 300 to 200.",
+        "Verthunder: MP cost has been reduced from 400 to 300.",
+        "Veraero: MP cost has been reduced from 400 to 300.",
+        "Verfire: MP cost has been reduced from 300 to 200.",
+        "Verstone: MP cost has been reduced from 300 to 200.",
+        "Jolt II: MP cost has been reduced from 300 to 200.",
+        "Verflare: MP cost has been reduced from 500 to 400.",
+        "Verholy: MP cost has been reduced from 500 to 400.",
+        "Scorch: MP cost has been reduced from 500 to 400.",
+        "Enchanted Reprise: Potency increased from 220 to 250. Mana requirements changed from 10 Black Mana and 10 White Mana to 5 Black Mana and 5 White Mana."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Art of War: Potency increased from 150 to 160.",
+        "Broil Mastery: Effect changed from 'increases the potency of Ruin II to 160' to 'increases the potency of Ruin II and Art of War to 160.'",
+        "Succor: Cast time is reduced from 2.5 to 2 seconds.",
+        "Energy Drain: New action added at level 45."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Gravity: Potency increased from 130 to 140. Cast time is reduced from 2.5 to 1.5 seconds.",
+        "Helios: Cast time is reduced from 2.5 to 2 seconds.",
+        "Aspected Helios: Cast time is reduced from 2.5 to 2 seconds. Healing potency has been increased from 100 to 200. Barrier's damage nullification reduced from 250% to 125%.",
+        "Lightspeed: Recast time reduced from 120 to 90 seconds.",
+        "Hyper Lightspeed: Effect changed from 'Reduces Lightspeed recast time by 10 seconds upon executing Essential Dignity' to 'Reduces Lightspeed recast time to 90 seconds.'",
+        "Celestial Opposition: Recast time reduced from 120 to 60 seconds. Healing potency has been increased from 100 to 200. Barrier's damage nullification reduced from 150% to 125%. Regen potency increased from 60 to 100. Effect Radius has been increased from 10 to 15 yalms.",
+        "Horoscope: Healing potency during Horoscope increased from 100 to 200. Horoscope Helios effect duration increased from 20 to 30 seconds.",
+        "Divination: Recast time reduced from 180 to 120 seconds. Damage increase effect changed from 2%/4%/6% to 4%/5%/6%.",
+        "Sleeve Draw: Effect changed to draw a card and grant two stacks of Sleeve Draw; using an arcanum consumes a stack and draws another card.",
+        "Celestial Intersection: Healing potency has been increased from 150 to 200. Barrier's damage nullification reduced from 250% to 200%. Regen potency increased from 80 to 150."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "HP has been increased from 17,500 to 20,000."
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "HP has been increased from 17,500 to 20,000."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "HP has been increased from 17,500 to 20,000."
+      ]
+    },
+    {
+      "job": "Gunbreaker",
+      "changes": [
+        "HP has been increased from 17,500 to 20,000."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "HP has been increased from 15,000 to 17,500."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "HP has been increased from 15,000 to 17,500."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "HP has been increased from 15,000 to 17,500."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "HP has been increased from 15,000 to 17,500.",
+        "Kaeshi: Higanbana: Cast time has been made instant.",
+        "Kaeshi: Goken: Cast time has been made instant.",
+        "Kaeshi: Setsugekka: Cast time has been made instant."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Eden's Gate (Savage)",
+      "description": "The Savage version of the Eden's Gate raid. Requires players to speak with Lewrey in Amh Araeng after completing the quest, 'The Next Piece of the Puzzle.'",
+      "location": "Amh Araeng",
+      "npc_location": "Lewrey (X:26.8 Y:16.4)"
+    },
+    {
+      "name": "The Dungeons of Lyhe Ghiah",
+      "description": "A special treasure hunt instance similar to the Aquapolis and the Lost Canals of Uznair. Accessed by opening treasure coffers from zonureskin treasure maps.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Return of the Monk",
+      "description": "Monk job quest; actions required to complete have been adjusted.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Allagan tomestones of phantasmagoria",
+      "description": "New currency for gear exchange.",
+      "location": "Eulmore",
+      "npc_location": "Aymark (X:10.2 Y:11.8) and Shee-Tatch (X:10.2 Y:12.0)"
+    },
+    {
+      "name": "Subaquatic Voyages",
+      "description": "Added new destinations, increased level cap to 60, and added new submersible parts.",
+      "location": null,
+      "npc_location": "Material supplier in residential districts"
+    },
+    {
+      "name": "The Feast",
+      "description": "Heavy Medal and Light Medal mechanics have been removed.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Eden's Gate apocrypha exchange",
+      "description": "System to exchange tokens from Eden's Gate (Savage) for gear.",
+      "location": "Amh Araeng and Eulmore",
+      "npc_location": "Ghul Gul (Amh Araeng X:26.6 Y:16.4) or Yhal Yal (Eulmore X:10.0 Y:11.5)"
+    },
+    {
+      "name": "New Furnishings and Orchestrion Rolls",
+      "description": "Additional items added for housing customization.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Magicked Bed",
+      "description": "This flying furnishing eliminates the need to get up in the morning─or ever. Modern magic put to good use at last!",
+      "image_url": null
+    },
+    {
+      "name": "Ruby Crystal Boule",
+      "description": "A mounted sample of the luminous red crystals that grow uninhibited on the sea floor.",
+      "image_url": null
+    },
+    {
+      "name": "Stuffed Fuath",
+      "description": "The manufacturer of this plush toy assures you that the gleam in its button eye is \"mischievous\" rather than \"murderous.\"",
+      "image_url": null
+    },
+    {
+      "name": "Antique Vessels",
+      "description": "These remarkably well-preserved vessels, retrieved from their lengthy slumber on the sea floor, probably belong in a museum. Oh well.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Hooded Fireglass Leather Vest",
+      "description": "Body, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Adventurer's Hooded Vest",
+      "description": "Body, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Cropped Fireglass Leather Slops",
+      "description": "Legs, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    }
+  ]
+}

@@ -1,17 +1,21 @@
 {
   "patch_title": "Patch 6.5 Notes",
   "patch_date": "2023-10-10",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/e17ce5b98068f6972379cef5adbc6c4b664f9780/",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/e17ce5b98068f6972379cef5adbc6c4b664f9780",
   "jobs_pve": [
     {
-      "job": "Paladin",
+      "job": "Gladiator / Paladin",
       "changes": [
         "Circle of Scorn: Potency increased from 120 to 140.",
-        "Requiescat: Potency increased from 300 to 320; Potency while under the effect of Requiescat increased from 900 to 920.",
+        "Requiescat: Potency increased from 300 to 320.",
         "Confiteor: Potency increased from 400 to 420.",
-        "Blade of Faith: Potency increased from 200 to 220; Potency while under the effect of Requiescat increased from 700 to 720.",
-        "Blade of Truth: Potency increased from 300 to 320; Potency while under the effect of Requiescat increased from 800 to 820.",
-        "Blade of Valor: Potency increased from 400 to 420; Potency while under the effect of Requiescat increased from 900 to 920."
+        "Requiescat (Confiteor combo): Potency increased from 900 to 920.",
+        "Blade of Faith: Potency increased from 200 to 220.",
+        "Requiescat (Blade of Faith combo): Potency increased from 700 to 720.",
+        "Blade of Truth: Potency increased from 300 to 320.",
+        "Requiescat (Blade of Truth combo): Potency increased from 800 to 820.",
+        "Blade of Valor: Potency increased from 400 to 420.",
+        "Requiescat (Blade of Valor combo): Potency increased from 900 to 920."
       ]
     },
     {
@@ -44,7 +48,7 @@
   "jobs_pvp": [],
   "new_content": [
     {
-      "name": "The Lunar Subterrane",
+      "name": "Lunar Subterrane",
       "description": "A new dungeon.",
       "location": null,
       "npc_location": null
@@ -63,13 +67,13 @@
     },
     {
       "name": "The Abyssal Fracture (Extreme)",
-      "description": "An extreme difficulty trial.",
+      "description": "Extreme difficulty trial.",
       "location": "Old Sharlayan",
-      "npc_location": "Wandering minstrel (X:12.7 Y:14.2)"
+      "npc_location": "Wandering Minstrel (X:12.7 Y:14.2)"
     },
     {
       "name": "The Singularity Reactor (Unreal)",
-      "description": "A new unreal difficulty trial.",
+      "description": "A new unreal trial replacing Containment Bay Z1T9 (Unreal).",
       "location": "Idyllshire",
       "npc_location": "Painfully Ishgardian Man (X:7.0 Y:5.9)"
     },
@@ -104,26 +108,20 @@
       "npc_location": "The Curious Courier (X:12.4 Y:28.7)"
     },
     {
-      "name": "Island Sanctuary",
-      "description": "Expanded with new rank cap, gathering areas, buildings, and the 'felicitous favors' system.",
+      "name": "Island Sanctuary Updates",
+      "description": "Includes felicitous favors, increased sanctuary rank (16 to 20), new gathering areas, materials, animals, and landmarks.",
+      "location": "Unnamed Island",
+      "npc_location": null
+    },
+    {
+      "name": "Duty Support",
+      "description": "Added for The Drowned City of Skalla, The Burn, and The Ghimlyt Dark.",
       "location": null,
       "npc_location": null
     },
     {
-      "name": "Custom Deliveries",
-      "description": "New deliveries available via Margrat.",
-      "location": null,
-      "npc_location": null
-    },
-    {
-      "name": "Subaquatic Voyages",
-      "description": "System updated with new areas and increased maximum submersible rank.",
-      "location": null,
-      "npc_location": null
-    },
-    {
-      "name": "Crystalline Conflict",
-      "description": "PvP system updated with new progress gauge UI elements and visual indicators.",
+      "name": "Crystalline Conflict Series 5",
+      "description": "New PvP season.",
       "location": null,
       "npc_location": null
     }
@@ -132,17 +130,17 @@
     {
       "name": "Fern Interior Wall",
       "description": "An interior wall delicately stenciled with a cascading leafy design.",
-      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/vNEWMNCsOTu709b_kR7LodvPu8.png"
+      "image_url": null
     },
     {
       "name": "Greige Carpet",
       "description": "For the ambivalent designer who cannot commit to grey or beige. Guaranteed unremarkable!",
-      "image_url": "https://img.finalfantasyxiv.com/lds/h/v/P_Alm3vC59j61Igjyp_v--KDic.png"
+      "image_url": null
     },
     {
       "name": "Seabed Ceiling Lamp",
       "description": "Simply install this light fixture to be immersed in the magic of the deep. Unsettling fish sold separately by popular request.",
-      "image_url": "https://img.finalfantasyxiv.com/lds/h/8/BZ0cgwm4TRlfTZ69XSmFIwYfmA.png"
+      "image_url": null
     },
     {
       "name": "Mobile Garden Stairs",
@@ -161,7 +159,7 @@
     },
     {
       "name": "Wildflower Bed",
-      "description": "A vibrant patch of various wild-growing flora.",
+      "description": "A vibrant patch of various wild-growing flora. ※Up to ten flower plots may be placed in a single garden, regardless of type.",
       "image_url": null
     },
     {
@@ -200,48 +198,18 @@
       "image_url": null
     },
     {
-      "name": "Storm Trophy (Left)",
-      "description": "A sensibly sized monument to Limsa Lominsa's Grand Company, the Maelstrom. One of three independent pieces.",
+      "name": "Storm Trophy (Left/Center/Right)",
+      "description": "A sensibly sized monument to Limsa Lominsa's Grand Company, the Maelstrom.",
       "image_url": null
     },
     {
-      "name": "Storm Trophy (Center)",
-      "description": "A sensibly sized monument to Limsa Lominsa's Grand Company, the Maelstrom. One of three independent pieces.",
+      "name": "Serpent Trophy (Left/Center/Right)",
+      "description": "A sensibly sized monument to Gridania's Grand Company, the Order of the Twin Adder.",
       "image_url": null
     },
     {
-      "name": "Storm Trophy (Right)",
-      "description": "A sensibly sized monument to Limsa Lominsa's Grand Company, the Maelstrom. One of three independent pieces.",
-      "image_url": null
-    },
-    {
-      "name": "Serpent Trophy (Left)",
-      "description": "A sensibly sized monument to Gridania's Grand Company, the Order of the Twin Adder. One of three independent pieces.",
-      "image_url": null
-    },
-    {
-      "name": "Serpent Trophy (Center)",
-      "description": "A sensibly sized monument to Gridania's Grand Company, the Order of the Twin Adder. One of three independent pieces.",
-      "image_url": null
-    },
-    {
-      "name": "Serpent Trophy (Right)",
-      "description": "A sensibly sized monument to Gridania's Grand Company, the Order of the Twin Adder. One of three independent pieces.",
-      "image_url": null
-    },
-    {
-      "name": "Flame Trophy (Left)",
-      "description": "A sensibly sized monument to Ul'dah's Grand Company, the Immortal Flames. One of three independent pieces.",
-      "image_url": null
-    },
-    {
-      "name": "Flame Trophy (Center)",
-      "description": "A sensibly sized monument to Ul'dah's Grand Company, the Immortal Flames. One of three independent pieces.",
-      "image_url": null
-    },
-    {
-      "name": "Flame Trophy (Right)",
-      "description": "A sensibly sized monument to Ul'dah's Grand Company, the Immortal Flames. One of three independent pieces.",
+      "name": "Flame Trophy (Left/Center/Right)",
+      "description": "A sensibly sized monument to Ul'dah's Grand Company, the Immortal Flames.",
       "image_url": null
     },
     {
@@ -251,7 +219,7 @@
     },
     {
       "name": "Manderville's Adventurer Flakes",
-      "description": "Manderville & Manderville's lovingly crafted Manderville's Adventurer Flakes (Manderville Mark Certified) supplement the diets of growing adventurers with the nutrients they need, while providing the convenience and non-perishability they crave. Now with flavor!",
+      "description": "Supplement the diets of growing adventurers with the nutrients they need.",
       "image_url": null
     },
     {
@@ -271,7 +239,7 @@
     },
     {
       "name": "Abyssal Wings Display",
-      "description": "A sculpture incorporating several of Zeromus's key features, the power to destroy life as we know it thankfully not among them.",
+      "description": "A sculpture incorporating several of Zeromus's key features.",
       "image_url": null
     },
     {
@@ -291,37 +259,12 @@
     },
     {
       "name": "Faerie Pendant Wall Light",
-      "description": "No pixies were harmed in the making of these whimsical floral lights, and thus none will be lurking in wait to exact revenge during your next visit to Il Mheg. For this, anyway.",
+      "description": "No pixies were harmed in the making of these whimsical floral lights.",
       "image_url": null
     },
     {
-      "name": "The Builder",
-      "description": "A heavenly portrait of Byregot, god of architecture and industry.",
-      "image_url": null
-    },
-    {
-      "name": "The Destroyer",
-      "description": "A heavenly portrait of Rhalgr, god of destruction.",
-      "image_url": null
-    },
-    {
-      "name": "The Warden",
-      "description": "A heavenly portrait of Azeyma, keeper of the sun and goddess of inquiry.",
-      "image_url": null
-    },
-    {
-      "name": "The Traders",
-      "description": "A heavenly portrait of Nald'thal, overseer of the underworld and god of commerce.",
-      "image_url": null
-    },
-    {
-      "name": "The Matron",
-      "description": "A heavenly portrait of Nophica, tender of soils and harvests and goddess of abundance.",
-      "image_url": null
-    },
-    {
-      "name": "The Keeper",
-      "description": "A heavenly portrait of Althyk, surveyor of change and space and god of time.",
+      "name": "The Builder / The Destroyer / The Warden / The Traders / The Matron / The Keeper",
+      "description": "Heavenly portraits of the Twelve.",
       "image_url": null
     },
     {
@@ -336,7 +279,7 @@
     },
     {
       "name": "Alzadaal's Treasure Rug",
-      "description": "This beautiful replication of the cloth draped across the bounties of Alzadaal's Legacy will remind you of all the coin you yet stand to gain.",
+      "description": "This beautiful replication of the cloth draped across the bounties of Alzadaal's Legacy.",
       "image_url": null
     },
     {
@@ -353,327 +296,327 @@
   "glamour": [
     {
       "name": "Red Lupin Corsage",
-      "description": "Head glamour item.",
+      "description": "Head glamour item",
       "image_url": null
     },
     {
       "name": "Blue Lupin Corsage",
-      "description": "Head glamour item.",
+      "description": "Head glamour item",
       "image_url": null
     },
     {
       "name": "Yellow Lupin Corsage",
-      "description": "Head glamour item.",
+      "description": "Head glamour item",
       "image_url": null
     },
     {
       "name": "Green Lupin Corsage",
-      "description": "Head glamour item.",
+      "description": "Head glamour item",
       "image_url": null
     },
     {
       "name": "Orange Lupin Corsage",
-      "description": "Head glamour item.",
+      "description": "Head glamour item",
       "image_url": null
     },
     {
       "name": "Purple Lupin Corsage",
-      "description": "Head glamour item.",
+      "description": "Head glamour item",
       "image_url": null
     },
     {
       "name": "White Lupin Corsage",
-      "description": "Head glamour item.",
+      "description": "Head glamour item",
       "image_url": null
     },
     {
       "name": "Black Lupin Corsage",
-      "description": "Head glamour item.",
+      "description": "Head glamour item",
       "image_url": null
     },
     {
       "name": "Rainbow Lupin Corsage",
-      "description": "Head glamour item.",
+      "description": "Head glamour item",
       "image_url": null
     },
     {
       "name": "Felicitous Hood",
-      "description": "Head glamour item.",
+      "description": "Head glamour item",
       "image_url": null
     },
     {
       "name": "Island Leaf Headdress",
-      "description": "Head glamour item.",
+      "description": "Head glamour item",
       "image_url": null
     },
     {
       "name": "Minmisle Top Hat",
-      "description": "Head glamour item.",
+      "description": "Head glamour item",
       "image_url": null
     },
     {
       "name": "Fierce Tyrant's Helm",
-      "description": "Head glamour item.",
+      "description": "Head glamour item",
       "image_url": null
     },
     {
       "name": "Model A-1 Tactical Goggles",
-      "description": "Head glamour item.",
+      "description": "Head glamour item",
       "image_url": null
     },
     {
       "name": "Model A-2 Tactical Goggles",
-      "description": "Head glamour item.",
+      "description": "Head glamour item",
       "image_url": null
     },
     {
       "name": "Model B-1 Tactical Halfmask",
-      "description": "Head glamour item.",
+      "description": "Head glamour item",
       "image_url": null
     },
     {
       "name": "Model B-2 Tactical Halfmask",
-      "description": "Head glamour item.",
+      "description": "Head glamour item",
       "image_url": null
     },
     {
       "name": "Model C-1 Tactical Hood",
-      "description": "Head glamour item.",
+      "description": "Head glamour item",
       "image_url": null
     },
     {
       "name": "Model C-2 Tactical Hood",
-      "description": "Head glamour item.",
+      "description": "Head glamour item",
       "image_url": null
     },
     {
       "name": "Martial Artist's Vest",
-      "description": "Body glamour item.",
+      "description": "Body glamour item",
       "image_url": null
     },
     {
       "name": "Martial Artist's Sleeveless Vest",
-      "description": "Body glamour item.",
+      "description": "Body glamour item",
       "image_url": null
     },
     {
       "name": "Felicitous Tunic",
-      "description": "Body glamour item.",
+      "description": "Body glamour item",
       "image_url": null
     },
     {
       "name": "Recreationisle Shirt",
-      "description": "Body glamour item.",
+      "description": "Body glamour item",
       "image_url": null
     },
     {
       "name": "Gleaner's Coat",
-      "description": "Body glamour item.",
+      "description": "Body glamour item",
       "image_url": null
     },
     {
       "name": "Fierce Tyrant's Cuirass",
-      "description": "Body glamour item.",
+      "description": "Body glamour item",
       "image_url": null
     },
     {
       "name": "Model A-1 Tactical Top",
-      "description": "Body glamour item.",
+      "description": "Body glamour item",
       "image_url": null
     },
     {
       "name": "Model A-2 Tactical Top",
-      "description": "Body glamour item.",
+      "description": "Body glamour item",
       "image_url": null
     },
     {
       "name": "Model B-1 Tactical Jacket",
-      "description": "Body glamour item.",
+      "description": "Body glamour item",
       "image_url": null
     },
     {
       "name": "Model B-2 Tactical Jacket",
-      "description": "Body glamour item.",
+      "description": "Body glamour item",
       "image_url": null
     },
     {
       "name": "Model C-1 Tactical Shirt",
-      "description": "Body glamour item.",
+      "description": "Body glamour item",
       "image_url": null
     },
     {
       "name": "Model C-2 Tactical Shirt",
-      "description": "Body glamour item.",
+      "description": "Body glamour item",
       "image_url": null
     },
     {
       "name": "Felicitous Mitts",
-      "description": "Hands glamour item.",
+      "description": "Hands glamour item",
       "image_url": null
     },
     {
       "name": "Recreationisle Dive Watch",
-      "description": "Hands glamour item.",
+      "description": "Hands glamour item",
       "image_url": null
     },
     {
       "name": "Gleaner's Work Gloves",
-      "description": "Hands glamour item.",
+      "description": "Hands glamour item",
       "image_url": null
     },
     {
       "name": "Fierce Tyrant's Gauntlets",
-      "description": "Hands glamour item.",
+      "description": "Hands glamour item",
       "image_url": null
     },
     {
       "name": "Model A-1 Tactical Fingerless Gloves",
-      "description": "Hands glamour item.",
+      "description": "Hands glamour item",
       "image_url": null
     },
     {
       "name": "Model A-2 Tactical Fingerless Gloves",
-      "description": "Hands glamour item.",
+      "description": "Hands glamour item",
       "image_url": null
     },
     {
       "name": "Model B-1 Tactical Armlets",
-      "description": "Hands glamour item.",
+      "description": "Hands glamour item",
       "image_url": null
     },
     {
       "name": "Model B-2 Tactical Armlets",
-      "description": "Hands glamour item.",
+      "description": "Hands glamour item",
       "image_url": null
     },
     {
       "name": "Model C-1 Tactical Gloves",
-      "description": "Hands glamour item.",
+      "description": "Hands glamour item",
       "image_url": null
     },
     {
       "name": "Model C-2 Tactical Gloves",
-      "description": "Hands glamour item.",
+      "description": "Hands glamour item",
       "image_url": null
     },
     {
       "name": "Felicitous Gaskins",
-      "description": "Legs glamour item.",
+      "description": "Legs glamour item",
       "image_url": null
     },
     {
       "name": "Recreationisle Halfslops",
-      "description": "Legs glamour item.",
+      "description": "Legs glamour item",
       "image_url": null
     },
     {
       "name": "Martial Artist's Slops",
-      "description": "Legs glamour item.",
+      "description": "Legs glamour item",
       "image_url": null
     },
     {
       "name": "Gleaner's Breeches",
-      "description": "Legs glamour item.",
+      "description": "Legs glamour item",
       "image_url": null
     },
     {
       "name": "Fierce Tyrant's Hose",
-      "description": "Legs glamour item.",
+      "description": "Legs glamour item",
       "image_url": null
     },
     {
       "name": "Model A-1 Tactical Bottoms",
-      "description": "Legs glamour item.",
+      "description": "Legs glamour item",
       "image_url": null
     },
     {
       "name": "Model A-2 Tactical Bottoms",
-      "description": "Legs glamour item.",
+      "description": "Legs glamour item",
       "image_url": null
     },
     {
       "name": "Model B-1 Tactical Bottoms",
-      "description": "Legs glamour item.",
+      "description": "Legs glamour item",
       "image_url": null
     },
     {
       "name": "Model B-2 Tactical Bottoms",
-      "description": "Legs glamour item.",
+      "description": "Legs glamour item",
       "image_url": null
     },
     {
       "name": "Model C-1 Tactical Bottoms",
-      "description": "Legs glamour item.",
+      "description": "Legs glamour item",
       "image_url": null
     },
     {
       "name": "Model C-2 Tactical Bottoms",
-      "description": "Legs glamour item.",
+      "description": "Legs glamour item",
       "image_url": null
     },
     {
       "name": "Felicitous Thighboots",
-      "description": "Feet glamour item.",
+      "description": "Feet glamour item",
       "image_url": null
     },
     {
       "name": "Recreationisle Shoes",
-      "description": "Feet glamour item.",
+      "description": "Feet glamour item",
       "image_url": null
     },
     {
       "name": "Martial Artist's Pumps",
-      "description": "Feet glamour item.",
+      "description": "Feet glamour item",
       "image_url": null
     },
     {
       "name": "Gleaner's Longboots",
-      "description": "Feet glamour item.",
+      "description": "Feet glamour item",
       "image_url": null
     },
     {
       "name": "Fierce Tyrant's Sollerets",
-      "description": "Feet glamour item.",
+      "description": "Feet glamour item",
       "image_url": null
     },
     {
       "name": "Model A-1 Tactical Shoes",
-      "description": "Feet glamour item.",
+      "description": "Feet glamour item",
       "image_url": null
     },
     {
       "name": "Model A-2 Tactical Shoes",
-      "description": "Feet glamour item.",
+      "description": "Feet glamour item",
       "image_url": null
     },
     {
       "name": "Model B-1 Tactical Shoes",
-      "description": "Feet glamour item.",
+      "description": "Feet glamour item",
       "image_url": null
     },
     {
       "name": "Model B-2 Tactical Shoes",
-      "description": "Feet glamour item.",
+      "description": "Feet glamour item",
       "image_url": null
     },
     {
       "name": "Model C-1 Tactical Longboots",
-      "description": "Feet glamour item.",
+      "description": "Feet glamour item",
       "image_url": null
     },
     {
       "name": "Model C-2 Tactical Longboots",
-      "description": "Feet glamour item.",
+      "description": "Feet glamour item",
       "image_url": null
     },
     {
       "name": "Faux Commander Earring",
-      "description": "Earrings glamour item.",
+      "description": "Earring glamour item",
       "image_url": null
     },
     {
       "name": "Faux Commander Necklace",
-      "description": "Necklace glamour item.",
+      "description": "Necklace glamour item",
       "image_url": null
     }
   ]

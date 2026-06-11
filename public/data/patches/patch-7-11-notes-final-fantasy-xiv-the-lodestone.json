@@ -1,7 +1,7 @@
 {
   "patch_title": "Patch 7.11 Notes",
-  "patch_date": "2025-01-21",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/f8506f4808c8db5d061b31eb511dc946902712f4/",
+  "patch_date": "2024-11-26",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/f8506f4808c8db5d061b31eb511dc946902712f4",
   "jobs_pve": [
     {
       "job": "Black Mage",
@@ -67,8 +67,8 @@
         "Wreath of Fire: Additional damage potency has been increased from 4,000 to 4,500.",
         "Flare Star: Potency has been increased from 16,000 to 18,000.",
         "Flare Star: Damage over time duration has been increased from 6 to 9 seconds.",
-        "General: Cast time of applicable actions has been reduced from 1.44 to 1.32 seconds.",
-        "General: Spell recast time has been reduced from 2.4 to 2.2 seconds."
+        "Applicable actions: Cast time has been reduced from 1.44 to 1.32 seconds.",
+        "Spell recast time has been reduced from 2.4 to 2.2 seconds."
       ]
     },
     {
@@ -92,12 +92,12 @@
     {
       "job": "Pictomancer",
       "changes": [
-        "Creature Motif: Cast time has been reduced from 2.5 to 2 seconds; Recast time reduced from 3.5 to 3 seconds.",
+        "Creature Motif: Cast time has been reduced from 2.5 to 2 seconds; recast time from 3.5 to 3 seconds.",
         "Living Muse: Recast time has been reduced from 20 to 16 seconds.",
-        "Pom Motif: Cast time reduced from 2.5 to 2 seconds; Recast time reduced from 3.5 to 3 seconds.",
-        "Wing Motif: Cast time reduced from 2.5 to 2 seconds; Recast time reduced from 3.5 to 3 seconds.",
-        "Claw Motif: Cast time reduced from 2.5 to 2 seconds; Recast time reduced from 3.5 to 3 seconds.",
-        "Maw Motif: Cast time reduced from 2.5 to 2 seconds; Recast time reduced from 3.5 to 3 seconds.",
+        "Pom Motif: Cast time has been reduced from 2.5 to 2 seconds; recast time from 3.5 to 3 seconds.",
+        "Wing Motif: Cast time has been reduced from 2.5 to 2 seconds; recast time from 3.5 to 3 seconds.",
+        "Claw Motif: Cast time has been reduced from 2.5 to 2 seconds; recast time from 3.5 to 3 seconds.",
+        "Maw Motif: Cast time has been reduced from 2.5 to 2 seconds; recast time from 3.5 to 3 seconds.",
         "Pom Muse: Recast time has been reduced from 20 to 16 seconds.",
         "Winged Muse: Recast time has been reduced from 20 to 16 seconds.",
         "Clawed Muse: Recast time has been reduced from 20 to 16 seconds.",
@@ -120,13 +120,49 @@
   "new_content": [
     {
       "name": "Futures Rewritten (Ultimate)",
-      "description": "The sixth ultimate duty. A ballad of futures rewritten, depicting a version of the land where the flood of light was thwarted differently.",
+      "description": "The sixth ultimate duty, where the wandering minstrel weaves a ballad of futures rewritten based on the land once blighted by the Flood of Light.",
       "location": "Raid Finder",
       "npc_location": "Tuliyollal (X:11.1 Y:14.6)"
     },
     {
       "name": "Role Quests (Dawntrail): Prologue",
-      "description": "New side story quests added to the game.",
+      "description": "New quests added to the Dawntrail role questline.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "New Game+",
+      "description": "New chapters have been added to the New Game+ system.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Custom Deliveries Client (Nitowikwe)",
+      "description": "A new custom deliveries client scheduled for Patch 7.15.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Wachumeqimeqi Quests",
+      "description": "New quests scheduled for Patch 7.15.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Inconceivably Further Hildibrand Adventures",
+      "description": "New sidequests scheduled for Patch 7.15.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Cloud of Darkness (Chaotic)",
+      "description": "A new high-end duty scheduled for release one week after Patch 7.15.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Additional Role Quests",
+      "description": "Additional role quests scheduled for Patch 7.16.",
       "location": null,
       "npc_location": null
     }

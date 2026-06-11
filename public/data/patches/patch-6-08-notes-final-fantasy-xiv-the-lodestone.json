@@ -1,16 +1,132 @@
 {
   "patch_title": "Patch 6.08 Notes",
   "patch_date": "2022-01-25",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/f47055e8df1bbd906a5b28d05ee0e0281b37cae0",
-  "jobs_pve": [],
-  "jobs_pvp": [],
-  "new_content": [
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/9325d2a5dae2ac34b9f970c803848e8fb1c3aaf7",
+  "jobs_pve": [
     {
-      "name": "System Update",
-      "description": "Minor adjustments, hotfixes and database optimization for Patch 6.08 Notes.",
-      "location": "Eorzea"
+      "job": "Paladin",
+      "changes": [
+        "Spirits Within: Potency increased from 250 to 270.",
+        "Expiacion: Potency increased from 300 to 340.",
+        "Blade of Faith: Potency increased from 250 to 420.",
+        "Blade of Truth: Potency increased from 350 to 500.",
+        "Blade of Valor: Potency increased from 420 to 580."
+      ]
+    },
+    {
+      "job": "Marauder / Warrior",
+      "changes": [
+        "Tomahawk: Potency increased from 100 to 150."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Phantom Rush: Potency increased from 1,000 to 1,150."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Dragon Sight: Range extended from 12y to 30y; target party member is no longer required to remain within 12y to receive Left Eye; channeling animation removed.",
+        "Raiden Thrust: Potency increased from 260 to 280.",
+        "Stardiver: Potency increased from 500 to 620.",
+        "Heavens' Thrust: Combo potency increased from 430 to 480.",
+        "Chaotic Spring: Combo potency increased from 240 to 260; rear combo potency increased from 280 to 300."
+      ]
+    },
+    {
+      "job": "Rogue / Ninja",
+      "changes": [
+        "Spinning Edge: Potency increased from 200 to 210.",
+        "Gust Slash: Potency increased from 140 to 160; combo potency increased from 300 to 320.",
+        "Aeolian Edge: Potency increased from 120 to 140; rear attack potency increased from 180 to 200; combo potency increased from 340 to 360; rear combo potency increased from 400 to 420.",
+        "Armor Crush: Potency increased from 120 to 140; flank attack potency increased from 180 to 200; combo potency increased from 320 to 340; flank combo potency increased from 380 to 400.",
+        "Hyosho Ranryu: Potency increased from 1,200 to 1,300."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Hakaze: Potency increased from 150 to 180.",
+        "Jinpu: Combo potency increased from 250 to 280.",
+        "Shifu: Combo potency increased from 250 to 280.",
+        "Ogi Namikiri: Potency increased from 800 to 900.",
+        "Kaeshi: Namikiri: Potency increased from 1,200 to 1,350."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Drill: Potency increased from 550 to 570.",
+        "Air Anchor: Potency increased from 550 to 570.",
+        "Chain Saw: Potency increased from 550 to 570."
+      ]
+    },
+    {
+      "job": "Dancer",
+      "changes": [
+        "Cascade: Potency increased from 180 to 220.",
+        "Fountain: Combo potency increased from 240 to 280.",
+        "Reverse Cascade: Potency increased from 240 to 280.",
+        "Fountainfall: Potency increased from 300 to 340.",
+        "Technical Finish: 4 Steps potency increased from 1,080 to 1,200."
+      ]
+    },
+    {
+      "job": "Thaumaturge / Black Mage",
+      "changes": [
+        "Fire III: Potency increased from 240 to 260.",
+        "Blizzard III: Potency increased from 240 to 260.",
+        "Blizzard IV: Potency increased from 300 to 310.",
+        "Fire IV: Potency increased from 300 to 310.",
+        "Xenoglossy: Potency increased from 660 to 760."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Astral Impulse: Potency increased from 430 to 440.",
+        "Ruby Rite: Potency increased from 430 to 450.",
+        "Fountain of Fire: Potency increased from 520 to 540."
+      ]
     }
   ],
-  "housing": [],
-  "glamour": []
+  "jobs_pvp": [
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Dragon Sight: Target party member is no longer required to remain within 15y in order to activate Left Eye.",
+        "Dragon Sight: The channeling animation between the dragoon and their target has been removed."
+      ]
+    },
+    {
+      "job": "Reaper",
+      "changes": [
+        "Arcane Crest: An issue wherein the action did not grant the Crest of Time Returned effect to party members further than 1 yalm away has been addressed."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "The Stigma Dreamscape",
+      "description": "Dungeon where an issue with Proto-Omega's Guided Missile and Chemical Missile target selection was resolved.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Dance Pole",
+      "description": "An indoor housing item that characters can interact with to perform a unique pole dancing emote.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Dance Pole",
+      "description": "An item that was incorrectly able to be sold to NPC vendors; this issue has been addressed.",
+      "image_url": null
+    }
+  ]
 }

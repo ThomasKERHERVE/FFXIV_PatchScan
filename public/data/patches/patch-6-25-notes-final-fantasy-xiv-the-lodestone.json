@@ -1,7 +1,7 @@
 {
-  "patch_title": "Patch 6.25",
+  "patch_title": "Patch 6.25 Notes",
   "patch_date": "2022-10-25",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/0210a35806ead4c80482b12a3edd9eb5e4db5bb0/",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/0210a35806ead4c80482b12a3edd9eb5e4db5bb0",
   "jobs_pve": [],
   "jobs_pvp": [
     {
@@ -19,28 +19,22 @@
   ],
   "new_content": [
     {
-      "name": "Somehow Further Hildibrand Adventures",
-      "description": "New side story quests.",
+      "name": "Somehow Further Hildibrand Adventures: Lunar Conspiracy",
+      "description": "New side story quest.",
       "location": "Radz-at-Han (X:11.8 Y:11.2)",
       "npc_location": "Nashu Mhakaracca"
     },
     {
-      "name": "Lunar Conspiracy",
-      "description": "Side story quest.",
-      "location": null,
-      "npc_location": null
-    },
-    {
       "name": "The Imperfect Gentleman",
-      "description": "Side story quest.",
-      "location": null,
-      "npc_location": null
+      "description": "New side story quest.",
+      "location": "???",
+      "npc_location": "???"
     },
     {
       "name": "Make It a Manderville",
-      "description": "Quest to obtain Manderville weapons.",
-      "location": null,
-      "npc_location": null
+      "description": "Quest to unlock Manderville weapons.",
+      "location": "???",
+      "npc_location": "???"
     },
     {
       "name": "A Key to the Past",
@@ -55,50 +49,44 @@
       "npc_location": "Jammingway"
     },
     {
-      "name": "Sil'dihn Subterrane",
-      "description": "Variant dungeon where players explore various routes in underground waterways.",
+      "name": "The Sil'dihn Subterrane",
+      "description": "A variant dungeon where players follow story threads in the underground waterways of Sil'dih.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Another Sil'dihn Subterrane",
-      "description": "Criterion dungeon designed for a party of 1 tank, 1 healer, and 2 DPS.",
-      "location": null,
-      "npc_location": "Osmon (Old Sharlayan X:11.9 Y:13.3)"
-    },
-    {
-      "name": "Another Sil'dihn Subterrane (Savage)",
-      "description": "High-difficulty version of the criterion dungeon.",
-      "location": null,
-      "npc_location": "Osmon (Old Sharlayan X:11.9 Y:13.3)"
-    },
-    {
-      "name": "Manderville Weapons",
-      "description": "New weapon progression system.",
+      "description": "A criterion dungeon requiring a party of 1 tank, 1 healer, and 2 DPS.",
       "location": null,
       "npc_location": null
     },
     {
-      "name": "Omicron Tribal Quests",
-      "description": "Tribal quests involving gathering and daily tasks.",
-      "location": "Ultima Thule (X:27.7 Y:24.7)",
+      "name": "Another Sil'dihn Subterrane (Savage)",
+      "description": "A high-difficulty version of the criterion dungeon.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Omicron tribal quests",
+      "description": "New tribal quests for Disciples of the Land.",
+      "location": "Ultima Thule",
+      "npc_location": "Jammingway"
+    },
+    {
+      "name": "V&C Dungeon Finder",
+      "description": "A new system used to register for variant and criterion dungeons.",
+      "location": null,
       "npc_location": null
     },
     {
       "name": "Quest Sync",
-      "description": "Automatic level adjustment system for tribal quests.",
+      "description": "Automatic level adjustment system for Omicron tribal quests.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Variant Actions",
-      "description": "Special abilities that allow for greater freedom of role choices in variant dungeons.",
-      "location": null,
-      "npc_location": null
-    },
-    {
-      "name": "V&C Dungeon Finder",
-      "description": "New system for registering to variant and criterion dungeons.",
+      "description": "Special actions available within variant dungeons to allow for greater freedom of role choices.",
       "location": null,
       "npc_location": null
     }
@@ -193,7 +181,7 @@
     },
     {
       "name": "Sabotender Parasol",
-      "description": "Equipped with this accessory, none shall prevent you twirling to your heart's delight─or else. Use to acquire a sabotender parasol.",
+      "description": "Miscellany, Fashion accessory",
       "image_url": null
     }
   ]

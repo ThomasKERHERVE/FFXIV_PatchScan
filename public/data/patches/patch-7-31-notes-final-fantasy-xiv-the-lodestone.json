@@ -1,19 +1,8 @@
 {
   "patch_title": "Patch 7.31 Notes",
   "patch_date": "2025-09-22",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/c04270777c63cabaa29d718eed4be4c1fca86c27/",
-  "jobs_pve": [
-    {
-      "job": "All Jobs",
-      "changes": [
-        "The minimum aetherpool gear strength enhancement from opening silver coffers has been increased from +1 to +5 (Palace of the Dead).",
-        "The success rate of aetherpool gear strength enhancement when opening silver coffers before floor 101 has been increased (Palace of the Dead).",
-        "Enhancement to aetherpool gear strength when defeating a boss has been increased from +1 to +10 (Palace of the Dead).",
-        "Aetherpool gear strength is now guaranteed to be enhanced upon defeating bosses on every boss floor, and upon completing floor 200 (Palace of the Dead).",
-        "Defeated enemies will now drop sustaining potions (Palace of the Dead)."
-      ]
-    }
-  ],
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/c04270777c63cabaa29d718eed4be4c1fca86c27",
+  "jobs_pve": [],
   "jobs_pvp": [
     {
       "job": "All Jobs",
@@ -140,14 +129,8 @@
   "new_content": [
     {
       "name": "Pilgrim's Traverse",
-      "description": "A new deep dungeon scheduled for release in Patch 7.35.",
+      "description": "A new deep dungeon scheduled to release in Patch 7.35.",
       "location": null,
-      "npc_location": null
-    },
-    {
-      "name": "Phaenna",
-      "description": "The next destination for the Cosmic Exploration Initiative.",
-      "location": "Cosmic Exploration / Phaenna",
       "npc_location": null
     },
     {
@@ -206,54 +189,60 @@
     },
     {
       "name": "Inconceivably Further Hildibrand Adventures",
-      "description": "Sidequests scheduled for release in Patch 7.35.",
+      "description": "Sidequests scheduled to release in Patch 7.35.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Yok Huy Allied Society Quests",
-      "description": "Allied society quests scheduled for release in Patch 7.35.",
+      "description": "Allied society quests scheduled to release in Patch 7.35.",
       "location": null,
       "npc_location": null
     },
     {
-      "name": "Cosmic Exploration Initiative",
-      "description": "A system for participating in stellar missions and projects on Phaenna, including mech ops and stellar successes.",
+      "name": "Cosmic Exploration",
+      "description": "A system for participating in stellar missions and projects on Phaenna.",
       "location": "Phaenna",
       "npc_location": null
     },
     {
-      "name": "Phantom Weapon Enhancement",
-      "description": "A battle system feature allowing players to enhance phantom weapons through quests.",
+      "name": "Phantom Weapons",
+      "description": "A system for enhancing weapon strength through specific quests and tomestone exchange.",
       "location": "The Phantom Village",
-      "npc_location": "Lydirceil"
+      "npc_location": "Lydirceil / Dodokkuli"
+    },
+    {
+      "name": "Phaenna",
+      "description": "The next destination for the Cosmic Exploration Initiative.",
+      "location": null,
+      "npc_location": null
     }
   ],
   "housing": [
     {
       "name": "Docking Station Cover",
       "description": "A freestanding roof to shelter one's rover from natural hazards.",
-      "image_url": "https://lds-img.finalfantasyxiv.com/h/L/EbtcXqPUGzsVYdi23FpUR25oH4.png"
+      "image_url": null
     },
     {
       "name": "Cosmic Circumferbench",
       "description": "A marvel of space-saving public infrastructure, this lamppost incorporates 360-degree seating area.",
-      "image_url": "https://lds-img.finalfantasyxiv.com/h/_/45sv0DETIHyh_gl2FyLgD6kUJE.png"
+      "image_url": null
     },
     {
       "name": "Cosmoseat",
       "description": "A futuristic bench developed for use on distant stars. Though visually appealing, its unyielding surface has led more than one overworked initiative member to question whether the future must needs be \"such a pain in the arse.\"",
-      "image_url": "https://lds-img.finalfantasyxiv.com/h/M/5T9l7AE_cSDlsD4EM4rjEQRgCE.png"
+      "image_url": null
     },
     {
       "name": "Cosmokitchen Partition",
       "description": "This futuristic partition incorporates a compact pantry and sink, as well as a helpful memo reminding users that even in the great expanse, everyone can smell your unwashed dishes.",
-      "image_url": "https://lds-img.finalfantasyxiv.com/h/v/oxRQz2cT8riqV5VLCu2-nADVkE.png"
+      "image_url": null
     },
     {
       "name": "Portable Exoterminal",
       "description": "Developed by the Cosmic Exploration Initiative, this device was designed for the purpose of easily sending mass updates to exotablets whether at camp or in the field─though some Loporrits have been caught red-pawed using it to design frivolous games.",
-      "image_url": "https://lds-img.finalfantasyxiv.com/h/v/hyXqlwktN4v0EssRTzkbMf_7OQ.png"
+      "image_url": null
     }
   ],
   "glamour": [

@@ -1,7 +1,7 @@
 {
   "patch_title": "Patch 7.5 Notes",
   "patch_date": "2026-05-13",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/07320affa7e0fcd9685afcbe54fbf55405b6d822/",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/07320affa7e0fcd9685afcbe54fbf55405b6d822",
   "jobs_pve": [
     {
       "job": "Warrior",
@@ -22,20 +22,16 @@
       "job": "Reaper",
       "changes": [
         "Gluttony: Potency has been increased from 520 to 560.",
-        "Void Reaping: Potency increase from the trait Melee Mastery III has been changed from 560 to 580.",
-        "Enhanced Void Reaping: Potency increase from the trait Melee Mastery III has been changed from 620 to 640.",
-        "Cross Reaping: Potency increase from the trait Melee Mastery III has been changed from 560 to 580.",
-        "Enhanced Cross Reaping: Potency increase from the trait Melee Mastery III has been changed from 620 to 640."
+        "Void Reaping: Potency increase from the trait Melee Mastery III has been changed from 560 to 580; Enhanced Void Reaping potency increase from the trait Melee Mastery III has been changed from 620 to 640.",
+        "Cross Reaping: Potency increase from the trait Melee Mastery III has been changed from 560 to 580; Enhanced Cross Reaping potency increase from the trait Melee Mastery III has been changed from 620 to 640."
       ]
     },
     {
       "job": "Viper",
       "changes": [
         "Vicewinder: Potency has been increased from 500 to 540.",
-        "Hunter's Coil: Potency has been increased from 570 to 630.",
-        "Hunter's Coil (Flank): Potency has been increased from 620 to 680.",
-        "Swiftskin's Coil: Potency has been increased from 570 to 630.",
-        "Swiftskin's Coil (Rear): Potency has been increased from 620 to 680.",
+        "Hunter's Coil: Potency has been increased from 570 to 630; Flank potency has been increased from 620 to 680.",
+        "Swiftskin's Coil: Potency has been increased from 570 to 630; Rear potency has been increased from 620 to 680.",
         "Reawaken: Reduction in potency after the first target has been changed from 80% to 75%.",
         "First Generation: Reduction in potency after the first target has been changed from 80% to 75%.",
         "Second Generation: Reduction in potency after the first target has been changed from 80% to 75%.",
@@ -71,91 +67,91 @@
     {
       "job": "All Jobs",
       "changes": [
-        "Recuperate: Cure potency increased from 15,000 to 16,000.",
-        "Guard: Damage reduction increased from 90% to 99%."
+        "Recuperate: Cure potency has been increased from 15,000 to 16,000.",
+        "Guard: Reduction to damage taken has been increased from 90% to 99%."
       ]
     },
     {
       "job": "Melee DPS",
       "changes": [
-        "Bloodbath: Damage dealt increase changed from 10% to 25%.",
+        "Bloodbath: Increase to damage dealt has been changed from 10% to 25%.",
         "Smite: Now ignores the effects of Guard when dealing damage."
       ]
     },
     {
       "job": "Healer",
       "changes": [
-        "Haelan: Cast time made instant.",
-        "Haelan: Cure potency increased from 15,000 to 16,000.",
-        "Haelan: Potency reduced to 8,000 when targeting self."
+        "Haelan: Cast time has been made instant.",
+        "Haelan: Cure potency has been increased from 15,000 to 16,000.",
+        "Haelan: Potency is now reduced to 8,000 when targeting self."
       ]
     },
     {
       "job": "Dragoon",
       "changes": [
-        "Chaotic Spring: HP absorption increased from 150% to 200%.",
-        "Horrid Roar: Recast time reduced from 24 to 20 seconds."
+        "Chaotic Spring: Amount of damage dealt absorbed as HP has been increased from 150% to 200%.",
+        "Horrid Roar: Recast time has been reduced from 24 to 20 seconds."
       ]
     },
     {
       "job": "Ninja",
       "changes": [
-        "Meisui: Regen potency increased from 4,000 to 5,000."
+        "Meisui: Regen potency has been increased from 4,000 to 5,000."
       ]
     },
     {
       "job": "Samurai",
       "changes": [
-        "Ogi Namikiri: Barrier potency when attacking two or more targets reduced from 10,000 to 8,000.",
-        "Meikyo Shisui: HP recovery increase from healing actions reduced from 20% to 15%.",
-        "Kaeshi: Namikiri: Barrier potency when attacking two or more targets reduced from 10,000 to 8,000.",
-        "Tendo Setsugekka: Cure potency reduced from 10,000 to 8,000.",
-        "Tendo Kaeshi Setsugekka: Cure potency reduced from 10,000 to 8,000."
+        "Ogi Namikiri: Potency of the barrier created when attacking two or more targets has been reduced from 10,000 to 8,000.",
+        "Meikyo Shisui: Increase to HP recovered via healing actions has been reduced from 20% to 15%.",
+        "Kaeshi: Namikiri: Potency of the barrier created when attacking two or more targets has been reduced from 10,000 to 8,000.",
+        "Tendo Setsugekka: Cure potency has been reduced from 10,000 to 8,000.",
+        "Tendo Kaeshi Setsugekka: Cure potency has been reduced from 10,000 to 8,000."
       ]
     },
     {
       "job": "Viper",
       "changes": [
-        "Bloodcoil: Potency increased from 8,000 to 10,000.",
-        "Slither: Movement speed increased from 25% to 50%.",
-        "Sanguine Feast: Potency increased from 8,000 to 10,000.",
-        "World-swallower: Added effect 'Absorbs 50% of damage dealt as HP'."
+        "Bloodcoil: Potency has been increased from 8,000 to 10,000.",
+        "Slither: Movement speed has been increased from 25% to 50%.",
+        "Sanguine Feast: Potency has been increased from 8,000 to 10,000.",
+        "World-swallower: The additional effect \"Absorbs 50% of damage dealt as HP\" has been added."
       ]
     },
     {
       "job": "Dancer",
       "changes": [
-        "Curing Waltz: Cure potency reduced from 12,000 to 10,000."
+        "Curing Waltz: Cure potency has been reduced from 12,000 to 10,000."
       ]
     },
     {
       "job": "Black Mage",
       "changes": [
-        "Xenoglossy: Charge time reduced from 16 to 15 seconds.",
-        "Flare: Potency increased from 13,500 to 15,000.",
-        "Freeze: Potency increased from 9,000 to 10,000.",
-        "Soul Resonance: Elemental Star effect duration increased from 30 to 60 seconds."
+        "Xenoglossy: Charge time has been reduced from 16 to 15 seconds.",
+        "Flare: Potency has been increased from 13,500 to 15,000.",
+        "Freeze: Potency has been increased from 9,000 to 10,000.",
+        "Soul Resonance: The effect duration of Elemental Star has been increased from 30 to 60 seconds."
       ]
     },
     {
       "job": "Summoner",
       "changes": [
-        "Mountain Buster: Added effect 'Reduces damage taken by 15%' for 5 seconds."
+        "Mountain Buster: The additional effect \"Reduces damage taken by 15%\" has been added with a duration of 5 seconds."
       ]
     },
     {
       "job": "Red Mage",
       "changes": [
-        "Corps-a-corps: Monomachy damage dealt increase to target increased from 10% to 15%.",
-        "Corps-a-corps: Monomachy damage taken reduction from target increased from 10% to 15%.",
-        "Forte: Effect duration increased from 4 to 5 seconds."
+        "Corps-a-corps: The effect of Monomachy which increases damage dealt to target has been increased from 10% to 15%.",
+        "Corps-a-corps: The effect of Monomachy which reduces damage taken from target has been increased from 10% to 15%.",
+        "Forte: Effect duration has been increased from 4 to 5 seconds."
       ]
     },
     {
       "job": "Pictomancer",
       "changes": [
-        "Smudge: Movement speed increase duration reduced from 4 to 3 seconds.",
-        "Retribution of the Madeen: Potency reduced from 16,000 to 14,000."
+        "Smudge: Duration of increased movement speed effect has been reduced from 4 to 3 seconds.",
+        "Retribution of the Madeen: Potency has been reduced from 16,000 to 14,000."
       ]
     },
     {
@@ -167,40 +163,34 @@
     {
       "job": "Sage",
       "changes": [
-        "Pneuma: Recast time reduced from 30 to 28 seconds."
+        "Pneuma: Recast time has been reduced from 30 to 28 seconds."
       ]
     }
   ],
   "new_content": [
     {
       "name": "The Clyteum",
-      "description": "A new dungeon that can be entered with Trust or Duty Support NPCs or with explorer mode enabled.",
+      "description": "A new dungeon.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "The Unmaking",
-      "description": "A new trial for eight players.",
+      "description": "A new trial.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "The Unmaking (Extreme)",
-      "description": "Extreme version of the new trial accessible via Raid Finder.",
-      "location": null,
-      "npc_location": "Tuliyollal (X:11.1 Y:14.6)"
-    },
-    {
-      "name": "Shinryu's Domain (Unreal)",
-      "description": "An Unreal trial replacing Tsukuyomi's Pain (Unreal).",
-      "location": null,
-      "npc_location": "Idyllshire (X:7.0 Y:5.9)"
+      "description": "An extreme version of the new trial.",
+      "location": "Tuliyollal (X:11.1 Y:14.6)",
+      "npc_location": "Wandering Minstrel"
     },
     {
       "name": "Windurst: The Third Walk",
-      "description": "A new alliance raid dungeon for 24 players.",
-      "location": null,
-      "npc_location": "Tuliyollal (X:16.2 Y:3.9)"
+      "description": "A new alliance raid dungeon.",
+      "location": "Tuliyollal (X:16.2 Y:3.9)",
+      "npc_location": "Landsguard Messenger"
     },
     {
       "name": "In Fate's Footsteps",
@@ -227,26 +217,20 @@
       "npc_location": null
     },
     {
-      "name": "Consolidation of Dyes",
-      "description": "Dyes have been consolidated into three categories: Standard Spectrum, Wide Spectrum #1, and Wide Spectrum #2.",
-      "location": null,
-      "npc_location": null
-    },
-    {
       "name": "Configuration Sharing",
-      "description": "A system to upload and download hotbar and configuration settings via Share Codes.",
+      "description": "A system allowing players to upload and download hotbar and configuration settings via share codes.",
       "location": null,
       "npc_location": null
     },
     {
-      "name": "Group Pose Updates",
-      "description": "Includes Portrait Mode, Soft Focus, and Eye Settings adjustments.",
+      "name": "Dye Consolidation",
+      "description": "A system update consolidating dye items into three types: Standard Spectrum, Wide Spectrum #1, and Wide Spectrum #2.",
       "location": null,
       "npc_location": null
     },
     {
-      "name": "Armoire Updates",
-      "description": "Expanded storage for class/job-specific gear and dungeon gear from Patch 7.0 onward.",
+      "name": "Auxesia",
+      "description": "New cosmic exploration destination (scheduled for Patch 7.51).",
       "location": null,
       "npc_location": null
     }
@@ -365,48 +349,58 @@
   ],
   "glamour": [
     {
-      "name": "Augmented Courtly Lover's Gear (Weapons, Armor, Accessories)",
-      "description": "High-level glamour gear obtainable via exchange in Solution Nine.",
+      "name": "Augmented Courtly Lover's Gear (Full Set for all jobs)",
+      "description": "New gear sets available for all combat jobs, including head, body, hands, legs, feet, and accessories.",
       "image_url": null
     },
     {
       "name": "Shadowhound Attire",
-      "description": "A dark, themed attire set including Helm, Armor, Gauntlets, Cuisses, and Sabatons.",
+      "description": "Head, body, hands, legs, and feet armor set.",
       "image_url": null
     },
     {
       "name": "Black Shuck Attire",
-      "description": "Themed equipment set including Helm, Armor, Gauntlets, Cuisses, and Sabatons.",
+      "description": "Head, body, hands, legs, and feet armor set.",
       "image_url": null
     },
     {
       "name": "Rule-breaker's Attire",
-      "description": "Set including Visor, Vest, Gloves, Bottoms, and Boots.",
+      "description": "Head, body, hands, legs, and feet armor set.",
       "image_url": null
     },
     {
-      "name": "Praemagitek/Vana'dielian Gear Sets",
-      "description": "New gear sets for various roles (Fending, Maiming, Striking, Aiming, Scouting, Casting, Healing) including head, body, hands, legs, and feet pieces.",
+      "name": "Praemagitek / Vana'dielian Gear",
+      "description": "New armor sets for various jobs (Fending, Maiming, Striking, Aiming, Scouting, Casting, Healing).",
       "image_url": null
     },
     {
-      "name": "Hooded Tunics (Plain, Succubus, Festival variants)",
-      "description": "Casual clothing items with multiple silhouette options (Oversized, Form-fitting).",
+      "name": "Plain Hooded Tunic (Variations)",
+      "description": "Includes Oversized and Form-fitting variants.",
       "image_url": null
     },
     {
-      "name": "Twill Trousers (Straight-cut, Bell-bottom, Baggy, Worn, Stonewashed)",
-      "description": "Various styles of trousers for glamour use.",
+      "name": "Succubus Hooded Tunic (Variations)",
+      "description": "Includes Oversized and Form-fitting variants.",
       "image_url": null
     },
     {
-      "name": "Cornflower Wristlets (All colors)",
-      "description": "Decorative wrist accessories.",
+      "name": "Festival Hooded Tunic (Variations)",
+      "description": "Includes Oversized and Form-fitting variants.",
       "image_url": null
     },
     {
-      "name": "Sash Blinder / Studded Eyepatch (Left/Right)",
-      "description": "New facewear accessories.",
+      "name": "Sash Blinder (Left/Right)",
+      "description": "New facewear items.",
+      "image_url": null
+    },
+    {
+      "name": "Studded Eyepatch (Left/Right)",
+      "description": "New facewear items.",
+      "image_url": null
+    },
+    {
+      "name": "Twill Trousers (Variations)",
+      "description": "Includes Straight-cut, Bell-bottom, Baggy, Worn, and Stonewashed variations.",
       "image_url": null
     }
   ]

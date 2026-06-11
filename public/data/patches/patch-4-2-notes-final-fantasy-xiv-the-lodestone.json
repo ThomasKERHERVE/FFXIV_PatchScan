@@ -1,0 +1,614 @@
+{
+  "patch_title": "Patch 4.2 Notes",
+  "patch_date": "2018-01-30",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/75c691f90f4a7da3907f0671ac33e139e9792abf",
+  "jobs_pve": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Shield Swipe potency reduced from 150 to 100.",
+        "Holy Spirit potency reduced from 400 to 380."
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "Heavy Swing potency increased from 150 to 160.",
+        "Skull Sunder combo potency increased from 200 to 210.",
+        "Berserk effect changed from 'Increases attack power by 30%' to 'Guarantees that all attacks are critical and direct hits.'",
+        "Berserk duration changed from 20 to 10 seconds.",
+        "Berserk recast time increased from 60 to 90 seconds.",
+        "Overpower potency increased from 120 to 130.",
+        "Tomahawk potency increased from 130 to 140.",
+        "Maim combo potency increased from 190 to 200.",
+        "Butcher's Block combo potency increased from 280 to 300.",
+        "Storm's Path combo potency increased from 270 to 280.",
+        "Vengeance reflected damage potency increased from 50 to 55.",
+        "Storm's Eye damage increase changed from 20% to 10%.",
+        "Storm's Eye combo potency increased from 270 to 280.",
+        "Unchained no longer shares recast timer with Inner Release.",
+        "Unchained recast time reduced from 120 to 90 seconds.",
+        "Steel Cyclone HP absorption reduced.",
+        "Inner Release no longer shares recast timer with Unchained.",
+        "Inner Release recast time reduced from 120 to 90 seconds.",
+        "Inner Release duration reduced from 20 to 10 seconds.",
+        "Inner Release effect 'Halves Beast Gauge costs...' changed to 'Allows the use of Beast Gauge actions without cost...'",
+        "Inner Release added effect: Guarantees that all attacks are critical and direct hits.",
+        "Inner Release can now be used while Defiance is active; no longer changes to Unchained.",
+        "Fell Cleave potency increased from 500 to 520.",
+        "New level 70 trait: Berserk Mastery (upgrades Berserk to Inner Release)."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Delirium recast time reduced from 120 to 80 seconds.",
+        "The Blackest Night effect duration increased from 5 to 7 seconds."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Mantra recast time reduced from 120 to 90 seconds.",
+        "Perfect Balance recast time reduced from 180 to 60 seconds.",
+        "Wind Tackle duration of Riddle of Wind increased from 5 to 10 seconds.",
+        "Riddle of Wind now grants Greased Lightning for 16 seconds.",
+        "Brotherhood effect now also applies to the user."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Rook Autoturret Hypercharge damage taken reduction reduced from 6% to 5%.",
+        "Bishop Autoturret Hypercharge damage taken reduction reduced from 6% to 5%."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Transpose recast time reduced from 12 to 8 seconds.",
+        "Thunder (all grades) Thundercloud effect duration increased from 12 to 18 seconds.",
+        "Fire Firestarter effect duration increased from 12 to 18 seconds.",
+        "Aetherial Manipulation recast time reduced from 30 to 10 seconds.",
+        "Fire IV potency increased from 260 to 280."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Tri-bind potency while under Dreadwyrm Trance reduced from 100 to 70.",
+        "Painflare potency reduced from 200 to 180.",
+        "Ruin III potency reduced from 130 to 120.",
+        "Wyrmwave potency reduced from 160 to 150."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Divine Benison: Healing Lily requirement removed."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Excogitation now restores HP when duration expires if HP does not fall below 50%."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "The Spear effect duration increased from 20 to 30 seconds.",
+        "Earthly Star: Ground targeting cursor now indicates area of effect."
+      ]
+    },
+    {
+      "job": "Tank Role Actions",
+      "changes": [
+        "Interject: Silence effect applied more quickly."
+      ]
+    },
+    {
+      "job": "Melee/Magic Ranged DPS Role Actions",
+      "changes": [
+        "Diversion: Enmity generation reduction improved.",
+        "Diversion: Effect duration increased from 15 to 30 seconds."
+      ]
+    },
+    {
+      "job": "Physical Ranged DPS Role Actions",
+      "changes": [
+        "Head Graze: Silence effect applied more quickly."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Shield Oath: Damage reduction effect changed from 25% to 20%. Damage dealt reduction changed from 25% to 20%.",
+        "Clemency: Healing potency increased from 2,000 to 3,000.",
+        "Shield Bash: TP cost reduced from 300 to 250. Added effect: Increases Oath Gauge by 5."
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "Inner Release: Added as a new action. Halves Beast Gauge costs and nullifies Stun, Sleep, Bind, Heavy, Slow, Silence, and knockback effects. Duration: 10s.",
+        "Upheaval: Action removed.",
+        "Defiance: Maximum HP increase effect changed from 25% to 20%. HP recovered via healing magic effect changed from 25% to 20%. Damage dealt reduction changed from 25% to 20%.",
+        "Tomahawk: TP cost reduced from 300 to 250.",
+        "Thrill of War: Effect changed to restore HP of self and nearby party members by 20% of maximum HP."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Grit: Damage reduction effect changed from 25% to 20%. Damage dealt reduction changed from 25% to 20%.",
+        "Low Blow: TP cost reduced from 300 to 250."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "HP increased from 13,000 to 13,500.",
+        "The Forbidden Chakra: Potency increased from 2,000 to 2,500."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "HP increased from 13,000 to 13,500.",
+        "Jump: TP cost reduced from 400 to 300.",
+        "Geirskogul: Potency increased from 1,500 to 2,000."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "HP increased from 12,500 to 13,000.",
+        "Raiton: Potency increased from 1,500 to 1,750."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "HP increased from 12,500 to 13,000."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "HP increased from 11,500 to 12,500.",
+        "Sidewinder: Potency increased from 250 to 500; potency with Caustic Bite/Stormbite increased from 750 to 1,000; potency with both increased from 1,250 to 1,500.",
+        "The Wanderer's Minuet: Potency increased from 500 to 1,000.",
+        "Army's Paeon: Potency increased from 500 to 1,000.",
+        "Repelling Shot: TP cost reduced from 300 to 250."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "HP increased from 11,500 to 12,500.",
+        "Between the Eyes: Potency when target is under Bind, Stun, or Sleep increased to triple normal potency.",
+        "Wildfire: Damage compiled increased from 25% to 50%; duration reduced from 7 to 5 seconds.",
+        "Flamethrower: Damage over time potency increased from 400 to 500.",
+        "Blank: TP cost reduced from 300 to 250."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "HP increased from 11,000 to 12,000.",
+        "Sleep: MP cost reduced from 1,500 to 1,000."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "HP increased from 11,000 to 12,000.",
+        "Akh Morn: Potency increased from 1,500 to 2,000.",
+        "Tri-bind: MP cost reduced from 1,500 to 1,000."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Manafication: Added as new action. Doubles current Black/White Mana; resets Corps-a-corps and Displacement recast timers.",
+        "Monomachy: Action removed.",
+        "HP increased from 11,000 to 12,000.",
+        "Corps-a-corps: Additional effect removed.",
+        "Displacement: Additional effect removed.",
+        "Verstone: Potency increased from 750 to 1,000.",
+        "Verfire: Potency increased from 750 to 1,000.",
+        "Jolt II: Potency increased from 1,000 to 1,250.",
+        "Vercure: Added effect: Increases White/Black Mana by 5."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "HP increased from 13,500 to 14,000.",
+        "Regen: Healing potency reduced from 1,500 to 1,250; MP cost reduced from 750 to 500."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "HP increased from 13,500 to 14,000."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "HP increased from 13,500 to 14,000."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Hells' Lid",
+      "description": "A new dungeon.",
+      "location": "The Ruby Sea",
+      "npc_location": "The Ruby Sea (X:5.7 Y:15.8)"
+    },
+    {
+      "name": "The Fractal Continuum (Hard)",
+      "description": "A new hard mode dungeon.",
+      "location": "Rhalgr's Reach",
+      "npc_location": "Rhalgr's Reach (X:13.2 Y:12.2)"
+    },
+    {
+      "name": "The Jade Stoa",
+      "description": "A new trial.",
+      "location": "The Ruby Sea",
+      "npc_location": "The Ruby Sea (X:5.7 Y:15.8)"
+    },
+    {
+      "name": "The Jade Stoa (Extreme)",
+      "description": "A new extreme trial.",
+      "location": "Kugane",
+      "npc_location": "Kugane (X:11.6 Y:12.6)"
+    },
+    {
+      "name": "Omega: Sigmascape",
+      "description": "A new raid dungeon.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Omega: Sigmascape (Savage)",
+      "description": "A new savage raid dungeon.",
+      "location": "Rhalgr's Reach",
+      "npc_location": "Rhalgr's Reach (X:13.5 Y:12.4)"
+    },
+    {
+      "name": "Tidings from the East",
+      "description": "Main scenario quest.",
+      "location": "Rhalgr's Reach",
+      "npc_location": "Rhalgr's Reach (X:14.6 Y:9.4)"
+    },
+    {
+      "name": "The Sword in the Store",
+      "description": "Main scenario quest.",
+      "location": "Kugane",
+      "npc_location": "Kugane (X:10.9 Y:6.9)"
+    },
+    {
+      "name": "An Auspicious Encounter",
+      "description": "Chronicles of a New Era quest.",
+      "location": "The Ruby Sea",
+      "npc_location": "The Ruby Sea (X:5.7 Y:15.8)"
+    },
+    {
+      "name": "Return to the Rift",
+      "description": "Chronicles of a New Era quest.",
+      "location": "Rhalgr's Reach",
+      "npc_location": "Rhalgr's Reach (X:13.4 Y:12.4)"
+    },
+    {
+      "name": "Precious Reclamation",
+      "description": "Side story quest.",
+      "location": null,
+      "npc_location": "???"
+    },
+    {
+      "name": "A Thousand and One Farewells",
+      "description": "Side story quest.",
+      "location": null,
+      "npc_location": "???"
+    },
+    {
+      "name": "An Unwanted Truth",
+      "description": "Side story quest for The Fractal Continuum (Hard).",
+      "location": "Rhalgr's Reach",
+      "npc_location": "Rhalgr's Reach (X:13.2 Y:12.2)"
+    },
+    {
+      "name": "Passion for Fashion",
+      "description": "Quest to unlock The Fashion Report.",
+      "location": "The Gold Saucer",
+      "npc_location": "The Gold Saucer (X:4.8 Y:6.1)"
+    },
+    {
+      "name": "Brooding Broodmother",
+      "description": "Ananta beast tribe quest.",
+      "location": "The Fringes",
+      "npc_location": "The Fringes (X:30.2 Y:25.7)"
+    },
+    {
+      "name": "Duty Recorder",
+      "description": "System to document duties for later viewing.",
+      "location": "Mor Dhona",
+      "npc_location": "Mor Dhona (X:21.7 Y:8.7)"
+    },
+    {
+      "name": "The Fashion Report",
+      "description": "A new challenge at the Gold Saucer for judging player outfits.",
+      "location": "The Gold Saucer",
+      "npc_location": "The Gold Saucer (X:4.8 Y:6.1)"
+    },
+    {
+      "name": "PvP Team",
+      "description": "Feature to form teams for The Feast.",
+      "location": "Wolves' Den Pier",
+      "npc_location": "Wolves' Den Pier"
+    },
+    {
+      "name": "Subaquatic Voyages",
+      "description": "A feature allowing free companies to deploy submersibles.",
+      "location": "Company Workshop",
+      "npc_location": null
+    },
+    {
+      "name": "Glamour Dressers and Plates",
+      "description": "System to store and apply ensembles to equipment.",
+      "location": "Inn rooms",
+      "npc_location": null
+    },
+    {
+      "name": "Chocobo Saddlebag",
+      "description": "Additional inventory storage for companions.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "House Borel Interior Wall",
+      "description": "A wall that matches the design of those used in Aymeric de Borel's very manor.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/a/1LbK-2Cqoku3zorQFR0VQ6jP0Y.png"
+    },
+    {
+      "name": "White Marble Flooring",
+      "description": "Smooth, elegant floor tiling made of polished marble.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/z/6PLTZ82M99GJ7tKOee1RSwvNrQ.png"
+    },
+    {
+      "name": "Classic Chandelier",
+      "description": "A lavish light fixture that hearkens to days long past.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/8/2GwuzUcvqLa-hgQeLUyd8xarI8.png"
+    },
+    {
+      "name": "Corner Hedge Partition",
+      "description": "A low-growing hedge, expertly pruned and trimmed into the shape of an L.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/5/67ZyAIzQUaYoWBmyvFwNvGmCnQ.png"
+    },
+    {
+      "name": "Bamboo Copse",
+      "description": "A controlled cluster of bamboo cut from a Yanxian forest for display in private gardens.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/-/Y5JdwnEWYfyO7OlH27eKIm91Ok.png"
+    },
+    {
+      "name": "Hingan Hot Spring",
+      "description": "Scalding water tapped from the very bowels of the land, and collected in a quaint rock pool certain to draw the envy of neighbors.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/s/-JfULvMAf26L7AaU1OGaGYwanI.png"
+    },
+    {
+      "name": "Hedge Partition",
+      "description": "A low-growing hedge, oft used to create natural barriers around homes.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/p/HPudyOQcwdv97RBwj3FQC552ps.png"
+    },
+    {
+      "name": "Futon Mattress",
+      "description": "Common in the Far East, futons are thin down-filled mattresses laid directly on the floor instead of upon a frame.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/S/-IC2xIQhTl2ymYW7deE1fOII04.png"
+    },
+    {
+      "name": "Byakko Throne",
+      "description": "A regal throne, fit for a king...or emperor that also happens to be a giant white tiger.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/0/LIzzCdAQLNQ17P90_FIvlR_Dvg.jpg"
+    },
+    {
+      "name": "Open Partition",
+      "description": "A low partition cut with a hole to provide estates with the illusion of more space than actually exists.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/x/yLkmDjeDW9cU_l1mWtbQUnVIhs.png"
+    },
+    {
+      "name": "Carbuncle Bathtub",
+      "description": "A small tub crafted to resemble a summoner's best friend. Just large enough for two.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/c/tWvZpXDc_g6yQd5YKK2k5jhuns.png"
+    },
+    {
+      "name": "Stage Panel",
+      "description": "A large white panel used by acting troupes as a simple backdrop for plays.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/m/NCNLGrn3U9M85ky-NscraujvN8.png"
+    },
+    {
+      "name": "Hingan Pillar",
+      "description": "A decorative pillar designed in the Hingan fashion.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/udWU20sWmhYoEsQ_FtrAzVwJ3Q.png"
+    },
+    {
+      "name": "Byakko Sideboard",
+      "description": "A round desk carved to resemble Byakko, one of the mystic Four Lords of the Far East.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/-/JlOGowlC5VCrSwg2z3aH8WGhGg.png"
+    },
+    {
+      "name": "Counter Cart",
+      "description": "An island for kitchens designed to resemble those carts used by hawkers in city markets.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/P/Lfl3LVb9KMPa5Ye8yxftZkelbc.png"
+    },
+    {
+      "name": "Bomb Stove",
+      "description": "A cast-iron wood stove designed after a fateful encounter with a voidsent bomb.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/q/qy4dUGMNkjoyVqPweYMIpOApik.png"
+    },
+    {
+      "name": "Mummer's Wardrobe",
+      "description": "An oversized locker used by mummers to house not only their costumes, but their various tools of the trade.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/N/OYPWhQVCkovUbVcMMck0O4HABU.png"
+    },
+    {
+      "name": "Crimson Coral Object",
+      "description": "A chunk of rare crimson coral mounted for display on your desk, sideboard, mantle, or commode.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/W/wlHP1NMpdQHcPKUG-swlv71fhE.png"
+    },
+    {
+      "name": "Odder Otter Lantern",
+      "description": "An indoor lantern designed to resemble the oddest of otters.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/Z/1QWgBsVU7ZboWyMZlRjCQcDRJg.png"
+    },
+    {
+      "name": "Season Six Lone Wolf Trophy",
+      "description": "A trophy awarded to those who \"left their mark\" in Season Six of the Feast.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/K/4fXwcEoJzDEmFRt-tD7PeeKvjE.png"
+    },
+    {
+      "name": "Bread Basket",
+      "description": "Aromatic loaves of freshly baked bread fill this wicker basket to the brim.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/q/GiEpnP3oCXluFjrlPlM-mgIbS8.png"
+    },
+    {
+      "name": "Stuffed Alpha",
+      "description": "A charming recreation of the chocobo Alpha, filled with the feathers of a fowl less fortunate.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/i/Sa5YF2-VFf4IJ1cjjFAbPf4GWg.png"
+    },
+    {
+      "name": "House Borel Tea Set",
+      "description": "A faithful replication of the selfsame set used every morning by Aymeric de Borel himself.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/h/6gPbLbzUQ_omC_mdXFUA3zPy7I.png"
+    },
+    {
+      "name": "Royal Dowager Tea Set",
+      "description": "The design used on this quaint porcelain tea set is based off a passage in an ancient literary work on Halicarnassus.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/d/in_Sbc6SzxLU--Npa7URI-_kdg.png"
+    },
+    {
+      "name": "Vegetable Basket",
+      "description": "The vegetables contained within this basket have not been approved for consumption.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/V/kHxwEjpY-Fme83ta8VIfi1kyLU.png"
+    },
+    {
+      "name": "Chirurgeon's Essentials",
+      "description": "From scalpels to saws, panaceas to placebos, this basic set of medical devices has everything the unlicensed surgeon needs.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/0/k5jD6-BJZHwKA2CtbNcDYZR6oY.png"
+    },
+    {
+      "name": "Stuffed Ananta",
+      "description": "Those without a deathly fear of snakes claim this plush doll to be one of the most beautiful ever crafted.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/X/uQVT3DEl1xlFWHu3UZU4-RBtVk.png"
+    },
+    {
+      "name": "Tier 1 Metal Aquarium",
+      "description": "A small, reinforced glass tank that, when filled with water, can serve as a home for select wavekin caught in the wild.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/5/YcEF3K-5SgqU0BxZtT0D1Zsa2A.png"
+    },
+    {
+      "name": "Tier 2 Metal Aquarium",
+      "description": "A reinforced glass tank that, when filled with water, can serve as a home for select wavekin caught in the wild.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/b/SPCgcBAk4HvMngGzk6H4MfSINg.png"
+    },
+    {
+      "name": "Eorzean Lantern",
+      "description": "Not one to be humbled by craftsmen of the East, a prominent Eorzean lamp maker conceived this fixture.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/L/NUGcPcy-C8jvx6oKgEXgwJ1ePE.png"
+    },
+    {
+      "name": "Stack of Documents",
+      "description": "What better way to tell unwanted visitors, \"can't you see I'm busy?\" than by strewing stacks of important-looking documents?",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/q/GJ-lsgAtsCCDwCm9te3a5sCjpU.png"
+    },
+    {
+      "name": "Mummer's Maquillage",
+      "description": "Countless varieties of rouges, putties, and talcums commonly used by mummers to prepare themselves for their acts.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/K/vZf_pjL1HRJCDF9mxKFKb8iISc.png"
+    },
+    {
+      "name": "Dress Hanger",
+      "description": "Because one wouldn't dare hang a dress on a coat hanger.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/r/maZ-sHaqn4PMFANUlbH4GzztFM.png"
+    },
+    {
+      "name": "Coat Hanger",
+      "description": "Because one wouldn't dare hang a coat on a dress hanger.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/p/hIKumMfCocoSfxWeUUUIL78Jhg.png"
+    },
+    {
+      "name": "Moogle Wall Chronometer",
+      "description": "A chronometer carved in the adorable likeness of a moogle.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/E/NtymEFiUJfAh25ffTrADsVFkLQ.png"
+    },
+    {
+      "name": "Brick Interior Wall",
+      "description": "An interior wall built with genuine kiln-fired bricks.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/o/uRmujlTx4X_5c6wETNxssK1d_4.png"
+    },
+    {
+      "name": "Mounted Cupboard",
+      "description": "A space-saving cupboard that can be mounted anywhere there is a wall.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/_/qP22LgUoAFKDTRayb_TEYu6d7g.png"
+    },
+    {
+      "name": "Kitchen Hanger",
+      "description": "Save space in your cupboards for liquor and fruitcake by hanging all your kitchen appliances from hooks.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/p/op9iPrlMmYgTK3Q6NQKifyQOGA.png"
+    },
+    {
+      "name": "Hannya Mask",
+      "description": "A frightening mask of Far Eastern design. Perfect for children's bedrooms and nurseries.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/S/6IKp0hN6xQqTYPgnPIsd2fjzSI.png"
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Glamour Prism (Woodworking)",
+      "description": "A new glamour prism item used to cast glamours.",
+      "image_url": null
+    },
+    {
+      "name": "Glamour Prism (Smithing)",
+      "description": "A new glamour prism item used to cast glamours.",
+      "image_url": null
+    },
+    {
+      "name": "Glamour Prism (Armorcraft)",
+      "description": "A new glamour prism item used to cast glamours.",
+      "image_url": null
+    },
+    {
+      "name": "Glamour Prism (Goldsmithing)",
+      "description": "A new glamour prism item used to cast glamours.",
+      "image_url": null
+    },
+    {
+      "name": "Glamour Prism (Leatherworking)",
+      "description": "A new glamour prism item used to cast glamours.",
+      "image_url": null
+    },
+    {
+      "name": "Glamour Prism (Clothcraft)",
+      "description": "A new glamour prism item used to cast glamours.",
+      "image_url": null
+    },
+    {
+      "name": "Glamour Prism (Alchemy)",
+      "description": "A new glamour prism item used to cast glamours.",
+      "image_url": null
+    },
+    {
+      "name": "Glamour Prism",
+      "description": "This crystalline prism captures the likeness of a piece of equipment and projects it onto another object.",
+      "image_url": null
+    }
+  ]
+}

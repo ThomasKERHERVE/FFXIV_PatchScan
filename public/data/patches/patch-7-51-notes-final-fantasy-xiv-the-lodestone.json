@@ -1,183 +1,230 @@
 {
   "patch_title": "Patch 7.51 Notes",
   "patch_date": "2026-06-09",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/c46881a31a2c90d0965493c921b434eca09113f8/",
-  "jobs_pve": [],
-  "jobs_pvp": [
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/c46881a31a2c90d0965493c921b434eca09113f8",
+  "jobs_pve": [
     {
-      "job": "General",
+      "job": "Samurai",
       "changes": [
-        "The effects of healing glyphs in Archeia Harmonias have been updated: Amount of HP restored reduced from 15,000 to 10,000.",
-        "The effects of healing glyphs in Archeia Harmonias have been updated: 50% reduction to damage taken has been removed."
+        "Resolved an issue wherein sound effects did not play correctly when executing a combo."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Resolved an issue wherein sound effects did not play correctly when executing a combo."
+      ]
+    },
+    {
+      "job": "Arcanist",
+      "changes": [
+        "Resolved an issue wherein executing actions with certain pets resulted in an incorrect animation playing when the summoned pet left the battlefield."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Resolved an issue wherein executing actions with certain pets resulted in an incorrect animation playing when the summoned pet left the battlefield."
+      ]
+    },
+    {
+      "job": "Viper",
+      "changes": [
+        "Resolved an issue with the PvE actions First Generation, Second Generation, Third Generation, and Fourth Generation wherein the reduction in potency after the first target was incorrectly applied when not executed as a combo."
+      ]
+    },
+    {
+      "job": "Blue Mage",
+      "changes": [
+        "Resolved an issue with the action Avail wherein the target of the status Meat Shield did not take damage in place of the caster, despite being within 10 yalms of them."
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "Resolved an issue in the job quest 'Pirates of Shallow Water' wherein certain NPC graphics did not display correctly."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Resolved an issue wherein playing as a Lalafell would cause the jumping animation to play incorrectly when the weapon was unsheathed."
       ]
     }
   ],
+  "jobs_pvp": [],
   "new_content": [
     {
       "name": "Dancing Mad (Ultimate)",
-      "description": "A high-end raid duty involving a phantasmal harlequin.",
-      "location": "Tuliyollal (X:11.1 Y:14.6)",
-      "npc_location": "Wandering Minstrel"
+      "description": "A high-end ultimate raid series duty.",
+      "location": "Tuliyollal",
+      "npc_location": "Tuliyollal (X:11.1 Y:14.6)"
     },
     {
       "name": "Auxesia",
-      "description": "An exploration zone for the Cosmic Exploration Initiative.",
-      "location": "Auxesia",
+      "description": "A new exploration zone for the Cosmic Exploration Initiative.",
+      "location": "Cosmic Exploration",
       "npc_location": null
-    },
-    {
-      "name": "Cosmic Exploration",
-      "description": "New content for Disciples of the Hand and Land involving stellar missions, mech ops, and projects.",
-      "location": "Auxesia",
-      "npc_location": null
-    },
-    {
-      "name": "Tool Mastery Missions",
-      "description": "Special missions on Auxesia for those who have completed the final stage of a cosmic tool to achieve high scores.",
-      "location": "Auxesia",
-      "npc_location": null
-    },
-    {
-      "name": "Custom Deliveries (Tiisol Ja)",
-      "description": "New custom deliveries for Disciples of the Hand and Land.",
-      "location": "Tuliyollal (X:13.7 Y:12.1)",
-      "npc_location": "Hhuki"
     },
     {
       "name": "The Forests of Paradise",
       "description": "Cosmic exploration quest.",
-      "location": "Oizys (X:17.2 Y:22.8)",
-      "npc_location": "Searchingway"
+      "location": "Oizys",
+      "npc_location": "Oizys (X:17.2 Y:22.8)"
     },
     {
       "name": "The Songs of Distant Trees",
       "description": "Cosmic exploration quest.",
-      "location": "Auxesia (X:28.7 Y:29.4)",
-      "npc_location": "Searchingway"
+      "location": "Auxesia",
+      "npc_location": "Auxesia (X:28.7 Y:29.4)"
     },
     {
       "name": "His Gift, His Way",
       "description": "Cosmic exploration quest.",
-      "location": "Auxesia (X:28.7 Y:29.4)",
-      "npc_location": "Searchingway"
+      "location": "Auxesia",
+      "npc_location": "Auxesia (X:28.7 Y:29.4)"
     },
     {
       "name": "A Manager's Foresight",
       "description": "Cosmic exploration quest.",
-      "location": "Auxesia (X:27.1 Y:28.5)",
-      "npc_location": "Mumukko"
+      "location": "Auxesia",
+      "npc_location": "Auxesia (X:27.1 Y:28.5)"
     },
     {
       "name": "A Manager's Fulfillment",
       "description": "Cosmic exploration quest.",
-      "location": "Auxesia (X:27.1 Y:28.5)",
-      "npc_location": "Mumukko"
+      "location": "Auxesia",
+      "npc_location": "Auxesia (X:27.1 Y:28.5)"
     },
     {
       "name": "Despite Our Rest Efforts",
       "description": "Cosmic exploration quest.",
-      "location": "Auxesia (X:27.5 Y:30.1)",
-      "npc_location": "Lively Loporrit"
+      "location": "Auxesia",
+      "npc_location": "Auxesia (X:27.5 Y:30.1)"
     },
     {
       "name": "Another Interstellar Field Trip",
       "description": "Cosmic exploration quest.",
-      "location": "Auxesia (X:27.5 Y:28.0)",
-      "npc_location": "Theorizingway"
+      "location": "Auxesia",
+      "npc_location": "Auxesia (X:27.5 Y:28.0)"
     },
     {
       "name": "Taco Time",
-      "description": "Custom delivery quest.",
-      "location": "Tuliyollal (X:13.7 Y:12.1)",
-      "npc_location": "Hhuki"
+      "description": "New custom delivery quest featuring Tiisol Ja.",
+      "location": "Tuliyollal",
+      "npc_location": "Tuliyollal (X:13.7 Y:12.1)"
+    },
+    {
+      "name": "Cosmic Exploration",
+      "description": "System for exploring stars and performing stellar missions/mech ops.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Tool Mastery Missions",
+      "description": "Special missions on Auxesia for players who have completed the final stage of a cosmic tool.",
+      "location": "Auxesia",
+      "npc_location": null
+    },
+    {
+      "name": "Cosmic Tools",
+      "description": "Enhancement system for Disciple of the Hand and Land tools.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Dye Consolidation System",
+      "description": "System consolidating all colored pigments into an all-purpose pigment.",
+      "location": null,
+      "npc_location": null
     }
   ],
   "housing": [
     {
       "name": "Auxesian Waygate",
-      "description": "Outdoor Furnishing. Crafted by an artisan of the Cosmic Exploration Initiative to resemble the gallant gantries of Auxesia.",
+      "description": "Outdoor Furnishing: Crafted by an artisan of the Cosmic Exploration Initiative to resemble the gallant gantries of Auxesia.",
       "image_url": null
     },
     {
       "name": "Auxesian Waylight",
-      "description": "Outdoor Furnishing. Crafted by an artisan of the Cosmic Exploration Initiative to resemble the roadside illuminations of Auxesia.",
+      "description": "Outdoor Furnishing: Crafted by an artisan of the Cosmic Exploration Initiative to resemble the roadside illuminations of Auxesia.",
       "image_url": null
     },
     {
       "name": "Cosmic Steps",
-      "description": "Furnishing. Access the very top of your cosmic shelves, whether gravity likes it or not.",
+      "description": "Furnishing: Access the very top of your cosmic shelves, whether gravity likes it or not.",
       "image_url": null
     },
     {
       "name": "Cosmic Partition",
-      "description": "Furnishing. A partition designed to cordon off potentially unsafe areas on distant stars.",
+      "description": "Furnishing: A partition designed to cordon off potentially unsafe areas on distant stars.",
       "image_url": null
     },
     {
       "name": "Cosmic Metal Shelf",
-      "description": "Table. This simple metal shelf can hold approximately ten Loporrits.",
+      "description": "Table: This simple metal shelf can hold approximately ten Loporrits.",
       "image_url": null
     },
     {
       "name": "Auxesian Tower Replica",
-      "description": "Tabletop. Crafted by an artisan of the Cosmic Exploration Initiative, this miniature model is used to analyze Auxesian architecture.",
+      "description": "Tabletop: Crafted by an artisan of the Cosmic Exploration Initiative, this miniature model is used to analyze Auxesian architecture.",
       "image_url": null
     },
     {
       "name": "Galactic Way Miniature",
-      "description": "Tabletop. A made-to-scale model of the Galactic Way starship, expertly crafted by Garlond Ironworks engineers on behalf of the Cosmic Exploration Initiative.",
+      "description": "Tabletop: A made-to-scale model of the Galactic Way starship, expertly crafted by Garlond Ironworks engineers on behalf of the Cosmic Exploration Initiative.",
       "image_url": null
     }
   ],
   "glamour": [
     {
       "name": "Cosmic Explorer's Cap",
-      "description": "Head piece",
+      "description": "Head piece part of the explorer's attire.",
       "image_url": null
     },
     {
       "name": "Cosmic Operator's Cap",
-      "description": "Head piece",
+      "description": "Head piece part of the operator's attire.",
       "image_url": null
     },
     {
       "name": "Cosmic Explorer's Jacket",
-      "description": "Body piece",
+      "description": "Body piece part of the explorer's attire.",
       "image_url": null
     },
     {
       "name": "Cosmic Operator's Coverall Top",
-      "description": "Body piece",
+      "description": "Body piece part of the operator's attire.",
       "image_url": null
     },
     {
       "name": "Cosmic Explorer's Halfgloves",
-      "description": "Hands piece",
+      "description": "Hand piece part of the explorer's attire.",
       "image_url": null
     },
     {
       "name": "Cosmic Operator's Gloves",
-      "description": "Hands piece",
+      "description": "Hand piece part of the operator's attire.",
       "image_url": null
     },
     {
       "name": "Cosmic Explorer's Slops",
-      "description": "Legs piece",
+      "description": "Leg piece part of the explorer's attire.",
       "image_url": null
     },
     {
       "name": "Cosmic Explorer's Tights",
-      "description": "Legs piece",
+      "description": "Leg piece part of the explorer's attire.",
       "image_url": null
     },
     {
       "name": "Cosmic Explorer's Boots",
-      "description": "Feet piece",
+      "description": "Foot piece part of the explorer's attire.",
       "image_url": null
     },
     {
       "name": "Cosmic Operator's Boots",
-      "description": "Feet piece",
+      "description": "Foot piece part of the operator's attire.",
       "image_url": null
     },
     {
@@ -187,12 +234,12 @@
     },
     {
       "name": "Shovel",
-      "description": "A sturdy wooden shovel designed for the stylish adventurer seeking to dig themself out of a fashion crisis. Use to unlock a shovel (fashion accessory).",
+      "description": "A sturdy wooden shovel designed for the stylish adventurer seeking to dig themself out of a fashion crisis.",
       "image_url": null
     },
     {
-      "name": "Wrap-around Sunglasses",
-      "description": "Fashionable facial accessories.",
+      "name": "The Faces We Wear - Wrap-around Sunglasses",
+      "description": "An illustrated periodical on fashionable facial accessories. Use to unlock the wrap-around sunglasses facewear.",
       "image_url": null
     }
   ]

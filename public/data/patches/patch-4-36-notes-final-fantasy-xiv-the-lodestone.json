@@ -1,0 +1,162 @@
+{
+  "patch_title": "Patch 4.36 Notes",
+  "patch_date": "2018-08-07",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/5cd214d57cdf76296a16db00a0a0f6e5e87212b0",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Eureka Pagos",
+      "description": "The Forbidden Land, Eureka Pagos, is an instanced area for up to 144 players featuring an elemental level cap increase to 35, Notorious Monsters, and Happy Bunny treasure hunting.",
+      "location": "Eureka",
+      "npc_location": null
+    },
+    {
+      "name": "The Great Hunt",
+      "description": "A battle against a mighty Rathalos. Players must carve scales from the remains for rewards.",
+      "location": null,
+      "npc_location": "Kugane (X:9.7 Y:8.9)"
+    },
+    {
+      "name": "The Great Hunt (Extreme)",
+      "description": "A high-end trial version of the Rathalos battle for four players with limited resurrection mechanics.",
+      "location": null,
+      "npc_location": "Kugane (X:9.7 Y:8.9)"
+    },
+    {
+      "name": "And We Shall Call It Pagos",
+      "description": "Side story quest required to access Eureka Pagos.",
+      "location": "Kugane",
+      "npc_location": "Kugane (X:8.5 Y:14.2)"
+    },
+    {
+      "name": "The New King on the Block",
+      "description": "Special side story quest for the Monster Hunter: World collaboration.",
+      "location": "Kugane",
+      "npc_location": "Kugane (X:9.7 Y:8.9)"
+    },
+    {
+      "name": "The Newer King on the Block",
+      "description": "Special side story quest required to unlock The Great Hunt (Extreme).",
+      "location": "Kugane",
+      "npc_location": "Kugane (X:9.7 Y:8.9)"
+    },
+    {
+      "name": "Elemental Level Sync",
+      "description": "A system introduced to Eureka Anemos that automatically syncs players level 21 or higher to level 20.",
+      "location": "Eureka Anemos",
+      "npc_location": null
+    },
+    {
+      "name": "Happy Bunnies",
+      "description": "A feature in Eureka Pagos where rescued bunnies assist players in finding hidden buried coffers.",
+      "location": "Eureka Pagos",
+      "npc_location": null
+    },
+    {
+      "name": "Eureka Effect",
+      "description": "Gear enhancement system in Eureka Pagos providing special attributes not available to regular equipment at item level 300.",
+      "location": "Eureka Pagos",
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Chainmail Hanger",
+      "description": "No matter how identical this hanger may be to a dress hanger, to hang anything but chainmail on it would be blasphemy.",
+      "image_url": null
+    },
+    {
+      "name": "Stuffed Happy Bunny",
+      "description": "This plush rabbit is so realistic that it is rumored to bring fortune, just like a real happy bunny would, to all who come across it. All except those who are prone to allergies, anyway.",
+      "image_url": null
+    },
+    {
+      "name": "Crossed Halberds",
+      "description": "A wall decoration featuring a shield over crossed halberds.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Boulevardier's Hat",
+      "description": "Head piece, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Behemoth Helm",
+      "description": "Head piece, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Replica Heavy Behemoth Helm",
+      "description": "Head piece, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Pagos Bandana",
+      "description": "Head piece, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Pagos Circlet",
+      "description": "Head piece, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Boulevardier's Ruffled Shirt",
+      "description": "Body piece, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Pagos Shirt",
+      "description": "Body piece, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Pagos Bolero",
+      "description": "Body piece, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Pagos Field Dressing",
+      "description": "Hands piece, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Pagos Gloves",
+      "description": "Hands piece, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Boulevardier's Ruffled Pants",
+      "description": "Legs piece, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Pagos Gaskins",
+      "description": "Legs piece, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Pagos Culottes",
+      "description": "Legs piece, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Boulevardier's Dress Shoes",
+      "description": "Feet piece, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Pagos Sandals",
+      "description": "Feet piece, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Pagos Boots",
+      "description": "Feet piece, Item Level: 1",
+      "image_url": null
+    }
+  ]
+}

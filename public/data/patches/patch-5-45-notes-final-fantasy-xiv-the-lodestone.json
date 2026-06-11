@@ -1,0 +1,571 @@
+{
+  "patch_title": "Patch 5.45 Notes",
+  "patch_date": "2021-02-09",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/a65cab900e97855414cd1acab0a2070ed1b8e41b",
+  "jobs_pve": [
+    {
+      "job": "Blue Mage",
+      "changes": [
+        "The level cap has been increased to 70.",
+        "New blue magic spells have been added.",
+        "New stages have been added to the Masked Carnivale.",
+        "New entries have been added to the blue mage log.",
+        "Fixed an issue wherein the blue mage action Sticky Tongue did not increase enmity when used on targets immune to knockback effects."
+      ]
+    }
+  ],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Delubrum Reginae",
+      "description": "A 24-player large-scale duty set within the depths of ancient Bozjan ruins, utilizing lost actions.",
+      "location": null,
+      "npc_location": "Gangos (X:5.5 Y:5.4)"
+    },
+    {
+      "name": "Delubrum Reginae (Savage)",
+      "description": "A 48-player large-scale duty requiring a pre-formed alliance.",
+      "location": null,
+      "npc_location": "Gangos (X:6.6 Y:5.0)"
+    },
+    {
+      "name": "Second-rate Entertainment",
+      "description": "Blue Mage job quest (Level 60).",
+      "location": "Ul'dah - Steps of Thal",
+      "npc_location": "Ul'dah - Steps of Thal (X:12.5 Y:13.0)"
+    },
+    {
+      "name": "??? (Blue Mage level 63)",
+      "description": "Blue Mage job quest.",
+      "location": "Ul'dah - Steps of Thal",
+      "npc_location": "Ul'dah - Steps of Thal (X:12.5 Y:13.0)"
+    },
+    {
+      "name": "??? (Blue Mage level 65)",
+      "description": "Blue Mage job quest.",
+      "location": "Kugane",
+      "npc_location": "Kugane (X:13.8 Y:9.5)"
+    },
+    {
+      "name": "??? (Blue Mage level 68)",
+      "description": "Blue Mage job quest.",
+      "location": "Kugane",
+      "npc_location": "Kugane (X:13.8 Y:9.5)"
+    },
+    {
+      "name": "??? (Blue Mage level 70)",
+      "description": "Blue Mage job quest.",
+      "location": "Kugane",
+      "npc_location": "Kugane (X:13.8 Y:9.5)"
+    },
+    {
+      "name": "??? (Blue Mage level 70)",
+      "description": "Blue Mage job quest.",
+      "location": "Ul'dah - Steps of Thal",
+      "npc_location": "Ul'dah - Steps of Thal (X:12.5 Y:13.0)"
+    },
+    {
+      "name": "A Sign of What's to Come",
+      "description": "Save the Queen side story quest.",
+      "location": "Gangos",
+      "npc_location": "Gangos (X:6.4 Y:5.7)"
+    },
+    {
+      "name": "Fit for a Queen",
+      "description": "Save the Queen side story quest.",
+      "location": "Gangos",
+      "npc_location": "Gangos (X:6.5 Y:5.8)"
+    },
+    {
+      "name": "One Man's Relic",
+      "description": "Repeatable Save the Queen side story quest.",
+      "location": "Gangos",
+      "npc_location": "Gangos (X:6.2 Y:5.4)"
+    },
+    {
+      "name": "Let Me Holster That for You",
+      "description": "Save the Queen side story quest.",
+      "location": "Gangos",
+      "npc_location": "Gangos (X:6.1 Y:6.7)"
+    },
+    {
+      "name": "In the Queen's Image",
+      "description": "Resistance Weapons story quest.",
+      "location": "Gangos",
+      "npc_location": "Gangos (X:6.2 Y:5.0)"
+    },
+    {
+      "name": "Oddness in the End",
+      "description": "Skysteel Tools quest.",
+      "location": "Foundation",
+      "npc_location": "Foundation (X:7.9 Y:10.6)"
+    },
+    {
+      "name": "Blue Mage level cap increase",
+      "description": "Level cap increased to 70.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Masked Carnivale",
+      "description": "New stages added to the Masked Carnivale.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "New Game+",
+      "description": "New chapters added, including Blue Mage Part 3.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "La Noscean Grape Pergola",
+      "description": "This wooden frame gives grape vines the means to climb to greater heights, in a quite literal sense.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/L/EbtcXqPUGzsVYdi23FpUR25oH4.png"
+    },
+    {
+      "name": "Fruitful Fountain",
+      "description": "Where most fountains would produce an upward-pointing spray of water, this one includes what experts call an \"arboreal protrusion.\"",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/_/45sv0DETIHyh_gl2FyLgD6kUJE.png"
+    },
+    {
+      "name": "Wood Slat Partition",
+      "description": "Useful for when one wishes to block something from view while still being able to see it.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/M/5T9l7AE_cSDlsD4EM4rjEQRgCE.png"
+    },
+    {
+      "name": "Paissa Swing Chair",
+      "description": "For those who wish to be gently rocked by a hanging piece of furniture resembling the most terrifying creature in the known world.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/v/oxRQz2cT8riqV5VLCu2-nADVkE.png"
+    },
+    {
+      "name": "Rustic Chocobo Counter",
+      "description": "Bring the delights of a genuine chocobo stable to the inside of your home, complete with that unmistakable aroma.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/v/hyXqlwktN4v0EssRTzkbMf_7OQ.png"
+    },
+    {
+      "name": "Queen's Gunner Piece",
+      "description": "Can be strategically placed to deter burglars, providing that they are already inside the building at the time.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/U/15QxPO___EcPlhMI9ydNRRxEY8.png"
+    },
+    {
+      "name": "Queen's Soldier Piece",
+      "description": "Though it appears to be some sort of mammet, it is entirely incapable of independent movement. Considering that it comes equipped with a potentially deadly blade, perhaps that is for the best.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/E/8R4FrEQFMaGtRtuRNMU0nhfZ9c.png"
+    },
+    {
+      "name": "Queen's Warrior Piece",
+      "description": "Guarding a queen is certainly not an easy job, but it does come with the unexpected perk of possibly being immortalized in the form of a household ornament.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/i/OfvDbUY2NolZsL2r-nN_N8G6Sc.png"
+    },
+    {
+      "name": "Queen's Knight Piece",
+      "description": "Though knights are known for standing their ground, their ability to remain steadfast is somewhat hindered by the three little wheels at the base, which all seem to want to roll off in a different direction.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Law's Order Helm of Fending",
+      "description": "Head",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Helm of Fending",
+      "description": "Head",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Helm of Maiming",
+      "description": "Head",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Helm of Maiming",
+      "description": "Head",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Elmo of Striking",
+      "description": "Head",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Elmo of Striking",
+      "description": "Head",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Elmo of Scouting",
+      "description": "Head",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Elmo of Scouting",
+      "description": "Head",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Elmo of Aiming",
+      "description": "Head",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Elmo of Aiming",
+      "description": "Head",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Helm of Casting",
+      "description": "Head",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Helm of Casting",
+      "description": "Head",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Helm of Healing",
+      "description": "Head",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Helm of Healing",
+      "description": "Head",
+      "image_url": null
+    },
+    {
+      "name": "Mirage Hat",
+      "description": "Head",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Mail of Fending",
+      "description": "Body",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Mail of Fending",
+      "description": "Body",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Mail of Maiming",
+      "description": "Body",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Mail of Maiming",
+      "description": "Body",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Corselet of Striking",
+      "description": "Body",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Corselet of Striking",
+      "description": "Body",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Corselet of Scouting",
+      "description": "Body",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Corselet of Scouting",
+      "description": "Body",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Corselet of Aiming",
+      "description": "Body",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Corselet of Aiming",
+      "description": "Body",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Corselet of Casting",
+      "description": "Body",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Corselet of Casting",
+      "description": "Body",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Corselet of Healing",
+      "description": "Body",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Corselet of Healing",
+      "description": "Body",
+      "image_url": null
+    },
+    {
+      "name": "Mirage Coatee",
+      "description": "Body",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Gauntlets of Fending",
+      "description": "Hands",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Gauntlets of Fending",
+      "description": "Hands",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Gauntlets of Maiming",
+      "description": "Hands",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Gauntlets of Maiming",
+      "description": "Hands",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Gauntlets of Striking",
+      "description": "Hands",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Gauntlets of Striking",
+      "description": "Hands",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Gauntlets of Scouting",
+      "description": "Hands",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Gauntlets of Scouting",
+      "description": "Hands",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Gauntlets of Aiming",
+      "description": "Hands",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Gauntlets of Aiming",
+      "description": "Hands",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Gloves of Casting",
+      "description": "Hands",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Gloves of Casting",
+      "description": "Hands",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Gloves of Healing",
+      "description": "Hands",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Gloves of Healing",
+      "description": "Hands",
+      "image_url": null
+    },
+    {
+      "name": "Mirage Gloves",
+      "description": "Hands",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Cuisses of Fending",
+      "description": "Legs",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Cuisses of Fending",
+      "description": "Legs",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Cuisses of Maiming",
+      "description": "Legs",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Cuisses of Maiming",
+      "description": "Legs",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Brayettes of Striking",
+      "description": "Legs",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Brayettes of Striking",
+      "description": "Legs",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Brayettes of Scouting",
+      "description": "Legs",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Brayettes of Scouting",
+      "description": "Legs",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Brayettes of Aiming",
+      "description": "Legs",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Brayettes of Aiming",
+      "description": "Legs",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Hose of Casting",
+      "description": "Legs",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Hose of Casting",
+      "description": "Legs",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Hose of Healing",
+      "description": "Legs",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Hose of Healing",
+      "description": "Legs",
+      "image_url": null
+    },
+    {
+      "name": "Mirage Bottoms",
+      "description": "Legs",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Sollerets of Fending",
+      "description": "Feet",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Sollerets of Fending",
+      "description": "Feet",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Sollerets of Maiming",
+      "description": "Feet",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Sollerets of Maiming",
+      "description": "Feet",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Sabatons of Striking",
+      "description": "Feet",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Sabatons of Striking",
+      "description": "Feet",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Sabatons of Scouting",
+      "description": "Feet",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Sabatons of Scouting",
+      "description": "Feet",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Sabatons of Aiming",
+      "description": "Feet",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Sabatons of Aiming",
+      "description": "Feet",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Greaves of Casting",
+      "description": "Feet",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Greaves of Casting",
+      "description": "Feet",
+      "image_url": null
+    },
+    {
+      "name": "Law's Order Greaves of Healing",
+      "description": "Feet",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Law's Order Greaves of Healing",
+      "description": "Feet",
+      "image_url": null
+    },
+    {
+      "name": "Mirage Boots",
+      "description": "Feet",
+      "image_url": null
+    },
+    {
+      "name": "Mirage Earring",
+      "description": "Earrings",
+      "image_url": null
+    },
+    {
+      "name": "Mirage Choker",
+      "description": "Necklace",
+      "image_url": null
+    },
+    {
+      "name": "Mirage Bracelet",
+      "description": "Bracelets",
+      "image_url": null
+    },
+    {
+      "name": "Mirage Ring",
+      "description": "Ring",
+      "image_url": null
+    },
+    {
+      "name": "Mirage Gear Coffer",
+      "description": "Miscellany",
+      "image_url": null
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "patch_title": "Patch 5.08 Notes",
+  "patch_date": "2020-04-14",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/f9f9bc037d81305bd34c688b701db7c6162503b9",
+  "jobs_pve": [
+    {
+      "job": "Rogue/Ninja",
+      "changes": [
+        "Spinning Edge: Potency has been increased from 200 to 220.",
+        "Gust Slash: Combo potency has been increased from 300 to 330.",
+        "Aeolian Edge: Combo potency has been increased from 360 to 400. Rear combo potency has been increased from 420 to 460.",
+        "Shadow Fang: Combo potency has been increased from 200 to 220. Damage over time potency has been increased from 50 to 70.",
+        "Armor Crush: Combo potency has been increased from 330 to 380. Flank combo potency has been increased from 390 to 440.",
+        "Bunshin: Shadow attack potency has been adjusted based on the attack performed (Melee attack: 200, Ranged attack: 100, Area Attack: 100). Help text adjusted."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Hakaze: Potency has been increased from 170 to 200.",
+        "Jinpu: Combo potency has been increased from 320 to 340.",
+        "Shifu: Combo potency has been increased from 320 to 340.",
+        "Gekko: Combo potency has been increased from 470 to 480.",
+        "Kasha: Combo potency has been increased from 470 to 480.",
+        "Higanbana: Damage over time potency has been increased from 35 to 40.",
+        "Hissatsu: Kaiten: Recast time has been reduced from 5 seconds to 1 second.",
+        "Kaeshi: Higanbana: Damage over time potency has been increased from 52 to 60."
+      ]
+    },
+    {
+      "job": "Arcanist/Summoner",
+      "changes": [
+        "Ruin: Additional effects related to Bio/Miasma removed; base potency increased from 80 to 180.",
+        "Ruin II: Additional effects related to Bio/Miasma removed; base potency increased from 80 to 160.",
+        "Ruin III: Additional effects related to Bio/Miasma removed; base potency increased from 100 to 200.",
+        "Ruin IV: Additional effects related to Bio/Miasma removed; base potency increased from 120 to 260."
+      ]
+    }
+  ],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Mt. Gulg",
+      "description": "Dungeon with adjusted ground appearance in certain areas.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Dungeons of Lyhe Ghiah",
+      "description": "Content where duty could erroneously end in failure and chamber door selection issues occurred.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Doman mahjong",
+      "description": "System feature where the probability of waits occurring after a discard has been reduced.",
+      "location": "The Manderville Gold Saucer",
+      "npc_location": null
+    },
+    {
+      "name": "Free Company Submersibles",
+      "description": "Exploratory mission system; units can no longer be deployed if speed is zero.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Housing",
+      "description": "Housing is now available for free companies in the Spriggan and Twintania worlds.",
+      "location": "Spriggan and Twintania",
+      "npc_location": null
+    }
+  ],
+  "housing": [],
+  "glamour": [
+    {
+      "name": "Facet Mail of Fending",
+      "description": "An item mentioned in the Resolved Issues and Known Issues sections regarding incorrect ingredients and desynthesis materials.",
+      "image_url": null
+    },
+    {
+      "name": "Darklight Cowl of Healing",
+      "description": "An item mentioned in the Resolved Issues section regarding a display issue when equipped by Viera or Hrothgar.",
+      "image_url": null
+    }
+  ]
+}

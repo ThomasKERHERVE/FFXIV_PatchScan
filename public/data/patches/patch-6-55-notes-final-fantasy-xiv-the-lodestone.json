@@ -1,7 +1,7 @@
 {
   "patch_title": "Patch 6.55 Notes",
   "patch_date": "2024-01-23",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/012d8e96b662a92eb4405c25b9958184db248348/",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/012d8e96b662a92eb4405c25b9958184db248348",
   "jobs_pve": [],
   "jobs_pvp": [
     {
@@ -75,90 +75,84 @@
     {
       "name": "The Gilded Araya",
       "description": "A new trial added to the game.",
-      "location": "???",
-      "npc_location": "???"
+      "location": null,
+      "npc_location": null
     },
     {
       "name": "When One Door Closes...",
-      "description": "Main scenario quest.",
+      "description": "New main scenario quest.",
       "location": "Radz-at-Han (X:4.4 Y:9.8)",
       "npc_location": "Varshahn"
     },
     {
       "name": "??? (Main Scenario)",
-      "description": "Main scenario quest.",
-      "location": "???",
-      "npc_location": "???"
+      "description": "New main scenario quest.",
+      "location": null,
+      "npc_location": null
     },
     {
       "name": "??? (Main Scenario)",
-      "description": "Main scenario quest.",
-      "location": "???",
-      "npc_location": "???"
+      "description": "New main scenario quest.",
+      "location": null,
+      "npc_location": null
     },
     {
       "name": "Of Duplicity and Duplication",
-      "description": "Side story quest for Somehow Further Hildibrand Adventures.",
+      "description": "New side story quest for Somehow Further Hildibrand Adventures.",
       "location": "Radz-at-Han (X:11.4 Y:11.5)",
       "npc_location": "Delion"
     },
     {
       "name": "Gentlemen at Heart",
-      "description": "Side story quest for Somehow Further Hildibrand Adventures.",
-      "location": "???",
-      "npc_location": "???"
+      "description": "New side story quest for Somehow Further Hildibrand Adventures.",
+      "location": null,
+      "npc_location": null
     },
     {
       "name": "Resonating with Perfection",
-      "description": "Side story quest for Manderville Weapons.",
+      "description": "New side story quest for Manderville Weapons.",
       "location": "Radz-at-Han (X:12.0 Y:7.1)",
       "npc_location": "Gerolt"
     },
     {
       "name": "??? (Manderville Weapons)",
-      "description": "Side story quest for Manderville Weapons.",
-      "location": "???",
-      "npc_location": "???"
+      "description": "New side story quest for Manderville Weapons.",
+      "location": null,
+      "npc_location": null
     },
     {
       "name": "Treasured Bonds",
-      "description": "Side story quest for Tataru's Grand Endeavor.",
+      "description": "New side story quest for Tataru's Grand Endeavor.",
       "location": "Old Sharlayan (X:11.8 Y:9.8)",
       "npc_location": "Mehdjina"
     },
     {
       "name": "??? (Tataru's Grand Endeavor)",
-      "description": "Side story quest for Tataru's Grand Endeavor.",
-      "location": "???",
-      "npc_location": "???"
+      "description": "New side story quest for Tataru's Grand Endeavor.",
+      "location": null,
+      "npc_location": null
     },
     {
       "name": "Where Worries Melt Away",
-      "description": "Island Sanctuary quest.",
+      "description": "New Island Sanctuary quest.",
       "location": "Unnamed Island (X:12.4 Y:28.7)",
       "npc_location": "Curious Courier"
     },
     {
       "name": "Dinner and a Show",
-      "description": "Tribal alliance quest.",
+      "description": "New tribal alliance quest.",
       "location": "Ultima Thule (X:27.5 Y:24.5)",
       "npc_location": "Jammingway"
     },
     {
       "name": "??? (Tribal Alliance)",
-      "description": "Tribal alliance quest.",
-      "location": "???",
-      "npc_location": "???"
-    },
-    {
-      "name": "New Game+ Chapters",
-      "description": "New chapters added to New Game+: Endwalker - Part 3 and Endwalker - Part 4, plus updates to Somehow Further Hildibrand Adventures and Tataru's Grand Endeavor.",
+      "description": "New tribal alliance quest.",
       "location": null,
       "npc_location": null
     },
     {
-      "name": "Multiple Instances for Old Sharlayan",
-      "description": "Implementation of multiple instances for the zone to prevent server congestion.",
+      "name": "Instance System",
+      "description": "Multiple instances implemented for Old Sharlayan to prevent server congestion.",
       "location": "Old Sharlayan",
       "npc_location": null
     }
@@ -198,312 +192,307 @@
   "glamour": [
     {
       "name": "Majestic Manderville Sword Replica",
-      "description": "Gladiator's Arm",
+      "description": "Replica of the Majestic Manderville Sword.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Sword Matte Replica",
-      "description": "Gladiator's Arm",
+      "description": "Matte finish replica of the Majestic Manderville Sword.",
       "image_url": null
     },
     {
       "name": "Mandervillous Falchion Replica",
-      "description": "Gladiator's Arm",
+      "description": "Replica of the Mandervillous Falchion.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Bardiche Replica",
-      "description": "Marauder's Arm",
+      "description": "Replica of the Majestic Manderville Bardiche.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Bardiche Matte Replica",
-      "description": "Marauder's Arm",
+      "description": "Matte finish replica of the Majestic Manderville Bardiche.",
       "image_url": null
     },
     {
       "name": "Mandervillous Battleaxe Replica",
-      "description": "Marauder's Arm",
+      "description": "Replica of the Mandervillous Battleaxe.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Greatsword Replica",
-      "description": "Dark Knight's Arm",
+      "description": "Replica of the Majestic Manderville Greatsword.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Greatsword Matte Replica",
-      "description": "Dark Knight's Arm",
+      "description": "Matte finish replica of the Majestic Manderville Greatsword.",
       "image_url": null
     },
     {
       "name": "Mandervillous Greatsword Replica",
-      "description": "Dark Knight's Arm",
+      "description": "Replica of the Mandervillous Greatsword.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Bayonet Replica",
-      "description": "Gunbreaker's Arm",
+      "description": "Replica of the Majestic Manderville Bayonet.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Bayonet Matte Replica",
-      "description": "Gunbreaker's Arm",
+      "description": "Matte finish replica of the Majestic Manderville Bayonet.",
       "image_url": null
     },
     {
       "name": "Mandervillous Gunblade Replica",
-      "description": "Gunbreaker's Arm",
+      "description": "Replica of the Mandervillous Gunblade.",
       "image_url": null
     },
     {
       "name": "Replica Majestic Manderville Fists",
-      "description": "Pugilist's Arm",
+      "description": "Replica of the Majestic Manderville Fists.",
       "image_url": null
     },
     {
       "name": "Matte Replica Majestic Manderville Fists",
-      "description": "Pugilist's Arm",
+      "description": "Matte finish replica of the Majestic Manderville Fists.",
       "image_url": null
     },
     {
       "name": "Replica Mandervillous Fists",
-      "description": "Pugilist's Arm",
+      "description": "Replica of the Mandervillous Fists.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Spear Replica",
-      "description": "Lancer's Arm",
+      "description": "Replica of the Majestic Manderville Spear.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Spear Matte Replica",
-      "description": "Lancer's Arm",
+      "description": "Matte finish replica of the Majestic Manderville Spear.",
       "image_url": null
     },
     {
       "name": "Mandervillous Trident Replica",
-      "description": "Lancer's Arm",
+      "description": "Replica of the Mandervillous Trident.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Samurai Blade Replica",
-      "description": "Samurai's Arm",
+      "description": "Replica of the Majestic Manderville Samurai Blade.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Samurai Blade Matte Replica",
-      "description": "Samurai's Arm",
+      "description": "Matte finish replica of the Majestic Manderville Samurai Blade.",
       "image_url": null
     },
     {
       "name": "Mandervillous Samurai Blade Replica",
-      "description": "Samurai's Arm",
+      "description": "Replica of the Mandervillous Samurai Blade.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville War Scythe Replica",
-      "description": "Reaper's Arm",
+      "description": "Replica of the Majestic Manderville War Scythe.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville War Scythe Matte Replica",
-      "description": "Reaper's Arm",
+      "description": "Matte finish replica of the Majestic Manderville War Scythe.",
       "image_url": null
     },
     {
       "name": "Mandervillous Zaghnal Replica",
-      "description": "Reaper's Arm",
+      "description": "Replica of the Mandervillous Zaghnal.",
       "image_url": null
     },
     {
       "name": "Replica Majestic Manderville Knives",
-      "description": "Rogue's Arm",
+      "description": "Replica of the Majestic Manderville Knives.",
       "image_url": null
     },
     {
       "name": "Matte Replica Majestic Manderville Knives",
-      "description": "Rogue's Arm",
+      "description": "Matte finish replica of the Majestic Manderville Knives.",
       "image_url": null
     },
     {
       "name": "Replica Mandervillous Knives",
-      "description": "Rogue's Arm",
+      "description": "Replica of the Mandervillous Knives.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Harp Bow Replica",
-      "description": "Archer's Arm",
+      "description": "Replica of the Majestic Manderville Harp Bow.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Harp Bow Matte Replica",
-      "description": "Archer's Arm",
+      "description": "Matte finish replica of the Majestic Manderville Harp Bow.",
       "image_url": null
     },
     {
       "name": "Mandervillous Compound Bow Replica",
-      "description": "Archer's Arm",
+      "description": "Replica of the Mandervillous Compound Bow.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Pistol Replica",
-      "description": "Machinist's Arm",
+      "description": "Replica of the Majestic Manderville Pistol.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Pistol Matte Replica",
-      "description": "Machinist's Arm",
+      "description": "Matte finish replica of the Majestic Manderville Pistol.",
       "image_url": null
     },
     {
       "name": "Mandervillous Revolver Replica",
-      "description": "Machinist's Arm",
+      "description": "Replica of the Mandervillous Revolver.",
       "image_url": null
     },
     {
       "name": "Replica Majestic Manderville Chakrams",
-      "description": "Dancer's Arm",
+      "description": "Replica of the Majestic Manderville Chakrams.",
       "image_url": null
     },
     {
       "name": "Matte Replica Majestic Manderville Chakrams",
-      "description": "Dancer's Arm",
+      "description": "Matte finish replica of the Majestic Manderville Chakrams.",
       "image_url": null
     },
     {
       "name": "Replica Mandervillous Chakrams",
-      "description": "Dancer's Arm",
+      "description": "Replica of the Mandervillous Chakrams.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Staff Replica",
-      "description": "Two-handed Thaumaturge's Arm",
+      "description": "Replica of the Majestic Manderville Staff.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Staff Matte Replica",
-      "description": "Two-handed Thaumaturge's Arm",
+      "description": "Matte finish replica of the Majestic Manderville Staff.",
       "image_url": null
     },
     {
       "name": "Mandervillous Rod Replica",
-      "description": "Two-handed Thaumaturge's Arm",
+      "description": "Replica of the Mandervillous Rod.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Index Replica",
-      "description": "Arcanist's Grimoire",
+      "description": "Replica of the Majestic Manderville Index.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Index Matte Replica",
-      "description": "Arcanist's Grimoire",
+      "description": "Matte finish replica of the Majestic Manderville Index.",
       "image_url": null
     },
     {
       "name": "Mandervillous Index Replica",
-      "description": "Arcanist's Grimoire",
+      "description": "Replica of the Mandervillous Index.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Degen Replica",
-      "description": "Red Mage's Arm",
+      "description": "Replica of the Majestic Manderville Degen.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Degen Matte Replica",
-      "description": "Red Mage's Arm",
+      "description": "Matte finish replica of the Majestic Manderville Degen.",
       "image_url": null
     },
     {
       "name": "Mandervillous Rapier Replica",
-      "description": "Red Mage's Arm",
+      "description": "Replica of the Mandervillous Rapier.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Wand Replica",
-      "description": "Two-handed Conjurer's Arm",
+      "description": "Replica of the Majestic Manderville Wand.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Wand Matte Replica",
-      "description": "Two-handed Conjurer's Arm",
+      "description": "Matte finish replica of the Majestic Manderville Wand.",
       "image_url": null
     },
     {
       "name": "Mandervillous Cane Replica",
-      "description": "Two-handed Conjurer's Arm",
+      "description": "Replica of the Mandervillous Cane.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Codex Replica",
-      "description": "Scholar's Arm",
+      "description": "Replica of the Majestic Manderville Codex.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Codex Matte Replica",
-      "description": "Scholar's Arm",
+      "description": "Matte finish replica of the Majestic Manderville Codex.",
       "image_url": null
     },
     {
       "name": "Mandervillous Codex Replica",
-      "description": "Scholar's Arm",
+      "description": "Replica of the Mandervillous Codex.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Orrery Replica",
-      "description": "Astrologian's Arm",
+      "description": "Replica of the Majestic Manderville Orrery.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Orrery Matte Replica",
-      "description": "Astrologian's Arm",
+      "description": "Matte finish replica of the Majestic Manderville Orrery.",
       "image_url": null
     },
     {
       "name": "Mandervillous Torquetum Replica",
-      "description": "Astrologian's Arm",
+      "description": "Replica of the Mandervillous Torquetum.",
       "image_url": null
     },
     {
       "name": "Replica Majestic Manderville Wings",
-      "description": "Sage's Arm",
+      "description": "Replica of the Majestic Manderville Wings.",
       "image_url": null
     },
     {
       "name": "Matte Replica Majestic Manderville Wings",
-      "description": "Sage's Arm",
+      "description": "Matte finish replica of the Majestic Manderville Wings.",
       "image_url": null
     },
     {
       "name": "Replica Mandervillous Wings",
-      "description": "Sage's Arm",
+      "description": "Replica of the Mandervillous Wings.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Shield Replica",
-      "description": "Shield",
+      "description": "Replica of the Majestic Manderville Shield.",
       "image_url": null
     },
     {
       "name": "Majestic Manderville Shield Matte Replica",
-      "description": "Shield",
+      "description": "Matte finish replica of the Majestic Manderville Shield.",
       "image_url": null
     },
     {
       "name": "Mandervillous Kite Shield Replica",
-      "description": "Shield",
-      "image_url": null
-    },
-    {
-      "name": "Knapsack",
-      "description": "Miscellany: Research has proven that wearing a knapsack or similar greatly reduces the likelihood of being pestered with questions about how you can carry so many items. Use to acquire a knapsack.",
+      "description": "Replica of the Mandervillous Kite Shield.",
       "image_url": null
     },
     {
       "name": "Wayfarer's Barding",
-      "description": "Other: A suit of bespoke chocobo armor lovingly handcrafted by Tataru Taru.",
+      "description": "A suit of bespoke chocobo armor lovingly handcrafted by Tataru Taru.",
       "image_url": null
     }
   ]

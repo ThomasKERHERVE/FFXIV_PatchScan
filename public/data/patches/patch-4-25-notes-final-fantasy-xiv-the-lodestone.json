@@ -1,0 +1,252 @@
+{
+  "patch_title": "Patch 4.25 Notes",
+  "patch_date": "2018-03-20",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/5ad19879fc01a5d878af9a7f90f29e4a2394c5b4",
+  "jobs_pve": [],
+  "jobs_pvp": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Requiescat: Increase to attack magic potency has been reduced from 50% to 25%.",
+        "Clemency: Healing potency has been reduced from 3,000 to 2,500."
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "Onslaught: Potency has been increased from 500 to 750.",
+        "Onslaught: Recast time has been reduced from 15 to 10 seconds."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "The Forbidden Chakra: Potency has been reduced from 2,500 to 2,000.",
+        "Wind Tackle: Potency has been increased from 500 to 750.",
+        "Riddle of Wind: Potency has been increased from 500 to 750."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Jump: TP cost has been increased from 300 to 350."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Kakuremi: Effect duration of Kakuremi has been reduced from 5 to 3 seconds.",
+        "Kakuremi: Effect duration of Hidden has been reduced from 15 to 10 seconds."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Wildfire: Damage compiled from attacks has been reduced from 50% to 33%."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Energy Drain: Potency has been reduced from 1,000 to 750."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Regen: Effect duration has been increased from 15 to 18 seconds.",
+        "Protect: Damage reduction has been increased from 20% to 25%."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Essential Dignity: Healing potency has been reduced from 2,000 to 1,500.",
+        "Essential Dignity: Increase to maximum potency has been changed from 300% to 400%."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Life Imitates Art Imitates Life",
+      "description": "New side story quest in the Hildibrand series.",
+      "location": "Kugane",
+      "npc_location": "Nashu Mhakaracca (X:11.7 Y:8.8)"
+    },
+    {
+      "name": "Of Wolves and Gentlemen",
+      "description": "New side story quest.",
+      "location": "The Ruby Sea",
+      "npc_location": "Shigure (X:38.1 Y:38.1)"
+    },
+    {
+      "name": "And We Shall Call It Eureka",
+      "description": "Quest to unlock The Forbidden Land, Eureka.",
+      "location": "Rhalgr's Reach",
+      "npc_location": "Galiena (X:9.8 Y:12.5)"
+    },
+    {
+      "name": "The Forbidden Land, Eureka Anemos",
+      "description": "An instanced exploration area for up to 144 players where players strengthen elemental gear and weapons.",
+      "location": "Kugane (Rodney X:8.5 Y:14.2)",
+      "npc_location": null
+    },
+    {
+      "name": "Magia Board and Magicite",
+      "description": "A system used in Eureka to manage elemental affinity against enemies.",
+      "location": "The Forbidden Land, Eureka",
+      "npc_location": null
+    },
+    {
+      "name": "EXP Chains",
+      "description": "A system in Eureka where defeating enemies in succession grants additional elemental experience and rewards.",
+      "location": "The Forbidden Land, Eureka",
+      "npc_location": null
+    },
+    {
+      "name": "Notorious Monsters",
+      "description": "Powerful enemies encountered within Eureka that require coordination with other players.",
+      "location": "The Forbidden Land, Eureka",
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Sharlayan Wardrobe",
+      "description": "A decorative wardrobe designed in the Old World Sharlayan style.",
+      "image_url": null
+    },
+    {
+      "name": "Sharlayan Cabinet",
+      "description": "A decorative cabinet designed in the Old World Sharlayan style.",
+      "image_url": null
+    },
+    {
+      "name": "Altar to Pazuzu",
+      "description": "Make profane offerings from the comfort of your home with this sinister altar to the high voidsent Pazuzu.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Songbird Hat",
+      "description": "Item is no longer classified as Unique.",
+      "image_url": null
+    },
+    {
+      "name": "Songbird Jacket",
+      "description": "Item is no longer classified as Unique.",
+      "image_url": null
+    },
+    {
+      "name": "Songbird Gloves",
+      "description": "Item is no longer classified as Unique.",
+      "image_url": null
+    },
+    {
+      "name": "Songbird Skirt",
+      "description": "Item is no longer classified as Unique.",
+      "image_url": null
+    },
+    {
+      "name": "Songbird Boots",
+      "description": "Item is no longer classified as Unique.",
+      "image_url": null
+    },
+    {
+      "name": "Royal Seneschal's Chapeau",
+      "description": "Item is no longer classified as Unique.",
+      "image_url": null
+    },
+    {
+      "name": "Royal Seneschal's Coat",
+      "description": "Item is no longer classified as Unique.",
+      "image_url": null
+    },
+    {
+      "name": "Royal Seneschal's Fingerless Gloves",
+      "description": "Item is no longer classified as Unique.",
+      "image_url": null
+    },
+    {
+      "name": "Royal Seneschal's Breeches",
+      "description": "Item is no longer classified as Unique.",
+      "image_url": null
+    },
+    {
+      "name": "Royal Seneschal's Boots",
+      "description": "Item is no longer classified as Unique.",
+      "image_url": null
+    },
+    {
+      "name": "Emperor Hairpin",
+      "description": "New item, head slot.",
+      "image_url": null
+    },
+    {
+      "name": "Anemos Hat",
+      "description": "New item, head slot.",
+      "image_url": null
+    },
+    {
+      "name": "Anemos Pot Helm",
+      "description": "New item, head slot.",
+      "image_url": null
+    },
+    {
+      "name": "Scorpion Harness",
+      "description": "New item, body slot.",
+      "image_url": null
+    },
+    {
+      "name": "Anemos Jacket",
+      "description": "New item, body slot.",
+      "image_url": null
+    },
+    {
+      "name": "Anemos Gambison",
+      "description": "New item, body slot.",
+      "image_url": null
+    },
+    {
+      "name": "Anemos Suspenders",
+      "description": "New item, body slot.",
+      "image_url": null
+    },
+    {
+      "name": "Anemos Gloves",
+      "description": "New item, hands slot.",
+      "image_url": null
+    },
+    {
+      "name": "Anemos Expeditionary's Gloves",
+      "description": "New item, hands slot.",
+      "image_url": null
+    },
+    {
+      "name": "Anemos Chaps",
+      "description": "New item, legs slot.",
+      "image_url": null
+    },
+    {
+      "name": "Anemos Sarouel",
+      "description": "New item, legs slot.",
+      "image_url": null
+    },
+    {
+      "name": "Strider Boots",
+      "description": "New item, feet slot. Increases sprint duration in city-states.",
+      "image_url": null
+    },
+    {
+      "name": "Anemos Boots",
+      "description": "New item, feet slot.",
+      "image_url": null
+    },
+    {
+      "name": "Anemos Expeditionary's Boots",
+      "description": "New item, feet slot.",
+      "image_url": null
+    }
+  ]
+}

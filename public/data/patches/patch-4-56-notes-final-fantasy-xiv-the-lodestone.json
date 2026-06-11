@@ -1,0 +1,110 @@
+{
+  "patch_title": "Patch 4.56 Notes",
+  "patch_date": "2019-04-02",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/e597114c5473edae40f259a45abe138f4d2a46e6",
+  "jobs_pve": [],
+  "jobs_pvp": [
+    {
+      "job": "White Mage",
+      "changes": [
+        "An issue wherein the action text for the white mage PvP mage action Protect was incorrect has been addressed."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Kugane Ohashi",
+      "description": "A new trial.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "A Brief Reprieve",
+      "description": "New main scenario quest.",
+      "location": "The Rising Stones (X:6.0 Y:5.9)",
+      "npc_location": "Hoary Boulder"
+    },
+    {
+      "name": "The Past Is Never Past",
+      "description": "New Hildibrand side story quest.",
+      "location": "Kugane (X:10.5 Y:8.2)",
+      "npc_location": "Nashu Mhakaracca"
+    },
+    {
+      "name": "The Ananta Maid's Tail",
+      "description": "New beast tribe quest.",
+      "location": "Kugane (X:13.1 Y:9.8)",
+      "npc_location": "East Aldenard Trading Company Assistant"
+    },
+    {
+      "name": "World Visit system",
+      "description": "System scheduled for release in patch 4.57.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Kojin Material Supplier Permit",
+      "description": "This permit allows the hiring of Kojin material suppliers on the estate.",
+      "image_url": null
+    },
+    {
+      "name": "Kojin Junkmonger Permit",
+      "description": "This permit allows the hiring of Kojin junkmongers on the estate.",
+      "image_url": null
+    },
+    {
+      "name": "Kojin Mender Permit",
+      "description": "This permit allows the hiring of Kojin menders on the estate.",
+      "image_url": null
+    },
+    {
+      "name": "Kojin Manservant Permit",
+      "description": "This permit allows the hiring of Kojin manservants on the estate.",
+      "image_url": null
+    },
+    {
+      "name": "Big One Festival Float",
+      "description": "Outdoor Furnishing. Though this towering vehicle is meant for use in parades celebrating the Big One, a modern Namazu, rather than said venerable ancestor, is depicted atop it.",
+      "image_url": null
+    },
+    {
+      "name": "Ananta Metalworks",
+      "description": "Tabletop. A number of beautifully detailed, opulent golden vessels created in honor of Sri Lakshmi.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Namazu Mask",
+      "description": "Head piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Scion Traveler's Mask",
+      "description": "Head piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Scion Traveler's Jacket",
+      "description": "Body piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Scion Traveler's Gloves",
+      "description": "Hands piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Scion Traveler's Trousers",
+      "description": "Legs piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Scion Traveler's Boots",
+      "description": "Feet piece, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    }
+  ]
+}

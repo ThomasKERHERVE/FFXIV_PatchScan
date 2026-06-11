@@ -1,15 +1,13 @@
 {
   "patch_title": "Patch 7.45 Notes",
   "patch_date": "2026-03-10",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/2e8a10c44121af50ce86e1b605e10608e15f24d6/",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/2e8a10c44121af50ce86e1b605e10608e15f24d6",
   "jobs_pve": [
     {
       "job": "Reaper",
       "changes": [
-        "Void Reaping: The trait Melee Mastery III will now increase potency from 540 to 560.",
-        "Void Reaping: Enhanced Void Reaping will now increase potency from 600 to 620.",
-        "Cross Reaping: The trait Melee Mastery III will now increase potency from 540 to 560.",
-        "Cross Reaping: Enhanced Cross Reaping will now increase potency from 600 to 620.",
+        "Void Reaping: The trait Melee Mastery III will now increase potency from 540 to 560; Enhanced Void Reaping will now increase potency from 600 to 620.",
+        "Cross Reaping: The trait Melee Mastery III will now increase potency from 540 to 560; Enhanced Cross Reaping will now increase potency from 600 to 620.",
         "Grim Reaping: Potency has been increased from 200 to 220.",
         "Sacrificium: Potency has been increased from 600 to 700."
       ]
@@ -40,7 +38,7 @@
     {
       "job": "Ninja",
       "changes": [
-        "Bunshin: Potency is no longer halved when executing Forked Raiju or Fleeting Raiju; additional damage will now ignore the effects of Guard when using Assassinate.",
+        "Bunshin: Potency is no longer halved when executing Forked Raiju or Fleeting Raiju; additional damage granted will now ignore the effects of Guard when using Assassinate.",
         "Huton: Increased movement speed effect changed from 25% to 50%.",
         "Dokumori: Effect duration reduced from 8 to 6 seconds."
       ]
@@ -51,7 +49,7 @@
         "Meikyo Shisui: Effect duration increased from 2 to 3 seconds; additional effect 'Increases HP recovered via healing actions by 20%' added.",
         "Tendo Setsugekka: Additional effect 'Restores own HP' added with a cure potency of 10,000.",
         "Tendo Kaeshi Setsugekka: Additional effect 'Restores own HP' added with a cure potency of 10,000.",
-        "Damage Dealt (Frontline): Increased from -10% to -5%."
+        "Damage Dealt (Frontline only): Increased from -10% to -5%."
       ]
     },
     {
@@ -78,7 +76,7 @@
       "changes": [
         "Fan Dance: Effect duration increased from 5 to 6 seconds.",
         "Curing Waltz: Cure potency increased from 8,000 to 12,000.",
-        "Limit Gauge Fill Rate (Frontline): Increased from +15 seconds to +30 seconds."
+        "Limit Gauge Fill Rate (Frontline only): Increased from +15 seconds to +30 seconds."
       ]
     },
     {
@@ -111,62 +109,68 @@
     {
       "job": "Paladin",
       "changes": [
-        "Damage Taken (Frontline): Increased from -50% to -45%."
+        "Damage Taken (Frontline only): Increased from -50% to -45%."
       ]
     },
     {
       "job": "Red Mage",
       "changes": [
-        "Damage Taken (Frontline): Reduced from -38% to -45%."
+        "Damage Taken (Frontline only): Reduced from -38% to -45%."
       ]
     }
   ],
   "new_content": [
     {
       "name": "The Merchant's Tale",
-      "description": "A variant dungeon where players explore branching paths and engage in boss fights dependent on player choices.",
-      "location": null,
-      "npc_location": "Old Sharlayan (X:11.9 Y:13.3)"
+      "description": "A variant dungeon where players explore branching paths and face different boss fights depending on their choices.",
+      "location": "Old Sharlayan",
+      "npc_location": "Osmon in Old Sharlayan (X:11.9 Y:13.3)"
     },
     {
       "name": "The Merchant's Tale (Advanced)",
-      "description": "A free-form series of battles against stronger iterations of bosses from The Merchant's Tale, which can be challenged in any order.",
-      "location": null,
-      "npc_location": "Old Sharlayan (X:11.9 Y:13.3)"
+      "description": "A variant dungeon (advanced) featuring stronger versions of bosses from The Merchant's Tale that can be challenged in any order.",
+      "location": "Old Sharlayan",
+      "npc_location": "Memolivia in Old Sharlayan (X:11.9 Y: 13.3)"
     },
     {
       "name": "Another Merchant's Tale",
-      "description": "A challenging four-player criterion dungeon featuring a linear gauntlet of enhanced bosses with restricted variant actions.",
-      "location": null,
-      "npc_location": "Old Sharlayan (X:11.9 Y:13.3)"
+      "description": "A criterion dungeon that serves as a linear gauntlet of enhanced bosses from The Merchant's Tale (Advanced) for a party of four.",
+      "location": "Old Sharlayan",
+      "npc_location": "Osmon in Old Sharlayan (X:11.9 Y:13.3)"
     },
     {
       "name": "A Spellbinding Read",
-      "description": "Sidequest required to unlock the variant dungeon The Merchant's Tale.",
+      "description": "Sidequest required to unlock The Merchant's Tale.",
       "location": "Old Sharlayan (X:12.0 Y:13.3)",
-      "npc_location": "Old Sharlayan (X:11.9 Y:13.3)"
+      "npc_location": "Shallow Moor"
     },
     {
       "name": "Inconceivably Further Hildibrand Adventures",
-      "description": "A new series of side story quests.",
+      "description": "New chapter in the Hildibrand questline.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "A Need for Speed",
-      "description": "Sidequest required to progress Inconceivably Further Hildibrand Adventures.",
+      "description": "Quest required to advance Inconceivably Further Hildibrand Adventures.",
       "location": "Solution Nine (X:17.0 Y:18.3)",
-      "npc_location": "Solution Nine (X:17.0 Y:18.3)"
+      "npc_location": "Hardiboiled"
     },
     {
       "name": "V&C Dungeon Finder",
-      "description": "A system for accessing, configuring, and managing Variant and Criterion dungeons.",
+      "description": "A system used to access variant and criterion dungeons, select variant actions, and manage party matching.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Variant Actions",
+      "description": "Special abilities that provide role flexibility (e.g., healing or tanking) within variant dungeons.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Party Composition Bonus",
-      "description": "A system in Another Merchant's Tale that grants a damage bonus based on party role composition.",
+      "description": "A damage bonus system in Another Merchant's Tale that scales based on the party's job composition.",
       "location": null,
       "npc_location": null
     },
@@ -180,37 +184,37 @@
   "housing": [
     {
       "name": "Corvosi Crystal",
-      "description": "Outdoor Furnishing. A crystal so royally purple, no sumptuous mansion of untold riches would truly be complete without one. Preferably two.",
+      "description": "A crystal so royally purple, no sumptuous mansion of untold riches would truly be complete without one. Preferably two.",
       "image_url": null
     },
     {
       "name": "Corvosi Sofa",
-      "description": "Furnishing. Lounging upon this luxurious sofa, you shall want only for a cup of sweet Corvosi tea.",
+      "description": "Lounging upon this luxurious sofa, you shall want only for a cup of sweet Corvosi tea.",
       "image_url": null
     },
     {
       "name": "Corvosi Screen",
-      "description": "Furnishing. An austere screen designed to complement Corvosi residences. Affords a certain sense of ennui.",
+      "description": "An austere screen designed to complement Corvosi residences. Affords a certain sense of ennui.",
       "image_url": null
     },
     {
       "name": "Corvosi Fan",
-      "description": "Furnishing. This feathered fan is known to signify status among Corvosi nobles.",
+      "description": "This feathered fan is known to signify status among Corvosi nobles.",
       "image_url": null
     },
     {
       "name": "Imitation Corvosi Shisha",
-      "description": "Tabletop. Regrettably, this nonfunctional replica cannot produce strange and colorful smoke of any kind.",
+      "description": "Regrettably, this nonfunctional replica cannot produce strange and colorful smoke of any kind.",
       "image_url": null
     },
     {
       "name": "Purple Corvosi Carpet",
-      "description": "Rug. This vibrant purple carpet is sure to make a captivating centerpiece in any room.",
+      "description": "This vibrant purple carpet is sure to make a captivating centerpiece in any room.",
       "image_url": null
     },
     {
       "name": "Green Corvosi Carpet",
-      "description": "Rug. This soothing green carpet is sure to make a captivating centerpiece in any room.",
+      "description": "This soothing green carpet is sure to make a captivating centerpiece in any room.",
       "image_url": null
     }
   ],
@@ -288,16 +292,6 @@
     {
       "name": "Corvosi Parasol",
       "description": "Fashion accessory",
-      "image_url": null
-    },
-    {
-      "name": "Comfortable Eye Mask",
-      "description": "Facewear (unlocked via 'The Faces We Wear - Comfortable Eye Mask')",
-      "image_url": null
-    },
-    {
-      "name": "Dark Glasses",
-      "description": "Facewear (unlocked via 'The Faces We Wear - Dark Glasses')",
       "image_url": null
     }
   ]

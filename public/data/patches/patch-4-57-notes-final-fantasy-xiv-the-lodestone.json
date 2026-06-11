@@ -1,0 +1,111 @@
+{
+  "patch_title": "Patch 4.57 Notes",
+  "patch_date": "2019-04-23",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/3caf18c98fb67021b20b4123ad5b57f985645aeb",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "World Visit System",
+      "description": "A system allowing players to visit other World servers within their data center to party, purchase items, and participate in duties.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Server Backup Function",
+      "description": "A feature that allows players to save character and client settings to the server to download on different systems.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Season Thirteen of the Feast",
+      "description": "A new competitive PvP season.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Abes Attire",
+      "description": "Set of armor for housing display.",
+      "image_url": null
+    },
+    {
+      "name": "Abes Jacket",
+      "description": "Part of the Abes Attire set.",
+      "image_url": null
+    },
+    {
+      "name": "Abes Gloves",
+      "description": "Part of the Abes Attire set.",
+      "image_url": null
+    },
+    {
+      "name": "Abes Halfslops",
+      "description": "Part of the Abes Attire set.",
+      "image_url": null
+    },
+    {
+      "name": "Abes Boots",
+      "description": "Part of the Abes Attire set.",
+      "image_url": null
+    },
+    {
+      "name": "High Summoner's Attire",
+      "description": "Set of armor for housing display.",
+      "image_url": null
+    },
+    {
+      "name": "High Summoner's Dress",
+      "description": "Part of the High Summoner's Attire set.",
+      "image_url": null
+    },
+    {
+      "name": "High Summoner's Armlets",
+      "description": "Part of the High Summoner's Attire set.",
+      "image_url": null
+    },
+    {
+      "name": "High Summoner's Boots",
+      "description": "Part of the High Summoner's Attire set.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Abes Jacket",
+      "description": "Part of the Abes Attire set.",
+      "image_url": null
+    },
+    {
+      "name": "Abes Gloves",
+      "description": "Part of the Abes Attire set.",
+      "image_url": null
+    },
+    {
+      "name": "Abes Halfslops",
+      "description": "Part of the Abes Attire set.",
+      "image_url": null
+    },
+    {
+      "name": "Abes Boots",
+      "description": "Part of the Abes Attire set.",
+      "image_url": null
+    },
+    {
+      "name": "High Summoner's Dress",
+      "description": "Part of the High Summoner's Attire set.",
+      "image_url": null
+    },
+    {
+      "name": "High Summoner's Armlets",
+      "description": "Part of the High Summoner's Attire set.",
+      "image_url": null
+    },
+    {
+      "name": "High Summoner's Boots",
+      "description": "Part of the High Summoner's Attire set.",
+      "image_url": null
+    }
+  ]
+}
