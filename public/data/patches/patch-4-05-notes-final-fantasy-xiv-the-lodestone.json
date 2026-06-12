@@ -1,0 +1,391 @@
+{
+  "patch_title": "Patch 4.05 Notes",
+  "patch_date": "2017-07-25",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/782e44043959ae82ead5c6745dac3297a0083b69",
+  "jobs_pve": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Oath Mastery: The Oath Gauge will no longer be halved when switching between the two oaths.",
+        "Holy Spirit: Potency reduced from 430 to 400."
+      ]
+    },
+    {
+      "job": "Marauder/Warrior",
+      "changes": [
+        "Defiance: The Beast Gauge will no longer be halved when Deliverance is executed while under the effect of Defiance.",
+        "Deliverance: The Beast Gauge will no longer be halved when Defiance is executed while under the effect of Deliverance.",
+        "Storm's Path: Combo potency increased from 250 to 270.",
+        "Unchained: Beast Gauge cost has been removed.",
+        "Steel Cyclone: The additional effect \"Absorbs a portion of damage dealt as HP\" has been added.",
+        "Inner Release: Beast Gauge cost has been removed."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Souleater: Combo potency increased from 280 to 300.",
+        "Dark Arts combo potency increased from 420 to 440.",
+        "Quietus: The additional effect \"Restores own MP\" has been added."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Elusive Jump: Recast time reduced from 60 to 30 seconds.",
+        "Blood of the Dragon: Duration increased from 15 to 20 seconds.",
+        "Sonic Thrust: The combo bonus \"Increases Blood of the Dragon duration by 10s to a maximum of 30s\" has been added.",
+        "Dragon Sight: Range increased from 6 to 12 yalms.",
+        "Lance Mastery: Potency increase changed from 30 to 100.",
+        "Mirage Dive: Animation lock after executing Mirage Dive has been shortened."
+      ]
+    },
+    {
+      "job": "Rogue/Ninja",
+      "changes": [
+        "Gust Slash: Combo potency reduced from 220 to 200."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Quick Reload: Quick Reload no longer reduces the Heat Gauge.",
+        "Hot Shot: Increased physical damage effect changed from 5% to 8%. Increase to Heat Gauge reduced from 10 to 5.",
+        "Spread Shot: Increase to Heat Gauge reduced from 10 to 5.",
+        "Barrel Stabilizer: Recast time reduced from 120 to 60 seconds.",
+        "Heated Split Shot: Increase to Heat Gauge reduced from 10 to 5.",
+        "Heated Slug Shot: Increase to Heat Gauge reduced from 10 to 5.",
+        "Heated Clean Shot: Increase to Heat Gauge reduced from 10 to 5.",
+        "Rook Overload: Potency increased from 400 to 800.",
+        "Bishop Overload: Potency increased from 300 to 600."
+      ]
+    },
+    {
+      "job": "Thaumaturge/Black Mage",
+      "changes": [
+        "Fire: MP cost reduced.",
+        "Fire IV: Cast time reduced from 3 to 2.8 seconds.",
+        "Blizzard IV: MP cost reduced. Cast time reduced from 3 to 2.8 seconds.",
+        "Foul: MP cost reduced to 0.",
+        "Triplecast: Recast time reduced from 90 to 60 seconds."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Dreadwyrm Trance: Aetherflow actions are no longer required to inflict an effect on a target to gain Aethertrail Attunement."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Plenary Indulgence: Party members will no longer be granted a Confession when HP is restored via Cure and Cure II. They will instead be granted a Confession when HP is restored via Medica, Medica II, or Cure III. The chance of granting party members a Confession has been increased from 20% to 100%. The duration of the Confession has been reduced from 30 to 10 seconds. Healing potency based on the number of stacks of Confession has been reduced from 400 for one stack, 500 for two stacks, and 600 for three stacks to 150 for one stack, 300 for two stacks, and 450 for three stacks. Recast time increased from 15 to 60 seconds. Confession stacks will now also be granted to the player casting Medica, Medica II, or Cure III.",
+        "Secret of the Lily: Chance healing a party member via Cure will add a Lily to the Healing Gauge increased from 50% to 100%."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Emergency Tactics: Recast time reduced from 30 to 20 seconds.",
+        "Indomitability: Healing potency increased from 400 to 500.",
+        "Excogitation: Healing potency increased from 650 to 800. Duration increased from 30 to 45 seconds. Recast time reduced from 60 to 45 seconds.",
+        "Fey Union: Range increased from 10 to 15 yalms. The Faerie Gauge will no longer deplete when channeling from Fey Union is interrupted.",
+        "Aetherpact: Aetherflow actions are no longer required to inflict an effect on a target to increase the Faerie Gauge.",
+        "Quickened Aetherflow: Reduction to the recast time of Aetherflow changed from 10 to 5 seconds. Chance to reduce the recast time of Aetherflow increased from 20% to 100%.",
+        "Miasma II: Added as a new action for level 46."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "The Balance (Single Target): Increase to damage dealt reduced from 20% to 10%.",
+        "The Spear (Single Target): Effect changed from \"Reduces ability recast time for a party member or self by 20% for 20 seconds\" to \"Increases the critical hit rate for a party member or self by 10% for 20 seconds.\"",
+        "The Balance (Area of Effect): Increase to damage dealt reduced from 10% to 5%.",
+        "The Spear (Area of Effect): Effect changed from \"Reduces ability recast time for a party member or self by 10% for 20 seconds\" to \"Increases the critical hit rate for target and all nearby party members by 5% for 20 seconds.\"",
+        "Undraw: Recast time reduced from 5 to 3 seconds.",
+        "Hyper Lightspeed: No longer reduces the recast time of Lightspeed upon restoring critical HP with Benefic or Benefic II. The recast time of Lightspeed will now be reduced upon executing Essential Dignity. Reduction to the recast time of Lightspeed changed from 5 to 10 seconds.",
+        "Empty Road: Added as a new action for level 35.",
+        "Undraw Spread: Added as a new action for level 40."
+      ]
+    },
+    {
+      "job": "Healer Role Actions",
+      "changes": [
+        "Esuna: MP cost reduced."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Hallowed Ground: The additional effects of actions will now be inflicted on players using Hallowed Ground even when they do not receive damage."
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "Inner Release: Recast time reduced from 120 to 90 seconds.",
+        "Onslaught: Knockback distance increased from 3 to 6 yalms. The speed with which enemies are knocked back has been increased."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Unmend: Recast time increased from 10 to 30 seconds. Speed of draw-in effect increased."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "HP: Increased from 12,500 to 13,000.",
+        "Riddle of Fire: Increased damage effect reduced from 30% to 20%. Increase to weaponskill recast time reduced from 30% to 20%."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "HP: Increased from 12,500 to 13,000."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Assassinate: Recast time will now be reset upon earning a kill or an assist.",
+        "Katon: Heavy effect increased from 25% to 50%. Heavy duration reduced from 4 to 3 seconds.",
+        "Hyoton: Bind duration reduced from 5 to 4 seconds."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Midare Setsugekka: Potency reduced from 3,500 to 3,000.",
+        "Hissatsu: Chiten: Counter potency reduced from 1,000 to 750."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Gauss Barrel: Increased damage effect reduced from 10% to 5%.",
+        "Leg Graze: Heavy effect increased from 25% to 50%. Heavy duration reduced from 4 to 3 seconds."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Thunder: Damage required to gain the Thunder III Ready status reduced from 6,000 to 5,000.",
+        "Thunder III: Damage required to gain the Thunder III Ready status reduced from 6,000 to 5,000.",
+        "Flare: Heavy duration increased from 2 to 3 seconds."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Dreadwyrm Trance: Increased damage effect reduced from 10% to 5%.",
+        "Wyrmwave: Potency reduced from 750 to 500.",
+        "Tri-bind: Bind duration reduced from 4 to 3 seconds."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Monomachy: Recast time reduced from 15 to 10 seconds.",
+        "Flunge: Heavy duration increased from 2 to 3 seconds.",
+        "Jolt II: MP cost reduced from 2,000 to 1,500.",
+        "Impact: MP cost reduced from 2,000 to 1,500."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "HP: Increased from 12,500 to 13,500.",
+        "Stone III: Cast time reduced from 1.8 to 1.3 seconds.",
+        "Fluid Aura: Recast time reduced from 30 to 20 seconds. The additional effect \"Reduces Fluid Aura recast time by a percentage corresponding to the number of healing Lilies stacked at time of action execution (at which time the Lilies are removed)\" has been removed.",
+        "Regen: Healing potency increased from 1,000 to 1,500.",
+        "Divine Benison: Healing lily requirement has been removed."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "HP: Increased from 12,500 to 13,500.",
+        "Broil: Cast time reduced from 1.8 to 1.3 seconds.",
+        "The additional effect \"Reduces target's MP by 1,000 and TP by 100\" has been changed to \"Aetherflow.\"",
+        "Chain Strategem: Increased damage taken by target reduced from 10% to 5%.",
+        "Embrace: Healing potency reduced from 1,500 to 1,000.",
+        "Aura Blast: Heavy effect increased from 25% to 50%. Heavy duration reduced from 4 to 3 seconds."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "HP: Increased from 12,500 to 13,500.",
+        "Malefic III: Cast time reduced from 1.8 to 1.3 seconds. The additional effect \"Slow +20%\" has been changed to \"Bind.\" Effect duration reduced from 6 to 3 seconds.",
+        "Draw: The additional effect \"Restores 1,000 MP\" has been added.",
+        "Essential Dignity: Healing potency increased from 1,500 (up to a maximum of 4,500) to 2,000 (up to a maximum of 6,000).",
+        "The Balance: Duration increased from 15 to 30 seconds.",
+        "The Bole: Duration increased from 15 to 30 seconds.",
+        "The Ewer: Duration increased from 15 to 30 seconds.",
+        "The Spire: Duration increased from 15 to 30 seconds.",
+        "Synastry: Recast time reduced from 15 to 10 seconds.",
+        "Deorbit: Recast time reduced from 60 to 45 seconds."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Omega: Deltascape (Savage)",
+      "description": "A high-difficulty raid dungeon accessible via the Raid Finder.",
+      "location": "Rhalgr's Reach (X:13.5 Y:12.4)",
+      "npc_location": null
+    },
+    {
+      "name": "The Lost Canals of Uznair",
+      "description": "A special instance similar to the Aquapolis accessible after opening treasure coffers obtained from gazelleskin treasure maps.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Anomaly",
+      "description": "A quest that must be completed to gain access to Omega: Deltascape (Savage).",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Raid Finder",
+      "description": "The system used to register and enter Omega: Deltascape (Savage).",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Allagan tomestones of creation",
+      "description": "A new currency obtained from level 70 duties and specific treasure maps.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Matanga Lamp",
+      "description": "Much like the maneki neko (or moogle, for that matter), the Matanga lamp is also believed to bring fortune to any and all who might place them outside their homes.",
+      "image_url": null
+    },
+    {
+      "name": "Daisy Seeds",
+      "description": "Daisy, Daisy. Give me your answer, do. Go half crazy waiting for these godsdamned seeds to bloom. ※For use in planters (built for two).",
+      "image_url": null
+    },
+    {
+      "name": "Red Daisies",
+      "description": "A bunch of red daisies, selectively fertilized to achieve their vibrant color. Bouquets can be placed within select vases for display in estates.",
+      "image_url": null
+    },
+    {
+      "name": "Blue Daisies",
+      "description": "A bunch of blue daisies, selectively fertilized to achieve their vibrant color. Bouquets can be placed within select vases for display in estates.",
+      "image_url": null
+    },
+    {
+      "name": "Yellow Daisies",
+      "description": "A bunch of yellow daisies, selectively fertilized to achieve their vibrant color. Bouquets can be placed within select vases for display in estates.",
+      "image_url": null
+    },
+    {
+      "name": "Green Daisies",
+      "description": "A bunch of green daisies, selectively fertilized to achieve their vibrant color. Bouquets can be placed within select vases for display in estates.",
+      "image_url": null
+    },
+    {
+      "name": "Orange Daisies",
+      "description": "A bunch of orange daisies, selectively fertilized to achieve their vibrant color. Bouquets can be placed within select vases for display in estates.",
+      "image_url": null
+    },
+    {
+      "name": "Purple Daisies",
+      "description": "A bunch of purple daisies, selectively fertilized to achieve their vibrant color. Bouquets can be placed within select vases for display in estates.",
+      "image_url": null
+    },
+    {
+      "name": "White Daisies",
+      "description": "A bunch of white daisies, selectively fertilized to achieve their vibrant color. Bouquets can be placed within select vases for display in estates.",
+      "image_url": null
+    },
+    {
+      "name": "Black Daisies",
+      "description": "A bunch of black daisies, selectively fertilized to achieve their vibrant color. Bouquets can be placed within select vases for display in estates.",
+      "image_url": null
+    },
+    {
+      "name": "Rainbow Daisies",
+      "description": "A bunch of multicolored daisies, selectively fertilized to achieve a variety of vibrant colors. Bouquets can be placed within select vases for display in estates.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Red Daisy Corsage",
+      "description": "Head - Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Blue Daisy Corsage",
+      "description": "Head - Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Yellow Daisy Corsage",
+      "description": "Head - Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Green Daisy Corsage",
+      "description": "Head - Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Orange Daisy Corsage",
+      "description": "Head - Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Purple Daisy Corsage",
+      "description": "Head - Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "White Daisy Corsage",
+      "description": "Head - Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Black Daisy Corsage",
+      "description": "Head - Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Rainbow Daisy Corsage",
+      "description": "Head - Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Non La",
+      "description": "Head - Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Ao Dai",
+      "description": "Body - Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Quan",
+      "description": "Legs - Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Guoc",
+      "description": "Feet - Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    }
+  ]
+}

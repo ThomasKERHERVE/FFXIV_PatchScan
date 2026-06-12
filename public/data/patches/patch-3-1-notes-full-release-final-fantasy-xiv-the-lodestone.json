@@ -1,0 +1,263 @@
+{
+  "patch_title": "Patch 3.1 Notes (Full Release)",
+  "patch_date": "2015-11-10",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/6707e4bc0ca533c1a2cb12155fc91d884c6b6a84",
+  "jobs_pve": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Shield Swipe is now an ability and does not trigger global cooldown.",
+        "Shield Swipe recast time adjusted to 15 seconds.",
+        "Shield Swipe potency reduced from 210 to 150.",
+        "Goring Blade TP cost reduced from 60 to 50.",
+        "Shield Bash TP cost reduced from 150 to 120."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Ten, Chi, and Jin abilities adjusted to accommodate connection speeds and latencies.",
+        "Mutilate TP cost reduced from 80 to 70.",
+        "Shadow Fang TP cost reduced from 70 to 60."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Heavy Shot: Timing at which Straight Shot's icon flashes while under the effect of Straighter Shot has been adjusted.",
+        "Straight Shot TP cost reduced from 70 to 60."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Royal Road effect is no longer lost when leaving an area."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Ranged DPS",
+      "changes": [
+        "The casting time of the Adrenaline Rush ability, Terminal Velocity, has been reduced."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Saint Mocianne's Arboretum",
+      "description": "New dungeon for level 60 players, requiring average item level 170.",
+      "location": "The Dravanian Hinterlands",
+      "npc_location": "The Dravanian Hinterlands (X:12 Y:19)"
+    },
+    {
+      "name": "Pharos Sirius (Hard)",
+      "description": "New hard mode dungeon for level 60 players, requiring average item level 170.",
+      "location": "Limsa Lominsa Upper Decks",
+      "npc_location": "Limsa Lominsa Upper Decks (X:12 Y:12)"
+    },
+    {
+      "name": "The Minstrel's Ballad: Thordan's Reign",
+      "description": "New trial for level 60 players, requiring average item level 190.",
+      "location": "Mor Dhona",
+      "npc_location": "Mor Dhona (X:21 Y:8)"
+    },
+    {
+      "name": "The Void Ark",
+      "description": "New 24-player alliance raid dungeon for level 60 players, requiring average item level 175.",
+      "location": "The Sea of Clouds",
+      "npc_location": "The Sea of Clouds (X:25 Y:5)"
+    },
+    {
+      "name": "The Diadem",
+      "description": "New exploration zone for airship exploration, offering gear with random parameters.",
+      "location": "The Sea of Clouds",
+      "npc_location": "The Pillars (X:14 Y:10)"
+    },
+    {
+      "name": "Lord of Verminion",
+      "description": "New competitive mini-game system located in the Gold Saucer involving minion battles.",
+      "location": "Gold Saucer (Minion Square)",
+      "npc_location": "Entrance Square (X:4 Y:6)"
+    },
+    {
+      "name": "Estate Sharing",
+      "description": "New housing feature allowing owners to designate up to three friends as tenants with specific authorizations.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Main Scenario Quests (Patch 3.1)",
+      "description": "Continuation of the Heavensward storyline starting with 'An Uncertain Future'.",
+      "location": "Foundation / Dravanian Forelands / Dravanian Hinterlands",
+      "npc_location": "Foundation (X:13 Y:11)"
+    },
+    {
+      "name": "Vanu Vanu Beast Tribe Quests",
+      "description": "New beast tribe questline and settlement for the Vanu Vanu.",
+      "location": "The Sea of Clouds (Nakki Island)",
+      "npc_location": "The Sea of Clouds (X:11 Y:14)"
+    },
+    {
+      "name": "Idling Camera",
+      "description": "New system feature to capture screenshots with a fixed-point camera.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Group Pose",
+      "description": "New system feature to synchronize emotes for screenshots.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Level 4 Aetherial Wheel Stand",
+      "description": "A metal stand upon which aetherial wheels are placed and spun to charge. Holds two grade 1, one grade 2, and one grade 3 wheel.",
+      "image_url": null
+    },
+    {
+      "name": "Stack of Tomes",
+      "description": "A neatly assembled collection of works ranging from poetry to history. A tidy bibliophile's dream.",
+      "image_url": null
+    },
+    {
+      "name": "Pile of Tomes",
+      "description": "A slightly strewn collection of works ranging from mythology to philosophy. A tidy bibliophile's nightmare.",
+      "image_url": null
+    },
+    {
+      "name": "Mhachi Coffin",
+      "description": "A faithful replica of a coffin discovered in The Void Ark.",
+      "image_url": null
+    },
+    {
+      "name": "Funguar Chair",
+      "description": "A low stool designed to resemble a mushroom.",
+      "image_url": null
+    },
+    {
+      "name": "Mahogany Partition Door",
+      "description": "A partition and door combination, reaching to the ceiling and so sturdy that it may as well be a wall.",
+      "image_url": null
+    },
+    {
+      "name": "The Unending Journey",
+      "description": "A full record of your past adventures, in one massive volume.",
+      "image_url": null
+    },
+    {
+      "name": "Manor Oven",
+      "description": "A large cooking oven designed in a similar fashion to the unit found in Haukke Manor's kitchens.",
+      "image_url": null
+    },
+    {
+      "name": "Manor Counter",
+      "description": "A large counter designed in a similar fashion to the unit found in Haukke Manor's kitchens.",
+      "image_url": null
+    },
+    {
+      "name": "Oriental Round Table",
+      "description": "A low, circular table used for sitting on the floor.",
+      "image_url": null
+    },
+    {
+      "name": "Oriental Tea Set",
+      "description": "Bring a touch of the exotic to tea time with this collection of authentic Doman ceramic ware.",
+      "image_url": null
+    },
+    {
+      "name": "A Knight to Remember",
+      "description": "A commissioned portrait of recently deceased companion Haurchefaunt Greystone entitled A Knight to Remember.",
+      "image_url": null
+    },
+    {
+      "name": "Microscopically Small Mogwall",
+      "description": "Exterior Wall Decoration: A set of four walls designed for those who wish to transform their estate into home fit for a moogle.",
+      "image_url": null
+    },
+    {
+      "name": "Middlingly Medium Mogwall",
+      "description": "Exterior Wall Decoration: A set of four walls designed for those who wish to transform their estate into home fit for a moogle.",
+      "image_url": null
+    },
+    {
+      "name": "Monstrously Large Mogwall",
+      "description": "Exterior Wall Decoration: A set of four walls designed for those who wish to transform their estate into home fit for a moogle.",
+      "image_url": null
+    },
+    {
+      "name": "Cob Inner Wall",
+      "description": "Interior Wall: A rustic wall made of soil, straw, and lime.",
+      "image_url": null
+    },
+    {
+      "name": "Manor Flooring",
+      "description": "Flooring similar in design to that used in Haukke Manner.",
+      "image_url": null
+    },
+    {
+      "name": "Faerie Chandelier",
+      "description": "Ceiling Light: This delicate light fixture will remind you the wood is alive and always watching...",
+      "image_url": null
+    },
+    {
+      "name": "Topiary Chocobo",
+      "description": "Outdoor Furnishings: A specially bred shrub pruned to the shape of a chipper chocobo.",
+      "image_url": null
+    },
+    {
+      "name": "Oriental Grass",
+      "description": "Outdoor Furnishings: A tall variety of wild grass with stalks that ends in large silver tufts of wispy flowers.",
+      "image_url": null
+    },
+    {
+      "name": "Dravanian Down Tree",
+      "description": "Outdoor Furnishings: A unique species of flora found only growing in the Sea of Clouds.",
+      "image_url": null
+    },
+    {
+      "name": "Cold Knight's Cookfire",
+      "description": "Outdoor Furnishings: A warm fire and a place to rest one's weary legs.",
+      "image_url": null
+    },
+    {
+      "name": "Oriental Snowcave",
+      "description": "Outdoor Furnishings: A tightly packed pile of snow hollwed out and formed into a tiny dwelling.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "The Emperor's New Fists",
+      "description": "The most beautiful pair of pugilist's arms you will never see.",
+      "image_url": null
+    },
+    {
+      "name": "Bunny Chief Crown",
+      "description": "Fits: All ♀",
+      "image_url": null
+    },
+    {
+      "name": "Bunny Chief Bustier",
+      "description": "Fits: All ♀",
+      "image_url": null
+    },
+    {
+      "name": "Bunny Chief Loops",
+      "description": "Fits: All ♀",
+      "image_url": null
+    },
+    {
+      "name": "Bunny Chief Tights",
+      "description": "Fits: All ♀",
+      "image_url": null
+    },
+    {
+      "name": "Bunny Chief Pumps",
+      "description": "Fits: All ♀",
+      "image_url": null
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "patch_title": "Patch 3.45 Notes",
+  "patch_date": "2016-11-01",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/c55a99e864094c0c7dfcbde0fa35bd9fda60dfcb",
+  "jobs_pve": [
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "The action Unleash will no longer cancel auto-attacks in PvE areas."
+      ]
+    }
+  ],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Palace of the Dead",
+      "description": "Deep dungeon with additional floors added, featuring a new scoring system, ranking page, and challenges beyond floor 100.",
+      "location": "South Shroud",
+      "npc_location": "Quarrymill (X:25.2 Y:20.6)"
+    },
+    {
+      "name": "Future Proof",
+      "description": "Anima weapon story quest.",
+      "location": "Azys Lla",
+      "npc_location": "Ardashir (X:7.4 Y:11.5)"
+    },
+    {
+      "name": "Cut from a Different Cloth",
+      "description": "Anima weapon story quest.",
+      "location": "Idyllshire",
+      "npc_location": "Angelet (X:7.9 Y:5.8)"
+    },
+    {
+      "name": "Seeking Inspiration",
+      "description": "Anima weapon story quest.",
+      "location": "Idyllshire",
+      "npc_location": "Amphelice (X:7.9 Y:5.8)"
+    },
+    {
+      "name": "What Lies Beneath",
+      "description": "Side story quest required to access additional floors of the Palace of the Dead.",
+      "location": "South Shroud",
+      "npc_location": "Wood Wailer Expeditionary Captain (X:25.2 Y:20.6)"
+    },
+    {
+      "name": "Dead but Not Gone",
+      "description": "Side story quest.",
+      "location": "South Shroud",
+      "npc_location": "Wood Wailer Expeditionary (X:25.0 Y:20.5)"
+    },
+    {
+      "name": "Deep dungeon scoring system",
+      "description": "A system that assigns scores based on floor progress and enemies slain, with an associated ranking page on the Lodestone.",
+      "location": null,
+      "npc_location": "Wood Wailer Expeditionary Captain at Quarrymill (X:25.2 Y:20.6)"
+    },
+    {
+      "name": "The Feast (Season Three)",
+      "description": "Competitive PvP season with updated matching algorithms and tier adjustments.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Pumpkin Stew",
+      "description": "An All Saints' Wake culinary tradition, this rich, buttery soup is oft served in a hollowed-out pumpkin. ※Cannot be retrieved once placed. ※Can be used up to 10 times.",
+      "image_url": null
+    },
+    {
+      "name": "Season Two Lone Wolf Trophy",
+      "description": "A trophy awarded to those who \"left their mark\" in Season Two of the Feast.",
+      "image_url": null
+    },
+    {
+      "name": "Season Two Pack Wolf Trophy",
+      "description": "A trophy awarded to those who \"left their mark\" in Season Two of the Feast.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Sword of the Twin Thegns Replica",
+      "description": "Replica version of the anima weapon sword.",
+      "image_url": null
+    },
+    {
+      "name": "Axe of the Blood Emperor Replica",
+      "description": "Replica version of the anima weapon axe.",
+      "image_url": null
+    },
+    {
+      "name": "Guillotine of the Tyrant Replica",
+      "description": "Replica version of the anima weapon greatsword.",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sultan's Fists",
+      "description": "Replica version of the anima weapon knuckles.",
+      "image_url": null
+    },
+    {
+      "name": "Trident of the Overlord Replica",
+      "description": "Replica version of the anima weapon spear.",
+      "image_url": null
+    },
+    {
+      "name": "Bow of the Autarch Replica",
+      "description": "Replica version of the anima weapon bow.",
+      "image_url": null
+    },
+    {
+      "name": "Replica Spurs of the Thorn Prince",
+      "description": "Replica version of the anima weapon daggers.",
+      "image_url": null
+    },
+    {
+      "name": "Flame of the Dynast Replica",
+      "description": "Replica version of the anima weapon machinist arm.",
+      "image_url": null
+    },
+    {
+      "name": "Cane of the White Tsar Replica",
+      "description": "Replica version of the anima weapon cane.",
+      "image_url": null
+    },
+    {
+      "name": "Rod of the Black Khan Replica",
+      "description": "Replica version of the anima weapon rod.",
+      "image_url": null
+    },
+    {
+      "name": "Book of the Mad Queen Replica",
+      "description": "Replica version of the anima weapon book.",
+      "image_url": null
+    },
+    {
+      "name": "Word of the Magnate Replica",
+      "description": "Replica version of the anima weapon book.",
+      "image_url": null
+    },
+    {
+      "name": "Sphere of the Last Heir Replica",
+      "description": "Replica version of the anima weapon astrologian arm.",
+      "image_url": null
+    },
+    {
+      "name": "Shield of the Twin Thegns Replica",
+      "description": "Replica version of the anima weapon shield.",
+      "image_url": null
+    },
+    {
+      "name": "Eaglewing Crown",
+      "description": "Headgear glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Eaglebeak Crown",
+      "description": "Headgear glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Eaglewing Coat",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Eaglebeak Coat",
+      "description": "Body glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Eaglewing Gauntlets",
+      "description": "Hand glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Eaglebeak Gauntlets",
+      "description": "Hand glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Eaglewing Breeches",
+      "description": "Leg glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Eaglebeak Breeches",
+      "description": "Leg glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Eaglewing Boots",
+      "description": "Foot glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Eaglebeak Boots",
+      "description": "Foot glamour item.",
+      "image_url": null
+    },
+    {
+      "name": "Far Eastern Patriarch's Attire",
+      "description": "Optional outfit set.",
+      "image_url": null
+    },
+    {
+      "name": "Far Eastern Matriarch's Attire",
+      "description": "Optional outfit set.",
+      "image_url": null
+    }
+  ]
+}

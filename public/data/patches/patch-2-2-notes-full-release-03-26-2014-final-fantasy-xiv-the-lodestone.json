@@ -1,0 +1,436 @@
+{
+  "patch_title": "Patch 2.2 Notes (Full Release)",
+  "patch_date": "2014-03-26",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/69e2c959d2e9285fd541e7f5f70fb8139b3464da",
+  "jobs_pve": [
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Elusive Jump now accurately states that enmity is halved."
+      ]
+    },
+    {
+      "job": "Blacksmith",
+      "changes": [
+        "The effect of the actions Ingenuity and Ingenuity II has been adjusted (slightly lowers recipe level for the next five steps for Ingenuity; lowers recipe level for the next five steps for Ingenuity II)."
+      ]
+    },
+    {
+      "job": "Arcanist",
+      "changes": [
+        "Resurrection now accurately states that it cannot be used in PvP.",
+        "Miasma and Miasma II now accurately state that Heavy is not applied in PvP."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Bard",
+      "changes": [
+        "Miasma and Miasma II now accurately state that Heavy is not applied in PvP."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Elusive Jump now accurately states that enmity is halved."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Resurrection now accurately states that it cannot be used in PvP."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "The Lost City of Amdapor",
+      "description": "New dungeon for four players.",
+      "location": "Old Gridania (X:6, Y:10)",
+      "npc_location": "E-Sumi-Yan"
+    },
+    {
+      "name": "Halatali (Hard)",
+      "description": "New dungeon for four players.",
+      "location": "Mor Dhona (X:22, Y:8)",
+      "npc_location": "Hugubert"
+    },
+    {
+      "name": "Brayflox's Longstop (Hard)",
+      "description": "New dungeon for four players.",
+      "location": "Mor Dhona (X:22, Y:8)",
+      "npc_location": "Bloezoeng"
+    },
+    {
+      "name": "The Second Coil of Bahamut",
+      "description": "New raid for eight players.",
+      "location": "Western Thanalan, The Waking Sands (X:6, Y:6)",
+      "npc_location": "Urianger"
+    },
+    {
+      "name": "The Whorleater (Hard)",
+      "description": "New trial for eight players.",
+      "location": "Lower La Noscea (X:24, Y:33)",
+      "npc_location": "Eynzahr Slafyrsyn"
+    },
+    {
+      "name": "The Whorleater (Extreme)",
+      "description": "New trial for eight players.",
+      "location": "Western Thanalan, The Waking Sands (X:6, Y:4)",
+      "npc_location": "Urianger"
+    },
+    {
+      "name": "Thornmarch (Extreme)",
+      "description": "New trial for eight players.",
+      "location": "Western Thanalan, The Waking Sands (X:6, Y:4)",
+      "npc_location": "Urianger"
+    },
+    {
+      "name": "Glamours",
+      "description": "System allowing players to alter the appearance of gear to resemble other gear.",
+      "location": "Mor Dhona (X:22, Y:6)",
+      "npc_location": "Wiscard"
+    },
+    {
+      "name": "Retainer Ventures",
+      "description": "System to assign retainers tasks to procure items.",
+      "location": "Limsa Lominsa Lower Decks (X:9 Y:11), New Gridania (X:11 Y:12), Ul'dah - Steps of Nald (X:9 Y:8)",
+      "npc_location": "Troubled Adventurer"
+    },
+    {
+      "name": "Challenge Log",
+      "description": "System containing a list of adventuring objectives with weekly rewards.",
+      "location": "Limsa Lominsa Upper Decks (X:11 Y:10)",
+      "npc_location": "I'tolwann"
+    },
+    {
+      "name": "Gardening",
+      "description": "Feature allowing players to cultivate various plants on estate grounds.",
+      "location": "Mist (X:10, Y:11), Lavender Beds (X:11, Y:8), The Goblet (X:11, Y:9)",
+      "npc_location": "Housing Merchant"
+    },
+    {
+      "name": "Saga of the Zodiac Weapons",
+      "description": "A series of quests to create mighty relic weapons.",
+      "location": "North Shroud (X:30, Y:20)",
+      "npc_location": "Gerolt"
+    },
+    {
+      "name": "Kobold and Sahagin Beast Tribe Quests",
+      "description": "New daily quests and settlements.",
+      "location": "Outer La Noscea (X:21, Y:18) and Western La Noscea (X:17, Y:21)",
+      "npc_location": "789th Order Dig / Novv's Nursery"
+    },
+    {
+      "name": "Duty Roulette: Expert and Duty Roulette: Trials",
+      "description": "New Duty Finder categories for increased rewards.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Admiral Portrait",
+      "description": "A commissioned portrait of Merlwyb Bloefhiswyn entitled Will of Iron. Original artist unknown.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/a/1LbK-2Cqoku3zorQFR0VQ6jP0Y.png"
+    },
+    {
+      "name": "Storm Interior Wall",
+      "description": "Display your patriotic zeal with this Maelstrom-themed interior wall.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/z/6PLTZ82M99GJ7tKOee1RSwvNrQ.png"
+    },
+    {
+      "name": "Storm Flooring",
+      "description": "Display your patriotic zeal with this Maelstrom-themed flooring.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/8/2GwuzUcvqLa-hgQeLUyd8xarI8.png"
+    },
+    {
+      "name": "Elder Seedseer Portrait",
+      "description": "A commissioned portrait of Kan--E--Senna entitled Tranquility Embodied. Original artist unknown.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/5/67ZyAIzQUaYoWBmyvFwNvGmCnQ.png"
+    },
+    {
+      "name": "Serpent Interior Wall",
+      "description": "Display your patriotic zeal with this Twin Adder-themed interior wall.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/-/Y5JdwnEWYfyO7OlH27eKIm91Ok.png"
+    },
+    {
+      "name": "Serpent Flooring",
+      "description": "Display your patriotic zeal with this Twin Adder-themed flooring.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/s/-JfULvMAf26L7AaU1OGaGYwanI.png"
+    },
+    {
+      "name": "Sultana Portrait",
+      "description": "A commissioned portrait of Nanamo Ul Namo entitled Heart of Ul'dah.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/p/HPudyOQcwdv97RBwj3FQC552ps.png"
+    },
+    {
+      "name": "Sultana and Flame General Portrait",
+      "description": "A commissioned portrait of Nanamo Ul Namo and Raubahn Aldynn entitled Protectors of the Sultanate. Original artist unknown.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/S/-IC2xIQhTl2ymYW7deE1fOII04.png"
+    },
+    {
+      "name": "Flame Interior Wall",
+      "description": "Display your patriotic zeal with this Immortal Flames-themed interior wall.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/0/LIzzCdAQLNQ17P90_FIvlR_Dvg.jpg"
+    },
+    {
+      "name": "Flame Flooring",
+      "description": "Display your patriotic zeal with this Immortal Flames-themed flooring.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/x/yLkmDjeDW9cU_l1mWtbQUnVIhs.png"
+    },
+    {
+      "name": "Round Garden Patch",
+      "description": "A garden patch with room for four beds.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/c/tWvZpXDc_g6yQd5YKK2k5jhuns.png"
+    },
+    {
+      "name": "Oblong Garden Patch",
+      "description": "A garden patch with room for six beds.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/m/NCNLGrn3U9M85ky-NscraujvN8.png"
+    },
+    {
+      "name": "Deluxe Garden Patch",
+      "description": "A garden patch with room for eight beds. Comes complete with its own scarecrow.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/j/udWU20sWmhYoEsQ_FtrAzVwJ3Q.png"
+    },
+    {
+      "name": "Summoning Bell",
+      "description": "A bell for summoning your retainer.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/-/JlOGowlC5VCrSwg2z3aH8WGhGg.png"
+    },
+    {
+      "name": "Woodworking Bench",
+      "description": "An on-estate crafting facility for woodworkers. Temporarily increases maximum CP for woodworkers level 40 or below.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/P/Lfl3LVb9KMPa5Ye8yxftZkelbc.png"
+    },
+    {
+      "name": "Smithing Bench",
+      "description": "An on-estate crafting facility for blacksmiths. Temporarily increases maximum CP for blacksmiths level 40 or below.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/q/qy4dUGMNkjoyVqPweYMIpOApik.png"
+    },
+    {
+      "name": "Armorcraft Bench",
+      "description": "An on-estate crafting facility for armorers. Temporarily increases maximum CP for armorers level 40 or below.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/N/OYPWhQVCkovUbVcMMck0O4HABU.png"
+    },
+    {
+      "name": "Goldsmithing Bench",
+      "description": "An on-estate crafting facility for goldsmiths. Temporarily increases maximum CP for goldsmiths level 40 or below.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/W/wlHP1NMpdQHcPKUG-swlv71fhE.png"
+    },
+    {
+      "name": "Leatherworking Bench",
+      "description": "An on-estate crafting facility for leatherworkers. Temporarily increases maximum CP for goldsmiths level 40 or below.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/Z/1QWgBsVU7ZboWyMZlRjCQcDRJg.png"
+    },
+    {
+      "name": "Clothcraft Loom",
+      "description": "An on-estate crafting facility for weavers. Temporarily increases maximum CP for weavers level 40 or below.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/K/4fXwcEoJzDEmFRt-tD7PeeKvjE.png"
+    },
+    {
+      "name": "Alchemy Furnace",
+      "description": "An on-estate crafting facility for alchemists. Temporarily increases maximum CP for alchemists level 40 or below.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/q/GiEpnP3oCXluFjrlPlM-mgIbS8.png"
+    },
+    {
+      "name": "Cooking Stove",
+      "description": "An on-estate crafting facility for culinarians. Temporarily increases maximum CP for culinarians level 40 or below.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/i/Sa5YF2-VFf4IJ1cjjFAbPf4GWg.png"
+    },
+    {
+      "name": "Tonberry Armchair",
+      "description": "A rancorous armchair designed in a tonberry king motif.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/h/6gPbLbzUQ_omC_mdXFUA3zPy7I.png"
+    },
+    {
+      "name": "Tonberry Couch",
+      "description": "A rancorous couch designed in a tonberry king motif.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/d/in_Sbc6SzxLU--Npa7URI-_kdg.png"
+    },
+    {
+      "name": "Tonberry Bookshelf",
+      "description": "A rancorous bookshelf designed in a tonberry king motif.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/V/kHxwEjpY-Fme83ta8VIfi1kyLU.png"
+    },
+    {
+      "name": "Tonberry Bed",
+      "description": "A rancorous bed designed in a tonberry king motif.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/0/k5jD6-BJZHwKA2CtbNcDYZR6oY.png"
+    },
+    {
+      "name": "Tonberry Screen",
+      "description": "A rancorous screen designed in a tonberry king motif.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/X/uQVT3DEl1xlFWHu3UZU4-RBtVk.png"
+    },
+    {
+      "name": "Lalafellin Step Stool",
+      "description": "A wooden step stool made to a Lalafell's measure.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/5/YcEF3K-5SgqU0BxZtT0D1Zsa2A.png"
+    },
+    {
+      "name": "Carbuncle Armchair",
+      "description": "A trusty armchair designed in a Carbuncle motif.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/b/SPCgcBAk4HvMngGzk6H4MfSINg.png"
+    },
+    {
+      "name": "Carbuncle Chair",
+      "description": "A fluffy and faithful chair designed in a Carbuncle motif.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/L/NUGcPcy-C8jvx6oKgEXgwJ1ePE.png"
+    },
+    {
+      "name": "Carbuncle Wardrobe",
+      "description": "A fluffy and faithful wardrobe designed in a Carbuncle motif.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/q/GJ-lsgAtsCCDwCm9te3a5sCjpU.png"
+    },
+    {
+      "name": "Looming Tonberry Screen",
+      "description": "A rancorous screen designed in a tonberry king motif. Is it just your imagination, or is he getting closer each time you look away?",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/K/vZf_pjL1HRJCDF9mxKFKb8iISc.png"
+    },
+    {
+      "name": "Manor Harpsichord",
+      "description": "A haunting harpsichord custom-made for Haukke Manor.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/r/maZ-sHaqn4PMFANUlbH4GzztFM.png"
+    },
+    {
+      "name": "Manor Music Stool",
+      "description": "A haunting music stool custom-made for Haukke Manor.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/p/hIKumMfCocoSfxWeUUUIL78Jhg.png"
+    },
+    {
+      "name": "Manor Timpani",
+      "description": "A haunting timpani custom-made for Haukke Manor.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/p/hIKumMfCocoSfxWeUUUIL78Jhg.png"
+    },
+    {
+      "name": "Manor Marching Horn",
+      "description": "A haunting marching horn custom-made for Haukke Manor.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/E/NtymEFiUJfAh25ffTrADsVFkLQ.png"
+    },
+    {
+      "name": "Manor Cello",
+      "description": "A haunting cello custom-made for Haukke Manor.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/K/vZf_pjL1HRJCDF9mxKFKb8iISc.png"
+    },
+    {
+      "name": "Manor Harp",
+      "description": "A haunting harp custom-made for Haukke Manor.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/K/vZf_pjL1HRJCDF9mxKFKb8iISc.png"
+    },
+    {
+      "name": "Manor Music Stand",
+      "description": "A haunting music stand custom-made for Haukke Manor.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/o/uRmujlTx4X_5c6wETNxssK1d_4.png"
+    },
+    {
+      "name": "Tonberry Round Table",
+      "description": "A rancorous round table designed in the likeness of the tonberry king.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/q/GJ-lsgAtsCCDwCm9te3a5sCjpU.png"
+    },
+    {
+      "name": "Tonberry Dining Table",
+      "description": "A rancorous dining table designed in a tonberry king motif.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/_/qP22LgUoAFKDTRayb_TEYu6d7g.png"
+    },
+    {
+      "name": "Carbuncle Round Table",
+      "description": "A fluffy and faithful round table designed in a Carbuncle motif.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/_/qP22LgUoAFKDTRayb_TEYu6d7g.png"
+    },
+    {
+      "name": "Carbuncle Desk",
+      "description": "A fluffy and faithful desk designed in a Carbuncle motif.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/_/qP22LgUoAFKDTRayb_TEYu6d7g.png"
+    },
+    {
+      "name": "Riviera Table Chronometer",
+      "description": "A precision instrument for telling time, designed in the riviera fashion. Suitable for table surfaces.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/p/op9iPrlMmYgTK3Q6NQKifyQOGA.png"
+    },
+    {
+      "name": "Stuffed Ahriman",
+      "description": "Although it doesn't fly, its petrifying gaze is certain to keep would-be burglars at bay.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/p/hIKumMfCocoSfxWeUUUIL78Jhg.png"
+    },
+    {
+      "name": "Ahriman Vase",
+      "description": "A wide-eyed vase designed in an ahriman motif, holding a leafy tree cutting.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/p/hIKumMfCocoSfxWeUUUIL78Jhg.png"
+    },
+    {
+      "name": "Carbuncle Lantern",
+      "description": "A fluffy and faithful lantern designed in a Carbuncle motif.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/S/6IKp0hN6xQqTYPgnPIsd2fjzSI.png"
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Grade 1 Glamour Prism",
+      "description": "For projecting the appearance of equipment item level 1-20.",
+      "image_url": null
+    },
+    {
+      "name": "Grade 2 Glamour Prism",
+      "description": "For projecting the appearance of equipment item level 21-40.",
+      "image_url": null
+    },
+    {
+      "name": "Grade 3 Glamour Prism",
+      "description": "For projecting the appearance of equipment item level 41-60.",
+      "image_url": null
+    },
+    {
+      "name": "Grade 4 Glamour Prism",
+      "description": "For projecting the appearance of equipment item level 61-80.",
+      "image_url": null
+    },
+    {
+      "name": "Grade 5 Glamour Prism",
+      "description": "For projecting the appearance of equipment item level 81 or above.",
+      "image_url": null
+    },
+    {
+      "name": "Glamour Dispeller",
+      "description": "This black prism absorbs the magical lights woven upon a glamoured piece of equipment, thus dispelling the optical illusion.",
+      "image_url": null
+    },
+    {
+      "name": "Master Woodworker: Glamours",
+      "description": "This esoteric tome contains advanced woodworking recipes that can only be learned by highly skilled carpenters.",
+      "image_url": null
+    },
+    {
+      "name": "Master Blacksmith: Glamours",
+      "description": "This esoteric tome contains advanced smithing recipes that can only be learned by highly skilled blacksmiths.",
+      "image_url": null
+    },
+    {
+      "name": "Master Armorer: Glamours",
+      "description": "This esoteric tome contains advanced armorcraft recipes that can only be learned by highly skilled armorers.",
+      "image_url": null
+    },
+    {
+      "name": "Master Goldsmith: Glamours",
+      "description": "This esoteric tome contains advanced goldsmithing recipes that can only be learned by highly skilled goldsmiths.",
+      "image_url": null
+    },
+    {
+      "name": "Master Leatherworker: Glamours",
+      "description": "This esoteric tome contains advanced leatherworking recipes that can only be learned by highly skilled leatherworkers.",
+      "image_url": null
+    },
+    {
+      "name": "Master Weaver: Glamours",
+      "description": "This esoteric tome contains advanced clothcraft recipes that can only be learned by highly skilled weavers.",
+      "image_url": null
+    },
+    {
+      "name": "Master Alchemist: Glamours",
+      "description": "This esoteric tome contains advanced alchemy recipes that can only be learned by highly skilled alchemists.",
+      "image_url": null
+    }
+  ]
+}

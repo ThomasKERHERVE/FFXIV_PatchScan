@@ -1,0 +1,240 @@
+{
+  "patch_title": "Patch 3.26 Notes",
+  "patch_date": "2016-04-12",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/f2acf38d25fcc1243dedefa7e45ec7ba1c3aadaa",
+  "jobs_pve": [
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Dark Arts: Recast time has been reduced from 5 to 3 seconds."
+      ]
+    },
+    {
+      "job": "Arcanist",
+      "changes": [
+        "Aetherflow: Can no longer be dispelled by enemy attacks."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Aetherflow: Can no longer be dispelled by enemy attacks."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Aetherflow: Can no longer be dispelled by enemy attacks."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Collective Unconscious: Can now be canceled by actions that render one unable to act such as stun."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Dark Arts: Recast time has been reduced from 5 to 3 seconds.",
+        "Tar Pit: Recast time has been reduced from 150 to 120 seconds.",
+        "Enhanced Tar Pit: Recast time reduction has been changed from 120 to 90 seconds.",
+        "Tar Pit: Potency has been increased from 200 to 250.",
+        "Enhanced Tar Pit II: Increased potency has been changed from 240 to 300.",
+        "Tar Pit: HP absorption has been increased from 20% to 150%.",
+        "Enhanced Tar Pit III: HP absorption has been increased from 40% to 200%.",
+        "Carnal Chill: Recast time has been reduced from 120 to 90 seconds.",
+        "Enhanced Carnal Chill: Recast time reduction has been changed from 90 to 60 seconds.",
+        "Carnal Chill: Target damage penalty has been increased from 10% to 40%.",
+        "Enhanced Carnal Chill III: Target damage penalty has been increased from 20% to 60%.",
+        "Carnal Chill: Duration of the target damage penalty has been reduced from 20 to 6 seconds."
+      ]
+    },
+    {
+      "job": "Arcanist",
+      "changes": [
+        "Aetherflow: Can no longer be dispelled by enemy attacks."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Aetherflow: Can no longer be dispelled by enemy attacks."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Aetherflow: Can no longer be dispelled by enemy attacks."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Collective Unconscious: Can now be canceled by actions that render one unable to act such as stun."
+      ]
+    },
+    {
+      "job": "Rogue",
+      "changes": [
+        "Can now use the PvP action Fetter Ward.",
+        "Dancing Edge: The reduction of HP recovery via healing magic has been removed."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Can now use the PvP action Fetter Ward.",
+        "Dancing Edge: The reduction of HP recovery via healing magic has been removed."
+      ]
+    },
+    {
+      "job": "Marauder",
+      "changes": [
+        "Storm's Eye: The reduction of HP recovery via healing magic has been removed."
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "Storm's Eye: The reduction of HP recovery via healing magic has been removed."
+      ]
+    },
+    {
+      "job": "Lancer",
+      "changes": [
+        "Feint: The duration has been reduced from 10 to 6 seconds.",
+        "Enhanced Feint: The duration has been reduced from 20 to 10 seconds.",
+        "Skewer: Duration of the target INT reduction has been reduced from 10 to 6 seconds.",
+        "Enhanced Skewer II: Extended duration has been reduced from 15 to 10 seconds."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Feint: The duration has been reduced from 10 to 6 seconds.",
+        "Enhanced Feint: The duration has been reduced from 20 to 10 seconds.",
+        "Skewer: Duration of the target INT reduction has been reduced from 10 to 6 seconds.",
+        "Enhanced Skewer II: Extended duration has been reduced from 15 to 10 seconds."
+      ]
+    },
+    {
+      "job": "Thaumaturge",
+      "changes": [
+        "Sleep: The duration has been reduced from 15 to 12 seconds.",
+        "Night Wing: Duration has been reduced from 10 to 8 seconds.",
+        "Enhanced Night Wing II: Extended duration has been reduced from 15 to 12 seconds."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Sleep: The duration has been reduced from 15 to 12 seconds.",
+        "Night Wing: Duration has been reduced from 10 to 8 seconds.",
+        "Enhanced Night Wing II: Extended duration has been reduced from 15 to 12 seconds."
+      ]
+    },
+    {
+      "job": "Conjurer",
+      "changes": [
+        "Repose: The duration has been reduced from 15 to 8 seconds."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Repose: The duration has been reduced from 15 to 8 seconds."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Between the Eyes: Potency has been reduced from 150 to 120.",
+        "Enhanced Between the Eyes II: Increased potency has been changed from 180 to 150."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "The Feast",
+      "description": "A PvP competition featuring season rankings, tiers (bronze to diamond), and special rewards for top combatants.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Antitower",
+      "description": "Dungeon where the accuracy requirement for hitting enemies has been reduced.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Lost City of Amdapor (Hard)",
+      "description": "Dungeon where the accuracy requirement for hitting enemies has been reduced.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Alexander - The Cuff of the Son (Savage)",
+      "description": "Raid with adjusted encounter difficulty, specifically regarding Blaster, Brawler, Swindler, and Vortexer.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Labyrinth of the Ancients",
+      "description": "Raid dungeon where orchestrion roll materials now always appear in the final treasure chest.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Syrcus Tower",
+      "description": "Raid dungeon where orchestrion roll materials now always appear in the final treasure chest.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The World of Darkness",
+      "description": "Raid dungeon where orchestrion roll materials now always appear in the final treasure chest.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Hullbreaker Isle",
+      "description": "Instanced dungeon where an issue with the kraken tentacle's Seize was addressed.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Alexander - The Arm of the Son (Savage)",
+      "description": "Raid where issues regarding sturm doll detonation and engine oil spawns were addressed.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Battle System",
+      "description": "Adjustments to job actions, PvP encounter mechanics, and adrenaline gauge behavior.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Feast Rankings",
+      "description": "A new system to track and display player rankings for the Feast on the Lodestone and in-game.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Furnishings",
+      "description": "Special rewards distributed to top combatants for solo and party rankings in the Feast.",
+      "image_url": null
+    },
+    {
+      "name": "Orchestrion Roll",
+      "description": "Materials obtained from raid dungeons (The Labyrinth of the Ancients, Syrcus Tower, The World of Darkness) which will now always appear in the treasure chest.",
+      "image_url": null
+    }
+  ],
+  "glamour": []
+}

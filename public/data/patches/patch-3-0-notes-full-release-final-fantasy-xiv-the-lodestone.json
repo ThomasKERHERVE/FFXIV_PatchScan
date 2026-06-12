@@ -1,0 +1,325 @@
+{
+  "patch_title": "Patch 3.0 Notes (Full Release)",
+  "patch_date": "2015-06-23",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/464263b3ce6026cdf98a49bf8f98c204c6199e5a",
+  "jobs_pve": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Riot Blade adjusted",
+        "Shield Swipe adjusted",
+        "Shield Oath adjusted"
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "Defiance adjusted",
+        "Wrath adjusted"
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Featherfoot adjusted",
+        "Demolish adjusted",
+        "Shoulder Tackle adjusted"
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Heavy Thrust adjusted",
+        "Life Surge adjusted",
+        "Phlebotomize adjusted"
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Shade Shift adjusted",
+        "Aeolian Edge adjusted"
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Mage's Ballad adjusted",
+        "Barrage adjusted",
+        "Army's Paeon adjusted",
+        "Rain of Death adjusted"
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Blizzard adjusted",
+        "Fire adjusted",
+        "Fire II adjusted",
+        "Manawall adjusted",
+        "Flare adjusted"
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Miasma adjusted",
+        "Bane adjusted",
+        "Miasma II adjusted",
+        "Enkindle adjusted",
+        "Mountain Buster adjusted",
+        "Flaming Crush adjusted",
+        "Radiant Shield adjusted",
+        "Tri-disaster renamed to Tri-bind"
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Stone adjusted",
+        "Protect adjusted",
+        "Proshell adjusted",
+        "Stone II adjusted",
+        "Presence of Mind adjusted",
+        "Stoneskin adjusted",
+        "Stoneskin (Traits) adjusted",
+        "Holy adjusted",
+        "Aero II adjusted",
+        "Stoneskin II adjusted"
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Lustrate adjusted",
+        "Fey Light adjusted",
+        "Fey Glow adjusted"
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Gladiator",
+      "changes": [
+        "Added PvP action: Push Back",
+        "Adjusted PvP action: Glory Slash"
+      ]
+    },
+    {
+      "job": "Marauder",
+      "changes": [
+        "Added PvP action: Push Back"
+      ]
+    },
+    {
+      "job": "Paladin",
+      "changes": [
+        "Added PvP action: Push Back",
+        "Adjusted PvP action: Glory Slash"
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "Added PvP action: Push Back"
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Added PvP action: Push Back",
+        "Added PvP action: Tar Pit",
+        "Added PvP action: Carnal Chill"
+      ]
+    },
+    {
+      "job": "Pugilist",
+      "changes": [
+        "Adjusted PvP action: Greased Lightning"
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Adjusted PvP action: Greased Lightning"
+      ]
+    },
+    {
+      "job": "Rogue",
+      "changes": [
+        "Adjusted PvP action: Fleet of Foot"
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Adjusted PvP action: Fleet of Foot"
+      ]
+    },
+    {
+      "job": "Arcanist",
+      "changes": [
+        "Adjusted PvP action: Wither"
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Adjusted PvP action: Wither"
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Added PvP action: Between the Eyes",
+        "Added PvP action: Stun Gun",
+        "Added PvP action: Report"
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Added PvP action: Retrogradation"
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Ishgard",
+      "description": "New city added in Heavensward.",
+      "location": "Ishgard",
+      "npc_location": null
+    },
+    {
+      "name": "Foundation",
+      "description": "District of Ishgard.",
+      "location": "Ishgard",
+      "npc_location": null
+    },
+    {
+      "name": "The Pillars",
+      "description": "District of Ishgard.",
+      "location": "Ishgard",
+      "npc_location": null
+    },
+    {
+      "name": "Coerthas Western Highlands",
+      "description": "New field area.",
+      "location": "Heavensward",
+      "npc_location": null
+    },
+    {
+      "name": "The Dravanian Forelands",
+      "description": "New field area.",
+      "location": "Heavensward",
+      "npc_location": null
+    },
+    {
+      "name": "The Churning Mists",
+      "description": "New field area.",
+      "location": "Heavensward",
+      "npc_location": null
+    },
+    {
+      "name": "The Sea of Clouds",
+      "description": "New field area.",
+      "location": "Heavensward",
+      "npc_location": null
+    },
+    {
+      "name": "The Dravanian Hinterlands",
+      "description": "New field area.",
+      "location": "Heavensward",
+      "npc_location": null
+    },
+    {
+      "name": "Coming to Ishgard",
+      "description": "Main scenario quest.",
+      "location": "Coerthas Central Highlands (X:26 Y:17)",
+      "npc_location": "Intercessory (X:6 Y:6) - Alphinaud"
+    },
+    {
+      "name": "Our End",
+      "description": "Dark Knight unlock quest.",
+      "location": "The Pillars (X:13 Y:8)",
+      "npc_location": "The Pillars (X:13 Y:8) - Ishgardian citizen"
+    },
+    {
+      "name": "Savior of Skysteel",
+      "description": "Machinist unlock quest.",
+      "location": "Foundation (X:8 Y:10)",
+      "npc_location": "Foundation (X:8 Y:10) - Stephanivien"
+    },
+    {
+      "name": "Stairway to the Heavens",
+      "description": "Astrologian unlock quest.",
+      "location": "The Pillars (X:15 Y:10)",
+      "npc_location": "The Pillars (X:15 Y:10) - Jannequinard"
+    },
+    {
+      "name": "Inscrutable Tastes",
+      "description": "Unlock quest for Splendors Exchange.",
+      "location": "Foundation (X:10 Y:10)",
+      "npc_location": "Foundation (X:10 Y:10) - Morgayne"
+    },
+    {
+      "name": "Temple Leves",
+      "description": "A new form of guildleves available in new areas.",
+      "location": "Heavensward areas",
+      "npc_location": null
+    },
+    {
+      "name": "Company Workshops",
+      "description": "System for crafting projects such as airships.",
+      "location": "Free Company Housing",
+      "npc_location": null
+    },
+    {
+      "name": "Exploratory Voyages",
+      "description": "System to send free company airships to explore the Sea of Clouds.",
+      "location": "Sea of Clouds",
+      "npc_location": null
+    },
+    {
+      "name": "Crafting Specialist System",
+      "description": "Allows for unique actions for Disciples of the Hand classes.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Splendors Exchange",
+      "description": "System to exchange collectables for rewards.",
+      "location": "Foundation",
+      "npc_location": "Morgayne"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Triple Triad board",
+      "description": "An indoor furnishing that allows players to play Triple Triad within a house or private chamber.",
+      "image_url": null
+    },
+    {
+      "name": "Aetherial wheel (Grade 2)",
+      "description": "A furnishing used to charge company actions.",
+      "image_url": null
+    },
+    {
+      "name": "Aetherial wheel (Grade 3)",
+      "description": "A furnishing used to charge company actions.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Replica Zodiac Weapons",
+      "description": "Replica versions of previously acquired Zodiac Weapons, available for purchase from Drake in the North Shroud.",
+      "image_url": null
+    },
+    {
+      "name": "Glamour Prisms",
+      "description": "Items used to project the appearance of one piece of gear onto another; corresponding item levels have been adjusted.",
+      "image_url": null
+    }
+  ]
+}

@@ -1,0 +1,611 @@
+{
+  "patch_title": "Patch 3.2 Notes (Full Release)",
+  "patch_date": "2016-02-23",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/c755d756aece79cc9707f5444ad0980ac2b5a39c",
+  "jobs_pve": [
+    {
+      "job": "Gladiator/Paladin",
+      "changes": [
+        "Fast Blade: TP cost reduced from 70 to 60.",
+        "Savage Blade: Enmity generation increased.",
+        "Goring Blade: Combo potency increased from 220 to 240; Damage over time potency increased from 40 to 50.",
+        "Royal Authority: Combo potency increased from 340 to 350.",
+        "Clemency: Casting time reduced from 3 to 2 seconds.",
+        "Divine Veil: Barrier now activates when healing yourself; Recast time reduced from 150 seconds to 120 seconds.",
+        "Sword Oath: Use no longer interrupts weaponskill combos.",
+        "Shield Oath: Use no longer interrupts weaponskill combos; Damage penalty reduced from 20% to 15%; Enmity generation increased."
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "Defiance: Enmity generation increased."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Hard Slash: TP cost reduced from 70 to 60.",
+        "Souleater: TP cost reduced from 60 to 50.",
+        "Delirium: TP cost reduced from 60 to 50.",
+        "Grit: Use no longer interrupts weaponskill combos; Enmity generation increased."
+      ]
+    },
+    {
+      "job": "Pugilist/Monk",
+      "changes": [
+        "Demolish: Damage over time potency increased from 40 to 50.",
+        "Howling Fist: Potency increased from 170 to 210."
+      ]
+    },
+    {
+      "job": "Rogue/Ninja",
+      "changes": [
+        "Spinning Edge: TP cost reduced from 60 to 50."
+      ]
+    },
+    {
+      "job": "Archer/Bard",
+      "changes": [
+        "Heavy Shot: TP cost reduced from 60 to 50.",
+        "Straight Shot: TP cost reduced from 60 to 50.",
+        "The Warden's Paean: Categorized as an ability; Casting time reduced from 2.5 seconds to 0; Recast time increased from 2.5 seconds to 45 seconds; Now removes one detrimental effect from a party member or pet."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Split Shot: TP cost reduced from 70 to 60.",
+        "Slug Shot: Timing of icon flash adjusted for Enhanced Slug Shot.",
+        "Clean Shot: Timing of icon flash adjusted for Cleaner Shot.",
+        "Lead Shot: TP cost reduced from 80 to 70.",
+        "Hot Shot: TP cost reduced from 80 to 70.",
+        "Gauss Round: Potency increased from 180 to 200.",
+        "Hypercharge: Duration increased from 15 to 20 seconds.",
+        "Rook Autoturret: Physical damage buff increased from 5% to 10%.",
+        "Bishop Autoturret: Magic damage buff increased from 5% to 10%."
+      ]
+    },
+    {
+      "job": "Thaumaturge/Black Mage",
+      "changes": [
+        "Astral Fire/Umbral Ice: Duration increased from 10 to 12 seconds; Activation timing adjusted."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Ruin III: Potency increased from 120 to 200."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Diurnal Sect: Now reduces enmity generation.",
+        "Nocturnal Sect: Now reduces enmity generation.",
+        "Luminiferous Aether: Duration increased from 15 to 24 seconds.",
+        "Shuffle: Renamed to Redraw; No longer possible to draw the same card twice consecutively.",
+        "The Ewer: Potency increased.",
+        "The Spire: Potency increased."
+      ]
+    },
+    {
+      "job": "Tanks (All)",
+      "changes": [
+        "Calculations for physical damage dealt by tanks have been adjusted."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "All Classes",
+      "changes": [
+        "Sprint: TP cost removed in PvP areas.",
+        "Sprint: Duration set to 10 seconds in PvP areas.",
+        "Sprint: Use will no longer interrupt weaponskill combos."
+      ]
+    },
+    {
+      "job": "Gladiator/Paladin",
+      "changes": [
+        "Fast Blade: TP cost reduced from 70 to 60.",
+        "Savage Blade: Enmity generation increased.",
+        "Goring Blade: Potency when used as a combo action increased from 220 to 240.",
+        "Goring Blade: Damage over time potency increased from 40 to 50.",
+        "Royal Authority: Potency when used as a combo action increased from 340 to 350.",
+        "Clemency: Casting time reduced from 3 to 2 seconds.",
+        "Divine Veil: Protective barrier now activates when healing yourself.",
+        "Divine Veil: Recast time reduced from 150 seconds to 120 seconds.",
+        "Sword Oath: Use will no longer interrupt weaponskill combos.",
+        "Shield Oath: Use will no longer interrupt weaponskill combos.",
+        "Shield Oath: Damage penalty reduced from 20% to 15%.",
+        "Shield Oath: Enmity generation increased."
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "Defiance: Enmity generation increased."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Hard Slash: TP cost reduced from 70 to 60.",
+        "Souleater: TP cost reduced from 60 to 50.",
+        "Delirium: TP cost reduced from 60 to 50.",
+        "Grit: Use will no longer interrupt weaponskill combos.",
+        "Grit: Enmity generation increased.",
+        "Darkside: MP cost reduced by 1/3 in PvP areas."
+      ]
+    },
+    {
+      "job": "Pugilist/Monk",
+      "changes": [
+        "Demolish: Damage over time potency increased from 40 to 50.",
+        "Howling Fist: Potency increased from 170 to 210."
+      ]
+    },
+    {
+      "job": "Rogue/Ninja",
+      "changes": [
+        "Spinning Edge: TP cost reduced from 60 to 50."
+      ]
+    },
+    {
+      "job": "Archer/Bard",
+      "changes": [
+        "Heavy Shot: TP cost reduced from 60 to 50.",
+        "Straight Shot: TP cost reduced from 60 to 50.",
+        "The Warden's Paean: Categorized as an ability.",
+        "The Warden's Paean: Casting time reduced from 2.5 seconds to 0 seconds.",
+        "The Warden's Paean: Recast time increased from 2.5 seconds to 45 seconds.",
+        "The Warden's Paean: Now removes a single detrimental effect from a party member or pet."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Split Shot: TP cost reduced from 70 to 60.",
+        "Slug Shot: Timing for Enhanced Slug Shot icon flash adjusted.",
+        "Clean Shot: Timing for Cleaner Shot icon flash adjusted.",
+        "Lead Shot: TP cost reduced from 80 to 70.",
+        "Hot Shot: TP cost reduced from 80 to 70.",
+        "Gauss Round: Potency increased from 180 to 200.",
+        "Hypercharge: Duration increased from 15 seconds to 20 seconds.",
+        "Rook Autoturret: Physical damage effect increased from 5% to 10%.",
+        "Bishop Autoturret: Magic damage effect increased from 5% to 10%."
+      ]
+    },
+    {
+      "job": "Thaumaturge/Black Mage",
+      "changes": [
+        "Astral Fire/Umbral Ice: Duration increased from 10 seconds to 12 seconds.",
+        "Astral Fire/Umbral Ice: Activation timing adjusted."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Ruin III: Potency increased from 120 to 200."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Diurnal Sect: Now reduces enmity generation.",
+        "Nocturnal Sect: Now reduces enmity generation.",
+        "Aspected Benefic: Nocturnal Field effect halved in PvP areas.",
+        "Luminiferous Aether: Duration increased from 15 seconds to 24 seconds.",
+        "Shuffle: Renamed to Redraw.",
+        "Redraw: No longer possible to draw the same card twice consecutively.",
+        "The Ewer: Potency increased.",
+        "The Spire: Potency increased."
+      ]
+    },
+    {
+      "job": "Conjurer/White Mage/Scholar/Astrologian",
+      "changes": [
+        "Attunement: Activation timing adjusted."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "The Antitower",
+      "description": "New dungeon for level 60 players.",
+      "location": "N/A",
+      "npc_location": "The Rising Stones (X:6.0 Y:6.0), NPC: Alphinaud"
+    },
+    {
+      "name": "The Lost City of Amdapor (Hard)",
+      "description": "New dungeon for level 60 players.",
+      "location": "N/A",
+      "npc_location": "Old Gridania (X:6.0 Y:10.6), NPC: E-Sumi-Yan"
+    },
+    {
+      "name": "Alexander: Midas",
+      "description": "New raid dungeon for eight players, level 60.",
+      "location": "Dravanian Hinterlands",
+      "npc_location": "Dravanian Hinterlands (X:21.7 Y:18.8), NPC: Roundrox"
+    },
+    {
+      "name": "Alexander: Midas (Savage)",
+      "description": "New savage raid dungeon for eight players, level 60.",
+      "location": "Dravanian Hinterlands",
+      "npc_location": "Mor Dhona (X:21.7 Y:8.7), NPC: Wandering Minstrel"
+    },
+    {
+      "name": "Containment Bay S1T7",
+      "description": "New trial for eight players, level 60.",
+      "location": "N/A",
+      "npc_location": "The Rising Stones (X:6.1 Y:5.2), NPC: Unukalhai"
+    },
+    {
+      "name": "Containment Bay S1T7 (Extreme)",
+      "description": "New extreme trial for eight players, level 60.",
+      "location": "N/A",
+      "npc_location": "The Rising Stones (X:6.1 Y:5.2), NPC: Unukalhai"
+    },
+    {
+      "name": "The Feast",
+      "description": "New PvP arena for competitive play.",
+      "location": "Wolves' Den",
+      "npc_location": "Mor Dhona (X:21.7 Y:8.6), NPC: Alys"
+    },
+    {
+      "name": "Hall of the Novice",
+      "description": "Training area for combat and role fundamentals.",
+      "location": "Western La Noscea (X:28.3 Y:24.5)",
+      "npc_location": "Various city locations (Smith NPC)"
+    },
+    {
+      "name": "Stone, Sky, Sea",
+      "description": "Training area for refining player skills against striking dummies.",
+      "location": "Dravanian Hinterlands (X:18.4 Y:10.9)",
+      "npc_location": "Idyllshire (X:7.3 Y:6.0), NPC: Austere Adventurer"
+    },
+    {
+      "name": "Vath beast tribe quests",
+      "description": "New beast tribe quests for Vath tribe.",
+      "location": "The Dravanian Forelands - Loth ast Vath (X:24.0 Y:19.7)",
+      "npc_location": "Dravanian Forelands (X:24.0 Y:19.7), NPC: Vath Storyteller"
+    },
+    {
+      "name": "Mentor System",
+      "description": "System to facilitate the aid of new adventurers by experienced players.",
+      "location": null,
+      "npc_location": "Various (Smith NPC)"
+    },
+    {
+      "name": "Orchestrion",
+      "description": "Furnishing allowing players to change music in estates and inn rooms.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Dandelion Garden Patch",
+      "description": "A tiny field of cheery dandelions that begs to be frolicked in.",
+      "image_url": null
+    },
+    {
+      "name": "Level 5 Aetherial Wheel Stand",
+      "description": "A metal stand upon which aetherial wheels are placed and spun to charge. Holds two grade 1, two grade 2, and one grade 3 wheel.",
+      "image_url": null
+    },
+    {
+      "name": "Crystal Bell",
+      "description": "One ring summons the crafter of coiffures to save you from your passé existence.",
+      "image_url": null
+    },
+    {
+      "name": "Orchestrion",
+      "description": "A furnishing that is sure delight guests and residents alike, as they while away the hours listening to some of their favorite tunes.",
+      "image_url": null
+    },
+    {
+      "name": "Pudding Floor Lamp",
+      "description": "A slimy floor lamp designed in the likeness of a pudding.",
+      "image_url": null
+    },
+    {
+      "name": "Pudding Settee",
+      "description": "A slimy settee designed in the likeness of a pudding.",
+      "image_url": null
+    },
+    {
+      "name": "Pudding Desk",
+      "description": "A slimy desk designed in the likeness of a pudding.",
+      "image_url": null
+    },
+    {
+      "name": "Stuffed Onion Prince",
+      "description": "Attempting to peel away the layers of what makes this plush prince so glum will leave you with less than you started out with. As well as a mess of fabric.",
+      "image_url": null
+    },
+    {
+      "name": "Alpine Supper Set",
+      "description": "This warm array of comfort food has become a treat for special occasions amongst the commoner families of Ishgard.",
+      "image_url": null
+    },
+    {
+      "name": "High House Supper Set",
+      "description": "An extravagant course meal enjoyed by the nobility of Ishgard on saint feast days and other ceremonious occasions.",
+      "image_url": null
+    },
+    {
+      "name": "Stuffed Eggplant Knight",
+      "description": "Designed with the most complicated pattern of the plush Mandragoras, this Knight will protect your castle by day, and woo the queen by night.",
+      "image_url": null
+    },
+    {
+      "name": "Stuffed Garlic Star",
+      "description": "This stuffed jester may fill your heart with childish glee, but too much cuddling and you will reek to high heavens.",
+      "image_url": null
+    },
+    {
+      "name": "Stuffed Tomato King",
+      "description": "Having no kingdom to call his own, this stuffed plush will be more than willing to rule your realm with his adorable little green fist.",
+      "image_url": null
+    },
+    {
+      "name": "Stuffed Mandragora Queen",
+      "description": "This adorable plush doll comes complete with a fabric flower and tiny hooks on the hands that can be attached her to her secret lover.",
+      "image_url": null
+    },
+    {
+      "name": "Pudding Throw Rug",
+      "description": "A slimy throw rug designed in the likeness of a pudding.",
+      "image_url": null
+    },
+    {
+      "name": "Unit of Alpine Flooring",
+      "description": "Floorboards designed to complement alpine residences.",
+      "image_url": null
+    },
+    {
+      "name": "Alpine Chandelier",
+      "description": "A sumptuous chandelier designed to complement alpine residences.",
+      "image_url": null
+    },
+    {
+      "name": "Alpine Inner Wall",
+      "description": "An interior wall designed in the alpine fashion.",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Kettle",
+      "description": "Unlike other kettles of legend, it cannot turn water to ale, nor is it bottomless. But it can boil water for tea in a count of sixty.",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Kettle Zenith",
+      "description": "It can boil water for a quality blend of tea in a count of thirty. And it glows with a strange light.",
+      "image_url": null
+    },
+    {
+      "name": "Ultimate Kettle Nexus",
+      "description": "A true kettle of legend that shines with such brilliance that it is said even gods would beg for a sip of its contents. It can boil water for a premium blend of tea in a count of five.",
+      "image_url": null
+    },
+    {
+      "name": "Sephirot Root",
+      "description": "A masterful objet d'art rendering of the gnarled roots of a sacred tree.",
+      "image_url": null
+    },
+    {
+      "name": "Sephirot Tree",
+      "description": "An imposing objet d'art of a sacred tree.",
+      "image_url": null
+    },
+    {
+      "name": "Dinosaur Skull",
+      "description": "The crown of an ancient beast.",
+      "image_url": null
+    },
+    {
+      "name": "Dinosaur Skeleton",
+      "description": "The torso and legs of an ancient beast.",
+      "image_url": null
+    },
+    {
+      "name": "Dinosaur Tailbone",
+      "description": "The tail of an ancient beast.",
+      "image_url": null
+    },
+    {
+      "name": "Topiary Sabotender",
+      "description": "A specially bred shrub pruned to the shape of a scampering sabotender.",
+      "image_url": null
+    },
+    {
+      "name": "Living Arch",
+      "description": "An aging stone bridge covered in ivy and moss. Perfect for the romantic rendezvous.",
+      "image_url": null
+    },
+    {
+      "name": "Shishi-Odoshi",
+      "description": "A fountain from the Far East originally used to scare away creatures and neighbors come to nibble on garden patches.",
+      "image_url": null
+    },
+    {
+      "name": "Faust Striking Dummy",
+      "description": "A striking dummy created by the Illuminati to train their ranks for combat.",
+      "image_url": null
+    },
+    {
+      "name": "Gnathic Lamp Tree",
+      "description": "Any Gnath would click contently beneath the gentle glow of this lamp tree.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Witch's Hat",
+      "description": "Replenishable item via Calamity Salvagers.",
+      "image_url": null
+    },
+    {
+      "name": "Witch's Coatee",
+      "description": "Replenishable item via Calamity Salvagers.",
+      "image_url": null
+    },
+    {
+      "name": "Witch's Gloves",
+      "description": "Replenishable item via Calamity Salvagers.",
+      "image_url": null
+    },
+    {
+      "name": "Witch's Thighboots",
+      "description": "Replenishable item via Calamity Salvagers.",
+      "image_url": null
+    },
+    {
+      "name": "Amatsu Hachigane",
+      "description": "Replenishable item via Calamity Salvagers.",
+      "image_url": null
+    },
+    {
+      "name": "Amatsu Togi",
+      "description": "Replenishable item via Calamity Salvagers.",
+      "image_url": null
+    },
+    {
+      "name": "Amatsu Tekko",
+      "description": "Replenishable item via Calamity Salvagers.",
+      "image_url": null
+    },
+    {
+      "name": "Amatsu Haidate",
+      "description": "Replenishable item via Calamity Salvagers.",
+      "image_url": null
+    },
+    {
+      "name": "Amatsu Sune-ate",
+      "description": "Replenishable item via Calamity Salvagers.",
+      "image_url": null
+    },
+    {
+      "name": "Reindeer Antler Headband",
+      "description": "Replenishable item via Calamity Salvagers.",
+      "image_url": null
+    },
+    {
+      "name": "Reindeer Gloves",
+      "description": "Replenishable item via Calamity Salvagers.",
+      "image_url": null
+    },
+    {
+      "name": "Reindeer Hooves",
+      "description": "Replenishable item via Calamity Salvagers.",
+      "image_url": null
+    },
+    {
+      "name": "Saint's Beard",
+      "description": "Replenishable item via Calamity Salvagers.",
+      "image_url": null
+    },
+    {
+      "name": "Saint's Cap",
+      "description": "Replenishable item via Calamity Salvagers.",
+      "image_url": null
+    },
+    {
+      "name": "See No Helm",
+      "description": "Replenishable item via Calamity Salvagers.",
+      "image_url": null
+    },
+    {
+      "name": "Speak No Helm",
+      "description": "Replenishable item via Calamity Salvagers.",
+      "image_url": null
+    },
+    {
+      "name": "Hear No Helm",
+      "description": "Replenishable item via Calamity Salvagers.",
+      "image_url": null
+    },
+    {
+      "name": "Field Commander's Helm",
+      "description": "Replenishable item via Calamity Salvagers.",
+      "image_url": null
+    },
+    {
+      "name": "Field Commander's Boots",
+      "description": "Replenishable item via Calamity Salvagers.",
+      "image_url": null
+    },
+    {
+      "name": "Field Commander's Gloves",
+      "description": "Replenishable item via Calamity Salvagers.",
+      "image_url": null
+    },
+    {
+      "name": "Field Commander's Slops",
+      "description": "Replenishable item via Calamity Salvagers.",
+      "image_url": null
+    },
+    {
+      "name": "Field Commander's Coat",
+      "description": "Replenishable item via Calamity Salvagers.",
+      "image_url": null
+    },
+    {
+      "name": "Expeditioner's Flyers",
+      "description": "Replenishable item via Calamity Salvagers.",
+      "image_url": null
+    },
+    {
+      "name": "Lightning's Attire",
+      "description": "Available from the Mog Station.",
+      "image_url": null
+    },
+    {
+      "name": "Snow's Attire",
+      "description": "Available from the Mog Station.",
+      "image_url": null
+    },
+    {
+      "name": "Guardian Corps Coat",
+      "description": "Available from the Mog Station.",
+      "image_url": null
+    },
+    {
+      "name": "Guardian Corps Gauntlets",
+      "description": "Available from the Mog Station.",
+      "image_url": null
+    },
+    {
+      "name": "Guardian Corps Skirt",
+      "description": "Available from the Mog Station.",
+      "image_url": null
+    },
+    {
+      "name": "Guardian Corps Boots",
+      "description": "Available from the Mog Station.",
+      "image_url": null
+    },
+    {
+      "name": "Bohemian's Coat",
+      "description": "Available from the Mog Station.",
+      "image_url": null
+    },
+    {
+      "name": "Bohemian's Gloves",
+      "description": "Available from the Mog Station.",
+      "image_url": null
+    },
+    {
+      "name": "Bohemian's Trousers",
+      "description": "Available from the Mog Station.",
+      "image_url": null
+    },
+    {
+      "name": "Bohemian's Boots",
+      "description": "Available from the Mog Station.",
+      "image_url": null
+    }
+  ]
+}

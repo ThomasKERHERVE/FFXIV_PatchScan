@@ -1,0 +1,496 @@
+{
+  "patch_title": "Patch 4.5 Notes",
+  "patch_date": "2019-01-17",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/97afed7c0efbbe8260755f948d0cf2b912d71121",
+  "jobs_pve": [
+    {
+      "job": "Monk",
+      "changes": [
+        "True Strike: Potency increased from 140 to 160 (does not affect rear potency).",
+        "Snap Punch: Potency increased from 130 to 150 (does not affect flank potency).",
+        "Twin Snakes: Potency increased from 100 to 110 (does not affect flank potency).",
+        "Demolish: Potency increased from 30 to 50 (does not affect rear potency).",
+        "Dragon Kick: Potency increased from 100 to 120 (does not affect flank potency).",
+        "Fists of Fire: Increase to damage dealt changed from 5% to 6%."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Cure: Enmity reduced.",
+        "Medica: Enmity reduced.",
+        "Cure II: Enmity reduced.",
+        "Cure III: Enmity reduced.",
+        "Medica II: Enmity reduced.",
+        "Benediction: Enmity reduced.",
+        "Tetragrammaton: Enmity reduced.",
+        "Assize: Recast time reduced from 60 to 45 seconds; potency increased from 300 to 400; healing potency increased from 300 to 400.",
+        "Plenary Indulgence: Duration increased from 10 to 30 seconds; enmity reduced."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Split Shot: Ammunition effect potency increase changed from 25 to 30.",
+        "Slug Shot: Ammunition effect potency increase changed from 25 to 30.",
+        "Spread Shot: Ammunition effect potency increase changed from 25 to 30.",
+        "Hot Shot: Ammunition effect potency increase changed from 25 to 30; increase to physical damage dealt changed from 8% to 10%.",
+        "Clean Shot: Ammunition effect potency increase changed from 25 to 30.",
+        "Gauss Round: Potency increased from 200 to 210.",
+        "Ricochet: Potency increased from 300 to 320.",
+        "Cooldown: Ammunition effect potency increase changed from 25 to 30.",
+        "Heated Split Shot: Ammunition effect potency increase changed from 25 to 30.",
+        "Heated Slug Shot: Ammunition effect potency increase changed from 25 to 30.",
+        "Heated Clean Shot: Ammunition effect potency increase changed from 25 to 30."
+      ]
+    },
+    {
+      "job": "Role Actions",
+      "changes": [
+        "True North: Recast time reduced from 150 to 90 seconds."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Rage of Halone: Combo bonus changed from 'Reduces target's attack potency and healing magic potency by 10%' to 'Reduces target's damage dealt and healing potency by 10%' and now affects healing from non-magical abilities."
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "Defiance: Effect changed from 'Increases maximum HP and own HP recovery via healing magic by 20%, while reducing damage dealt by 20%.' to 'Reduces both damage taken and damage dealt by 20%.'",
+        "Inner Beast: Damage reduction lowered from 20% to 10%."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Power Slash: Combo bonus changed from 'Reduces target's HP recovered by healing magic by 15%' to 'Reduces target's HP recovered by healing actions by 15%' and now affects healing from non-magical abilities."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Skewer: Additional effect changed from 'Reduces target's attack potency and healing magic potency by 10%' to 'Reduces target's damage dealt and healing potency by 10%' and now affects healing from non-magical abilities."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Katon: Potency increased from 1,250 to 1,500.",
+        "Hyoton: Potency increased from 750 to 1,000.",
+        "Raiton: Potency increased from 1,750 to 2,000."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Miasma III: Additional effect changed from 'Reduces target's HP recovered by healing magic by 10%' to 'Reduces target's HP recovered by healing actions by 10%' and now affects healing from non-magical abilities."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Chain Stratagem: Reduction to damage taken changed from 5% to 10%.",
+        "Embrace: Healing potency increased from 1,000 to 1,500."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Lord of Crowns: Additional effect changed from 'Reduces target's HP recovered by healing magic by 10%' to 'Reduces target's HP recovered by healing actions by 10%' and now affects healing from non-magical abilities."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "The Ghimlyt Dark",
+      "description": "A new dungeon.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Wreath of Snakes",
+      "description": "A new trial.",
+      "location": "The Ruby Sea",
+      "npc_location": "Bunchin"
+    },
+    {
+      "name": "The Wreath of Snakes (Extreme)",
+      "description": "A new extreme trial.",
+      "location": "Kugane",
+      "npc_location": "Wandering Minstrel"
+    },
+    {
+      "name": "The Orbonne Monastery",
+      "description": "A new alliance raid dungeon.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Soul Searching",
+      "description": "Main scenario quest.",
+      "location": "The Rising Stones (X:6.1 Y:5.8)",
+      "npc_location": "Alisaie"
+    },
+    {
+      "name": "Surpassing the Samurai",
+      "description": "Chronicles of a New Era quest.",
+      "location": "The Ruby Sea (X:27.8 Y:16.4)",
+      "npc_location": "Bunchin"
+    },
+    {
+      "name": "The Path of Most Resistance",
+      "description": "Chronicles of a New Era quest.",
+      "location": "Kugane (X:10.3 Y:12.0)",
+      "npc_location": "Lina Mewrilah"
+    },
+    {
+      "name": "Take with a Tonze of Salt",
+      "description": "Side story quest.",
+      "location": "Mor Dhona (X:22.1 Y:8.7)",
+      "npc_location": "Bloezoeng"
+    },
+    {
+      "name": "A Lone Wolf No More",
+      "description": "Side story quest.",
+      "location": "Kugane (X:11.6 Y:9.9)",
+      "npc_location": "News Hawker"
+    },
+    {
+      "name": "Between a Rock and the Hard Place",
+      "description": "Custom Delivery quest.",
+      "location": "Idyllshire (X:5.8 Y:7.0)",
+      "npc_location": "Geimlona"
+    },
+    {
+      "name": "He Ain't Piggy, He's My Brother",
+      "description": "Custom Delivery quest.",
+      "location": "Idyllshire (X:5.0 Y:6.4)",
+      "npc_location": "Melodie"
+    },
+    {
+      "name": "Out of the Blue",
+      "description": "Blue Mage job quest.",
+      "location": "Limsa Lominsa Lower Decks (X:10.0 Y:11.0)",
+      "npc_location": "Zealous Yellowjacket"
+    },
+    {
+      "name": "Blue Mage",
+      "description": "The first limited job.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Masked Carnivale",
+      "description": "A solo challenge duty exclusive to blue mage.",
+      "location": "Ul'dah - Steps of Thal (X:11.5 Y:13.2)",
+      "npc_location": "Celestium attendant"
+    },
+    {
+      "name": "Doman mahjong",
+      "description": "A tile-based board game added to the Manderville Gold Saucer.",
+      "location": "The Gold Saucer (X:4.8 Y:6.1)",
+      "npc_location": "Lewena"
+    },
+    {
+      "name": "Air Force One",
+      "description": "A new GATE shooter ride.",
+      "location": "The Gold Saucer (X:4.9 Y:4.8)",
+      "npc_location": "Sabotender Guia"
+    },
+    {
+      "name": "World Visit system",
+      "description": "System allowing players to visit other World servers in their data center.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Black-and-white Interior Wall",
+      "description": "A wooden interior wall painted with a monochrome pattern of wide horizontal stripes.",
+      "image_url": null
+    },
+    {
+      "name": "Teal Blue Carpeting",
+      "description": "Durable yet fuzzy loop carpet in a soothing blue-green.",
+      "image_url": null
+    },
+    {
+      "name": "Carbuncle Chandelier",
+      "description": "Because who doesn't want to be welcomed home from a hard day's adventuring by a carbuncle hanging from their ceiling?",
+      "image_url": null
+    },
+    {
+      "name": "Botanist's Garden",
+      "description": "A vegetable patch so lovingly tended that it could only have been cultivated by an expert.",
+      "image_url": null
+    },
+    {
+      "name": "Washbasin",
+      "description": "An elegant, stand-alone sink for washing up before dinner. And you will wash up before dinner.",
+      "image_url": null
+    },
+    {
+      "name": "White Rectangular Partition",
+      "description": "Thus named despite the fact that none would fain expect a blue triangle.",
+      "image_url": null
+    },
+    {
+      "name": "Fat Cat Sofa",
+      "description": "So large. So fluffy.",
+      "image_url": null
+    },
+    {
+      "name": "Mirific Mogshelf",
+      "description": "A charming bookshelf topped with decorative moogles beckoning readers to the myriad worlds that come alive through the written word.",
+      "image_url": null
+    },
+    {
+      "name": "Tree Slice Tower",
+      "description": "Pets love it! Miqo'te, too!",
+      "image_url": null
+    },
+    {
+      "name": "Steppe Kitchen",
+      "description": "This cooking facility was fashioned after those used by the Xaela tribes of the Azim Steppe.",
+      "image_url": null
+    },
+    {
+      "name": "Paint Can",
+      "description": "The size of this can is indicative of an ambitious home improvement project. The amount of paint remaining suggests that said project has proven more difficult than expected.",
+      "image_url": null
+    },
+    {
+      "name": "Emerald Crystal Boule",
+      "description": "A mounted sample of the luminous green crystals that grow uninhibited on the sea floor.",
+      "image_url": null
+    },
+    {
+      "name": "Tier 3 Metal Aquarium",
+      "description": "A large reinforced glass tank that, when filled with water, can serve as a home for select wavekin caught in the wild.",
+      "image_url": null
+    },
+    {
+      "name": "Tier 4 Metal Aquarium",
+      "description": "A massive reinforced glass tank that, when filled with water, can serve as a home for select wavekin caught in the wild.",
+      "image_url": null
+    },
+    {
+      "name": "Travel Paint Set",
+      "description": "A robust, portable set of art supplies for adventurous artists and artistic adventurers.",
+      "image_url": null
+    },
+    {
+      "name": "Seiryu Statuette",
+      "description": "An elegant carving of the venerable Seiryu. The geomantic orb in its claws reputedly fills one's home with auspicious energies.",
+      "image_url": null
+    },
+    {
+      "name": "Bag of Booty",
+      "description": "The shine of the historic coins contained within has been professionally restored with great care.",
+      "image_url": null
+    },
+    {
+      "name": "Undersea Spoils",
+      "description": "Not all that glitters is gold. This is, though.",
+      "image_url": null
+    },
+    {
+      "name": "Level Checker Replica",
+      "description": "A model of an advanced piece of technology described in the pages of a─rather eccentric─ancient tome.",
+      "image_url": null
+    },
+    {
+      "name": "Cerulean Crystal Boule",
+      "description": "A mounted sample of the luminous blue crystals that grow uninhibited on the sea floor.",
+      "image_url": null
+    },
+    {
+      "name": "Fat Cat Bank",
+      "description": "Presumably due to the resemblance in terms of rotundity, the fat cat has overtaken the pig as a popular motif for coin banks.",
+      "image_url": null
+    },
+    {
+      "name": "Bowl of Oden",
+      "description": "A heaping bowl of juicy fishcakes, tender daikon, hearty boiled eggs, and other savory ingredients steeped for hours in a warming broth.",
+      "image_url": null
+    },
+    {
+      "name": "Fruit Stall",
+      "description": "A two-tiered unit displaying assorted colorful fruit.",
+      "image_url": null
+    },
+    {
+      "name": "Vegetable Stall",
+      "description": "A large shelf packed with artfully displayed vegetables.",
+      "image_url": null
+    },
+    {
+      "name": "Pastry Cupboard",
+      "description": "Shelves lined with an assortment of pre-plated sweets to sell, share, or...not.",
+      "image_url": null
+    },
+    {
+      "name": "Mineral Display",
+      "description": "Glittering gemstones meticulously arranged atop several tiers of shelving.",
+      "image_url": null
+    },
+    {
+      "name": "Fabric Rack",
+      "description": "A neatly arranged collection of assorted fabrics and spindles of thread for sale.",
+      "image_url": null
+    },
+    {
+      "name": "Potion Rack",
+      "description": "These shelves are packed with enough concoctions and extracts to run a full apothecary.",
+      "image_url": null
+    },
+    {
+      "name": "Prism Pouch",
+      "description": "A pouch for many standard-sized prisms, or one extremely large one.",
+      "image_url": null
+    },
+    {
+      "name": "Marimo Lamp",
+      "description": "The product of a skilled yet not particularly creative metalworker who took inspiration from the lamp marimo to create...a lamp containing lamp marimo.",
+      "image_url": null
+    },
+    {
+      "name": "Honey Pot",
+      "description": "Keeping this much honey in the house is just asking for bear-related trouble.",
+      "image_url": null
+    },
+    {
+      "name": "Plush Pile",
+      "description": "Stuffed moogles and tonberries and bears, oh my.",
+      "image_url": null
+    },
+    {
+      "name": "Season Eleven Lone Wolf Trophy",
+      "description": "A trophy awarded to those who \"left their mark\" in Season Eleven of the Feast.",
+      "image_url": null
+    },
+    {
+      "name": "Small Imitation Window",
+      "description": "Despite its size─and the minor detail of it not being a real window─this plain would-be portal provides a surprising amount of light.",
+      "image_url": null
+    },
+    {
+      "name": "Botanist's Dried Herbs",
+      "description": "An assortment of pleasant-smelling medicinal and culinary herbs verified to be non-toxic. Mostly.",
+      "image_url": null
+    },
+    {
+      "name": "Four Lords",
+      "description": "An evocative ink depiction of the Four Lords.",
+      "image_url": null
+    },
+    {
+      "name": "Wooden Loft",
+      "description": "Create the perfect space for sleeping, reading, displays, or enjoying an insurmountable advantage in pillow fights with this wall-mounted platform.",
+      "image_url": null
+    },
+    {
+      "name": "Wooden Steps",
+      "description": "Useful in climbing up to lofts or removing rival heirs.",
+      "image_url": null
+    },
+    {
+      "name": "Wooden Beam",
+      "description": "For use with the wooden loft, though beam enthusiasts are sure to enjoy it regardless.",
+      "image_url": null
+    },
+    {
+      "name": "Hanging Planter Shelf",
+      "description": "Various potted plants dangle from this wall-mounted shelf, leaving the space atop it free for other items. Or more plants.",
+      "image_url": null
+    },
+    {
+      "name": "Red Carpet",
+      "description": "A slim length of carpeting to welcome honored guests.",
+      "image_url": null
+    },
+    {
+      "name": "Lily of the Valley Pips",
+      "description": "Mature rootstalks that will grow and flower with sweet-smelling (though highly poisonous) bell-shaped blooms.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Rain Hood",
+      "description": "Head piece item",
+      "image_url": null
+    },
+    {
+      "name": "Red Lily of the Valley Corsage",
+      "description": "Head piece item",
+      "image_url": null
+    },
+    {
+      "name": "Blue Lily of the Valley Corsage",
+      "description": "Head piece item",
+      "image_url": null
+    },
+    {
+      "name": "Yellow Lily of the Valley Corsage",
+      "description": "Head piece item",
+      "image_url": null
+    },
+    {
+      "name": "Green Lily of the Valley Corsage",
+      "description": "Head piece item",
+      "image_url": null
+    },
+    {
+      "name": "Orange Lily of the Valley Corsage",
+      "description": "Head piece item",
+      "image_url": null
+    },
+    {
+      "name": "Purple Lily of the Valley Corsage",
+      "description": "Head piece item",
+      "image_url": null
+    },
+    {
+      "name": "White Lily of the Valley Corsage",
+      "description": "Head piece item",
+      "image_url": null
+    },
+    {
+      "name": "Black Lily of the Valley Corsage",
+      "description": "Head piece item",
+      "image_url": null
+    },
+    {
+      "name": "Rainbow Lily of the Valley Corsage",
+      "description": "Head piece item",
+      "image_url": null
+    },
+    {
+      "name": "Raincoat",
+      "description": "Body piece item",
+      "image_url": null
+    },
+    {
+      "name": "Ishgardian Gown",
+      "description": "Body piece item",
+      "image_url": null
+    },
+    {
+      "name": "Far Eastern Smock",
+      "description": "Body piece item",
+      "image_url": null
+    },
+    {
+      "name": "Rain Boots",
+      "description": "Foot piece item",
+      "image_url": null
+    }
+  ]
+}

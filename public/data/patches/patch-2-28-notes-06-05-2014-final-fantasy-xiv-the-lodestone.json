@@ -1,0 +1,324 @@
+{
+  "patch_title": "Patch 2.28",
+  "patch_date": "2014-06-05",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/450816f57ade2015876e7675c3d06dca30386770",
+  "jobs_pve": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Resolved an issue wherein auto-attacks generated incorrect enmity while under the effects of Sword Oath."
+      ]
+    },
+    {
+      "job": "General",
+      "changes": [
+        "Players can now queue abilities immediately following the use of a weaponskill or spell.",
+        "The Echo will now be applied to pets."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "General",
+      "changes": [
+        "All PvP actions will be available upon unlocking the Wolves' Den.",
+        "A Default button has been added to the PvP Profile window under Actions & Traits to reset all enhancements.",
+        "The item The Fury's Anthem can no longer be used or purchased.",
+        "All PvP action and trait enhancements now require four action points.",
+        "Character titles have been adjusted to display the opponents' class or job.",
+        "The Frontline category has been added to the PvP Profile window.",
+        "PvP actions and traits can now be used in the Wolves' Den Pier.",
+        "A message will no longer be displayed in the log window when an enemy is marked with a sign in the Wolves' Den."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Saga of the Zodiac Weapons",
+      "description": "Questline involving the creation of Relic Weapon Novus through the infusion of sphere scrolls with materia.",
+      "location": "North Shroud",
+      "npc_location": "Jalzahn (North Shroud X:29 Y:19)"
+    },
+    {
+      "name": "Celestial Radiance",
+      "description": "Side story quest required to progress the Saga of the Zodiac Weapons.",
+      "location": "North Shroud (X:29 Y:19)",
+      "npc_location": "Jalzahn"
+    },
+    {
+      "name": "Star Light, Star Bright",
+      "description": "Side story quest required to progress the Saga of the Zodiac Weapons.",
+      "location": "Central Thanalan (X:23 Y:13)",
+      "npc_location": "Hubairtin"
+    },
+    {
+      "name": "A Sight to Behold",
+      "description": "Quest to unlock the Sightseeing Log.",
+      "location": "New Gridania (X:11 Y:13)",
+      "npc_location": "Naoh Gamduhla"
+    },
+    {
+      "name": "One Man's Trash",
+      "description": "New side quest.",
+      "location": "North Shroud (X:29 Y:19)",
+      "npc_location": "Ealdwine"
+    },
+    {
+      "name": "Morbid Motivation",
+      "description": "New side quest.",
+      "location": "Mor Dhona (X:21 Y:6)",
+      "npc_location": "Brangwine"
+    },
+    {
+      "name": "Sightseeing Log",
+      "description": "System allowing players to explore the realm and compile a record of landscapes and vistas.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Gear Preview",
+      "description": "Feature allowing players to use the 'Try On' subcommand to preview gear in various windows.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Binding Coil of Bahamut",
+      "description": "Dungeon where jumping platform behavior for pets has been updated.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Second Coil of Bahamut",
+      "description": "Dungeon where pet and visual adjustments were implemented.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Thornmarch (Extreme)",
+      "description": "Trial now available to queue solo via Duty Finder.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Whorleater (Extreme)",
+      "description": "Trial now available to queue solo via Duty Finder.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Wolves' Den Pier",
+      "description": "Exploration/PvP area where striking dummies have been placed and action usage is enabled.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Manor Harpsichord",
+      "description": "Sounds and actions of this furnishing will no longer loop automatically.",
+      "image_url": null
+    },
+    {
+      "name": "Manor Timpani",
+      "description": "Sounds and actions of this furnishing will no longer loop automatically.",
+      "image_url": null
+    },
+    {
+      "name": "Manor Marching Horn",
+      "description": "Sounds and actions of this furnishing will no longer loop automatically.",
+      "image_url": null
+    },
+    {
+      "name": "Manor Cello",
+      "description": "Sounds and actions of this furnishing will no longer loop automatically.",
+      "image_url": null
+    },
+    {
+      "name": "Manor Harp",
+      "description": "Sounds and actions of this furnishing will no longer loop automatically.",
+      "image_url": null
+    },
+    {
+      "name": "Tidal Wavesoul Fount",
+      "description": "Sounds and actions of this furnishing will no longer loop automatically.",
+      "image_url": null
+    },
+    {
+      "name": "Riviera Partition",
+      "description": "Now categorized as wall-mounted.",
+      "image_url": null
+    },
+    {
+      "name": "Oasis Partition",
+      "description": "Now categorized as wall-mounted.",
+      "image_url": null
+    },
+    {
+      "name": "Glade Partition",
+      "description": "Now categorized as wall-mounted.",
+      "image_url": null
+    },
+    {
+      "name": "Knight Captain's Desk",
+      "description": "Item can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Knight Captain's Chair",
+      "description": "Item can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Oasis Wardrobe",
+      "description": "Item can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Riviera Wardrobe",
+      "description": "Item can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Riviera Bookshelf",
+      "description": "Item can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Oasis Bookshelf",
+      "description": "Item can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Glade Bookshelf",
+      "description": "Item can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Lalafellin Step Stool",
+      "description": "Item can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Riviera Roofed Wall",
+      "description": "Item can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Riviera Picket Wall",
+      "description": "Item can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Riviera Stone Wall",
+      "description": "Item can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Glade Cobblestone Wall",
+      "description": "Item can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Glade Thatch Wall",
+      "description": "Item can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Glade Roundpole Fence",
+      "description": "Item can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Oasis Wooden Wall",
+      "description": "Item can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Oasis Ornate Fence",
+      "description": "Item can now be dyed.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Knight Captain's Desk",
+      "description": "Furniture item that can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Knight Captain's Chair",
+      "description": "Furniture item that can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Oasis Wardrobe",
+      "description": "Furniture item that can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Riviera Wardrobe",
+      "description": "Furniture item that can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Riviera Bookshelf",
+      "description": "Furniture item that can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Oasis Bookshelf",
+      "description": "Furniture item that can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Glade Bookshelf",
+      "description": "Furniture item that can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Lalafellin Step Stool",
+      "description": "Furniture item that can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Riviera Roofed Wall",
+      "description": "Furniture item that can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Riviera Picket Wall",
+      "description": "Furniture item that can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Riviera Stone Wall",
+      "description": "Furniture item that can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Glade Cobblestone Wall",
+      "description": "Furniture item that can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Glade Thatch Wall",
+      "description": "Furniture item that can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Glade Roundpole Fence",
+      "description": "Furniture item that can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Oasis Wooden Wall",
+      "description": "Furniture item that can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Oasis Ornate Fence",
+      "description": "Furniture item that can now be dyed.",
+      "image_url": null
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "patch_title": "Patch 3.41 Notes",
+  "patch_date": "2016-11-01",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/f521043481b76b6e081c2f311ce013ea15fc8117",
+  "jobs_pve": [
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Addressed an issue wherein the barrier effect rate listed in the help text for the action 'Aspected Benefic' was incorrect (text only)."
+      ]
+    }
+  ],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Alexander: Midas (Savage)",
+      "description": "Raid content adjusted with the addition of the Echo, increasing players' maximum HP, damage dealt, and healing potency by 10%.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Alexander - The Cuff of the Son (Savage)",
+      "description": "Adjustments made to encounter mechanics (Mind Blast and Drainage potency/range reduction).",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Alexander - The Arm of the Son (Savage)",
+      "description": "Adjustments made to encounter mechanics (Bomb explosions no longer interrupt spellcasting; High Wire duration reduced).",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Alexander - The Burden of the Son (Savage)",
+      "description": "Adjustments made to encounter mechanics (Mind Blast, Drainage, and Brute Justice Damage Up effect reduced).",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Party Finder",
+      "description": "System allowing recruitment of party members even if they do not meet the average item level requirement for a duty, provided the party meets the member requirement.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Wondrous Tails",
+      "description": "Content system where an issue regarding missing seals was addressed.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Palace of the Dead",
+      "description": "Deep dungeon content where an issue regarding player targeting while affected by the palace cobra's 'Devour' was addressed.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Containment Bay P1T6",
+      "description": "Trial content where an issue with the voice track was addressed.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Containment Bay P1T6 (Extreme)",
+      "description": "Trial content where an issue with the voice track was addressed.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Alexander - The Eyes of the Creator (Savage)",
+      "description": "Raid content where an issue with alarum behavior when attacked by pets or turrets was addressed.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Witch's Broom",
+      "description": "A furnishing item that can be discarded.",
+      "image_url": null
+    },
+    {
+      "name": "Pumpkin Butler",
+      "description": "A furnishing item that can be discarded.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Witch's Broom",
+      "description": "Item that can now be discarded.",
+      "image_url": null
+    },
+    {
+      "name": "Pumpkin Butler",
+      "description": "Item that can now be discarded.",
+      "image_url": null
+    },
+    {
+      "name": "Eastern Lord's Togi",
+      "description": "Renamed from Lord's Togi.",
+      "image_url": null
+    },
+    {
+      "name": "Eastern Lord's Trousers",
+      "description": "Renamed from Lord's Trousers.",
+      "image_url": null
+    },
+    {
+      "name": "Eastern Lord's Crackows",
+      "description": "Renamed from Lord's Crackows.",
+      "image_url": null
+    },
+    {
+      "name": "Eastern Lady's Togi",
+      "description": "Renamed from Lady's Togi.",
+      "image_url": null
+    },
+    {
+      "name": "Eastern Lady's Loincloth",
+      "description": "Renamed from Lady's Loincloth.",
+      "image_url": null
+    },
+    {
+      "name": "Eastern Lady's Crackows",
+      "description": "Renamed from Lady's Crackows.",
+      "image_url": null
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "patch_title": "Patch 3.5 Notes (Full Release)",
+  "patch_date": "2017-01-17",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/d90ea3ee6d083eaba4f22e5deefe934b0a0a464e",
+  "jobs_pve": [
+    {
+      "job": "Summoner",
+      "changes": [
+        "Players can now change their egi's outward appearance by completing the 'An Egi by Any Other Name' side quest.",
+        "The /egiglamour text command has been added to change egi appearance (Emerald Carbuncle, Topaz Carbuncle, Ruby Carbuncle).",
+        "Egi glamour appearances are saved when logging out.",
+        "Resolved an issue wherein the summoner action Enkindle does not behave properly under certain conditions."
+      ]
+    },
+    {
+      "job": "Arcanist",
+      "changes": [
+        "Resolved an issue wherein the Raise status effect granted by the arcanist action Resurrection cannot be overwritten by the conjurer action Raise or the astrologian action Ascend."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Resolved an issue with the black mage action Sleep wherein the help text stated it only affects a single target in PvP before acquiring the trait Deep Sleep."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Black Mage",
+      "changes": [
+        "An issue with the action Sleep wherein the help text stated it only affected a single target in PvP before acquiring the trait Deep Sleep has been resolved."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "An issue wherein the action Warden's Paean could protect against multiple detrimental effects in PvP areas has been resolved."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Baelsar's Wall",
+      "description": "A new level 60 dungeon requiring an average item level of 230 or above.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Sohm Al (Hard)",
+      "description": "A new level 60 dungeon requiring an average item level of 230 or above.",
+      "location": "Idyllshire (X:4.6 Y:8.4)",
+      "npc_location": "Gossamer Moogle"
+    },
+    {
+      "name": "Containment Bay Z1T9",
+      "description": "A new level 60 trial for eight players, requiring an average item level of 235 or above.",
+      "location": "The Rising Stones (X:6.1 Y:5.2)",
+      "npc_location": "Unukalhai"
+    },
+    {
+      "name": "Containment Bay Z1T9 (Extreme)",
+      "description": "A new level 60 extreme trial for eight players, requiring an average item level of 250 or above.",
+      "location": "The Rising Stones (X:6.1 Y:5.2)",
+      "npc_location": "Unukalhai"
+    },
+    {
+      "name": "Dun Scaith",
+      "description": "A new alliance raid dungeon for eight-player parties (alliance total), requiring an average item level of 235 or above.",
+      "location": "The Sea of Clouds (X:6.2 Y:5.8)",
+      "npc_location": "Stacia"
+    },
+    {
+      "name": "Tidings from Gyr Abania",
+      "description": "Main scenario quest.",
+      "location": "The Rising Stones (X:6.6 Y:6.1)",
+      "npc_location": "Tataru"
+    },
+    {
+      "name": "Where Shadows Reign",
+      "description": "Chronicles of a New Era quest.",
+      "location": "The Sea of Clouds (X:6.2 Y:5.8)",
+      "npc_location": "Stacia"
+    },
+    {
+      "name": "A Redbill Farewell",
+      "description": "Chronicles of a New Era quest.",
+      "location": "The Parrock (X:7.0 Y:6.9)",
+      "npc_location": "Leofard"
+    },
+    {
+      "name": "The Last Pillar to Fall",
+      "description": "Chronicles of a New Era quest.",
+      "location": "The Rising Stones (X:6.1 Y:5.2)",
+      "npc_location": "Unukalhai"
+    },
+    {
+      "name": "A Demonic Duplicate",
+      "description": "Chronicles of a New Era quest.",
+      "location": "The Rising Stones (X:6.1 Y:5.2)",
+      "npc_location": "Unukalhai"
+    },
+    {
+      "name": "The Student Body's Revenge",
+      "description": "Scholasticate side story quest.",
+      "location": "The Pillars (X:8.7 Y:7.9)",
+      "npc_location": "Briardien"
+    },
+    {
+      "name": "The Whipping Boy",
+      "description": "Scholasticate side story quest.",
+      "location": "Saint Endalim's Scholasticate (X:6.0 Y:5.9)",
+      "npc_location": "Theomocent"
+    },
+    {
+      "name": "Letters from No One",
+      "description": "Scholasticate side story quest.",
+      "location": "The Pillars (X:10.4 Y:9.8)",
+      "npc_location": "Theomocent"
+    },
+    {
+      "name": "The Life and Lies of Father Saturnois",
+      "description": "Scholasticate side story quest.",
+      "location": "The Pillars (X:10.5 Y:9.8)",
+      "npc_location": "Briardien"
+    },
+    {
+      "name": "The Proud and the Pointy-eyed",
+      "description": "Hildibrand side story quest.",
+      "location": "Foundation (X:9.9 Y:11.4)",
+      "npc_location": "Cyr"
+    },
+    {
+      "name": "Born Again Anima",
+      "description": "Anima weapon quest.",
+      "location": "Azys Lla (X:7.4 Y:11.5)",
+      "npc_location": "Ardashir"
+    },
+    {
+      "name": "Some Assembly Required",
+      "description": "Anima weapon quest.",
+      "location": "Azys Lla (X:7.0 Y:11.4)",
+      "npc_location": "Processing Node"
+    },
+    {
+      "name": "When Good Dragons Go Bad",
+      "description": "Beast tribe quest.",
+      "location": "Idyllshire (X:6.9 Y:7.2)",
+      "npc_location": "Drydox"
+    },
+    {
+      "name": "Who Was That Masked Man",
+      "description": "Beast tribe quest.",
+      "location": "The Churning Mists (X:15.7 Y:28.8)",
+      "npc_location": "Master Mogzin"
+    },
+    {
+      "name": "Lift Me to the Moon",
+      "description": "Beast tribe quest.",
+      "location": "Coerthas Western Highlands (X:16.8 Y:22.6)",
+      "npc_location": "Vath Deftarm"
+    },
+    {
+      "name": "Eternity, Loyalty, Honesty",
+      "description": "Beast tribe quest.",
+      "location": "The Sea of Clouds (X:6.6 Y:14.3)",
+      "npc_location": "Vath Deftarm"
+    },
+    {
+      "name": "The Fires of Sohm Al",
+      "description": "Side story quest.",
+      "location": "Idyllshire (X:4.6 Y:8.4)",
+      "npc_location": "Gossamer Moogle"
+    },
+    {
+      "name": "An Egi by Any Other Name",
+      "description": "Side story quest.",
+      "location": "Limsa Lominsa Lower Decks (X:4.7 Y:11.4)",
+      "npc_location": "Thubyrgeim"
+    },
+    {
+      "name": "Fiery Wings, Fiery Hearts",
+      "description": "Side story quest.",
+      "location": "Idyllshire (X:7.5 Y:6.1)",
+      "npc_location": "Walking Atlas"
+    },
+    {
+      "name": "Egi Glamour",
+      "description": "A system allowing players to change the outward appearance of their egis.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Cross-World Party Finder",
+      "description": "Expansion of the Party Finder to include players from all Worlds on the same data center.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Contact List",
+      "description": "A social feature tracking the last fifty people the player has partied with.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Quick Chat",
+      "description": "A communication system specifically for PvP matches where chat is disabled.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Picture Frames",
+      "description": "Housing feature that allows players to display paintings in their estates or apartments.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Diadem (Exploratory Missions)",
+      "description": "Temporarily disabled content for reworking.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Battlehall",
+      "description": "New dedicated area for Triple Triad tournaments.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Paissa Cottage Wall",
+      "description": "Exterior wall for cottages on small plots.",
+      "image_url": null
+    },
+    {
+      "name": "Paissa House Wall",
+      "description": "Exterior wall for houses on medium plots.",
+      "image_url": null
+    },
+    {
+      "name": "Paissa Mansion Wall",
+      "description": "Exterior wall for mansions on large plots.",
+      "image_url": null
+    },
+    {
+      "name": "Forever Friends",
+      "description": "A commissioned oil painting of Paplymo and Yda.",
+      "image_url": null
+    },
+    {
+      "name": "Moongrass Plot",
+      "description": "Outdoor furnishing flower plot.",
+      "image_url": null
+    },
+    {
+      "name": "Grade 1 Picture Frame",
+      "description": "A frame suitable for holding small paintings or sketches.",
+      "image_url": null
+    },
+    {
+      "name": "Grade 2 Picture Frame",
+      "description": "A frame suitable for holding medium-sized paintings or sketches.",
+      "image_url": null
+    },
+    {
+      "name": "Grade 3 Picture Frame",
+      "description": "A frame suitable for holding large paintings or sketches.",
+      "image_url": null
+    },
+    {
+      "name": "Material Supplier Permit A-2",
+      "description": "Allows the hiring of material suppliers on the estate.",
+      "image_url": null
+    },
+    {
+      "name": "Junkmonger Permit A-2",
+      "description": "Allows the hiring of junkmongers on the estate.",
+      "image_url": null
+    },
+    {
+      "name": "Mender Permit A-2",
+      "description": "Allows the hiring of menders on the estate.",
+      "image_url": null
+    },
+    {
+      "name": "Crystalscape Tank Trimmings",
+      "description": "Used to outfit an aquarium.",
+      "image_url": null
+    },
+    {
+      "name": "Ivy Pillar",
+      "description": "Marble-like pillar with vibrant vines.",
+      "image_url": null
+    },
+    {
+      "name": "White Partition",
+      "description": "A simple white wall for privacy.",
+      "image_url": null
+    },
+    {
+      "name": "Merchant's Shelf",
+      "description": "A table for stacking wares.",
+      "image_url": null
+    },
+    {
+      "name": "Tiny Bronco Miniature",
+      "description": "Scale model of a Bronco-type airship.",
+      "image_url": null
+    },
+    {
+      "name": "Invincible Miniature",
+      "description": "Scale model of an Invincible-type airship.",
+      "image_url": null
+    },
+    {
+      "name": "Enterprise Miniature",
+      "description": "Scale model of an Enterprise-type airship.",
+      "image_url": null
+    },
+    {
+      "name": "Invincible II Miniature",
+      "description": "Scale model of an Invincible II-type airship.",
+      "image_url": null
+    },
+    {
+      "name": "Odyssey Miniature",
+      "description": "Scale model of an Odyssey-type airship.",
+      "image_url": null
+    },
+    {
+      "name": "Tatanora Miniature",
+      "description": "Scale model of a Tatanora-type airship.",
+      "image_url": null
+    },
+    {
+      "name": "Viltgance Miniature",
+      "description": "Scale model of a Viltgance-type airship.",
+      "image_url": null
+    },
+    {
+      "name": "Zurvan Miniature",
+      "description": "Statuette depicting the Meracydian god, Zurvan.",
+      "image_url": null
+    },
+    {
+      "name": "Diabolos Miniature",
+      "description": "Statuette depicting the high voidsent, Diabolos.",
+      "image_url": null
+    },
+    {
+      "name": "Scathach Miniature",
+      "description": "Statuette depicting the high voidsent, Scathach.",
+      "image_url": null
+    },
+    {
+      "name": "Yarn Basket",
+      "description": "Tabletop yarn basket.",
+      "image_url": null
+    },
+    {
+      "name": "Riviera Breakfast",
+      "description": "Tabletop breakfast food item.",
+      "image_url": null
+    },
+    {
+      "name": "Paissa Floor Lamp",
+      "description": "An intricately crafted paissa-themed lamp.",
+      "image_url": null
+    },
+    {
+      "name": "Exotic Throw Rug",
+      "description": "Rug with a treasure coffer design.",
+      "image_url": null
+    },
+    {
+      "name": "Fortemps Manor Interior Wall",
+      "description": "Northern-style interior wall.",
+      "image_url": null
+    },
+    {
+      "name": "White Interior Wall",
+      "description": "A plain white interior wall.",
+      "image_url": null
+    },
+    {
+      "name": "Pendant Lamp Planter",
+      "description": "Ceiling light combined with a garden planter.",
+      "image_url": null
+    },
+    {
+      "name": "Tribunal Flooring",
+      "description": "Flooring from the Supreme Sacred Tribunal.",
+      "image_url": null
+    },
+    {
+      "name": "Topiary Paissa",
+      "description": "Evergreen shrub shaped like a paissa.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Sharpened Sword of the Twin Thegns Replica",
+      "description": "Gladiator's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Sharpened Axe of the Blood Emperor Replica",
+      "description": "Marauder's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Sharpened Guillotine of the Tyrant Replica",
+      "description": "Dark Knight's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sharpened Sultan's Fists",
+      "description": "Pugilist's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Sharpened Trident of the Overlord Replica",
+      "description": "Lancer's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Sharpened Bow of the Autarch Replica",
+      "description": "Archer's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sharpened Spurs of the Thorn Prince",
+      "description": "Rogue's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Sharpened Flame of the Dynast Replica",
+      "description": "Machinist's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Sharpened Cane of the White Tsar Replica",
+      "description": "Two-handed Conjurer's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Sharpened Rod of the Black Khan Replica",
+      "description": "Two-handed Thaumaturge's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Sharpened Book of the Mad Queen Replica",
+      "description": "Arcanist's Grimoire, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Sharpened Word of the Magnate Replica",
+      "description": "Arcanist's Grimoire, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Sharpened Sphere of the Last Heir Replica",
+      "description": "Astrologian's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Sharpened Shield of the Twin Thegns Replica",
+      "description": "Shield, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    }
+  ]
+}

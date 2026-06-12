@@ -1,0 +1,347 @@
+{
+  "patch_title": "Patch 2.5 Notes (Full Release)",
+  "patch_date": "2015-01-20",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/5d677f92bbe71478ffaccd9972735b3d4280abe6",
+  "jobs_pve": [
+    {
+      "job": "General",
+      "changes": [
+        "Changing classes or jobs in a sanctuary will no longer incur a penalty to action cooldowns."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Tank",
+      "changes": [
+        "Adrenaline Rush action 'Aegis Boon' added: Temporarily reduces damage taken by all party members by 50%."
+      ]
+    },
+    {
+      "job": "Melee DPS",
+      "changes": [
+        "Adrenaline Rush action 'Raw Destruction' added: Delivers an attack to a single target."
+      ]
+    },
+    {
+      "job": "Ranged Magic DPS",
+      "changes": [
+        "Adrenaline Rush action 'Cometeor' added: Deals unaspected damage to all enemies near point of impact."
+      ]
+    },
+    {
+      "job": "Healer",
+      "changes": [
+        "Adrenaline Rush action 'Empyrean Rain' added: Restores 50% of own HP and the HP of all nearby party members, as well as cures all status effects."
+      ]
+    },
+    {
+      "job": "Ranged Physical DPS",
+      "changes": [
+        "Adrenaline Rush action 'Empyrean Rain' added: Restores 50% of own HP and the HP of all nearby party members, as well as cures all status effects."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "The Keeper of the Lake",
+      "description": "New dungeon.",
+      "location": null,
+      "npc_location": "The Rising Stones (X:6 Y:5)"
+    },
+    {
+      "name": "The Wanderer’s Palace (Hard)",
+      "description": "New dungeon.",
+      "location": "Mor Dhona (X:22 Y:8)",
+      "npc_location": "Mor Dhona (X:22 Y:8)"
+    },
+    {
+      "name": "Amdapor Keep (Hard)",
+      "description": "New dungeon.",
+      "location": "Mor Dhona (X:22 Y:8)",
+      "npc_location": "Mor Dhona (X:22 Y:8)"
+    },
+    {
+      "name": "The World of Darkness",
+      "description": "New raid.",
+      "location": "Mor Dhona (X:30 Y:12)",
+      "npc_location": "Mor Dhona (X:30 Y:12)"
+    },
+    {
+      "name": "Urth’s Fount",
+      "description": "New trial.",
+      "location": "New Gridania (X:9 Y:11)",
+      "npc_location": "New Gridania (X:9 Y:11)"
+    },
+    {
+      "name": "Battle in the Big Keep",
+      "description": "New trial.",
+      "location": "Ul'dah – Steps of Thal (X:12 Y:11)",
+      "npc_location": "Ul'dah – Steps of Thal (X:12 Y:11)"
+    },
+    {
+      "name": "???",
+      "description": "New trial.",
+      "location": "Northern Thanalan (X:20 Y:22)",
+      "npc_location": "Northern Thanalan (X:20 Y:22)"
+    },
+    {
+      "name": "Main Scenario Quests",
+      "description": "New story quests: Good Intentions, Bait and Switch, Best Laid Schemes, The Rising Chorus, Aether on Demand, On the Counteroffensive, and two ??? quests.",
+      "location": "The Rising Stones, Eastern Thanalan, Northern Thanalan",
+      "npc_location": "Varies by quest"
+    },
+    {
+      "name": "Chronicles of a New Era Quests",
+      "description": "New quests: The World of Darkness, The Light of Hope, But I Hardly Noah, The Gift of the Archmagus, and Fear and Odin in the Shroud.",
+      "location": "Mor Dhona, New Gridania",
+      "npc_location": "Varies by quest"
+    },
+    {
+      "name": "Hildibrand Quests",
+      "description": "New side story quests: Shades of Sil'dih, Sibling Strife, Beneath the Mask, Truths Untold, and Her Last Vow.",
+      "location": "Ul'dah – Steps of Thal, Western Thanalan",
+      "npc_location": "Varies by quest"
+    },
+    {
+      "name": "Delivery Moogle Quests",
+      "description": "New side story quests: Thanks For Your Support and Hostages to Fortune.",
+      "location": "Limsa Lominsa – Lower Decks",
+      "npc_location": "Limsa Lominsa – Lower Decks (X:10 Y:11)"
+    },
+    {
+      "name": "A Legend for a Legend",
+      "description": "New side quest.",
+      "location": "Mor Dhona (X:21 Y:8)",
+      "npc_location": "Mor Dhona (X:21 Y:8)"
+    },
+    {
+      "name": "Aetherial Wheels",
+      "description": "System to convert stored energy into company actions.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Retainer Estate Placement",
+      "description": "System allowing retainers to be placed on estate grounds.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Borderland Ruins (Slaughter)",
+      "description": "New Frontline battle.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Item Level Sync",
+      "description": "System reinstated for PvE encounters.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Level 1 Aetherial Wheel Stand",
+      "description": "A metal stand upon which aetherial wheels are placed and spun to charge.",
+      "image_url": null
+    },
+    {
+      "name": "Spotted Interior Wall",
+      "description": "An interior wall bespeckled with a hypnotically random pattern of colorful dots certain to drive any sane man to his wit's end.",
+      "image_url": null
+    },
+    {
+      "name": "Wavy Interior Wall",
+      "description": "An interior wall covered from top to bottom in colorful wavy lines certain to induce seasickness in even the most hardened sailor.",
+      "image_url": null
+    },
+    {
+      "name": "Star Chandellier",
+      "description": "Ceiling-mounted lighting expertly crafted to resemble the moon and stars.",
+      "image_url": null
+    },
+    {
+      "name": "Tatami Flooring",
+      "description": "Woven from sweet-smelling rush grass, tatami flooring is the perfect compliment to any home furnished in the Doman fashion.",
+      "image_url": null
+    },
+    {
+      "name": "Monochrome Flooring",
+      "description": "Marble floor tiling alternately colored black and white.",
+      "image_url": null
+    },
+    {
+      "name": "Oasis Cobble Flooring",
+      "description": "Cobbles commonly used in Ul'dahn roadways and plazas.",
+      "image_url": null
+    },
+    {
+      "name": "Dried Well",
+      "description": "This quality stone well, manufactured in Eorzea with 100% Eorzean materials, requires no hole to be dug.",
+      "image_url": null
+    },
+    {
+      "name": "Oriental Striking Dummy",
+      "description": "A striking dummy designed in the Doman fashion.",
+      "image_url": null
+    },
+    {
+      "name": "Wild Banana Tree",
+      "description": "A green, leafy tree transplanted from an island in the Cieldalaes.",
+      "image_url": null
+    },
+    {
+      "name": "Personal Astroscope",
+      "description": "A miniature astroscope used by aspiring astrologians to peer into the farthest reaches of the firmament.",
+      "image_url": null
+    },
+    {
+      "name": "Riviera Garden Table Set",
+      "description": "A round outdoor table and matching chair designed in the riviera fashion.",
+      "image_url": null
+    },
+    {
+      "name": "Dodo's Nest",
+      "description": "A nest used by dodos to prevent the growth of molds harmful to their offspring.",
+      "image_url": null
+    },
+    {
+      "name": "Retainer Cartonnier",
+      "description": "A wooden receptacle for use by retainers to store goods entrusted for sale.",
+      "image_url": null
+    },
+    {
+      "name": "Retainer Counter",
+      "description": "A wooden counter for use by retainers.",
+      "image_url": null
+    },
+    {
+      "name": "Syrcus Tower",
+      "description": "An expertly crafted representation of the Syrcus Tower.",
+      "image_url": null
+    },
+    {
+      "name": "Large Wall Chronometer",
+      "description": "A precision instrument for telling time. Suitable for hanging on walls.",
+      "image_url": null
+    },
+    {
+      "name": "Oriental Bathtub",
+      "description": "A large bathtub designed in the Doman fashion.",
+      "image_url": null
+    },
+    {
+      "name": "Frolicking Beasts",
+      "description": "A folding partition commonly found in Far East nations.",
+      "image_url": null
+    },
+    {
+      "name": "Oriental Partition",
+      "description": "A partition designed in the Doman fashion, reaching to the ceiling.",
+      "image_url": null
+    },
+    {
+      "name": "Dead Man's Chest",
+      "description": "A sturdy treasure coffer removed from Sastasha.",
+      "image_url": null
+    },
+    {
+      "name": "Oak Low Barrel Planter",
+      "description": "A barrel planter crafted from oak.",
+      "image_url": null
+    },
+    {
+      "name": "Royal Partition",
+      "description": "A luxurious partition designed to resemble those used in the sultana's palace.",
+      "image_url": null
+    },
+    {
+      "name": "Kotatsu Table",
+      "description": "A table designed in the Doman fashion that emits heat.",
+      "image_url": null
+    },
+    {
+      "name": "Guildleve Counter",
+      "description": "A counter designed to replicate those found in Adventurers' Guilds.",
+      "image_url": null
+    },
+    {
+      "name": "Order of Nald'Thal Lectern",
+      "description": "A carved wooden podium used to deliver sermons.",
+      "image_url": null
+    },
+    {
+      "name": "Pine Bonsai",
+      "description": "A traditional Doman gardening technique reflecting a beautiful form of art.",
+      "image_url": null
+    },
+    {
+      "name": "Wax Vegetables",
+      "description": "Wax replicas of vegetables for table decoration.",
+      "image_url": null
+    },
+    {
+      "name": "Glade Tea Set",
+      "description": "A tea set for relaxing the mind.",
+      "image_url": null
+    },
+    {
+      "name": "Riviera Supper Set",
+      "description": "A multiple course extravaganza dinner set.",
+      "image_url": null
+    },
+    {
+      "name": "Oasis Breakfast Set",
+      "description": "A luxury breakfast set for the Ul'dahn elite.",
+      "image_url": null
+    },
+    {
+      "name": "Scattered Documents",
+      "description": "A pile of parchment from 'The Last Paean', giving any study an air of sophistication.",
+      "image_url": null
+    },
+    {
+      "name": "Valentione's Cake",
+      "description": "A decadent chocolate cake emblazoned with the House Valentione coat of arms.",
+      "image_url": null
+    },
+    {
+      "name": "Oriental Altar",
+      "description": "A miniature wooden altar hung in Doman houses.",
+      "image_url": null
+    },
+    {
+      "name": "Oriental Wall Scroll",
+      "description": "An ornamental scroll painted with the Doman character for 'mankind'.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "The Emperor's New Hat",
+      "description": "The most beautiful headwear you never have seen.",
+      "image_url": null
+    },
+    {
+      "name": "The Emperor's New Robe",
+      "description": "The most beautiful robe you never have seen.",
+      "image_url": null
+    },
+    {
+      "name": "The Emperor's New Gloves",
+      "description": "The most beautiful handwear you never have seen.",
+      "image_url": null
+    },
+    {
+      "name": "The Emperor's New Breeches",
+      "description": "The most beautiful legwear you never have seen.",
+      "image_url": null
+    },
+    {
+      "name": "The Emperor's New Boots",
+      "description": "The most beautiful footwear you never have seen.",
+      "image_url": null
+    }
+  ]
+}

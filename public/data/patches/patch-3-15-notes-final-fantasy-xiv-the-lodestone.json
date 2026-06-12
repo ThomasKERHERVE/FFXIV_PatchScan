@@ -1,0 +1,144 @@
+{
+  "patch_title": "Patch 3.15 Notes",
+  "patch_date": "2015-12-16",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/86c483a5b15766c988ee8db15f4eda117b9d66e4",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Anima Weapons",
+      "description": "Story quest line allowing players to obtain and enhance job-specific weapons.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "An Unexpected Proposal",
+      "description": "The first quest in the Anima Weapons story quest line.",
+      "location": "Idyllshire (X:5 Y:5)",
+      "npc_location": "Rowena"
+    },
+    {
+      "name": "Saint Endalim's Scholasticate",
+      "description": "Side story quest line involving investigation and inquiry.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Contradicting Convictions",
+      "description": "Side story quest for the Scholasticate quest line.",
+      "location": "The Pillars (X:6 Y:9)",
+      "npc_location": "Mathye"
+    },
+    {
+      "name": "The Benefits of Consultation",
+      "description": "Side story quest for the Scholasticate quest line.",
+      "location": "The Pillars (X:6 Y:9)",
+      "npc_location": "Gaetelle"
+    },
+    {
+      "name": "Balancing the Spear",
+      "description": "Side story quest for the Scholasticate quest line.",
+      "location": "Saint Endalim's Scholasticate (X:5 Y:5)",
+      "npc_location": "Bruvagnon"
+    },
+    {
+      "name": "More than Meets Her Eye",
+      "description": "Side story quest for the Scholasticate quest line.",
+      "location": "Saint Endalim's Scholasticate (X:6 Y:5)",
+      "npc_location": "???"
+    },
+    {
+      "name": "The Diadem",
+      "description": "Exploration zone where players can obtain treasure coffers.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Alexander: Gordias",
+      "description": "Raids (areas one through four) where players can obtain specific components.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Zodiac Weapon Zeta Exchange",
+      "description": "System allowing players to exchange Zodiac Weapon Zeta for progression items.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Mount Hotbar Actions",
+      "description": "Special action system for specific mounts (White Devil, Red Baron, Gilded Magitek Armor).",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "The Unending Journey",
+      "description": "An item used for housing that allows players to view past cutscenes.",
+      "image_url": null
+    },
+    {
+      "name": "Moogle Miniature",
+      "description": "A small ceramic figurine bearing the likeness of a plump moogle.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Excalibur Zeta Replica",
+      "description": "Gladiator's Arm, Item Level: 50 / Equipment Level: 50",
+      "image_url": null
+    },
+    {
+      "name": "Ragnarok Zeta Replica",
+      "description": "Marauder's Arm, Item Level: 50 / Equipment Level: 50",
+      "image_url": null
+    },
+    {
+      "name": "Replica Kaiser Knuckles Zeta",
+      "description": "Pugilist's Arm, Item Level: 50 / Equipment Level: 50",
+      "image_url": null
+    },
+    {
+      "name": "Longinus Zeta Replica",
+      "description": "Lancer's Arm, Item Level: 50 / Equipment Level: 50",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sasuke's Blades Zeta",
+      "description": "Rogue's Arms, Item Level: 50 / Equipment Level: 50",
+      "image_url": null
+    },
+    {
+      "name": "Yoichi Bow Zeta Replica",
+      "description": "Archer's Arm, Item Level: 50 / Equipment Level: 50",
+      "image_url": null
+    },
+    {
+      "name": "Lilith Rod Zeta Replica",
+      "description": "Two-handed Thaumaturge's Arm, Item Level: 50 / Equipment Level: 50",
+      "image_url": null
+    },
+    {
+      "name": "Nirvana Zeta Replica",
+      "description": "Two-handed Conjurer's Arm, Item Level: 50 / Equipment Level: 50",
+      "image_url": null
+    },
+    {
+      "name": "Apocalypse Zeta Replica",
+      "description": "Arcanist's Grimoire, Item Level: 50 / Equipment Level: 50",
+      "image_url": null
+    },
+    {
+      "name": "Last Resort Zeta Replica",
+      "description": "Arcanist's Grimoire, Item Level: 50 / Equipment Level: 50",
+      "image_url": null
+    },
+    {
+      "name": "Aegis Shield Zeta Replica",
+      "description": "Shields, Item Level: 50 / Equipment Level: 50",
+      "image_url": null
+    }
+  ]
+}

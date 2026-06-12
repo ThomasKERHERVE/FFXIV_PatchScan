@@ -1,0 +1,301 @@
+{
+  "patch_title": "Patch 2.45 Notes",
+  "patch_date": "2014-12-09",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/e131753e64b2980c646e605b11cf56b933b99601",
+  "jobs_pve": [
+    {
+      "job": "Lancer",
+      "changes": [
+        "Impulse Drive: Weaponskill direction requirements have been abolished, allowing combo bonuses when attacking from any position.",
+        "Impulse Drive: Potency has been set at 180.",
+        "Impulse Drive: This skill can now only be used by lancer and dragoon.",
+        "Heavy Thrust: Weapon skill direction requirements for the additional effect have been abolished.",
+        "Full Thrust: Combo potency has been increased from 330 to 360.",
+        "Phlebotomize: Potency of the damage over time effect has been increased from 25 to 30.",
+        "Chaos Thrust: Potency increased by 50 when attacking from behind.",
+        "Chaos Thrust: Potency of the damage over time effect has been increased from 30 to 35.",
+        "Life Surge: Enhanced Life Surge now reduces the recast time to 50 seconds.",
+        "Blood for Blood: Additional damage taken after acquiring Enhanced Blood for Blood trait has been reduced from 25% to 15%. The 30% increase to damage dealt remains unaffected."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Jump: Recast time has been reduced from 40 to 30 seconds."
+      ]
+    },
+    {
+      "job": "Lancer / Dragoon",
+      "changes": [
+        "Magic defense has been increased to values comparative to other melee DPS, archers, and bards."
+      ]
+    },
+    {
+      "job": "Rogue",
+      "changes": [
+        "Aeolian Edge: TP cost has been increased from 50 to 60.",
+        "Shadow Fang: TP cost has been increased from 60 to 70.",
+        "Kiss of the Wasp: The increased damage effect now only applies to physical attacks.",
+        "Kiss of the Viper: The increased damage effect now only applies to physical attacks."
+      ]
+    },
+    {
+      "job": "Conjurer",
+      "changes": [
+        "Added level 50 support ability Stoneskin II: Creates a barrier around self and all party members near you that absorbs damage totaling 18% of maximum HP. Cannot be cast while in combat, or on a target engaged in combat. Duration: 30m."
+      ]
+    }
+  ],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "The Final Coil of Bahamut",
+      "description": "Players can now repeat turns prior to the weekly reset, though reward eligibility is restricted based on party composition.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Striking Tree (Extreme)",
+      "description": "A weapon is now guaranteed to drop upon completion.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Akh Afah Amphitheatre (Extreme)",
+      "description": "Players will receive a piece of diamond dust upon completion to enhance specific gear items.",
+      "location": null,
+      "npc_location": "Revenant's Toll (X:22 Y:6) - Aelina"
+    },
+    {
+      "name": "Ceremony of Eternal Bonding",
+      "description": "A feature allowing players to pledge everlasting devotion to a partner; includes the Special Quests journal category and exclusive rewards.",
+      "location": "East Shroud (Ivory Chapel)",
+      "npc_location": "East Shroud (X:17 Y:18) - Claribel"
+    },
+    {
+      "name": "Wherefore Art Thou, Zodiac",
+      "description": "Continuation of the Zodiac Weapon quest line.",
+      "location": "North Shroud (X:29 Y:19)",
+      "npc_location": "North Shroud (X:29 Y:19) - Jalzahn"
+    },
+    {
+      "name": "A Ponze of Flesh",
+      "description": "Zodiac Weapon quest.",
+      "location": "Mor Dhona (X:22 Y:7)",
+      "npc_location": "Mor Dhona (X:22 Y:7) - Papana"
+    },
+    {
+      "name": "Labor of Love",
+      "description": "Zodiac Weapon quest.",
+      "location": "Mor Dhona (X:21 Y:6)",
+      "npc_location": "Mor Dhona (X:21 Y:6) - Guiding Star"
+    },
+    {
+      "name": "Method in His Malice",
+      "description": "Zodiac Weapon quest.",
+      "location": "Central Thanalan (X:23 Y:13)",
+      "npc_location": "Central Thanalan (X:23 Y:13) - Adkin"
+    },
+    {
+      "name": "A Treasured Mother",
+      "description": "Zodiac Weapon quest.",
+      "location": "Mor Dhona (X:21 Y:6)",
+      "npc_location": "Mor Dhona (X:21 Y:6) - Brangwine"
+    },
+    {
+      "name": "His Dark Materia",
+      "description": "Zodiac Weapon quest.",
+      "location": "North Shroud (X:30 Y:20)",
+      "npc_location": "North Shroud (X:30 Y:20) - Gerolt"
+    },
+    {
+      "name": "The Past Is a Story We Never Tell",
+      "description": "Delivery Moogle quest.",
+      "location": "Limsa Lominsa – Lower Decks (X:10 Y:11)",
+      "npc_location": "Limsa Lominsa – Lower Decks (X:10 Y:11) - Deputy Postmoogle"
+    },
+    {
+      "name": "Lone Survivor",
+      "description": "Delivery Moogle quest.",
+      "location": "Limsa Lominsa – Lower Decks (X:10 Y:11)",
+      "npc_location": "Limsa Lominsa – Lower Decks (X:10 Y:11) - Deputy Postmoogle"
+    },
+    {
+      "name": "Guildmaster, Prelate, and Plot",
+      "description": "Delivery Moogle quest.",
+      "location": "Limsa Lominsa – Lower Decks (X:10 Y:11)",
+      "npc_location": "Limsa Lominsa – Lower Decks (X:10 Y:11) - Deputy Postmoogle"
+    },
+    {
+      "name": "The Ties that Bind",
+      "description": "Special quest required for the Ceremony of Eternal Bonding.",
+      "location": "East Shroud (X:17 Y:18)",
+      "npc_location": "East Shroud (X:17 Y:18) - Claribel"
+    },
+    {
+      "name": "Stoneskin II",
+      "description": "New support ability for Conjurers at level 50.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Eternity Cake",
+      "description": "A family of four tended their gristmill for a full three turns of the sun to create enough flour to bake this massive tower cake.",
+      "image_url": null
+    },
+    {
+      "name": "Starlight Dodo",
+      "description": "A whole dodo stuffed with savory vegetables and slow-roasted on a spit. Often prepared near the end of the year as an offering to the Twelve.",
+      "image_url": null
+    },
+    {
+      "name": "Starlight Cake",
+      "description": "Conceived by Bismarck chefs with far too much time on their hands, the Starlight cake is composed of layer after layer after layer...after layer of sweet, decadent heaven.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Spriggan Cap",
+      "description": "Head piece, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Veil of Eternal Innocence",
+      "description": "Head piece, fits all female characters, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Veil of Eternal Passion",
+      "description": "Head piece, fits all female characters, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Veil of Eternal Devotion",
+      "description": "Head piece, fits all female characters, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tailcoat of Eternal Innocence",
+      "description": "Body piece, fits all male characters, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tailcoat of Eternal Passion",
+      "description": "Body piece, fits all male characters, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tailcoat of Eternal Devotion",
+      "description": "Body piece, fits all male characters, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Gown of Eternal Innocence",
+      "description": "Body piece, fits all female characters, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Gown of Eternal Passion",
+      "description": "Body piece, fits all female characters, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Gown of Eternal Devotion",
+      "description": "Body piece, fits all female characters, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Gloves of Eternal Innocence",
+      "description": "Hands piece, fits all male characters, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Gloves of Eternal Passion",
+      "description": "Hands piece, fits all male characters, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Gloves of Eternal Devotion",
+      "description": "Hands piece, fits all male characters, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Slacks of Eternal Innocence",
+      "description": "Legs piece, fits all male characters, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Slacks of Eternal Passion",
+      "description": "Legs piece, fits all male characters, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Slacks of Eternal Devotion",
+      "description": "Legs piece, fits all male characters, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tights of Eternal Innocence",
+      "description": "Legs piece, fits all female characters, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tights of Eternal Passion",
+      "description": "Legs piece, fits all female characters, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tights of Eternal Devotion",
+      "description": "Legs piece, fits all female characters, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Boots of Eternal Innocence",
+      "description": "Feet piece, fits all male characters, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Boots of Eternal Passion",
+      "description": "Feet piece, fits all male characters, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Boots of Eternal Devotion",
+      "description": "Feet piece, fits all male characters, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Bootlets of Eternal Innocence",
+      "description": "Feet piece, fits all female characters, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Bootlets of Eternal Passion",
+      "description": "Feet piece, fits all female characters, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Bootlets of Eternal Devotion",
+      "description": "Feet piece, fits all female characters, Item Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Sweet Dream Attire",
+      "description": "Optional Item glamour",
+      "image_url": null
+    },
+    {
+      "name": "Reindeer Suit",
+      "description": "Optional Item glamour",
+      "image_url": null
+    },
+    {
+      "name": "Snowman Suit",
+      "description": "Optional Item glamour",
+      "image_url": null
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "patch_title": "Patch 2.35 Notes",
+  "patch_date": "2014-08-19",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/2952cde08127ad3911220b2b5744330af2f11d85",
+  "jobs_pve": [
+    {
+      "job": "Melee DPS",
+      "changes": [
+        "Fetter Ward: Recast time has been reduced from 150 to 120 seconds.",
+        "Enhanced Fetter Ward recast time reduction enhancement has been changed from 120 to 90 seconds."
+      ]
+    },
+    {
+      "job": "Gladiator / Paladin",
+      "changes": [
+        "Glory Slash: 10y knockback effect has been added."
+      ]
+    },
+    {
+      "job": "Pugilist / Monk",
+      "changes": [
+        "Axe Kick: Potency has been increased from 160 to 170.",
+        "Enhanced Axe Kick II: Potency increase has been changed from 190 to 200.",
+        "Somersault: Potency has been increased from 160 to 180.",
+        "Somersault: Spell speed reduction additional effect duration has been increased from 10 to 12 seconds.",
+        "Somersault: Now grants the effect of Perfect Balance for 3 seconds.",
+        "Enhanced Somersault II: Now also extends the duration of Perfect Balance to 6 seconds."
+      ]
+    },
+    {
+      "job": "Lancer / Dragoon",
+      "changes": [
+        "Impulse Rush: Potency has been increased from 200 to 240.",
+        "Skewer: Potency has been increased from 180 to 220."
+      ]
+    },
+    {
+      "job": "Archer / Bard",
+      "changes": [
+        "Blast Shot: Range has been reduced from 25y to 5y."
+      ]
+    },
+    {
+      "job": "Arcanist / Summoner / Scholar",
+      "changes": [
+        "Aetherflow: Skills such as One Ilm Punch or Glory Slash can now remove any remaining stacks of Aetherflow on a selected target."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Melee DPS",
+      "changes": [
+        "Fetter Ward: Recast time reduced from 150 to 120 seconds.",
+        "Enhanced Fetter Ward: Recast time reduction enhancement changed from 120 to 90 seconds."
+      ]
+    },
+    {
+      "job": "Gladiator / Paladin",
+      "changes": [
+        "Glory Slash: 10y knockback effect added."
+      ]
+    },
+    {
+      "job": "Pugilist / Monk",
+      "changes": [
+        "Axe Kick: Potency increased from 160 to 170.",
+        "Enhanced Axe Kick II: Potency increase changed from 190 to 200.",
+        "Somersault: Potency increased from 160 to 180.",
+        "Somersault: Spell speed reduction additional effect duration increased from 10 to 12 seconds.",
+        "Somersault: Now grants the effect of Perfect Balance for 3 seconds.",
+        "Enhanced Somersault II: Now also extends the duration of Perfect Balance to 6 seconds."
+      ]
+    },
+    {
+      "job": "Lancer / Dragoon",
+      "changes": [
+        "Impulse Rush: Potency increased from 200 to 240.",
+        "Skewer: Potency increased from 180 to 220."
+      ]
+    },
+    {
+      "job": "Archer / Bard",
+      "changes": [
+        "Blast Shot: Range reduced from 25y to 5y."
+      ]
+    },
+    {
+      "job": "Thaumaturge / Black Mage",
+      "changes": [
+        "Lethargy: Effect duration reduced from 12 to 6 seconds (PvP only).",
+        "Freeze: Additional effect duration reduced from 15 to 12 seconds (PvP only)."
+      ]
+    },
+    {
+      "job": "Arcanist / Summoner / Scholar",
+      "changes": [
+        "Aetherflow: Skills such as One Ilm Punch or Glory Slash can now remove any remaining stacks of Aetherflow on a selected target."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Ixal beast tribe quests",
+      "description": "Daily quests where players craft items to build the airship Dezul Qualan.",
+      "location": "North Shroud",
+      "npc_location": "North Shroud (X:24 Y:22)"
+    },
+    {
+      "name": "Allied beast tribe quests",
+      "description": "End-game quests available to players who have completed all available main quests for each beast tribe.",
+      "location": "Various (Limsa Lominsa, New Gridania, Ul'dah, East Shroud, Western La Noscea, Outer La Noscea, North Shroud, Southern Thanalan)",
+      "npc_location": "Various"
+    },
+    {
+      "name": "Chocobo plumage coloring",
+      "description": "System allowing players to change the feather color of stabled chocobos by feeding them specific fruits.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Skywatcher",
+      "description": "New NPCs that provide current weather conditions and forecasts for all regions.",
+      "location": "Limsa Lominsa Lower Decks, New Gridania, Ul'dah – Steps of Nald, Coerthas – Camp Dragonhead, Mor Dhona – Revenant's Toll",
+      "npc_location": null
+    },
+    {
+      "name": "Alliance formation for duties",
+      "description": "Allows players to form an alliance of 24 members prior to registering for Labyrinth of the Ancients or Syrcus Tower.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Private chambers / Free company housing updates",
+      "description": "Updates to housing systems, including discharging members with chambers and new gardening items.",
+      "location": "Free Company Estate",
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Ixali Shelter",
+      "description": "A small and cozy shelter of Ixali design.",
+      "image_url": null
+    },
+    {
+      "name": "Ixali Banner",
+      "description": "The mere sight of this banner instills any Ixal with courage.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Ehcatl Wristgloves",
+      "description": "Hands. Must be equipped to craft certain Ixali recipes.",
+      "image_url": null
+    },
+    {
+      "name": "Ehcatl Smithing Gloves",
+      "description": "Hands.",
+      "image_url": null
+    },
+    {
+      "name": "Guardian Corps Coat",
+      "description": "Can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Guardian Corps Gauntlets",
+      "description": "Can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Guardian Corps Skirt",
+      "description": "Can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Guardian Corps Boots",
+      "description": "Can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Bohemian's Coat",
+      "description": "Can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Bohemian's Gloves",
+      "description": "Can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Bohemian's Trousers",
+      "description": "Can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Bohemian's Boots",
+      "description": "Can now be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Thug's Mug",
+      "description": "Can now be dyed.",
+      "image_url": null
+    }
+  ]
+}

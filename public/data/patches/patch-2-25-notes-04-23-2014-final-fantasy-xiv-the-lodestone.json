@@ -1,0 +1,197 @@
+{
+  "patch_title": "Patch 2.25 Notes",
+  "patch_date": "2014-04-23",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/506a135c96590f304f18e8c110b45897e3a016cf",
+  "jobs_pve": [
+    {
+      "job": "Monk",
+      "changes": [
+        "The parameters for Gloam Boots have been corrected: Accuracy+18 changed to Determination+12."
+      ]
+    }
+  ],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Marvelously Mutable Materia",
+      "description": "A quest to unlock the Materia Transmutation system.",
+      "location": "Central Thanalan",
+      "npc_location": "Kokosamu (X:23 Y:14)"
+    },
+    {
+      "name": "Materia Transmutation",
+      "description": "A system that allows players to convert five pieces of unwanted materia into a single new piece.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Binding Coil of Bahamut (Echo)",
+      "description": "The strength of the Echo has been increased, granting 15% bonus to max HP, damage dealt, and healing magic potency.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Whorleater (Extreme)",
+      "description": "Tidal Wave Shield and Tidal Wave Buckler have been added as rewards.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "A Relic Reborn: The Chimera",
+      "description": "Trial unlocked for players who completed the quest 'A Relic Reborn' in Version 1.0.",
+      "location": "Coerthas Central Highlands (X:32 Y:7)",
+      "npc_location": null
+    },
+    {
+      "name": "A Relic Reborn: The Hydra",
+      "description": "Trial unlocked for players who completed the quest 'A Relic Reborn' in Version 1.0.",
+      "location": "Eastern Thanalan (X:14 Y:30)",
+      "npc_location": null
+    },
+    {
+      "name": "Wolves' Den (PvP)",
+      "description": "Maximum PvP rank raised to 40; new gear added and available for purchase.",
+      "location": "Wolves' Den Pier",
+      "npc_location": "Storm Private and Storm Sergeant (X:6 Y:5)"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Cherry Confetti",
+      "description": "An item used for celebratory animation.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Darklight Helm",
+      "description": "Gear now available to be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Darklight Eyepatch of Striking",
+      "description": "Gear now available to be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Darklight Eyepatch of Aiming",
+      "description": "Gear now available to be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Heavy Darklight Armor",
+      "description": "Gear now available to be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Darklight Cuirass",
+      "description": "Gear now available to be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Darklight Corselet of Striking",
+      "description": "Gear now available to be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Darklight Corselet of Aiming",
+      "description": "Gear now available to be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Darklight Cowl of Casting",
+      "description": "Gear now available to be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Darklight Cowl of Healing",
+      "description": "Gear now available to be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Heavy Darklight Flanchard",
+      "description": "Gear now available to be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Darklight Trousers",
+      "description": "Gear now available to be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Darklight Subligar",
+      "description": "Gear now available to be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Darklight Kecks",
+      "description": "Gear now available to be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Darklight Breeches of Casting",
+      "description": "Gear now available to be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Darklight Breeches of Healing",
+      "description": "Gear now available to be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Heavy Darklight Gauntlets",
+      "description": "Gear now available to be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Darklight Gauntlets",
+      "description": "Gear now available to be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Darklight Bracers of Striking",
+      "description": "Gear now available to be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Darklight Bracers of Aiming",
+      "description": "Gear now available to be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Darklight Gloves of Casting",
+      "description": "Gear now available to be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Darklight Gloves of Healing",
+      "description": "Gear now available to be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Darklight Sollerets",
+      "description": "Gear now available to be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Darklight Caligae of Striking",
+      "description": "Gear now available to be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Darklight Caligae of Aiming",
+      "description": "Gear now available to be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Darklight Boots of Casting",
+      "description": "Gear now available to be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Darklight Boots of Healing",
+      "description": "Gear now available to be dyed.",
+      "image_url": null
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "patch_title": "Patch 2.16 Notes",
+  "patch_date": "2014-02-19",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/1e50acf08461e355e3e5d4736391ba3f787720f1",
+  "jobs_pve": [
+    {
+      "job": "Scholar",
+      "changes": [
+        "Eos and Selene can now use Embrace on non-party members when set to Obey.",
+        "Scholar is now counted as a separate job from Summoner when determining the speed at which the limit break gauge is filled."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Summoner is now counted as a separate job from Scholar when determining the speed at which the limit break gauge is filled."
+      ]
+    },
+    {
+      "job": "General (Pet-based jobs)",
+      "changes": [
+        "The Sic and Obey pet commands can now be activated without a target present.",
+        "Pets will remain set to either Sic or Obey even when re-summoned (reverts to Sic upon logging out).",
+        "When using the Sic or Obey commands while a pet is moving, queued actions will not be canceled if no other commands are given.",
+        "Eos and Selene will now continue to follow their owners even when switching between the Sic and Obey commands."
+      ]
+    }
+  ],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Labyrinth of the Ancients",
+      "description": "Alliance members will now be visible during the initial cutscene.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Dhorme Chimera",
+      "description": "Trial now available via Duty Finder for players who have completed 'A Relic Reborn'.",
+      "location": "Coerthas Central Highlands - The Weeping Saint (X:31, Y:7)",
+      "npc_location": null
+    },
+    {
+      "name": "Hydra",
+      "description": "Trial now available via Duty Finder for players who have completed 'A Relic Reborn'.",
+      "location": "Eastern Thanalan - Halatali (X:14, Y:30)",
+      "npc_location": null
+    },
+    {
+      "name": "A Relic Reborn",
+      "description": "Quest required to unlock access to Dhorme Chimera and Hydra trials.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Duty Finder",
+      "description": "System additions include new trials, clear selection button, and Melee/Ranged DPS requirements for Wolves' Den.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Free Company Interface",
+      "description": "New features include filtered Activity Notices, 'Applications' under Hierarchy Settings, and new Company Profile categories (Focus, Seeking, Active, Recruitment).",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Market Boards and Summoning Bells",
+      "description": "Added to residential districts (Mist, Lavender Beds, The Goblet) and Revenant's Toll.",
+      "location": "Revenant's Toll (X:22, Y:6)",
+      "npc_location": null
+    },
+    {
+      "name": "Ready Check",
+      "description": "System command to confirm party member status before or during a duty.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Wish List",
+      "description": "Market board feature allowing players to register up to 10 items.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Waymarks",
+      "description": "System allowing players to mark areas on the field visible to party and alliance members.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Mount/Minion Roulette",
+      "description": "System actions to summon a random mount or minion.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "New Adventurer Status",
+      "description": "Online status for characters with less than 20 hours of playtime and 80 achievement points.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Market boards",
+      "description": "Added to the residential districts (Mist, Lavender Beds, The Goblet).",
+      "image_url": null
+    },
+    {
+      "name": "Summoning bells",
+      "description": "Added to the residential districts (Mist, Lavender Beds, The Goblet).",
+      "image_url": null
+    },
+    {
+      "name": "Company chest",
+      "description": "Furnishing placed inside an estate; will now display your free company's crest.",
+      "image_url": null
+    },
+    {
+      "name": "Moogle letter box",
+      "description": "Furnishing that will now light up when mail arrives.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Paragon's Gown",
+      "description": "Item Level: 55/Equipment Level: 50, STR +13／DEX +13／VIT +14, INT +13／MND +13／PIE +12",
+      "image_url": null
+    },
+    {
+      "name": "Chocobo Suit",
+      "description": "Item Level: 1/Equipment Level: 1",
+      "image_url": null
+    }
+  ]
+}

@@ -1,0 +1,533 @@
+{
+  "patch_title": "Patch 2.3 Notes (Full Release)",
+  "patch_date": "2014-07-07",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/c96b9e090eb60d1ebd1b89e20e582d59335acd84",
+  "jobs_pve": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "The effects of Sword Oath will not be lost upon incapacitation.",
+        "The effects of Shield Oath will not be lost upon incapacitation."
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "The effects of Defiance will not be lost upon incapacititation."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Presence of Mind: Recast time has been reduced from 300 to 150 seconds.",
+        "Presence of Mind: Duration has been increased from 10 to 15 seconds."
+      ]
+    },
+    {
+      "job": "Thaumaturge",
+      "changes": [
+        "Fire: Potency has been increased from 150 to 170.",
+        "Blizzard: Potency has been increased from 150 to 170.",
+        "Fire III: Potency has been increased from 220 to 240.",
+        "Blizzard III: Potency has been increased from 220 to 240."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Apocatastasis: The effect has been changed to reduce a party member's magic vulnerability by 20%.",
+        "Apocatastasis: Recast time has been increased from 120 to 180 seconds.",
+        "Manawall: Effect duration has been reduced from 60 to 20 seconds."
+      ]
+    },
+    {
+      "job": "Arcanist",
+      "changes": [
+        "Bio II: MP cost has been reduced."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Aerial Slash: Casting time has been reduced from 3 to 0 seconds, making the cast instant.",
+        "Flaming Crush: Potency has been increased from 105 to 110.",
+        "Crimson Cyclone: Potency has been increased from 105 to 110."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Gladiator/Paladin",
+      "changes": [
+        "Testudo recast time reduced from 300 to 180 seconds.",
+        "Testudo effect duration increased from 8 to 12 seconds.",
+        "Enhanced Testudo recast time reduction changed from 180 to 150 seconds.",
+        "Glory Slash potency increased from 140 to 170.",
+        "Glory Slash recast time reduced from 300 to 150 seconds.",
+        "Enhanced Glory Slash recast time reduction changed from 180 to 120 seconds."
+      ]
+    },
+    {
+      "job": "Pugilist/Monk",
+      "changes": [
+        "Axe Kick recast time reduced from 300 to 180 seconds.",
+        "Axe Kick effect duration reduced from 5 to 4 seconds.",
+        "Enhanced Axe Kick recast time reduction changed from 180 to 150 seconds.",
+        "Enhanced Axe Kick II potency increase reduced from 240 to 190.",
+        "Enhanced Axe Kick III effect duration increase reduced from 9 to 6 seconds.",
+        "Somersault recast time reduced from 300 to 90 seconds.",
+        "Enhanced Somersault recast time reduction changed from 180 to 60 seconds.",
+        "Enhanced Somersault II effect duration increase reduced from 20 to 15 seconds."
+      ]
+    },
+    {
+      "job": "Marauder/Warrior",
+      "changes": [
+        "Mythril Tempest potency increased from 140 to 170.",
+        "Mythril Tempest recast time reduced from 240 to 180.",
+        "Enhanced Mythril Tempest III effect duration increase reduced from 4 to 3 seconds.",
+        "Thrill of War recast time reduced from 300 to 180 seconds.",
+        "Thrill of War effect duration increased from 15 to 20 seconds.",
+        "Enhanced Thrill of War recast time reduction changed from 180 to 150 seconds."
+      ]
+    },
+    {
+      "job": "Lancer/Dragoon",
+      "changes": [
+        "Impulse Rush recast time reduced from 240 to 150 seconds.",
+        "Impulse Rush effect duration increased from 10 to 15 seconds.",
+        "Enhanced Impulse Rush recast time reduction changed from 180 to 120 seconds.",
+        "Skewer recast time reduced from 240 to 90 seconds.",
+        "Enhanced Skewer recast time reduction changed from 150 to 60 seconds.",
+        "Enhanced Skewer II effect duration increase reduced from 20 to 15 seconds."
+      ]
+    },
+    {
+      "job": "Archer/Bard",
+      "changes": [
+        "Manasong recast time reduced from 300 to 240 seconds.",
+        "Farshot potency increased from 140 to 170.",
+        "Farshot recast time reduced from 240 to 120 seconds.",
+        "Enhanced Farshot recast time reduction changed from 150 to 90 seconds.",
+        "Enhanced Farshot II potency increase increased from 190 to 200.",
+        "Blast Shot recast time reduced from 300 to 180 seconds.",
+        "Enhanced Blast Shot recast time reduction changed from 180 to 150 seconds.",
+        "Enhanced Blast Shot II potency increase reduced from 200 to 180."
+      ]
+    },
+    {
+      "job": "Conjurer/White Mage",
+      "changes": [
+        "Sacred Prism potency increased from 50 to 70.",
+        "Sacred Prism recast time reduced from 300 to 240 seconds.",
+        "Sacred Prism effect duration increased from 18 to 24 seconds."
+      ]
+    },
+    {
+      "job": "Thaumaturge/Black Mage",
+      "changes": [
+        "Night Wing recast time reduced from 300 to 240 seconds.",
+        "Enhanced Night Wing II effect duration increase reduced from 20 to 15 seconds.",
+        "Phantom Dart potency increased from 120 to 150.",
+        "Phantom Dart recast time reduced from 300 to 90 seconds.",
+        "Enhanced Phantom Dart recast time reduction changed from 180 to 60 seconds.",
+        "Enhanced Phantom Dart II effect duration increase reduced from 30 to 20 seconds."
+      ]
+    },
+    {
+      "job": "Arcanist/Summoner",
+      "changes": [
+        "Misty Veil range reduction changed from 10% to 20%.",
+        "Misty Veil recast time reduced from 300 to 240 seconds.",
+        "Enhanced Misty Veil II effect duration increase reduced from 25 to 20 seconds.",
+        "Wither recast time reduced from 300 to 240 seconds."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Aura Blast recast time reduced from 300 to 150 seconds.",
+        "Enhanced Aura Blast recast time reduction changed from 180 to 120 seconds.",
+        "Focalization made a shared class action with Conjurer and White Mage.",
+        "Focalization recast time reduced from 300 to 180 seconds.",
+        "Focalization effect duration increased from 15 to 20 seconds.",
+        "Enhanced Focalization recast time reduction changed from 180 to 150 seconds."
+      ]
+    },
+    {
+      "job": "Shared Class Actions",
+      "changes": [
+        "Full Swing recast time reduced from 300 to 180 seconds.",
+        "Enhanced Full Swing recast time reduction changed from 180 to 150 seconds.",
+        "Enhanced Full Swing II effect duration increase reduced from 25 to 20 seconds.",
+        "Enliven recast time reduced from 300 to 240 seconds.",
+        "Fetter Ward recast time reduced from 240 to 150 seconds.",
+        "Fetter Ward effect duration increased from 5 to 9 seconds.",
+        "Enhanced Fetter Ward II effect duration increase changed from 10 to 12 seconds.",
+        "Weapon Throw recast time reduced from 120 to 90 seconds.",
+        "Enhanced Weapon Throw II effect duration increase reduced from 12 to 9 seconds.",
+        "Divine Breath HP/MP/TP restoration increased from 10% to 30%.",
+        "Enhanced Divine Breath recast time reduction changed from 180 to 240 seconds.",
+        "Mana Draw recast time reduced from 300 to 240 seconds.",
+        "Purify recast time reduced from 240 to 180 seconds.",
+        "Purify target changed from self to selected PC.",
+        "Aetheric Burst recast time reduced from 300 to 180 seconds.",
+        "Enhanced Aetheric Burst recast time reduction changed from 180 to 150 seconds.",
+        "Enhanced Aetheric Burst II effect duration increase reduced from 20 to 15 seconds.",
+        "Equanimity recast time reduced from 420 to 240 seconds.",
+        "Enhanced Equanimity recast time reduction changed from 300 to 180 seconds.",
+        "Enhanced Equanimity II effect duration increase reduced from 20 to 15 seconds.",
+        "Attunement recast time reduced from 300 to 240 seconds."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Hullbreaker Isle",
+      "description": "New dungeon requiring an average item level of 70 or above.",
+      "location": "Mor Dhona",
+      "npc_location": "Mor Dhona (X:22 Y:8) - Bloezoeng"
+    },
+    {
+      "name": "The Tam-Tara Deepcroft (Hard)",
+      "description": "New hard-mode dungeon requiring an average item level of 70 or above.",
+      "location": "Ul'dah - Steps of Nald",
+      "npc_location": "Ul'dah - Steps of Nald (X:12 Y:8) - Paiyo Reiyo"
+    },
+    {
+      "name": "The Stone Vigil (Hard)",
+      "description": "New hard-mode dungeon requiring an average item level of 70 or above.",
+      "location": "Mor Dhona",
+      "npc_location": "Mor Dhona (X:21 Y:8) - Faillicie"
+    },
+    {
+      "name": "Syrcus Tower",
+      "description": "New 24-player raid in the Crystal Tower arc.",
+      "location": "Mor Dhona",
+      "npc_location": "Mor Dhona (X:30 Y:12) - Rammbroes"
+    },
+    {
+      "name": "The Second Coil of Bahamut (Savage)",
+      "description": "A brutally difficult version of the Second Coil of Bahamut raid.",
+      "location": "North Shroud",
+      "npc_location": "North Shroud (X:20 Y:27) - Anaelle"
+    },
+    {
+      "name": "The Striking Tree (Hard)",
+      "description": "New trial featuring Ramuh, requiring an average item level of 65 or above.",
+      "location": "South Shroud",
+      "npc_location": "South Shroud (X:23 Y:14) - Papalymo"
+    },
+    {
+      "name": "The Striking Tree (Extreme)",
+      "description": "New extreme trial featuring Ramuh, requiring an average item level of 85 or above.",
+      "location": "New Gridania",
+      "npc_location": "New Gridania (X:9 Y:11) - Scarlet"
+    },
+    {
+      "name": "Frontline",
+      "description": "New large-scale PvP challenge featuring three teams of 24 players.",
+      "location": "Various",
+      "npc_location": "Grand Company headquarters"
+    },
+    {
+      "name": "The Hunt",
+      "description": "An initiative offering bounties for defeating notably dangerous monsters.",
+      "location": "Eorzea",
+      "npc_location": "Grand Company headquarters"
+    },
+    {
+      "name": "Desynthesis",
+      "description": "Crafting ability that reduces items into their constituent parts.",
+      "location": "Ul'dah - Steps of Thal",
+      "npc_location": "Ul'dah - Steps of Thal (X:14 Y:10) - Syntgoht"
+    },
+    {
+      "name": "Chocobo Raising",
+      "description": "System for stabling and training chocobo companions.",
+      "location": "Estate grounds",
+      "npc_location": "Central Shroud (X:20 Y:21) - Luquelot"
+    },
+    {
+      "name": "Private Chambers",
+      "description": "Personal rooms purchasable within a free company estate.",
+      "location": "Estate",
+      "npc_location": null
+    },
+    {
+      "name": "The Greatest Story Never Told",
+      "description": "Mystery quest requiring the use of riddles and clues without journal guidance.",
+      "location": "Western Thanalan",
+      "npc_location": "Western Thanalan (X:18 Y:17) - Valiant Hart"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Riviera Striking Dummy",
+      "description": "A striking dummy designed in the riviera fashion.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/L/EbtcXqPUGzsVYdi23FpUR25oH4.png"
+    },
+    {
+      "name": "Oasis Striking Dummy",
+      "description": "A striking dummy designed in the oasis fashion.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/_/45sv0DETIHyh_gl2FyLgD6kUJE.png"
+    },
+    {
+      "name": "Glade Striking Dummy",
+      "description": "A striking dummy designed in the glade fashion.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/M/5T9l7AE_cSDlsD4EM4rjEQRgCE.png"
+    },
+    {
+      "name": "Alps Striking Dummy",
+      "description": "A striking dummy designed in the alps fashion.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/v/oxRQz2cT8riqV5VLCu2-nADVkE.png"
+    },
+    {
+      "name": "Chocobo Stable",
+      "description": "A simple stable large enough for keeping and raising one adult chocobo.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/v/hyXqlwktN4v0EssRTzkbMf_7OQ.png"
+    },
+    {
+      "name": "Rounded Shrub",
+      "description": "This leafy shrub has been expertly pruned and trimmed into a perfect sphere.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/U/15QxPO___EcPlhMI9ydNRRxEY8.png"
+    },
+    {
+      "name": "Lattice Planter",
+      "description": "A wooden garden partition outfitted with planter pots.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/E/8R4FrEQFMaGtRtuRNMU0nhfZ9c.png"
+    },
+    {
+      "name": "Water Lilies",
+      "description": "A ceramic pot filled with crystal-clear water and several water lilies.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/i/OfvDbUY2NolZsL2r-nN_N8G6Sc.png"
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Augmented Gallant Coronet",
+      "description": "Headgear for Paladin, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Temple Circlet",
+      "description": "Headgear for Monk, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Fighter's Burgeonet",
+      "description": "Headgear for Dragoon, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Drachen Armet",
+      "description": "Headgear for Dragoon, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Choral Chapeau",
+      "description": "Headgear for Bard, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Healer's Circlet",
+      "description": "Headgear for White Mage, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Wizard's Petasos",
+      "description": "Headgear for Black Mage, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Evoker's Horn",
+      "description": "Headgear for Summoner, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Scholar's Mortarboard",
+      "description": "Headgear for Scholar, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Gallant Surcoat",
+      "description": "Body gear for Paladin, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Temple Cyclas",
+      "description": "Body gear for Monk, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Fighter's Cuirass",
+      "description": "Body gear for Dragoon, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Drachen Mail",
+      "description": "Body gear for Dragoon, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Choral Shirt",
+      "description": "Body gear for Bard, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Healer's Robe",
+      "description": "Body gear for White Mage, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Wizard's Coat",
+      "description": "Body gear for Black Mage, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Evoker's Doublet",
+      "description": "Body gear for Summoner, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Scholar's Gown",
+      "description": "Body gear for Scholar, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Gallant Gauntlets",
+      "description": "Hand gear for Paladin, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Temple Gloves",
+      "description": "Hand gear for Monk, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Fighter's Gauntlets",
+      "description": "Hand gear for Dragoon, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Drachen Gauntlets",
+      "description": "Hand gear for Dragoon, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Choral Ringbands",
+      "description": "Hand gear for Bard, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Healer's Gloves",
+      "description": "Hand gear for White Mage, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Wizard's Gloves",
+      "description": "Hand gear for Black Mage, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Evoker's Ringbands",
+      "description": "Hand gear for Summoner, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Scholar's Gloves",
+      "description": "Hand gear for Scholar, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Gallant Cuisses",
+      "description": "Leg gear for Paladin, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Temple Gaskins",
+      "description": "Leg gear for Monk, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Fighter's Breeches",
+      "description": "Leg gear for Dragoon, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Drachen Breeches",
+      "description": "Leg gear for Dragoon, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Choral Tights",
+      "description": "Leg gear for Bard, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Healer's Culottes",
+      "description": "Leg gear for White Mage, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Wizard's Tonban",
+      "description": "Leg gear for Black Mage, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Evoker's Waistclout",
+      "description": "Leg gear for Summoner, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Scholar's Culottes",
+      "description": "Leg gear for Scholar, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Gallant Sollerets",
+      "description": "Foot gear for Paladin, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Temple Boots",
+      "description": "Foot gear for Monk, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Fighter's Jackboots",
+      "description": "Foot gear for Dragoon, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Drachen Greaves",
+      "description": "Foot gear for Dragoon, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Choral Sandals",
+      "description": "Foot gear for Bard, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Healer's Boots",
+      "description": "Foot gear for White Mage, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Wizard's Crakows",
+      "description": "Foot gear for Black Mage, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Evoker's Thighboots",
+      "description": "Foot gear for Summoner, can be dyed.",
+      "image_url": null
+    },
+    {
+      "name": "Augmented Scholar's Boots",
+      "description": "Foot gear for Scholar, can be dyed.",
+      "image_url": null
+    }
+  ]
+}

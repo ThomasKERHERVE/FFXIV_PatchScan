@@ -1,0 +1,169 @@
+{
+  "patch_title": "Patch 2.38 Notes",
+  "patch_date": "2014-09-16",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/466a99222687298cf0515b6f476869b10e012e57",
+  "jobs_pve": [],
+  "jobs_pvp": [
+    {
+      "job": "General",
+      "changes": [
+        "PvP actions will be equipped automatically when changing your class or job.",
+        "The Grand Company selection button and the checkbox for equipping Actions have been removed from the PvP tab of the Actions & Traits interface."
+      ]
+    },
+    {
+      "job": "Thaumaturge/Black Mage",
+      "changes": [
+        "The ability Cleric Stance will no longer be usable in PvP areas."
+      ]
+    },
+    {
+      "job": "Conjurer/White Mage",
+      "changes": [
+        "The ability Cleric Stance will no longer be usable in PvP areas."
+      ]
+    },
+    {
+      "job": "Arcanist/Scholar/Summoner",
+      "changes": [
+        "The ability Cleric Stance will no longer be usable in PvP areas."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Mmmmmm, Soulglazed Relics",
+      "description": "Quest to initiate soul attunement for Zodiac Weapons.",
+      "location": "North Shroud",
+      "npc_location": "Jalzahn (X:29 Y:19)"
+    },
+    {
+      "name": "The Captain of Her Heart",
+      "description": "New side story quest for the Delivery Moogle.",
+      "location": "Limsa Lominsa Lower Decks",
+      "npc_location": "Deputy Postmoogle (X:10 Y:11)"
+    },
+    {
+      "name": "Of Siblings and Side-whiskers",
+      "description": "New side story quest for the Delivery Moogle.",
+      "location": "Limsa Lominsa Lower Decks",
+      "npc_location": "Deputy Postmoogle (X:10 Y:11)"
+    },
+    {
+      "name": "Sweet Words, Shadowy Dealings",
+      "description": "New side story quest for the Delivery Moogle.",
+      "location": "Limsa Lominsa Lower Decks",
+      "npc_location": "Deputy Postmoogle (X:10 Y:11)"
+    },
+    {
+      "name": "Sudul Eht Nioj",
+      "description": "New side story quest for the Delivery Moogle.",
+      "location": "Limsa Lominsa Lower Decks",
+      "npc_location": "Deputy Postmoogle (X:10 Y:11)"
+    },
+    {
+      "name": "The Striking Tree (Extreme)",
+      "description": "Trial now available via Duty Finder without a preformed party.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Residential Districts (Housing)",
+      "description": "Expansion of wards 7 and 8, and implementation of individual housing plots.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Zodiac Weapon System",
+      "description": "New soul attunement system for relic weapons (Novus to Nexus).",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Recommendations Feature",
+      "description": "Updated to include FATEs, duty filtering, and item level priority.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Visual Alerts",
+      "description": "New accessibility system for Windows version to visualize sounds as waveforms.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Contemporary Pince-nez",
+      "description": "An elegant, minimalist eyewear item introduced as a new crafting recipe.",
+      "image_url": null
+    },
+    {
+      "name": "Rimless Glasses",
+      "description": "A refined eyewear item introduced as a new crafting recipe.",
+      "image_url": null
+    },
+    {
+      "name": "Thick-rimmed Glasses",
+      "description": "A stylish eyewear item introduced as a new crafting recipe.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Contemporary Pince-nez",
+      "description": "Head gear item, craftable using clear glass lenses and silver ingots.",
+      "image_url": null
+    },
+    {
+      "name": "Rimless Glasses",
+      "description": "Head gear item, craftable using clear glass lenses, Garlean fiber, and Garlean steel joints.",
+      "image_url": null
+    },
+    {
+      "name": "Thick-rimmed Glasses",
+      "description": "Head gear item, craftable using clear glass lenses, Garlean steel plate, and Garlean rubber.",
+      "image_url": null
+    },
+    {
+      "name": "Lord’s Yukata (Blackflame)",
+      "description": "Storeable in the armoire.",
+      "image_url": null
+    },
+    {
+      "name": "Lord’s Yukata (Whiteflame)",
+      "description": "Storeable in the armoire.",
+      "image_url": null
+    },
+    {
+      "name": "Lord’s Yukata (Blueflame)",
+      "description": "Storeable in the armoire.",
+      "image_url": null
+    },
+    {
+      "name": "Lady’s Yukata (Redfly)",
+      "description": "Storeable in the armoire.",
+      "image_url": null
+    },
+    {
+      "name": "Lady’s Yukata (Bluefly)",
+      "description": "Storeable in the armoire.",
+      "image_url": null
+    },
+    {
+      "name": "Lady’s Yukata (Pinkfly)",
+      "description": "Storeable in the armoire.",
+      "image_url": null
+    },
+    {
+      "name": "Artisan’s Spectacles",
+      "description": "No longer considered a unique item.",
+      "image_url": null
+    },
+    {
+      "name": "Forager’s Hat",
+      "description": "No longer considered a unique item.",
+      "image_url": null
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "patch_title": "Patch 2.4 Notes (Full Release)",
+  "patch_date": "2014-10-28",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/4a7a48cd010551b65b1e0f03b318d0d45bf52d59",
+  "jobs_pve": [
+    {
+      "job": "Gladiator",
+      "changes": [
+        "Flash: The amount of enmity generated has been increased.",
+        "Circle of Scorn: Now generates increased enmity."
+      ]
+    },
+    {
+      "job": "Marauder",
+      "changes": [
+        "Storm's Eye: The duration of reduced slashing resistance and HP recovery has been increased from 15 to 20 seconds. (Cannot be stacked with the rogue action Dancing Edge.)"
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Jump: The animation lock after execution has been shortened.",
+        "Spineshatter Dive: The animation lock after execution has been shortened; Recast time reduced from 90 to 60 seconds.",
+        "Dragonfire Dive: The animation lock after execution has been shortened; Recast time reduced from 180 to 120 seconds."
+      ]
+    },
+    {
+      "job": "Ninja/Rogue",
+      "changes": [
+        "The rogue class and ninja job have been added.",
+        "Dexterity attribute now affects melee damage dealt by rogues and ninjas."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Gladiator / Paladin",
+      "changes": [
+        "Testudo: Range of effect increased to all party members.",
+        "Testudo: Initial damage reduction lowered from 30% to 15%.",
+        "Testudo: Effect duration increased from 12 to 15 seconds.",
+        "Enhanced Testudo II: Effect duration increased from 16 to 20 seconds.",
+        "Enhanced Testudo III: Damage reduction reduced from 50% to 25%."
+      ]
+    },
+    {
+      "job": "Lancer / Dragoon",
+      "changes": [
+        "Impulse Rush: Additional effect changed from 30% TP consumption reduction to an increased critical hit rate (20% increase without enhancements).",
+        "Enhanced Impulse Rush III: Additional effect changed from 50% TP consumption reduction to a 30% critical hit rate increase."
+      ]
+    },
+    {
+      "job": "General (PvP)",
+      "changes": [
+        "New PvP action: Recouperate (Restores 20% max HP). Available for Pugilist, Lancer, Archer, Rogue, Monk, Dragoon, Bard, and Ninja.",
+        "New PvP action: Detect (Reveal nearby enemies under the effect of Hide). Available for Archer, Rogue, Bard, and Ninja.",
+        "New PvP action: Overwhelm (Rush and attack target). Available for Rogue and Ninja.",
+        "New PvP action: Ill Wind (AoE attack with silence). Available for Rogue and Ninja.",
+        "New PvP action: Malmsight (Locate enemies). Available for Rogue and Ninja.",
+        "Limit Break: Casting time for Skyshard and Starstorm increased by 0.5 seconds.",
+        "Limit Break: Cancelling will now deplete the limit gauge by half."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Snowcloak",
+      "description": "New dungeon.",
+      "location": "Coerthas Central Highlands",
+      "npc_location": "Coerthas Central Highlands (X:12 Y:17)"
+    },
+    {
+      "name": "Sastasha (Hard)",
+      "description": "New dungeon.",
+      "location": "Mor Dhona",
+      "npc_location": "Mor Dhona (X:22 Y:8)"
+    },
+    {
+      "name": "The Sunken Temple of Qarn (Hard)",
+      "description": "New dungeon.",
+      "location": "Mor Dhona",
+      "npc_location": "Mor Dhona (X:22 Y:8)"
+    },
+    {
+      "name": "The Final Coil of Bahamut",
+      "description": "New raid.",
+      "location": "Northern Thanalan",
+      "npc_location": "The Waking Sands (X:6 Y:4)"
+    },
+    {
+      "name": "The Akh Afah Amphitheatre (Hard)",
+      "description": "New trial.",
+      "location": "The Rising Stones",
+      "npc_location": "The Rising Stones (X:6 Y:5)"
+    },
+    {
+      "name": "The Akh Afah Amphitheatre (Extreme)",
+      "description": "New trial.",
+      "location": "The Waking Sands",
+      "npc_location": "The Waking Sands (X:6 Y:4)"
+    },
+    {
+      "name": "The Dragon's Neck",
+      "description": "New trial.",
+      "location": "Ul'dah – Steps of Thal",
+      "npc_location": "Ul'dah – Steps of Thal (X:14 Y:10)"
+    },
+    {
+      "name": "Main Scenario Quests",
+      "description": "New story quests added including Traitor in the Midst, Back and Fourth, Coming to Terms, The Intercession of Saints, Strength in Unity, Dark Words, Dark Deeds, First Blood, The Path of the Righteous, For the Greater Good, Tendrils of Intrigue, Chasing Ivy, Doman Connection, In Flagrante Delicto, A Simple Plan, The Instruments of Our Deliverance, The Road Less Traveled, Eyes Unclouded, ???, and Let Us Cling Together.",
+      "location": "Various",
+      "npc_location": "Various"
+    },
+    {
+      "name": "Chronicles of a New Era Quests",
+      "description": "Added quests Fragments of Truth, Alisaie’s Path, and Drop Dead Shiva.",
+      "location": "The Waking Sands / Northern Thanalan",
+      "npc_location": "The Waking Sands (X:6 Y:4) / Northern Thanalan (X:20 Y:17)"
+    },
+    {
+      "name": "Hildibrand Side Story Quests",
+      "description": "Added quests Eight-armed and Dangerous, What Price Victory, The Trouble with Truffles, and The Coliseum Conundrum.",
+      "location": "Eastern La Noscea / Ul'dah",
+      "npc_location": "Various"
+    },
+    {
+      "name": "Delivery Moogle Quests",
+      "description": "Added quests Death of a Mailman, All in the Family, and Duel Personalities.",
+      "location": "Limsa Lominsa – Lower Decks",
+      "npc_location": "Limsa Lominsa – Lower Decks (X:10 Y:11)"
+    },
+    {
+      "name": "Rogue/Ninja Class/Job Quests",
+      "description": "New class quests for Rogue (So You Want to Be a Rogue to Cloying Victory) and Ninja (Peasants by Day, Ninjas by Night to Master and Student, plus Relic quest).",
+      "location": "Limsa Lominsa / Eastern La Noscea / North Shroud",
+      "npc_location": "Various"
+    },
+    {
+      "name": "Rogue Class / Ninja Job",
+      "description": "New playable class and job.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Subdivisions",
+      "description": "Added to all three residential districts (plots 31 through 60).",
+      "location": "Residential Districts",
+      "npc_location": null
+    },
+    {
+      "name": "Allagan tomestones of poetics",
+      "description": "New currency system.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Crafting History and Favorites",
+      "description": "New system for tracking crafting log history and favorite recipes.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Rhotano privateer",
+      "description": "New boat exploration feature off the coast of Costa del Sol.",
+      "location": "Eastern La Noscea",
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Masonwork Interior Wall",
+      "description": "A sturdy wall of locally quarried stones.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/L/EbtcXqPUGzsVYdi23FpUR25oH4.png"
+    },
+    {
+      "name": "Ice Chandelier",
+      "description": "A breathtaking ceiling fixture crafted using tears taken from the Lady of Frost herself.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/_/45sv0DETIHyh_gl2FyLgD6kUJE.png"
+    },
+    {
+      "name": "Diamond Chandelier",
+      "description": "An awe-inspiring ceiling fixture crafted using tears taken from the Lady of Frost herself and imbued with magicks ancient and forbidden.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/M/5T9l7AE_cSDlsD4EM4rjEQRgCE.png"
+    },
+    {
+      "name": "Masonwork Flooring",
+      "description": "A smooth stone floor guaranteed to stay cool in the summer and toe-numbingly cold in the winter.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/v/oxRQz2cT8riqV5VLCu2-nADVkE.png"
+    },
+    {
+      "name": "Checkered Flooring",
+      "description": "Give your estate a modern feel with this quality flooring's contemporary pattern.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/v/hyXqlwktN4v0EssRTzkbMf_7OQ.png"
+    },
+    {
+      "name": "Iron Plate Flooring",
+      "description": "Hammered steel flooring for those seeking an imperial feel to their residence.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/U/15QxPO___EcPlhMI9ydNRRxEY8.png"
+    },
+    {
+      "name": "Large Planter Box",
+      "description": "A deep rectangular box for planting flowers or vegetables.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/E/8R4FrEQFMaGtRtuRNMU0nhfZ9c.png"
+    },
+    {
+      "name": "Riviera Path Light",
+      "description": "A small crystal-powered lantern designed in the riviera style used outdoors to light walkways.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/i/OfvDbUY2NolZsL2r-nN_N8G6Sc.png"
+    }
+  ],
+  "glamour": [
+    {
+      "name": "The Emperor's New Necklace",
+      "description": "These items have been added to conceal the appearance of accessories using glamour prisms.",
+      "image_url": null
+    },
+    {
+      "name": "The Emperor's New Earrings",
+      "description": "These items have been added to conceal the appearance of accessories using glamour prisms.",
+      "image_url": null
+    },
+    {
+      "name": "The Emperor's New Bracelet",
+      "description": "These items have been added to conceal the appearance of accessories using glamour prisms.",
+      "image_url": null
+    },
+    {
+      "name": "The Emperor's New Ring",
+      "description": "These items have been added to conceal the appearance of accessories using glamour prisms.",
+      "image_url": null
+    }
+  ]
+}

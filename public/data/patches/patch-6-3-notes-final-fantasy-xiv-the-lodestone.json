@@ -1,61 +1,61 @@
 {
-  "patch_title": "Patch 6.3",
-  "patch_date": "2023-01-10",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/764840557caa22a8f77550b480aa3c79b2e733d2/",
+  "patch_title": "Patch 6.3 Notes",
+  "patch_date": "2023-05-24",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/764840557caa22a8f77550b480aa3c79b2e733d2",
   "jobs_pve": [
     {
       "job": "Paladin",
       "changes": [
-        "Fight or Flight: Effect changed from 'Increases physical damage dealt by 25%' to 'Increases damage dealt by 25%'; duration reduced from 25 to 20 seconds.",
+        "Fight or Flight: Changed from 'Increases physical damage dealt by 25%' to 'Increases damage dealt by 25%'; duration reduced from 25 to 20 seconds.",
         "Riot Blade: Potency reduced from 170 to 120; combo potency reduced from 300 to 280.",
         "Iron Will: Recast time reduced from 3 to 2 seconds.",
         "Sheltron: Effect changed from 'Block incoming attacks' to 'Reduces damage taken by 15%'.",
         "Prominence: MP recovery increased; combo bonus 'Grants Divine Might' added.",
-        "Goring Blade: Revamped as a 700 potency attack that does not share a recast timer; recast time increased to 60 seconds.",
-        "Divine Veil: Barrier effect changed to apply to self and party members near you immediately upon execution.",
+        "Goring Blade: Effects revamped; potency 700; does not share a recast timer with other actions; recast time increased to 60 seconds.",
+        "Divine Veil: Effect changed to 'Creates a barrier around self and all party members near you'.",
         "Royal Authority: Potency reduced from 130 to 120; combo potency reduced from 420 to 380; combo bonus 'grants Divine Might' added.",
-        "Holy Spirit: Potency increased from 300 to 350; Requiescat potency increased to 650; potency increased to 450 under Divine Might.",
-        "Requiescat: Potency reduced from 400 to 300; max stacks reduced from 5 to 4; effect now includes Confiteor combo actions; now grants 'Confiteor Ready' instead of 'Blade of Faith Ready'.",
-        "Holy Circle: Potency reduced from 130 to 100; potency increased to 200 under Divine Might.",
+        "Holy Spirit: Potency increased from 300 to 350; Requiescat potency increased to 650; potency 450 under Divine Might.",
+        "Requiescat: Potency reduced from 400 to 300; max stacks reduced from 5 to 4; now affects Holy Spirit, Holy Circle, and Confiteor combo actions; now grants Confiteor Ready.",
+        "Holy Circle: Potency reduced from 130 to 100; potency 200 under Divine Might.",
         "Atonement: Potency reduced from 420 to 380.",
-        "Confiteor: Potency reduced from 1,000 to 400 (900 under Requiescat); Requiescat no longer ends upon execution; requirement changed to 'Confiteor Ready'.",
+        "Confiteor: Potency reduced to 400 (900 under Requiescat); Requiescat no longer ends upon execution; requirement changed to 'while under the effect of Confiteor Ready'.",
         "Holy Sheltron: Effect changed from 'Block incoming attacks' to 'Reduces damage taken by 15%'.",
         "Expiacion: Potency increased from 420 to 450; reduced potency for subsequent enemies increased from 50% to 60%.",
-        "Blade of Faith/Truth/Valor: MP cost increased; potency reduced; removed 'Restores MP' effect; Blade of Valor DoT removed.",
+        "Blade of Faith/Truth/Valor: MP cost increased to 1,000; potency reduced (700/800/900 respectively under Requiescat); 'Restores MP' effect removed; Blade of Valor 'Damage over time' removed.",
         "Divine Magic Mastery: Combo bonus 'grants Divine Might' added.",
-        "Enhanced Prominence: Acquired at level 72; combo bonus 'grants Divine Might' added.",
+        "Enhanced Prominence: Now acquired at level 72; 'grants Divine Might' added.",
         "Enhanced Divine Veil: Healing effect now applies upon execution.",
-        "Release Iron Will (Level 10): New action added.",
-        "Bulwark (Level 52): New action added.",
-        "Enhanced Requiescat (Level 80): New trait added."
+        "New Action: Release Iron Will (Level 10).",
+        "New Action: Bulwark (Level 52).",
+        "New Action: Enhanced Requiescat (Level 80)."
       ]
     },
     {
       "job": "Warrior",
       "changes": [
         "Defiance: Recast time reduced from 3 to 2 seconds.",
-        "Shake It Off: Duration increased from 15 to 30 seconds; added heal over time effect (100 cure potency).",
-        "Release Defiance (Level 10): New action added."
+        "Shake It Off: Barrier duration increased from 15 to 30 seconds; additional effect 'Gradually restores HP' (cure potency 100) added.",
+        "New Action: Release Defiance (Level 10)."
       ]
     },
     {
       "job": "Dark Knight",
       "changes": [
         "Grit: Recast time reduced from 3 to 2 seconds.",
-        "Release Grit (Level 10): New action added."
+        "New Action: Release Grit (Level 10)."
       ]
     },
     {
       "job": "Gunbreaker",
       "changes": [
         "Royal Guard: Recast time reduced from 3 to 2 seconds.",
-        "Release Royal Guard (Level 10): New action added."
+        "New Action: Release Royal Guard (Level 10)."
       ]
     },
     {
       "job": "Monk",
       "changes": [
-        "Riddle of Earth: Recast time increased from 30 to 120 seconds; action charges removed; effect changed to flat 20% damage reduction; added heal over time effect (100 cure potency) upon taking damage."
+        "Riddle of Earth: Recast increased from 30 to 120 seconds; effect changed to flat 20% damage reduction; action charges removed; 'Earth's Reply' added (gradual HP restoration)."
       ]
     },
     {
@@ -67,19 +67,20 @@
     {
       "job": "Bard",
       "changes": [
-        "Nature's Minne: Recast time increased from 90 to 120 seconds; effect changed to increase HP recovery by 15% for self and nearby party members."
+        "Nature's Minne: Recast increased from 90 to 120 seconds; effect changed to 'Increases HP recovery via healing actions by 15% for self and nearby party members'."
       ]
     },
     {
       "job": "Machinist",
       "changes": [
         "Gauss Round: Potency increased from 120 to 130.",
-        "Hypercharge: Grants 5 stacks of Overheated; duration increased from 8 to 10 seconds.",
-        "Wildfire: Max stacks increased to 6.",
+        "Hypercharge: Now grants 5 stacks of Overheated; duration increased to 10 seconds.",
+        "Wildfire: Maximum stacks increased to 6.",
         "Ricochet: Potency increased from 120 to 130.",
         "Heated Slug Shot: Combo potency increased from 280 to 300.",
-        "Heated Clean Shot: Combo potency increased from 360 to 380; potency increase trait updated.",
-        "Dismantle (Level 62): New action added."
+        "Heated Clean Shot: Combo potency increased from 360 to 380.",
+        "Marksman's Mastery: Potency increase for Heated Clean Shot changed to 120.",
+        "New Action: Dismantle (Level 62)."
       ]
     },
     {
@@ -98,8 +99,8 @@
     {
       "job": "Sage",
       "changes": [
-        "Phlegma/Phlegma II/Phlegma III: Recast time reduced from 45 to 40 seconds.",
-        "Addersting: Stacks are now granted when Eukrasian Prognosis barrier is completely depleted."
+        "Phlegma (I, II, III): Recast time reduced from 45 to 40 seconds.",
+        "Addersting: Stacks are now granted when the barrier granted by Eukrasian Prognosis to self is completely depleted."
       ]
     }
   ],
@@ -159,19 +160,13 @@
     },
     {
       "name": "Containment Bay P1T6 (Unreal)",
-      "description": "A new Unreal difficulty trial.",
-      "location": "Idyllshire",
-      "npc_location": "Painfully Ishgardian Man (X:7.0 Y:5.9)"
-    },
-    {
-      "name": "Clockwork Castletown",
-      "description": "A new Crystalline Conflict arena.",
+      "description": "A new Unreal trial replacing Containment Bay S1T7 (Unreal).",
       "location": null,
-      "npc_location": null
+      "npc_location": "Fantastic Mr. Faux (Idyllshire X:7.0 Y:5.9)"
     },
     {
       "name": "The Shifting Gymnasion Agonon",
-      "description": "A new instance accessed via treasure maps in Elpis.",
+      "description": "A new instance accessed via Ophiotauroskin Treasure Maps.",
       "location": "Elpis",
       "npc_location": null
     },
@@ -195,49 +190,37 @@
     },
     {
       "name": "An Auspicious Opportunity",
-      "description": "Tataru's Grand Endeavor quest.",
+      "description": "New side story quest (Tataru's Grand Endeavor).",
       "location": "Old Sharlayan",
       "npc_location": "Mehdjina (X:11.8 Y:9.8)"
     },
     {
       "name": "A Far Eastern Yarn",
-      "description": "Island Sanctuary quest.",
+      "description": "New side story quest (Island Sanctuary).",
       "location": "Unnamed Island",
       "npc_location": "Curious Courier (X:12.4 Y:28.7)"
     },
     {
       "name": "That's So Anden",
-      "description": "New custom delivery quest.",
+      "description": "New quest to unlock custom deliveries.",
       "location": "The Crystarium",
       "npc_location": "Supplicant Sheep (X:9.3 Y:11.3)"
     },
     {
       "name": "Data Center Travel",
-      "description": "System for visiting other data centers.",
+      "description": "System to visit other data centers; automatically returns players after 30 days.",
       "location": null,
       "npc_location": null
     },
     {
-      "name": "Duty Support",
-      "description": "System expansion for Heavensward dungeons.",
+      "name": "Clockwork Castletown",
+      "description": "New Crystalline Conflict arena.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Island Sanctuary",
-      "description": "Major feature additions including new ranks, landmarks, and expedition features.",
-      "location": "Unnamed Island",
-      "npc_location": null
-    },
-    {
-      "name": "Glamour Dresser Updates",
-      "description": "New filtering and search features for glamour.",
-      "location": null,
-      "npc_location": null
-    },
-    {
-      "name": "Portrait & Adventurer Plate Updates",
-      "description": "New accents, poses, and integration features.",
+      "description": "Expanded with new ranks, landmarks, gathering points, and isleworks handicrafts.",
       "location": null,
       "npc_location": null
     }
@@ -425,7 +408,7 @@
     },
     {
       "name": "Pudding Pudding",
-      "description": "Delicious pudding in the shape of pudding. What's not to understand?",
+      "description": "Delicious pudding in the shape of pudding. What's not to understand? ※Cannot be retrieved once used. ※Can be used up to 10 times.",
       "image_url": null
     },
     {
@@ -462,292 +445,292 @@
   "glamour": [
     {
       "name": "Valentione Apron",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Trousers",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Apron Dress",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Skirt",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Royal Seneschal's Chapeau",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Royal Seneschal's Coat",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Royal Seneschal's Fingerless Gloves",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Royal Seneschal's Breeches",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Royal Seneschal's Boots",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Songbird Boots",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Songbird Hat",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Songbird Jacket",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Songbird Gloves",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Songbird Skirt",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Rose Hat",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Rose Waistcoat",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Rose Gloves",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Rose Slacks",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Rose Shoes",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Rose Ribboned Hat",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Rose Dress",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Rose Ribboned Gloves",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Rose Tights",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Rose Heels",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Forget-me-not Hat",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Forget-me-not Waistcoat",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Forget-me-not Gloves",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Forget-me-not Slacks",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Forget-me-not Shoes",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Forget-me-not Ribboned Hat",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Forget-me-not Dress",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Forget-me-not Ribboned Gloves",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Forget-me-not Tights",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Forget-me-not Heels",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Acacia Hat",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Acacia Waistcoat",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Acacia Gloves",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Acacia Slacks",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Acacia Shoes",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Acacia Ribboned Hat",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Acacia Dress",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Acacia Ribboned Gloves",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Acacia Tights",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Valentione Acacia Heels",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Bergsteiger's Hat",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Bergsteiger's Jacket",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Bergsteiger's Halfgloves",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Bergsteiger's Halfslops",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Bergsteiger's Boots",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Dirndl's Hat",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Dirndl's Bodice",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Dirndl's Wrist Torque",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Dirndl's Long Skirt",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Dirndl's Pumps",
-      "description": "The following items can now be equipped regardless of gender.",
+      "description": "The following items can now be equipped regardless of gender",
       "image_url": null
     },
     {
       "name": "Chocobo Mask",
-      "description": "The following items are now dyeable.",
+      "description": "The following items are now dyeable",
       "image_url": null
     },
     {
       "name": "Chocobo Suit",
-      "description": "The following items are now dyeable.",
+      "description": "The following items are now dyeable",
       "image_url": null
     },
     {
       "name": "Racing Chocobo Mask",
-      "description": "The following items are now dyeable.",
+      "description": "The following items are now dyeable",
       "image_url": null
     },
     {
       "name": "Fat Chocobo Head",
-      "description": "The following items are now dyeable.",
+      "description": "The following items are now dyeable",
       "image_url": null
     }
   ]

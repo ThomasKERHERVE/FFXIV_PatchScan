@@ -1,0 +1,211 @@
+{
+  "patch_title": "Patch 3.25 Notes",
+  "patch_date": "2016-03-29",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/cbb6ca2c6b2f1fdfee3a68f0e18c9d4a609addd1",
+  "jobs_pve": [
+    {
+      "job": "None",
+      "changes": []
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Pugilist/Monk",
+      "changes": [
+        "Somersault: Potency has been increased from 180 to 200.",
+        "Somersault: Recast time has been reduced from 90 to 60 seconds.",
+        "Enhanced Somersault: Recast time reduction has been changed from 60 to 40 seconds."
+      ]
+    },
+    {
+      "job": "Archer/Bard",
+      "changes": [
+        "Farshot: Potency has been increased from 170 to 200.",
+        "Enhanced Farshot II: Increased potency has been changed from 200 to 240."
+      ]
+    },
+    {
+      "job": "Rogue/Ninja",
+      "changes": [
+        "Overwhelm: Recast time has been reduced from 90 to 60 seconds.",
+        "Enhanced Overwhelm: Recast time reduction has been changed from 60 to 40 seconds.",
+        "Ill Wind: Recast time has been reduced from 150 to 120 seconds.",
+        "Enhanced Ill Wind: Recast time reduction has been changed from 120 to 90 seconds."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Tar Pit: Potency has been increased from 150 to 200.",
+        "Tar Pit: Recast time has been reduced from 180 to 150 seconds.",
+        "Enhanced Tar Pit: Recast time reduction has been changed from 150 to 120 seconds.",
+        "Enhanced Tar Pit II: Increased potency has been changed from 180 to 240.",
+        "Carnal Chill: Recast time has been reduced from 150 to 120 seconds.",
+        "Enhanced Carnal Chill: Recast time reduction has been changed from 120 to 90 seconds."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Finding Your Voice",
+      "description": "A new anima weapon story quest that allows players to enhance the strength of their anima weapons.",
+      "location": "Azys Lla (X:7.4 Y:11.5)",
+      "npc_location": "Ardashir"
+    },
+    {
+      "name": "Chocobo Challenge",
+      "description": "A new chocobo racing challenge that pits players against special racing opponents.",
+      "location": "The Manderville Gold Saucer - Chocobo Square (X:6.1 Y:4.8)",
+      "npc_location": "Race Chocobo Registrar"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Orchestrion Roll",
+      "description": "Housing item entries related to where to obtain certain orchestrion rolls in the Orchestrion List have been updated.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Hauteclaire Awoken Replica",
+      "description": "Gladiator's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Replica Almace",
+      "description": "Gladiator's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Parashu Awoken Replica",
+      "description": "Marauder's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Replica Ukonvasara",
+      "description": "Marauder's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Deathbringer Awoken Replica",
+      "description": "Dark Knight's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Replica Nothung",
+      "description": "Dark Knight's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Replica Rising Suns Awoken",
+      "description": "Pugilist's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Replica Verethragna",
+      "description": "Pugilist's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Brionac Awoken Replica",
+      "description": "Lancer's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Replica Rhongomiant",
+      "description": "Lancer's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Berimbau Awoken Replica",
+      "description": "Archer's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Replica Gandiva",
+      "description": "Archer's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Replica Yukimitsu Awoken",
+      "description": "Rogue's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Replica Kannagi",
+      "description": "Rogue's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Ferdinand Awoken Replica",
+      "description": "Machinist's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Replica Armageddon",
+      "description": "Machinist's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Seraph Cane Awoken Replica",
+      "description": "Two-handed Conjurer's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Replica Majestas",
+      "description": "Two-handed Conjurer's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Lunaris Rod Awoken Replica",
+      "description": "Two-handed Thaumaturge's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Replica Hvergelmir",
+      "description": "Two-handed Thaumaturge's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Almandal Awoken Replica",
+      "description": "Arcanist's Grimoire, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Elements Awoken Replica",
+      "description": "Arcanist's Grimoire, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Replica Draconomicon",
+      "description": "Arcanist's Grimoire, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Replica Tetrabiblos",
+      "description": "Arcanist's Grimoire, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Atlas Awoken Replica",
+      "description": "Astrologian's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Replica Deneb",
+      "description": "Astrologian's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Prytwen Awoken Replica",
+      "description": "Shield, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Replica Ancile",
+      "description": "Shield, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    }
+  ]
+}

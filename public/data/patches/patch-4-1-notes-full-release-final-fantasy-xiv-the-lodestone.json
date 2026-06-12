@@ -1,0 +1,844 @@
+{
+  "patch_title": "Patch 4.1 Notes (Full Release)",
+  "patch_date": "2017-10-17",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/cfd6b53bc9cd08b494512a662c04942848db9539",
+  "jobs_pve": [
+    {
+      "job": "Warrior",
+      "changes": [
+        "Steel Cyclone: HP absorption has been increased.",
+        "Fell Cleave: Inner Beast, Steel Cyclone, and Unchained will now be replaced by these actions when using Deliverance. As such, they can no longer be set to the hotbar.",
+        "Decimate: Inner Beast, Steel Cyclone, and Unchained will now be replaced by these actions when using Deliverance. As such, they can no longer be set to the hotbar.",
+        "Inner Release: Inner Beast, Steel Cyclone, and Unchained will now be replaced by these actions when using Deliverance. As such, they can no longer be set to the hotbar.",
+        "Shake it Off: Effect changed to create a barrier around self and all nearby party members that absorbs damage totaling 8% of maximum HP. Dispels Thrill of Battle, Inner Beast, Vengeance, and Raw Intuition, increasing damage absorbed by 4% for each effect removed. Duration: 15s. Recast time increased from 60 to 90 seconds."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "True Thrust: Potency increased from 150 to 160.",
+        "Vorpal Thrust: Combo potency increased from 240 to 250.",
+        "Impulse Drive: Potency increased from 190 to 200.",
+        "Heavy Thrust: Potency increased from 140 to 150. Potency when executed from a target's flank increased from 180 to 190. Increased damage effect reduced from 15% to 10%.",
+        "Full Thrust: Combo potency increased from 440 to 450.",
+        "Dragon's Eye: Dragon Gauge maximum reduced from 4 to 3 units.",
+        "Jump: Potency increased from 250 to 260.",
+        "Disembowel: Combo potency increased from 230 to 240.",
+        "Doom Spike: Potency increased from 130 to 140. Area of effect increased.",
+        "Spineshatter Dive: Potency increased from 200 to 210.",
+        "Chaos Thrust: Combo potency increased from 230 to 240. Combo potency when executed from a target's rear increased from 270 to 280.",
+        "Dragonfire Dive: Potency increased from 300 to 320.",
+        "Blood of the Dragon: Can no longer be executed while under the effect of Life of the Dragon.",
+        "Fang and Claw: Potency increased from 250 to 260. Potency when executed from a target's flank increased from 290 to 300.",
+        "Wheeling Thrust: Potency increased from 250 to 260. Potency when executed from a target's rear increased from 290 to 300.",
+        "Geirskogul: Potency increased from 220 to 230. Recast time reduced from 35 to 30. Requirement for the additional effect changed from 4 to 3 Dragon Eye units.",
+        "Sonic Thrust: Combo potency increased from 170 to 180. Area of effect increased.",
+        "Mirage Dive: Potency increased from 200 to 210.",
+        "Nastrond: Potency increased from 320 to 330.",
+        "Life of the Dragon: Now states the Dragon Gauge only requires 3 units to receive the Life of the Dragon status after using Geirskogul."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Doton: Addressed issue where Dripping Blades II increased damage. Potency increased from 40 to 45.",
+        "Shukuchi: Time required to execute action reduced."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Rook Autoturret: Hypercharge effect increasing target's damage taken increased from 5% to 6%.",
+        "Bishop Autoturret: Hypercharge effect increasing target's damage taken increased from 5% to 6%."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Summon: Cast time reduced from 6 to 3 seconds. MP cost reduced.",
+        "Summon II: Cast time reduced from 6 to 3 seconds. MP cost reduced.",
+        "Summon III: Cast time reduced from 6 to 3 seconds. MP cost reduced.",
+        "Tri-bind: Dreadwyrm Trance effect \"removes bind effect, increases potency by 70, and reduces MP cost\" added. Cast time reduced from 3 to 2.5 seconds.",
+        "Ruin III: Potency reduced from 150 to 130. MP cost reduced. \"No cast time while in Dreadwyrm Trance\" effect added.",
+        "Ruin IV: Cast time made instant.",
+        "Aetherpact: Recast time increased from 90 to 120 seconds. No longer requires a party member within 30 yalms.",
+        "Devotion: Changed effect to: \"increases damage dealt and reduces damage taken by all party members within a 30-yalm radius by 2%. Also increases healing magic potency of all party members by 5%.\"",
+        "Ruin Mastery: Now acquired at level 54. Effect changed to \"changes Ruin to Ruin III.\" Activation requirement removed.",
+        "Sustain: Re-added as a level 18 action.",
+        "Enhanced Ruin II (Trait): New trait added at level 62. Grants 15% chance that a pet action will trigger Further Ruin, upgrading Ruin II to Ruin IV."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Summon: Cast time reduced from 6 to 3 seconds. MP cost reduced.",
+        "Summon II: Cast time reduced from 6 to 3 seconds. MP cost reduced.",
+        "Adloquium: MP cost reduced.",
+        "Succor: MP cost reduced. Barrier effect increased from 100% to 150% of HP restored.",
+        "Fey Caress: When in Sic mode, Selene will now activate Fey Caress when inflicted with an enfeeblement that can be removed with this skill.",
+        "Sustain: Added as a level 18 action."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Warrior",
+      "changes": [
+        "Added new action: Thrill of War (Increases maximum HP of self and nearby party members by 10% and restores HP by 10%; Duration: 10s).",
+        "Removed action: Inner Release.",
+        "Adjusted Butcher's Block: Resolved an issue where it was benefiting adrenaline rush damage.",
+        "Adjusted Defiance: Resolved an issue where it was not increasing HP recovery via healing magic to the correct value."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Added new action: Dragon Sight (Grants Right Eye to self and Left Eye to target party member, increasing damage dealt by 10% for both; Duration: 10s).",
+        "Adjusted Skewer: Additional effect changed from reducing target's attack magic and healing magic potency by 20% to reducing target's attack potency and healing magic potency by 10%.",
+        "Adjusted Dragon's Eye: Dragon Gauge maximum reduced from 4 to 3 units.",
+        "Adjusted Blood of the Dragon: Recast time reduced from 10 to 5 seconds.",
+        "Adjusted Geirskogul: Potency reduced from 2,000 to 1,500; Recast time reduced from 10 to 5 seconds; Dragon Gauge cost reduced from 4 to 3.",
+        "Adjusted Nastrond: Potency reduced from 3,000 to 2,500; Recast time reduced from 10 to 5 seconds; Dragon Gauge cost reduced from 4 to 3.",
+        "Adjusted Life of the Dragon: Now states the Dragon Gauge only requires 3 units to receive the Life of the Dragon status after using Geirskogul.",
+        "Removed action: Battle Litany.",
+        "Resolved an issue where Geirskogul and Nastrond would sometimes miss the target."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Added new action: Troubadour (Adds an additional effect to the song currently being sung; Duration: 10s; Can only be executed while singing Army's Paeon or the Wanderer's Minuet).",
+        "Adjusted Repelling Shot: Additional effect 'bind' has been added.",
+        "Removed action: Battlefield March."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Added new action: Flamethrower (Delivers damage over time to all enemies in a cone; Potency: 250; Duration: 10s).",
+        "Removed action: Report."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Added new action: Vercure (Restores target's HP; Cure Potency: 1,500; Additional Effect: Grants Dualcast).",
+        "Adjusted Verstone: Increase to White Mana changed from 10 to 15.",
+        "Adjusted Veraero: Increase to White Mana changed from 10 to 15.",
+        "Adjusted Verfire: Increase to Black Mana changed from 10 to 15.",
+        "Adjusted Verthunder: Increase to Black Mana changed from 10 to 15.",
+        "Adjusted Verholy: Additional effect 'restores 1,500 MP' has been added.",
+        "Adjusted Verflare: Additional effect 'restores 250 TP' has been added.",
+        "Adjusted Flunge: TP cost reduced from 300 to 250.",
+        "Adjusted Monomachy: Duration changed to 10 seconds; Recast time increased from 10 to 45 seconds.",
+        "Adjusted Corps-a-corps: Additional effect 'reduces recast time by 5s if used on target suffering from a Monomachy effect inflicted by you' has been added.",
+        "Adjusted Displacement: Additional effect 'reduces recast time by 5s if used on target suffering from a Monomachy effect inflicted by you' has been added.",
+        "Removed action: Manafication."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Added new action: Sleeve Draw (Executes Draw and Minor Arcana in succession; Duration: 30s; Additional Effect: Restores 1,000 MP).",
+        "Added new mechanic: Minor Arcana (Converts drawn arcanum into Lord of Crowns or Lady of Crowns).",
+        "Removed actions: Draw, Deorbit."
+      ]
+    },
+    {
+      "job": "Paladin",
+      "changes": [
+        "Adjusted Holy Spirit: Additional effect 'increases Oath Gauge by 5' has been added.",
+        "Adjusted Requiescat: Duration reduced from 10 to 6 seconds; Additional effect 'reduces MP cost of all spells to 0' has been added."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Adjusted Tenka Goken: Action now requires a target."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Adjusted Shukuchi: The time required to execute this action has been reduced."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Adjusted Energy Drain: Recast time increased from 1 to 3 seconds."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Adjusted Assize: Resolved an issue where the PvP trait 'Increased Healing Potency' was benefiting this action."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Drowned City of Skalla",
+      "description": "A new dungeon.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Minstrel's Ballad: Shinryu's Domain",
+      "description": "A new trial.",
+      "location": "Kugane",
+      "npc_location": "Wandering Minstrel (X:11.6 Y:12.6)"
+    },
+    {
+      "name": "The Royal City of Rabanastre",
+      "description": "A new alliance raid dungeon.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Arenvald's Adventure",
+      "description": "Main scenario quest.",
+      "location": "Rhalgr's Reach (X:14.6 Y:9.4)",
+      "npc_location": "Lyse"
+    },
+    {
+      "name": "The Darkness Below",
+      "description": "Main scenario quest.",
+      "location": "Rhalgr's Reach (X: 12.1 Y: 12.4)",
+      "npc_location": "Alphinaud"
+    },
+    {
+      "name": "Return to Ivalice",
+      "description": "Chronicles of a New Era quest.",
+      "location": "Kugane (X:12.2 Y:12.3)",
+      "npc_location": "Keiten"
+    },
+    {
+      "name": "A City Fallen",
+      "description": "Chronicles of a New Era quest.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "A Hingan Tale: Nashu Goes East",
+      "description": "Side story quest.",
+      "location": "Kugane (X:10.6 Y:9.8)",
+      "npc_location": "Conspicuously Inconspicuous Man"
+    },
+    {
+      "name": "Heaven-sent",
+      "description": "Kojin beast tribe quest.",
+      "location": "The Ruby Sea (X:6.8 Y:13.3)",
+      "npc_location": "Vexed Villager"
+    },
+    {
+      "name": "None Forgotten, None Forsaken",
+      "description": "Custom delivery quest.",
+      "location": "Rhalgr's Reach (X:9.8 Y:12.5)",
+      "npc_location": "Galiena"
+    },
+    {
+      "name": "If I Had a Glamour",
+      "description": "Quest to unlock glamours.",
+      "location": "Western Thanalan ─ Vesper Bay (X:12.6 Y:14.3)",
+      "npc_location": "Swyrgeim"
+    },
+    {
+      "name": "Absolutely Glamourous",
+      "description": "Quest to unlock glamour recipes.",
+      "location": "Western Thanalan ─ Vesper Bay (X:12.6 Y:14.3)",
+      "npc_location": "Swyrgeim"
+    },
+    {
+      "name": "Hidden Canals of Uznair",
+      "description": "A new area within the Lost Canals of Uznair.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Command Missions",
+      "description": "New feature allowing players to enter instanced dungeons alongside three squadron unit members.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Storeroom",
+      "description": "New inventory space designed specifically for housing-related items.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Relocation",
+      "description": "Feature allowing players to move their estate hall and accompanying furnishings to a new plot.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Shirogane",
+      "description": "New residential area.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Quest Sync",
+      "description": "Automatic level adjustment system for Kojin beast tribe quests.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Duty Roulette: Alliance Raids",
+      "description": "New duty roulette category.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Hingan Cottage Permit (Mokuzo)",
+      "description": "Allows the construction of a Hingan-style cottage in Shirogane.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Cottage Permit (Nanpu)",
+      "description": "Allows the construction of a Hingan-style cottage in Shirogane.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Cottage Permit (Kura-zukuri)",
+      "description": "Allows the construction of a Hingan-style cottage in Shirogane.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan House Permit (Mokuzo)",
+      "description": "Allows the construction of a Hingan-style house in Shirogane.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan House Permit (Nanpu)",
+      "description": "Allows the construction of a Hingan-style house in Shirogane.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan House Permit (Kura-zukuri)",
+      "description": "Allows the construction of a Hingan-style house in Shirogane.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Mansion Permit (Mokuzo)",
+      "description": "Allows the construction of a Hingan-style mansion in Shirogane.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Mansion Permit (Nanpu)",
+      "description": "Allows the construction of a Hingan-style mansion in Shirogane.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Mansion Permit (Kura-zukuri)",
+      "description": "Allows the construction of a Hingan-style mansion in Shirogane.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Cottage Roof (Mokuzo)",
+      "description": "A tiled roof designed exclusively for use with wooden Hingan hiraya-style cottages.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Cottage Roof (Nanpu)",
+      "description": "A tiled roof designed exclusively for use with southern Hingan hiraya-style cottages.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Cottage Roof (Kura-zukuri)",
+      "description": "A tiled roof designed exclusively for use with traditional Hingan hiraya-style cottages.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan House Roof (Mokuzo)",
+      "description": "A tiled roof designed exclusively for use with wooden Hingan yashiki-style houses.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan House Roof (Nanpu)",
+      "description": "A tiled roof designed exclusively for use with southern Hingan yashiki-style houses.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan House Roof (Kura-zukuri)",
+      "description": "A tiled roof designed exclusively for use with traditional Hingan yashiki-style houses.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Mansion Roof (Mokuzo)",
+      "description": "A tiled roof designed exclusively for use with wooden Hingan goten-style mansions.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Mansion Roof (Nanpu)",
+      "description": "A tiled roof designed exclusively for use with southern Hingan goten-style mansions.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Mansion Roof (Kura-zukuri)",
+      "description": "A tiled roof designed exclusively for use with traditional Hingan goten-style mansions.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Cottage Wall (Mokuzo)",
+      "description": "A simple wall designed exclusively for use with wooden Hingan hiraya-style cottages.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Cottage Wall (Nanpu)",
+      "description": "A painted wall designed exclusively for use with southern Hingan hiraya-style cottages.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Cottage Wall (Kura-zukuri)",
+      "description": "An earthen wall designed exclusively for use with traditional Hingan hiraya-style cottages.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan House Wall (Mokuzo)",
+      "description": "A simple wall designed exclusively for use with wooden Hingan hiraya-style houses.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan House Wall (Nanpu)",
+      "description": "A painted wall designed exclusively for use with southern Hingan hiraya-style houses.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan House Wall (Kura-zukuri)",
+      "description": "An earthen wall designed exclusively for use with traditional Hingan hiraya-style houses.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Mansion Wall (Mokuzo)",
+      "description": "A simple wall designed exclusively for use with wooden Hingan hiraya-style mansions.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Mansion Wall (Nanpu)",
+      "description": "A painted wall designed exclusively for use with southern Hingan hiraya-style mansions.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Mansion Wall (Kura-zukuri)",
+      "description": "An earthen wall designed exclusively for use with traditional Hingan hiraya-style mansions.",
+      "image_url": null
+    },
+    {
+      "name": "Small Shirogane Castle Walls",
+      "description": "A set of four walls designed for those who wish to transform their estate into a traditional Hingan castle.",
+      "image_url": null
+    },
+    {
+      "name": "Medium Shirogane Castle Walls",
+      "description": "A set of four walls designed for those who wish to transform their estate into a traditional Hingan castle.",
+      "image_url": null
+    },
+    {
+      "name": "Large Shirogane Castle Walls",
+      "description": "A set of four walls designed for those who wish to transform their estate into a traditional Hingan castle.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Oblong Window",
+      "description": "An oblong window designed exclusively for use with Hingan residences.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Lancet Window",
+      "description": "A lancet window designed exclusively for use with Hingan residences.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Squinch Window",
+      "description": "A squinch window designed exclusively for use with Hingan residences.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Mokuzo Door",
+      "description": "A wooden door designed exclusively for use with Hingan residences.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Nanpu Door",
+      "description": "A painted door designed exclusively for use with Hingan residences.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Kura-Zukuri Door",
+      "description": "A heavy door designed exclusively for use with Hingan residences.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Watchtower (Mokuzo)",
+      "description": "A wooden tower known in the Far East as a \"hinomi yagura.\" Used traditionally to maintain a watch for fires.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Watchtower (Nanpu)",
+      "description": "A painted tower known in the southern islands of Hingashi as a \"hinomi yagura.\" Used traditionally to maintain a watch for fires.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Chimney (Kura-zukuri)",
+      "description": "A traditional stone chimney designed in the Hingan style.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Awning (Mokuzo)",
+      "description": "A simple awning designed to compliment wooden Hingan residences.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Awning (Nanpu)",
+      "description": "A brightly painted awning designed to compliment southern Hingan residences.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Awning (Kura-zukuri)",
+      "description": "An intricately carved awning designed to compliment traditional Hingan residences.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Placard (Mokuzo)",
+      "description": "A handsome placard designed to complement wooden Hingan residences.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Placard (Nanpu)",
+      "description": "A handsome placard designed to complement southern Hingan residences.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Placard (Kura-zukuri)",
+      "description": "A handsome placard designed to complement traditional Hingan residences.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Stone Fence",
+      "description": "A simple stone fence designed exclusively for use with Hingan residences.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Nanpu Fence",
+      "description": "A southern stone fence designed exclusively for use with Hingan residences.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Kura-zukuri Fence",
+      "description": "A traditional stone fence designed exclusively for use with Hingan residences.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Interior Wall",
+      "description": "An interior wall designed to complement Hingan residences.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Flooring",
+      "description": "Floorboards designed to complement Hingan residences.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Hanging Bonbori Lamp",
+      "description": "An oblate lamp designed to complement Hingan residences.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Hanging Andon Lamp",
+      "description": "A cubic lamp designed to complement Hingan residences.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Hanging Toro Lamp",
+      "description": "A multi-sided lamp designed to complement Hingan residences.",
+      "image_url": null
+    },
+    {
+      "name": "Far Eastern Willow",
+      "description": "A cutting from a Far Eastern willow. For display in gardens.",
+      "image_url": null
+    },
+    {
+      "name": "Toro Lantern",
+      "description": "Stone lanterns such as the toro are commonplace in gardens across the island nation of Hingashi.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Bench",
+      "description": "A simple wooden bench designed in the Hingan fashion.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Chair",
+      "description": "A plush chair designed in the Hingan fashion.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Sofa",
+      "description": "A plush sofa designed in the Hingan fashion.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Bed",
+      "description": "A sturdy bed made from pine and designed in the Hingan fashion.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Oven",
+      "description": "An earthen oven designed in the Hingan fashion.",
+      "image_url": null
+    },
+    {
+      "name": "Paper Partition",
+      "description": "A partition made of thin white paper glued to a simple wooden latice frame. Provides only a fleeting promise of privacy.",
+      "image_url": null
+    },
+    {
+      "name": "Bamboo Flowerpot",
+      "description": "A short, cylindrical flowerpot made from a length of seasoned bamboo.",
+      "image_url": null
+    },
+    {
+      "name": "Blank Riviera Partition",
+      "description": "This sturdy partition designed in the riviera fashion is partially customizable.",
+      "image_url": null
+    },
+    {
+      "name": "Blank Glade Partition",
+      "description": "This sturdy partition designed in the glade fashion is partially customizable.",
+      "image_url": null
+    },
+    {
+      "name": "Blank Oasis Partition",
+      "description": "This sturdy partition designed in the oasis fashion is partially customizable.",
+      "image_url": null
+    },
+    {
+      "name": "Blank Hingan Partition",
+      "description": "This sturdy partition designed in the Hingan fashion is partially customizable.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Partition",
+      "description": "A partition designed in the Hingan fashion, reaching to the ceiling and so sturdy it may as well be a wall.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Desk",
+      "description": "Known in the Far East as a \"fuzue,\" this low desk is meant to be used while sitting on the ground.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Sitting Table",
+      "description": "Known in the Far East as a \"zataku,\" this low table is meant to be used while sitting on the ground.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Sideboard",
+      "description": "A low, multi-drawered chest designed in the Hingan fashion.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Wardrobe",
+      "description": "A wooden wardrobe designed in the Hingan fashion.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Bookshelf",
+      "description": "An exquisitely crafted bookshelf designed in the Hingan fashion.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Cupboard",
+      "description": "A wooden cupboard designed in the Hingan fashion.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Open-shelf Bookcase",
+      "description": "A backless bookshelf designed in the Hingan fashion.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Fire Pit",
+      "description": "An indoor-use square fire pit complete with cookpot and utensils.",
+      "image_url": null
+    },
+    {
+      "name": "Ixion Trophy",
+      "description": "A slightly suggestive objet d'art that will ever remind you of your dominance over the mythic steed.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Andon Lamp",
+      "description": "A small cubic lamp commonly placed on desks and tables.",
+      "image_url": null
+    },
+    {
+      "name": "Kimono Hanger",
+      "description": "A wooden rack for displaying kimono.",
+      "image_url": null
+    },
+    {
+      "name": "Kotetsu Replica",
+      "description": "An adequately crafted imitation of a legendary Hingan katana.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Armor Display",
+      "description": "A full set of ancient Hingan armor.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Brushes",
+      "description": "Several calligraphy brushes of varying thickness.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Scrolls",
+      "description": "There is nothing like a stack of scrolls to impress your friends and intimidate your enemies.",
+      "image_url": null
+    },
+    {
+      "name": "Porcelain Vase",
+      "description": "An extremely fragile vase of Hingan design.",
+      "image_url": null
+    },
+    {
+      "name": "Stuffed Kojin",
+      "description": "Not an actual stuffed Kojin. Probably.",
+      "image_url": null
+    },
+    {
+      "name": "Eggplant Knight Flower Vase",
+      "description": "A playful vase resembling the Mandragoras's knight.",
+      "image_url": null
+    },
+    {
+      "name": "Garlic Jester Flower Vase",
+      "description": "A playful vase resembling the Mandragoras's jester.",
+      "image_url": null
+    },
+    {
+      "name": "Mandragora Queen Flower Vase",
+      "description": "A playful vase resembling the Mandragoras's queen.",
+      "image_url": null
+    },
+    {
+      "name": "Onion Prince Flower Vase",
+      "description": "A playful vase resembling the Mandragoras's prince.",
+      "image_url": null
+    },
+    {
+      "name": "Tomato King Flower Vase",
+      "description": "A playful vase resembling the Mandragoras's king.",
+      "image_url": null
+    },
+    {
+      "name": "Imitation Oblong Window",
+      "description": "The next best thing to a real window, without all the fuss.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Chochin Lantern",
+      "description": "A round paper lantern with a handle attached for easy transportation.",
+      "image_url": null
+    },
+    {
+      "name": "Hingan Wall Scroll",
+      "description": "This ornate scroll features a famous poem written in ancient Hingan.",
+      "image_url": null
+    },
+    {
+      "name": "Decorative Wall Fan",
+      "description": "A colorful Hingan folding fan meant for display on one's wall.",
+      "image_url": null
+    },
+    {
+      "name": "Fool's Portal",
+      "description": "A highly detailed painting made to look like an actual round window.",
+      "image_url": null
+    },
+    {
+      "name": "Imitation Stained Crystal Ornament",
+      "description": "A colorful wall ornament made from glass instead of crystals.",
+      "image_url": null
+    },
+    {
+      "name": "Shinryu's Wing",
+      "description": "A replica of the legendary worm's wing made from scales of the creature itself. Will look amazing on any wall, providing there is sufficient space for this massive tribute.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Aettir Lux Replica",
+      "description": "Gladiator's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Cronus Lux Replica",
+      "description": "Dark Knight's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Replica Nyepels Lux",
+      "description": "Pugilist's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Areadbhar Lux Replica",
+      "description": "Lancer's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Replica Sandungs Lux",
+      "description": "Rogue's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Terpander Lux Replica",
+      "description": "Archer's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Deathlocke Lux Replica",
+      "description": "Machinist's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Kaladanda Lux Replica",
+      "description": "Two-handed Thaumaturge's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Mimesis Lux Replica",
+      "description": "Arcanist's Grimoire, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Sindri Lux Replica",
+      "description": "Two-handed Conjurer's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Anabasis Lux Replica",
+      "description": "Scholar's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Canopus Lux Replica",
+      "description": "Astrologian's Arm, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Priwen Lux Replica",
+      "description": "Shield, Item Level: 150 / Equipment Level: 60",
+      "image_url": null
+    }
+  ]
+}

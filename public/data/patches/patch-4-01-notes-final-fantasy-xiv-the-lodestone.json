@@ -1,0 +1,307 @@
+{
+  "patch_title": "Patch 4.01 Notes",
+  "patch_date": "2017-07-12",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/33efbf65a7c6b86b3c62816b7a75523012584b54",
+  "jobs_pve": [
+    {
+      "job": "Gladiator/Paladin",
+      "changes": [
+        "Savage Blade: Enmity effect has been increased.",
+        "Flash: Enmity effect has been increased."
+      ]
+    },
+    {
+      "job": "Marauder/Warrior",
+      "changes": [
+        "Heavy Swing: TP cost has been reduced from 70 to 60.",
+        "Skull Sunder: Enmity effect has been increased.",
+        "Overpower: Enmity effect has been increased."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Spinning Slash: Enmity effect has been increased.",
+        "Unleash: Enmity effect has been increased.",
+        "Bloodspiller: Potency has been increased from 380 to 400.",
+        "Dark arts potency has been increased from 520 to 540."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Bhavacakra: Potency increased from 550 to 600."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Troubadour: Now affects both self and nearby party members."
+      ]
+    }
+  ],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Omega: Deltascape",
+      "description": "A new raid dungeon for eight players.",
+      "location": "The Interdimensional Rift (X:17.3 Y:18.9)",
+      "npc_location": "Cid (The Interdimensional Rift)"
+    },
+    {
+      "name": "The Hunt for Omega",
+      "description": "Chronicles of a New Era quest.",
+      "location": "Rhalgr’s Reach (X:12.6 Y:12.4)",
+      "npc_location": "Wedge"
+    },
+    {
+      "name": "Into the Deltascape",
+      "description": "Entry quest for the Omega: Deltascape raid.",
+      "location": "The Interdimensional Rift (X:17.3 Y:18.9)",
+      "npc_location": "Cid"
+    },
+    {
+      "name": "The Anomaly",
+      "description": "Quest required for the 'Delta Force' achievement.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Yellow crafters’ scrip and yellow gatherers’ scrip",
+      "description": "New currencies obtained at level 70, used to exchange for crafter and gatherer items.",
+      "location": "Rhalgr’s Reach (X:9.9 Y:12.5)",
+      "npc_location": "Scrip exchange"
+    },
+    {
+      "name": "Duty Roulette: Mentor",
+      "description": "Updated to include Deltascape V1.0, V2.0, V3.0, and V4.0.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Character Configuration / System Configuration",
+      "description": "Added font size options and 'Enlarge system UI' setting (PlayStation®4 only).",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Stuffed Edda",
+      "description": "Go ahead. Try and convince yourself that the reason this stuffed doll weighs considerably more than similar toys is because her heart is full to bursting with love.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Genta Kabuto of Fending",
+      "description": "Head piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Kabuto of Maiming",
+      "description": "Head piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Kabuto of Striking",
+      "description": "Head piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Eboshi of Aiming",
+      "description": "Head piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Somen of Scouting",
+      "description": "Head piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Eboshi of Healing",
+      "description": "Head piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Kabuto of Casting",
+      "description": "Head piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Oyoroi of Fending",
+      "description": "Body piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Jin-baori of Maiming",
+      "description": "Body piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Domaru of Striking",
+      "description": "Body piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Oyoroi of Aiming",
+      "description": "Body piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Jin-baori of Scouting",
+      "description": "Body piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Domaru of Healing",
+      "description": "Body piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Domaru of Casting",
+      "description": "Body piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Kote of Fending",
+      "description": "Hands piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Kote of Maiming",
+      "description": "Hands piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Kote of Striking",
+      "description": "Hands piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Kote of Aiming",
+      "description": "Hands piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Kote of Scouting",
+      "description": "Hands piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Kote of Healing",
+      "description": "Hands piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Kote of Casting",
+      "description": "Hands piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Obi of Fending",
+      "description": "Waist piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Obi of Maiming",
+      "description": "Waist piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Obi of Striking",
+      "description": "Waist piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Obi of Aiming",
+      "description": "Waist piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Obi of Scouting",
+      "description": "Waist piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Obi of Healing",
+      "description": "Waist piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Obi of Casting",
+      "description": "Waist piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Tsutsu-hakama of Fending",
+      "description": "Legs piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Tsutsu-hakama of Maiming",
+      "description": "Legs piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Tsutsu-hakama of Striking",
+      "description": "Legs piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Tsutsu-hakama of Aiming",
+      "description": "Legs piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Tsutsu-hakama of Scouting",
+      "description": "Legs piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Tsutsu-hakama of Healing",
+      "description": "Legs piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Tsutsu-hakama of Casting",
+      "description": "Legs piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Sune-ate of Fending",
+      "description": "Feet piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Sune-ate of Maiming",
+      "description": "Feet piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Sune-ate of Striking",
+      "description": "Feet piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Sune-ate of Aiming",
+      "description": "Feet piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Sune-ate of Scouting",
+      "description": "Feet piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Sune-ate of Healing",
+      "description": "Feet piece from the Genta gear set.",
+      "image_url": null
+    },
+    {
+      "name": "Genta Sune-ate of Casting",
+      "description": "Feet piece from the Genta gear set.",
+      "image_url": null
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "patch_title": "Patch 3.55b",
+  "patch_date": "2017-03-13",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/d702c56b0d28cd257090bb292c23471f85772028",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "The Diadem",
+      "description": "Exploratory missions involving floating isles, mission objectives, FATEs, and emergency missions.",
+      "location": "Floating isles",
+      "npc_location": null
+    },
+    {
+      "name": "Trials of the Fury",
+      "description": "Exploratory mission designed for Disciples of War and Magic.",
+      "location": "The Diadem",
+      "npc_location": null
+    },
+    {
+      "name": "Trials of the Matron",
+      "description": "Exploratory mission designed for Disciples of the Land.",
+      "location": "The Diadem",
+      "npc_location": null
+    },
+    {
+      "name": "Heavensward",
+      "description": "Main scenario quest required as a prerequisite for exploratory missions.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Free Company Exploratory Missions",
+      "description": "Exploratory missions accessed via company workshops.",
+      "location": "The Diadem",
+      "npc_location": null
+    },
+    {
+      "name": "Ishgardian Exploratory Missions",
+      "description": "Exploratory missions accessed via the airship landing in Ishgard.",
+      "location": "The Diadem",
+      "npc_location": null
+    },
+    {
+      "name": "Emergency Missions",
+      "description": "Large-scale battles that occur randomly during exploratory missions.",
+      "location": "The Diadem",
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Jewel Orchestrion Roll",
+      "description": "Music roll for Jewel. Use to add to your orchestrion list.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Sunburst Helm of Fending",
+      "description": "Head piece, Item Level 265",
+      "image_url": null
+    },
+    {
+      "name": "Sunburst Headgear of Maiming",
+      "description": "Head piece, Item Level 265",
+      "image_url": null
+    },
+    {
+      "name": "Sunburst Headgear of Striking",
+      "description": "Head piece, Item Level 265",
+      "image_url": null
+    },
+    {
+      "name": "Sunburst Hat of Aiming",
+      "description": "Head piece, Item Level 265",
+      "image_url": null
+    },
+    {
+      "name": "Sunburst Hat of Scouting",
+      "description": "Head piece, Item Level 265",
+      "image_url": null
+    },
+    {
+      "name": "Sunburst Hat of Healing",
+      "description": "Head piece, Item Level 265",
+      "image_url": null
+    },
+    {
+      "name": "Sunburst Headgear of Casting",
+      "description": "Head piece, Item Level 265",
+      "image_url": null
+    },
+    {
+      "name": "Sky Rat Mask of Fending",
+      "description": "Head piece, Item Level 255",
+      "image_url": null
+    },
+    {
+      "name": "Sky Rat Mask of Maiming",
+      "description": "Head piece, Item Level 255",
+      "image_url": null
+    },
+    {
+      "name": "Sky Rat Mask of Striking",
+      "description": "Head piece, Item Level 255",
+      "image_url": null
+    },
+    {
+      "name": "Sky Rat Mask of Aiming",
+      "description": "Head piece, Item Level 255",
+      "image_url": null
+    },
+    {
+      "name": "Sky Rat Mask of Scouting",
+      "description": "Head piece, Item Level 255",
+      "image_url": null
+    },
+    {
+      "name": "Sky Rat Mask of Healing",
+      "description": "Head piece, Item Level 255",
+      "image_url": null
+    },
+    {
+      "name": "Sky Rat Mask of Casting",
+      "description": "Head piece, Item Level 255",
+      "image_url": null
+    },
+    {
+      "name": "Sunburst Cuirass of Fending",
+      "description": "Body piece, Item Level 265",
+      "image_url": null
+    },
+    {
+      "name": "Sunburst Corselet of Maiming",
+      "description": "Body piece, Item Level 265",
+      "image_url": null
+    },
+    {
+      "name": "Sunburst Corselet of Striking",
+      "description": "Body piece, Item Level 265",
+      "image_url": null
+    },
+    {
+      "name": "Sunburst Acton of Aiming",
+      "description": "Body piece, Item Level 265",
+      "image_url": null
+    },
+    {
+      "name": "Sunburst Acton of Scouting",
+      "description": "Body piece, Item Level 265",
+      "image_url": null
+    },
+    {
+      "name": "Sunburst Acton of Healing",
+      "description": "Body piece, Item Level 265",
+      "image_url": null
+    },
+    {
+      "name": "Sunburst Corselet of Casting",
+      "description": "Body piece, Item Level 265",
+      "image_url": null
+    },
+    {
+      "name": "Sky Rat Harness of Fending",
+      "description": "Body piece, Item Level 255",
+      "image_url": null
+    },
+    {
+      "name": "Sky Rat Harness of Maiming",
+      "description": "Body piece, Item Level 255",
+      "image_url": null
+    },
+    {
+      "name": "Sky Rat Harness of Striking",
+      "description": "Body piece, Item Level 255",
+      "image_url": null
+    },
+    {
+      "name": "Sky Rat Harness of Aiming",
+      "description": "Body piece, Item Level 255",
+      "image_url": null
+    },
+    {
+      "name": "Sky Rat Harness of Scouting",
+      "description": "Body piece, Item Level 255",
+      "image_url": null
+    },
+    {
+      "name": "Sky Rat Harness of Healing",
+      "description": "Body piece, Item Level 255",
+      "image_url": null
+    },
+    {
+      "name": "Sky Rat Harness of Casting",
+      "description": "Body piece, Item Level 255",
+      "image_url": null
+    }
+  ]
+}

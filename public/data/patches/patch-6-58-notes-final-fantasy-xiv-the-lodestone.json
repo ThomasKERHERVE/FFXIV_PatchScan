@@ -1,7 +1,7 @@
 {
-  "patch_title": "Patch 6.58 Notes",
+  "patch_title": "Patch 6.58",
   "patch_date": "2024-03-24",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/f679ab8855882f6c1d2415fb79067160ef629d31/",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/f679ab8855882f6c1d2415fb79067160ef629d31",
   "jobs_pve": [],
   "jobs_pvp": [
     {
@@ -27,106 +27,112 @@
   "new_content": [
     {
       "name": "The Tower of Zot",
-      "description": "Duty compatible with Trust NPCs; EXP gain increased for Trust NPCs.",
+      "description": "Duty adjusted to increase EXP gained by Trust NPCs.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "The Tower of Babil",
-      "description": "Duty compatible with Trust NPCs; EXP gain increased for Trust NPCs.",
+      "description": "Duty adjusted to increase EXP gained by Trust NPCs.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Vanaspati",
-      "description": "Duty compatible with Trust NPCs; EXP gain increased for Trust NPCs.",
+      "description": "Duty adjusted to increase EXP gained by Trust NPCs.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Ktisis Hyperboreia",
-      "description": "Duty compatible with Trust NPCs; EXP gain increased for Trust NPCs.",
+      "description": "Duty adjusted to increase EXP gained by Trust NPCs.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "The Aitiascope",
-      "description": "Duty compatible with Trust NPCs; EXP gain increased for Trust NPCs.",
+      "description": "Duty adjusted to increase EXP gained by Trust NPCs.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "The Abyssal Fracture (Extreme)",
-      "description": "Moved from Raid Finder to Duty Finder; drop rate for Lynx of Abyssal Grief Flute increased.",
-      "location": null,
+      "description": "Moved from Raid Finder to Duty Finder; increased drop rate for Lynx of Abyssal Grief Flute.",
+      "location": "Duty Finder",
       "npc_location": null
     },
     {
       "name": "Anabaseios: The Twelfth Circle",
-      "description": "Weekly restriction on receiving Unsung Blades of Anabaseios removed.",
+      "description": "Weekly restriction on receiving Unsung Blades of Anabaseios has been removed.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Pandæmonium: Anabaseios (Savage)",
-      "description": "Echo effect strengthened (15% increase to max HP, damage dealt, and healing potency).",
+      "description": "Echo effect increased to 15% (maximum HP, damage dealt, and healing potency).",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Thaleia",
-      "description": "Weekly limit on treasure coffer rewards and Thaleia coins removed.",
+      "description": "Weekly limit on rewards from treasure coffers and Thaleia coins removed.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Alexander - The Burden of the Son (Savage)",
-      "description": "Fixed an issue regarding the enemy action 'Height Error' damage scaling and targeting.",
-      "location": null,
-      "npc_location": null
-    },
-    {
-      "name": "The Satrap of Radz-at-Han",
-      "description": "Main scenario quest; fixed an issue where Estinien would not appear in the Baldesion Annex.",
-      "location": null,
-      "npc_location": "Baldesion Annex"
-    },
-    {
-      "name": "Breaking Brick Mountains",
-      "description": "Seasonal quest; fixed an issue where players could not repurchase Thug's Mug.",
+      "description": "Resolved an issue where the enemy action Height Error was not downscaled.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Crystalline Conflict",
-      "description": "Season Ten ends and Season Eleven begins; includes rank adjustments and seasonal rewards.",
+      "description": "Season Ten end and Season Eleven start; adjustments made to PvP actions and map display issues.",
       "location": "Wolves' Den Pier",
-      "npc_location": "Seasonal Quartermaster (Wolves' Den Pier X:4.9 Y:5.7)"
+      "npc_location": "Seasonal Quartermaster (X:4.9 Y:5.7)"
     },
     {
       "name": "Wondrous Tails",
-      "description": "System reward adjustment; Allagan tomestones of causality increased for two rows.",
+      "description": "Increased reward for completing two rows from 500 to 1,000 Allagan tomestones of causality.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Satrap of Radz-at-Han",
+      "description": "Main scenario quest issue addressed regarding Estinien's presence in the Baldesion Annex.",
+      "location": "Baldesion Annex",
+      "npc_location": null
+    },
+    {
+      "name": "Breaking Brick Mountains",
+      "description": "Resolved an issue regarding repurchasing the Thug's Mug item.",
       "location": null,
       "npc_location": null
     },
     {
       "name": "Data Center Travel",
-      "description": "All Worlds on the Oceanian data center are now available destinations.",
-      "location": null,
+      "description": "Cloud data center removed; Oceanian data center added as a destination for travel.",
+      "location": "Data Center Selection screen",
       "npc_location": null
+    },
+    {
+      "name": "Equipment Enhancement",
+      "description": "System to exchange coins for Divine Solvent and upgrade gear.",
+      "location": "Radz-at-Han",
+      "npc_location": "Nesvaaz (X:10.6 Y:10.0), Khaldeen (X:10.9 Y:10.4)"
     }
   ],
   "housing": [
     {
       "name": "Thug's Mug",
-      "description": "An item that players were unable to repurchase from the recompense officer after completing the seasonal quest 'Breaking Brick Mountains'.",
+      "description": "An item previously obtainable from the seasonal quest 'Breaking Brick Mountains', now available for repurchase from the recompense officer.",
       "image_url": null
     }
   ],
   "glamour": [
     {
       "name": "Thug's Mug",
-      "description": "An item mentioned as being available for repurchase from the recompense officer after completing the seasonal quest \"Breaking Brick Mountains.\"",
+      "description": "An item mentioned in the resolved issues section that players were previously unable to repurchase from the recompense officer after completing the 'Breaking Brick Mountains' seasonal quest.",
       "image_url": null
     }
   ]

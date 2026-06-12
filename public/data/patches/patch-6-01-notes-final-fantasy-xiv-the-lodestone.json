@@ -1,16 +1,301 @@
 {
   "patch_title": "Patch 6.01 Notes",
-  "patch_date": "2021-12-21",
-  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/e6a00f68153b6fa0f0ca9b64eb593c921b434eca",
-  "jobs_pve": [],
+  "patch_date": "2021-12-28",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/bba3f0b1f5c8d2708d7a126957ad76fb30c4eb71",
+  "jobs_pve": [
+    {
+      "job": "Gunbreaker",
+      "changes": [
+        "Resolved an issue wherein the number of charged cartridges in the Powder Gauge displayed incorrectly after disengaging level sync under certain conditions."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Resolved an issue wherein execution of Hollow Nozuichi caused the status effects Forked Raiju Ready and Fleeting Raiju Ready to expire."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Resolved an issue wherein the description for the trait Enhanced Apex Arrow was incorrect (functionality unaffected)."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Resolved an issue wherein descriptions for the PvE actions Mangetsu and Oka listed Fuga as their combo action even after learning the action Fuko (functionality unaffected)."
+      ]
+    },
+    {
+      "job": "Sage",
+      "changes": [
+        "Resolved an issue wherein the description for the action Eukrasia did not state that its recast timer is unaffected by status effects or gear attributes (functionality unaffected)."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "The sound effect of the action Broil IV has been adjusted."
+      ]
+    },
+    {
+      "job": "General",
+      "changes": [
+        "Resolved an issue wherein the description of the status effect 'Enhanced Flare' erroneously read the 'next' Flare cast will deal increased damage (functionality unaffected)."
+      ]
+    }
+  ],
   "jobs_pvp": [],
   "new_content": [
     {
-      "name": "System Update",
-      "description": "Minor adjustments, hotfixes and database optimization for Patch 6.01 Notes.",
-      "location": "Eorzea"
+      "name": "Pandæmonium: Asphodelos",
+      "description": "A new raid dungeon series consisting of four circles.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Crystal from Beyond",
+      "description": "Chronicles of a New Era quest.",
+      "location": "Old Sharlayan (X:9.6 Y:11.9)",
+      "npc_location": "Nemjiji"
+    },
+    {
+      "name": "Where Familiars Dare",
+      "description": "Chronicles of a New Era quest.",
+      "location": "???",
+      "npc_location": "???"
+    },
+    {
+      "name": "Chronicles of a New Era quest (Unnamed)",
+      "description": "Quest requiring completion of 'Where Familiars Dare'.",
+      "location": "???",
+      "npc_location": "???"
+    },
+    {
+      "name": "Chronicles of a New Era quest (Unnamed)",
+      "description": "Quest requiring completion of previous Chronicles of a New Era quest.",
+      "location": "???",
+      "npc_location": "???"
+    },
+    {
+      "name": "Chronicles of a New Era quest (Unnamed)",
+      "description": "Quest requiring completion of previous Chronicles of a New Era quest.",
+      "location": "???",
+      "npc_location": "???"
+    },
+    {
+      "name": "Stone, Sky, Sea",
+      "description": "New trials added for Pandæmonium: Asphodelos.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Duty Roulette: Mentor",
+      "description": "Updated to include Asphodelos: The First through Fourth Circles.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Duty Roulette: Normal Raids",
+      "description": "Updated to include Asphodelos: The First through Fourth Circles.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Character Renaming Service",
+      "description": "System feature enabled for use even when servers are heavily congested.",
+      "location": null,
+      "npc_location": null
     }
   ],
-  "housing": [],
-  "glamour": []
+  "housing": [
+    {
+      "name": "Ancient Shackles Orchestrion Roll",
+      "description": "Music roll for Ancient Shackles. Use to add to your orchestrion list.",
+      "image_url": null
+    },
+    {
+      "name": "Hic Svnt Leones Orchestrion Roll",
+      "description": "Music roll for Hic Svnt Leones. Use to add to your orchestrion list.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Limbo Circlet of Fending",
+      "description": "Head piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Faceguard of Maiming",
+      "description": "Head piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Faceguard of Striking",
+      "description": "Head piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Circlet of Aiming",
+      "description": "Head piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Circlet of Scouting",
+      "description": "Head piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Headgear of Casting",
+      "description": "Head piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Headgear of Healing",
+      "description": "Head piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Chiton of Fending",
+      "description": "Body piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Himation of Maiming",
+      "description": "Body piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Himation of Striking",
+      "description": "Body piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Himation of Aiming",
+      "description": "Body piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Himation of Scouting",
+      "description": "Body piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Chiton of Casting",
+      "description": "Body piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Chiton of Healing",
+      "description": "Body piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Vambraces of Fending",
+      "description": "Hands piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Halfgloves of Maiming",
+      "description": "Hands piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Halfgloves of Striking",
+      "description": "Hands piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Gloves of Aiming",
+      "description": "Hands piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Gloves of Scouting",
+      "description": "Hands piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Wristbands of Casting",
+      "description": "Hands piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Wristbands of Healing",
+      "description": "Hands piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Skirt of Fending",
+      "description": "Legs piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Breeches of Maiming",
+      "description": "Legs piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Breeches of Striking",
+      "description": "Legs piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Hose of Aiming",
+      "description": "Legs piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Hose of Scouting",
+      "description": "Legs piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Trousers of Casting",
+      "description": "Legs piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Trousers of Healing",
+      "description": "Legs piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Boots of Fending",
+      "description": "Feet piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Shoes of Maiming",
+      "description": "Feet piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Shoes of Striking",
+      "description": "Feet piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Boots of Aiming",
+      "description": "Feet piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Boots of Scouting",
+      "description": "Feet piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Gaiters of Casting",
+      "description": "Feet piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    },
+    {
+      "name": "Limbo Gaiters of Healing",
+      "description": "Feet piece, Item Level: 580 / Equipment Level: 90",
+      "image_url": null
+    }
+  ]
 }

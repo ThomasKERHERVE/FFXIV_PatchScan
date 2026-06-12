@@ -1,0 +1,98 @@
+{
+  "patch_title": "Patch 3.07 Notes",
+  "patch_date": "2016-04-12",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/698c850782604a0ce8d7a7a4bb7aff5b99d9fb32",
+  "jobs_pve": [
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Unleash: Adjustments have been made to make enemy attack indicators visible.",
+        "Blood Weapon: Now applies an effect that reduces the TP cost of weapon skills by 20%."
+      ]
+    },
+    {
+      "job": "Pugilist / Monk",
+      "changes": [
+        "Meditation: Recast time reduced from 1.5 seconds to 1.2 seconds.",
+        "The Forbidden Chakra: The delay before using your next action has been reduced.",
+        "Tornado Kick: Recast time reduced from 60 seconds to 40 seconds.",
+        "Greased Lightning: Damage bonus increased from 9% to 10%. Duration increased from 12 seconds to 14 seconds.",
+        "Greased Lightning II: Damage bonus increased from 18% to 20%. Duration increased from 12 seconds to 14 seconds.",
+        "Greased Lightning III: Damage bonus increased from 27% to 30%. Duration increased from 12 seconds to 14 seconds."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Quick Reload: Recast time reduced from 40 seconds to 30 seconds. TP recovered reduced from 50 to 30.",
+        "The Quicker Reload trait now reduces recast time to 15 seconds."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Benefic: Potency has been increased from 380 to 400.",
+        "Benefic II: Potency has been increased from 620 to 650.",
+        "Helios: Potency has been increased from 290 to 300.",
+        "Aspected Benefic: Potency of the regen effect from Diurnal Sect has been increased from 100 to 140. Amount of damage nullified by the barrier from Nocturnal Sect has been increased from 100% of HP restored to 130% of HP restored.",
+        "Aspected Helios: Cure potency when not using Nocturnal Sect has been increased from 140 to 200. Cure potency when using Nocturnal Sect has been increased from 140 to 150. Potency of the regen effect from Diurnal Sect has been reduced from 50 to 40.",
+        "Synastry: An effect has been added that increases the caster's healing potency by 20% for 20 seconds. The party member under the effect of Synastry will now recover HP when any other party member is targeted with a healing spell. Furthermore, the amount of HP recovered has been reduced from 50% to 40%. Recast time has been reduced from 120 to 90 seconds.",
+        "Celestial Opposition: Recast time has been reduced from 150 to 120 seconds.",
+        "Disable: The effect has been changed to reduce the potency of all the target's offensive actions for the duration. Duration has been reduced from 10 to 6 seconds.",
+        "Collective Unconscious: Will now grant Regen and 10% damage reduction to party members when using either Diurnal Sect or Nocturnal Sect. Auto-attack will now be canceled upon execution. Regen potency has been reduced from 200 to 150. Duration of regen has been reduced from 18 to 15 seconds.",
+        "The Balance: Duration has been increased from 15 to 30 seconds, regardless of single target or area-of-effect.",
+        "The Bole: Duration has been increased from 15 to 30 seconds, regardless of single target or area-of-effect.",
+        "The Arrow: Duration has been increased from 15 to 30 seconds, regardless of single target or area-of-effect."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Monk",
+      "changes": [
+        "Axe Kick: The duration of Greased Lightning III granted by this action has been increased from 24 to 28 seconds."
+      ]
+    },
+    {
+      "job": "Shared Actions",
+      "changes": [
+        "Purify: Recast time has been reduced from 180 to 120 seconds.",
+        "The Enhanced Purify trait now reduces recast time to 90 seconds."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Tomboy Foolery",
+      "description": "Weaver class quest.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Party List",
+      "description": "Adjusted to show the TP bar of all party members and move party bonuses to the Party Members tab.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Favors",
+      "description": "Duration reduced from fifteen minutes to five minutes; rate at which concealed gathering points appear increased by 300%.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "company workshop",
+      "description": "A facility within a free company house used for crafting large-scale projects like airships and submersibles.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Antiquated Tantra Chestwrap",
+      "description": "A chest piece for the Monk job that was noted for graphical issues on male Highlanders.",
+      "image_url": null
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "patch_title": "Patch 3.22 Notes",
+  "patch_date": "2016-03-29",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/d75b25c63991da97f2c79311d39cc307c28477e3",
+  "jobs_pve": [],
+  "jobs_pvp": [
+    {
+      "job": "Arcanist",
+      "changes": [
+        "Bio: The duration has been reduced from 18 to 12 seconds.",
+        "Miasma: The duration has been reduced from 24 to 15 seconds.",
+        "Bio II: The duration has been reduced from 30 to 18 seconds."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Bio: The duration has been reduced from 18 to 12 seconds.",
+        "Miasma: The duration has been reduced from 24 to 15 seconds.",
+        "Bio II: The duration has been reduced from 30 to 18 seconds.",
+        "Tri-Bind: The duration has been reduced from 12 to 6 seconds.",
+        "Painflare: The potency has been reduced from 200 to 150.",
+        "Deathflare: The potency has been reduced from 400 to 300."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Bio: The duration has been reduced from 18 to 12 seconds.",
+        "Miasma: The duration has been reduced from 24 to 15 seconds.",
+        "Bio II: The duration has been reduced from 30 to 18 seconds.",
+        "Raise: The duration has been reduced from 60 to 10 seconds."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "The Wanderer's Minuet: When the skill is active, damage will no longer be reduced when standing within 15 yalms of a target."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Gauss Barrel: When the skill is active, damage will no longer be reduced when standing within 15 yalms of a target."
+      ]
+    },
+    {
+      "job": "Conjurer",
+      "changes": [
+        "Raise: The duration has been reduced from 60 to 10 seconds."
+      ]
+    },
+    {
+      "job": "White Mage",
+      "changes": [
+        "Raise: The duration has been reduced from 60 to 10 seconds."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Raise: The duration has been reduced from 60 to 10 seconds."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "The Feast",
+      "description": "A PvP encounter that received adjustments to match length, Culling Time requirements, and medal-based status penalties.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "PvP Combat System",
+      "description": "Adjustments to spell casting interruption thresholds, class-specific action potencies and durations, and Raise status duration.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [],
+  "glamour": []
+}

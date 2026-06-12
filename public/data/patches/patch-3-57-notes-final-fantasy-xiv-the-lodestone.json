@@ -1,0 +1,122 @@
+{
+  "patch_title": "Patch 3.57 Notes",
+  "patch_date": "2017-03-28",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/7ee22ba181fbc53f3579bb5d97e21a459f2ab5b3",
+  "jobs_pve": [
+    {
+      "job": "Scholar",
+      "changes": [
+        "Fixed an issue wherein the effects of Dissipation would be received while a pet is still summoned when the scholar actions Dissipation and Summon were used at the same time."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Fixed an issue wherein action status effects that cannot normally be prolonged were able to be prolonged when another action is used at the same time the astrologian action Celestial Opposition activates."
+      ]
+    }
+  ],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Anima weapon story quests",
+      "description": "Adjustments to the difficulty of obtaining items required for completion.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Alexander - The Soul of the Creator",
+      "description": "Weekly limitation on Alexandrian Gears removed.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Alexander (Savage)",
+      "description": "Strength of the Echo increased to 15%.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Minstrel's Ballad: Thordan's Reign",
+      "description": "Now available via Duty Finder.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Containment Bay S1T7 (Extreme)",
+      "description": "Now available via Duty Finder.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Minstrel's Ballad: Nidhogg's Rage",
+      "description": "Now available via Duty Finder.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Containment Bay P1T6 (Extreme)",
+      "description": "Now available via Duty Finder.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Dun Scaith",
+      "description": "Weekly restrictions on rewards and Mhachi Shillings removed.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Diadem",
+      "description": "Penalty added for discarding mission ceruleum after matching.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Seeking Inspiration",
+      "description": "Increased reward of Singing Clusters.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Mask of Grief",
+      "description": "Main scenario quest; issue with BGM addressed.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Deepest Gobdip Exchange",
+      "description": "System to exchange Mhachi Farthing, Penny, and Shilling for a Deepest Gobdip.",
+      "location": "Idyllshire",
+      "npc_location": "Bertana (X:5.8 Y:5.2)"
+    }
+  ],
+  "housing": [],
+  "glamour": [
+    {
+      "name": "Lord Commander's Coat",
+      "description": "An item mentioned in the resolved issues section regarding display issues with Highlanders.",
+      "image_url": null
+    },
+    {
+      "name": "Shiva's Diamond Shield",
+      "description": "An item found in the Eorzea Database, listed in the recent community activity.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/p/hIKumMfCocoSfxWeUUUIL78Jhg.png"
+    },
+    {
+      "name": "Aegis Shield",
+      "description": "An item found in the Eorzea Database, listed in the recent community activity.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/q/GJ-lsgAtsCCDwCm9te3a5sCjpU.png"
+    },
+    {
+      "name": "Aegis Shield Replica",
+      "description": "A replica version of the Aegis Shield, listed in the recent community activity.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/K/vZf_pjL1HRJCDF9mxKFKb8iISc.png"
+    },
+    {
+      "name": "Aegis Shield Zeta Replica",
+      "description": "A replica version of the Aegis Shield Zeta, listed in the recent community activity.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/_/qP22LgUoAFKDTRayb_TEYu6d7g.png"
+    }
+  ]
+}

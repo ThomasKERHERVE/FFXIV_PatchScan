@@ -1,0 +1,299 @@
+{
+  "patch_title": "Patch 3.01 Notes",
+  "patch_date": "2015-07-07",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/8d6ead756d63c285557418873e6e275711ca88e8",
+  "jobs_pve": [
+    {
+      "job": "Bard",
+      "changes": [
+        "the Wanderer's Minuet: Action category has been changed from spell to ability.",
+        "the Wanderer's Minuet: Damage increase has been increased from 20% to 30%.",
+        "the Wanderer's Minuet: Cast time has been reduced from 3 to 0 seconds.",
+        "the Wanderer's Minuet: Recast time has been increased from 2.5 to 15 seconds.",
+        "Empyreal Arrow: Potency has been reduced from 240 to 220.",
+        "Sidewinder: Potency has been reduced from 150 to 100.",
+        "Sidewinder: Potency when target is suffering from either Venomous Bite or Windbite has been reduced from 250 to 175.",
+        "Sidewinder: Potency when target is suffering from both Venomous Bite and Windbite has been reduced from 350 to 250."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Gauss Barrel: Damage increase has been increased from 20% to 30%.",
+        "Gauss Barrel: Cast time has been reduced from 3 to 0 seconds.",
+        "Gauss Barrel: Recast time has been increased from 2.5 to 15 seconds.",
+        "Gauss Round: Potency has been reduced from 200 to 180.",
+        "Ricochet: Potency of the area attack has been reduced from 300 to 200."
+      ]
+    }
+  ],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Alexander: Gordias",
+      "description": "A new raid dungeon for eight players.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Disarmed",
+      "description": "A new Chronicles of a New Era quest required to unlock Alexander: Gordias.",
+      "location": "Idyllshire (X:7 Y:6)",
+      "npc_location": "Slowfix"
+    },
+    {
+      "name": "Enigma",
+      "description": "A quest required to complete the achievement 'Awake the Metal'.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Fist of the Father",
+      "description": "A location within Alexander: Gordias.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Cuff of the Father",
+      "description": "A location within Alexander: Gordias.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Arm of the Father",
+      "description": "A location within Alexander: Gordias.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Burden of the Father",
+      "description": "A sector/location within Alexander: Gordias.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Gordian Bureau",
+      "description": "A writing desk crafted from gears found inside the right arm of the mechanical fortress Alexander. ※Cannot be retrieved once placed. ※One per estate only.",
+      "image_url": null
+    },
+    {
+      "name": "Gordian Chair",
+      "description": "A chair crafted from gears found within the right arm of the mechanical fortress Alexander. ※Cannot be retrieved once placed. ※One per estate only.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Prototype Gordian Armet of Fending",
+      "description": "Head piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Sallet of Maiming",
+      "description": "Head piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Sallet of Striking",
+      "description": "Head piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Hood of Aiming",
+      "description": "Head piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Hood of Scouting",
+      "description": "Head piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Crown of Healing",
+      "description": "Head piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Crown of Casting",
+      "description": "Head piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Plate Mail of Fending",
+      "description": "Body piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Mail of Maiming",
+      "description": "Body piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Mail of Striking",
+      "description": "Body piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Corselet of Aiming",
+      "description": "Body piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Corselet of Scouting",
+      "description": "Body piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Gown of Healing",
+      "description": "Body piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Gown of Casting",
+      "description": "Body piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Gauntlets of Fending",
+      "description": "Hands piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Gauntlets of Maiming",
+      "description": "Hands piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Gauntlets of Striking",
+      "description": "Hands piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Armguards of Aiming",
+      "description": "Hands piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Armguards of Scouting",
+      "description": "Hands piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Gloves of Healing",
+      "description": "Hands piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Gloves of Casting",
+      "description": "Hands piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Tassets of Fending",
+      "description": "Waist piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Tassets of Maiming",
+      "description": "Waist piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Tassets of Striking",
+      "description": "Waist piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Belt of Aiming",
+      "description": "Waist piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Belt of Scouting",
+      "description": "Waist piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Belt of Healing",
+      "description": "Waist piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Belt of Casting",
+      "description": "Waist piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Breeches of Fending",
+      "description": "Legs piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Breeches of Maiming",
+      "description": "Legs piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Breeches of Striking",
+      "description": "Legs piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Poleyns of Aiming",
+      "description": "Legs piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Poleyns of Scouting",
+      "description": "Legs piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Brayettes of Healing",
+      "description": "Legs piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Brayettes of Casting",
+      "description": "Legs piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Sollerets of Fending",
+      "description": "Feet piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Sabatons of Maiming",
+      "description": "Feet piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Sabatons of Striking",
+      "description": "Feet piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Sabatons of Aiming",
+      "description": "Feet piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Sabatons of Scouting",
+      "description": "Feet piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Gambieras of Healing",
+      "description": "Feet piece, Item Level 190",
+      "image_url": null
+    },
+    {
+      "name": "Prototype Gordian Gambieras of Casting",
+      "description": "Feet piece, Item Level 190",
+      "image_url": null
+    }
+  ]
+}

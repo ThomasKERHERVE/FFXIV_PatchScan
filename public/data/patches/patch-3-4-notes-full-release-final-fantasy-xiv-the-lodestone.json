@@ -1,0 +1,239 @@
+{
+  "patch_title": "Patch 3.4 Notes (Full Release)",
+  "patch_date": "2016-09-27",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/159309cb1ef0706cf37a9a91e3e18865b70097a6",
+  "jobs_pve": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Sword Oath: Increased potency has changed from 50 to 75.",
+        "Sword Oath: Weapon delay will now affect damage output."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Unleash: Auto-attack will now stop in PvE areas when this action is used."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Reload: Now remains in effect until all ammunition is used."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Nocturnal Sect: Increased healing magic potency has been changed from 5% to 10%.",
+        "Aspected Benefic: Amount of damage nullified by the barrier from Nocturnal Sect has been increased from 130% of HP restored to 170% of HP restored.",
+        "Aspected Helios: Amount of damage nullified by the barrier from Nocturnal Sect has been increased from 120% of HP restored to 150% of HP restored.",
+        "Enhanced Benefic: The effect has been changed to grant a 15% chance that your next Benefic II will be a critical heal.",
+        "Redraw: Recast time has been reduced from 60 to 30 seconds.",
+        "Draw: Effect duration has been increased from 15 to 30 seconds.",
+        "Royal Road: The range of the area effect granted by Ewer and Spire has been extended from 15 to 20y.",
+        "The Balance: The increased damage effect on a single target has been changed from 10% to 20%.",
+        "The Balance: The increased damage effect on a group has been changed from 5% to 10%.",
+        "The Bole: Damage reduction on a single target has been increased from 10% to 20%.",
+        "The Bole: Damage reduction on a group has been increased from 5% to 10%.",
+        "Celestial Opposition: Extended duration of effects cast by self and party members has been increased from 5 to 10 seconds."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Unleash now binds enemies for 6 seconds in PvP areas."
+      ]
+    },
+    {
+      "job": "Thaumaturge/Black Mage",
+      "changes": [
+        "Blizzard: Heavy duration has been reduced from 12 to 8 seconds in PvP areas.",
+        "Sleep: Now affects only the selected target in PvP areas; Sleep duration has been reduced from 12 to 8 seconds in PvP areas.",
+        "Freeze: Bind duration has been reduced from 12 to 8 seconds in PvP areas.",
+        "Night Wing: Effect duration has been reduced from 8 to 6 seconds; Enhanced Night Wing II effect duration increase has been reduced from 12 to 8 seconds."
+      ]
+    },
+    {
+      "job": "Conjurer/White Mage",
+      "changes": [
+        "Stone: Heavy duration has been reduced from 12 to 8 seconds in PvP areas."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Aspected Benefic: The potency of the magicked barrier in PvP areas has been changed to 65% of HP restored.",
+        "Stella: Heavy duration has been reduced from 12 to 8 seconds in PvP areas.",
+        "The Balance: The increased damage effect does not apply in PvP areas.",
+        "The Bole: Damage reduction does not apply in PvP areas."
+      ]
+    },
+    {
+      "job": "Gladiator/Marauder/Paladin/Warrior/Dark Knight",
+      "changes": [
+        "Weapon Throw: Enhanced Weapon Throw II effect duration increase has been reduced from 9 to 8 seconds."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Xelphatol",
+      "description": "New dungeon for level 60 players, item level 210 or above.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Great Gubal Library (Hard)",
+      "description": "New hard mode dungeon for level 60 players, item level 210 or above.",
+      "location": "Idyllshire (X:5.5 Y:6.6)",
+      "npc_location": "Midnight Dew"
+    },
+    {
+      "name": "Alexander: The Creator",
+      "description": "New raid dungeon for level 60 players, item level 230 or above.",
+      "location": "The Dravanian Hinterlands (X:21.7 Y:18.8)",
+      "npc_location": "Mide"
+    },
+    {
+      "name": "Containment Bay P1T6",
+      "description": "New trial for level 60 players, item level 220 or above.",
+      "location": "The Rising Stones (X:6.1 Y:5.2)",
+      "npc_location": "Unukalhai"
+    },
+    {
+      "name": "Triple Triad Battlehall",
+      "description": "Instanced area where players can gather to challenge one another in Triple Triad.",
+      "location": "Accessed via Duty Finder",
+      "npc_location": "Triple Triad Master (Gold Saucer X:4.1 Y:7.4)"
+    },
+    {
+      "name": "Wondrous Tails",
+      "description": "Journal-based system involving completion of various duties for rewards.",
+      "location": "Idyllshire (X:7.0 Y:5.9)",
+      "npc_location": "Unctuous Adventurer"
+    },
+    {
+      "name": "Adventurer Squadrons",
+      "description": "System to manage, train, and deploy NPC recruits on missions.",
+      "location": "Grand Company headquarters",
+      "npc_location": "Personnel Officers in Limsa, Gridania, or Ul'dah"
+    },
+    {
+      "name": "Apartments",
+      "description": "Personal housing units available in residential districts.",
+      "location": "Residential Districts (Mist, The Lavender Beds, The Goblet)",
+      "npc_location": null
+    },
+    {
+      "name": "Dueling",
+      "description": "PvP feature to test skills against others outside of instances.",
+      "location": "Wolves' Den Pier (X:5.8 Y:5.8)",
+      "npc_location": "Fainthearted Fighter"
+    },
+    {
+      "name": "Spectator Mode (The Feast)",
+      "description": "New feature for custom matches allowing players to observe from multiple camera angles.",
+      "location": "Accessed via the Feast custom match interface",
+      "npc_location": null
+    },
+    {
+      "name": "Promises Kept",
+      "description": "New main scenario quest.",
+      "location": "The Pillars (X:11.5 Y:11.2)",
+      "npc_location": "House Fortemps Knight"
+    },
+    {
+      "name": "Shadows of the First",
+      "description": "New main scenario quest.",
+      "location": "Fortemps Manor (X:6.1 Y:6.0)",
+      "npc_location": "Alphinaud"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Compact Level 6 Aetherial Wheel Stand",
+      "description": "A small metal stand upon which aetherial wheels are placed and spun to charge. Holds three grade 1, two grade 2, and one grade 3 wheel.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/L/EbtcXqPUGzsVYdi23FpUR25oH4.png"
+    },
+    {
+      "name": "Mounted Bookshelf",
+      "description": "A large bookshelf commonly found in private libraries.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/_/45sv0DETIHyh_gl2FyLgD6kUJE.png"
+    },
+    {
+      "name": "Great Gubal Floor Lamp",
+      "description": "A tall, standing lamp of the same design as the light fixtures found in the Great Gubal Library.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/M/5T9l7AE_cSDlsD4EM4rjEQRgCE.png"
+    },
+    {
+      "name": "Knightly Round Table",
+      "description": "A hand-crafted replica of the table at which the Heavens' Ward hold conclave.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/v/oxRQz2cT8riqV5VLCu2-nADVkE.png"
+    },
+    {
+      "name": "Palace Pedestal",
+      "description": "A box-like pedestal designed according to an adventurer's harrowing recollection of a similar accursed object discovered deep within the Palace of the Dead.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/v/hyXqlwktN4v0EssRTzkbMf_7OQ.png"
+    },
+    {
+      "name": "Troupe Stage",
+      "description": "A large portable stage suitable for the performance of concertos or large-scale productions of literary masterpieces such as the Ballad of Longhaft.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/U/15QxPO___EcPlhMI9ydNRRxEY8.png"
+    },
+    {
+      "name": "Round Stage",
+      "description": "All the world is a stage. Now your room can be even more so.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/E/8R4FrEQFMaGtRtuRNMU0nhfZ9c.png"
+    },
+    {
+      "name": "Tier 1 Aquarium",
+      "description": "A rectangular glass tank that, when filled with water, can serve as a home for select wavekin caught in the wild. The higher an aquarium's tier, the larger the specimens that can be kept within.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/i/OfvDbUY2NolZsL2r-nN_N8G6Sc.png"
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Glamour Prism (Woodworking)",
+      "description": "Catalyst for casting glamours (Woodworking)",
+      "image_url": null
+    },
+    {
+      "name": "Glamour Prism (Smithing)",
+      "description": "Catalyst for casting glamours (Smithing)",
+      "image_url": null
+    },
+    {
+      "name": "Glamour Prism (Armorcraft)",
+      "description": "Catalyst for casting glamours (Armorcraft)",
+      "image_url": null
+    },
+    {
+      "name": "Glamour Prism (Goldsmithing)",
+      "description": "Catalyst for casting glamours (Goldsmithing)",
+      "image_url": null
+    },
+    {
+      "name": "Glamour Prism (Leatherworking)",
+      "description": "Catalyst for casting glamours (Leatherworking)",
+      "image_url": null
+    },
+    {
+      "name": "Glamour Prism (Clothcraft)",
+      "description": "Catalyst for casting glamours (Clothcraft)",
+      "image_url": null
+    },
+    {
+      "name": "Glamour Prism (Alchemy)",
+      "description": "Catalyst for casting glamours (Alchemy)",
+      "image_url": null
+    },
+    {
+      "name": "Clear Prism",
+      "description": "Catalyst used in the projection of glamours",
+      "image_url": null
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "patch_title": "Patch 2.41 Notes",
+  "patch_date": "2014-11-18",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/b1efc31304f61d1171ac95d7b954908abc185342",
+  "jobs_pve": [
+    {
+      "job": "Rogue",
+      "changes": [
+        "The icons of certain rogue actions have been adjusted to improve visibility."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "The icons of certain ninja actions have been adjusted to improve visibility."
+      ]
+    }
+  ],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Second Coil of Bahamut",
+      "description": "Raid content adjusted for solo queueing, item level requirements, mechanic changes, and the addition of the Echo.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Second Coil of Bahamut (Savage)",
+      "description": "High-difficulty raid variation; note that general Echo adjustments do not apply here.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Binding Coil of Bahamut",
+      "description": "Raid content; items from this raid now qualify for Expert Delivery missions.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Final Coil of Bahamut - Turn 2",
+      "description": "Raid dungeon; resolved an issue where ADS could not be attacked.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Final Coil of Bahamut - Turn 3",
+      "description": "Raid dungeon; resolved an issue where the action Whitefire did not deal damage.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Snowcloak",
+      "description": "Dungeon; resolved an issue with the Frozen debuff during Snow Drift and a map icon display issue.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Sunken Temple of Qarn (Hard)",
+      "description": "Dungeon; resolved issues regarding stone spawns and Mummification status effects.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Sylph-management",
+      "description": "Main scenario quest; now a requirement for unlocking level 30 job quests.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Echo",
+      "description": "System that increases player maximum HP, damage dealt, and healing potency by 10% in the Second Coil of Bahamut.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Duty Finder",
+      "description": "System that now allows for solo queuing into the Second Coil of Bahamut.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Expert Delivery",
+      "description": "System for delivering items; adjusted to include specific rogue/ninja primal weapons and Binding Coil of Bahamut gear.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "assorted fruit",
+      "description": "A furnishing item whose colors were adjusted to better compliment other furnishings.",
+      "image_url": null
+    },
+    {
+      "name": "Afternoon Tea Set",
+      "description": "A furnishing item that had incorrect bonuses addressed in the patch.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Lunar Summer Tanga",
+      "description": "An item previously inaccessible via the Calamity Salvager NPCs.",
+      "image_url": null
+    },
+    {
+      "name": "Pristine Egg Cap",
+      "description": "An item previously inaccessible via the Calamity Salvager NPCs.",
+      "image_url": null
+    }
+  ]
+}

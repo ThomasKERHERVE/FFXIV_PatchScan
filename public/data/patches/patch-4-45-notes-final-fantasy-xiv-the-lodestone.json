@@ -1,0 +1,193 @@
+{
+  "patch_title": "Patch 4.45 Notes",
+  "patch_date": "2018-11-06",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/2580dbb66daca8405ce1c051dbb1970d66c5f22a",
+  "jobs_pve": [],
+  "jobs_pvp": [
+    {
+      "job": "Monk",
+      "changes": [
+        "Wind Tackle: Recast time has been reduced from 30 to 20 seconds."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Energy Drain: Potency has been increased from 750 to 1,000."
+      ]
+    },
+    {
+      "job": "Red Mage",
+      "changes": [
+        "Vercure: Cast time has been reduced from 1.8 to 1.3 seconds.",
+        "Enchanted Riposte: Potency has been increased from 1,500 to 1,750.",
+        "Enchanted Zwerchhau: Potency has been increased from 1,750 to 2,000.",
+        "Enchanted Redoublement: Potency has been increased from 2,000 to 2,250."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Eureka Pyros",
+      "description": "An instanced area of fire and ice where players explore, fight monsters, and utilize exclusive logos actions.",
+      "location": "The Forbidden Land, Eureka",
+      "npc_location": null
+    },
+    {
+      "name": "And We Shall Call It Pyros",
+      "description": "Quest to unlock the Eureka Pyros content.",
+      "location": "Kugane (X:8.5 Y:14.2)",
+      "npc_location": "Rodney"
+    },
+    {
+      "name": "The Black Heart Beneath",
+      "description": "A new side story quest in the Even Further Hildibrand Adventures line.",
+      "location": "Kugane (X:12.5 Y:8.1)",
+      "npc_location": "Shigure"
+    },
+    {
+      "name": "Good Swords, Good Dogs",
+      "description": "A new side story quest in the Even Further Hildibrand Adventures line.",
+      "location": "Kugane (X:12.1 Y:5.9)",
+      "npc_location": "Hildibrand"
+    },
+    {
+      "name": "Logos Actions",
+      "description": "A new type of duty action available in Eureka Pyros produced by combining logograms.",
+      "location": "Eureka Pyros",
+      "npc_location": "Drake (X:15.7, Y:23.9)"
+    },
+    {
+      "name": "Server Backup",
+      "description": "A beta feature allowing players to save backups of character settings and client settings to the FFXIV server.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Eureka Weapons",
+      "description": "Augmentation of Eureka weapons continues in Pyros, requiring the research and registration of logos actions.",
+      "location": "Eureka Pyros",
+      "npc_location": "Gerolt (X:15.3 Y:23.5)"
+    },
+    {
+      "name": "Triple Triad Additions",
+      "description": "New cards, new NPC opponents, and new prizes available for MGP.",
+      "location": "The Manderville Gold Saucer",
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Adventuring Pack",
+      "description": "An adventurer never leaves home without his compass! And his waterskin. And his lantern. And his potions. And his telescope. And his books. Really, an adventurer needs to learn to pack a bit lighter.",
+      "image_url": null
+    },
+    {
+      "name": "Spice Rack",
+      "description": "This storage unit is packed with enough spices, herbs, oils, and other ingredients to satisfy even the most dedicated culinarian.",
+      "image_url": null
+    },
+    {
+      "name": "Glass Jars",
+      "description": "Opaque vessels of assorted size, perhaps containing flour and sugar. Or cookies. Or bugs.",
+      "image_url": null
+    },
+    {
+      "name": "Wooden Plates",
+      "description": "Dishes for those with simple tastes and many friends.",
+      "image_url": null
+    },
+    {
+      "name": "Wooden Cups",
+      "description": "A half-dozen goblets for fancy parties. Cupbearer not included.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Archaeodemon Horns",
+      "description": "Head piece item",
+      "image_url": null
+    },
+    {
+      "name": "Replica Elemental Sword",
+      "description": "Gladiator's Arm, Item Level: 290",
+      "image_url": null
+    },
+    {
+      "name": "Replica Elemental Battleaxe",
+      "description": "Marauder's Arm, Item Level: 290",
+      "image_url": null
+    },
+    {
+      "name": "Replica Elemental Guillotine",
+      "description": "Dark Knight's Arm, Item Level: 290",
+      "image_url": null
+    },
+    {
+      "name": "Replica Elemental Knuckles",
+      "description": "Pugilist's Arm, Item Level: 290",
+      "image_url": null
+    },
+    {
+      "name": "Replica Elemental Lance",
+      "description": "Lancer's Arm, Item Level: 290",
+      "image_url": null
+    },
+    {
+      "name": "Replica Elemental Blade",
+      "description": "Samurai's Arm, Item Level: 290",
+      "image_url": null
+    },
+    {
+      "name": "Replica Elemental Knives",
+      "description": "Rogue's Arm, Item Level: 290",
+      "image_url": null
+    },
+    {
+      "name": "Replica Elemental Harp Bow",
+      "description": "Archer's Arm, Item Level: 290",
+      "image_url": null
+    },
+    {
+      "name": "Replica Elemental Handgonne",
+      "description": "Machinist's Arm, Item Level: 290",
+      "image_url": null
+    },
+    {
+      "name": "Replica Elemental Rod",
+      "description": "Two-handed Thaumaturge's Arm, Item Level: 290",
+      "image_url": null
+    },
+    {
+      "name": "Replica Elemental Grimoire",
+      "description": "Arcanist's Grimoire, Item Level: 290",
+      "image_url": null
+    },
+    {
+      "name": "Replica Elemental Tuck",
+      "description": "Red Mage's Arm, Item Level: 290",
+      "image_url": null
+    },
+    {
+      "name": "Replica Elemental Cane",
+      "description": "Two-handed Conjurer's Arm, Item Level: 290",
+      "image_url": null
+    },
+    {
+      "name": "Replica Elemental Codex",
+      "description": "Scholar's Arm, Item Level: 290",
+      "image_url": null
+    },
+    {
+      "name": "Replica Elemental Astrometer",
+      "description": "Astrologian's Arm, Item Level: 290",
+      "image_url": null
+    },
+    {
+      "name": "Replica Elemental Shield",
+      "description": "Shield, Item Level: 290",
+      "image_url": null
+    }
+  ]
+}

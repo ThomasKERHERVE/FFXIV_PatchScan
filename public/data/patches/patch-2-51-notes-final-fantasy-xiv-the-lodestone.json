@@ -1,0 +1,255 @@
+{
+  "patch_title": "Patch 2.51 Notes",
+  "patch_date": "2015-02-24",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/fb9f6956394bb5547bdc91b2062ec4fa99fee568",
+  "jobs_pve": [
+    {
+      "job": "Arcanist",
+      "changes": [
+        "The MP cost of the actions Ruin and Ruin II has been reduced."
+      ]
+    }
+  ],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Manderville Gold Saucer",
+      "description": "An exciting new attraction offering mini-games, chocobo racing, Triple Triad, and other group events.",
+      "location": "Thanalan",
+      "npc_location": null
+    },
+    {
+      "name": "Rise and Shine",
+      "description": "Side story quest for the Zodiac Weapons.",
+      "location": "North Shroud (X:29 Y:19)",
+      "npc_location": "Jalzahn"
+    },
+    {
+      "name": "The Vital Title",
+      "description": "Side story quest for the Zodiac Weapons.",
+      "location": "North Shroud (X:29 Y:19)",
+      "npc_location": "Jalzahn"
+    },
+    {
+      "name": "A Qiqirn Always Pays His Debts",
+      "description": "Delivery Moogle side quest.",
+      "location": "Limsa Lominsa Lower Decks (X:10 Y:11)",
+      "npc_location": "Deputy Post Moogle"
+    },
+    {
+      "name": "The Hazy Professor",
+      "description": "Delivery Moogle side quest.",
+      "location": "Limsa Lominsa Lower Decks (X:10 Y:11)",
+      "npc_location": "Deputy Post Moogle"
+    },
+    {
+      "name": "It Could Happen to You",
+      "description": "Unlocks the Manderville Gold Saucer.",
+      "location": "Ul'dah – Steps of Nald (X:9 Y:9)",
+      "npc_location": "Well-Heeled Youth"
+    },
+    {
+      "name": "World of Wonders",
+      "description": "Manderville Gold Saucer side quest.",
+      "location": "The Gold Saucer (X:5 Y:8)",
+      "npc_location": "Airship Ticketer"
+    },
+    {
+      "name": "So You Want to Be a Jockey",
+      "description": "Manderville Gold Saucer side quest for Chocobo Racing.",
+      "location": "The Gold Saucer, Chocobo Square (X:6 Y:4)",
+      "npc_location": "Race Chocobo Registrar"
+    },
+    {
+      "name": "Triple Triad Trial",
+      "description": "Manderville Gold Saucer side quest for Triple Triad.",
+      "location": "The Gold Saucer (X:4 Y:7)",
+      "npc_location": "Triple Triad Master"
+    },
+    {
+      "name": "Scratch it Rich",
+      "description": "Manderville Gold Saucer side quest for Mini Cactpot.",
+      "location": "The Gold Saucer (X:5 Y:6)",
+      "npc_location": "Mini Cactpot Broker"
+    },
+    {
+      "name": "Hitting the Cactpot",
+      "description": "Manderville Gold Saucer side quest for Jumbo Cactpot.",
+      "location": "The Gold Saucer (X:8 Y:5)",
+      "npc_location": "Jumbo Cactpot Broker"
+    },
+    {
+      "name": "So You Think You Can Ride This Chocobo",
+      "description": "Manderville Gold Saucer side quest regarding Chocobo Racing training.",
+      "location": "Central Shroud (X:20 Y:22)",
+      "npc_location": "Katering"
+    },
+    {
+      "name": "Like Sire Like Fledgling",
+      "description": "Manderville Gold Saucer side quest regarding chocobo covering.",
+      "location": "The Gold Saucer, Chocobo Square (X:6 Y:4)",
+      "npc_location": "Chocobokeep"
+    },
+    {
+      "name": "Chocobo Racing",
+      "description": "A competitive racing system involving trained racing chocobos, breeding, and custom controls.",
+      "location": "The Gold Saucer, Chocobo Square",
+      "npc_location": null
+    },
+    {
+      "name": "Triple Triad",
+      "description": "A collectible card game played against NPCs and other players.",
+      "location": "The Gold Saucer",
+      "npc_location": null
+    },
+    {
+      "name": "Jumbo Cactpot",
+      "description": "A weekly lottery system.",
+      "location": "The Gold Saucer",
+      "npc_location": null
+    },
+    {
+      "name": "Mini Cactpot",
+      "description": "A daily lottery system.",
+      "location": "The Gold Saucer",
+      "npc_location": null
+    },
+    {
+      "name": "GATE (Gold Saucer Active Time Events)",
+      "description": "Audience-participatory events staged within the Gold Saucer. Includes Cliffhanger, Vase Off, Skinchange We Can Believe In, The Time of My Life, and Any Way the Wind Blows.",
+      "location": "The Gold Saucer",
+      "npc_location": null
+    },
+    {
+      "name": "Minigames",
+      "description": "Simple entertainment games including Monster Toss, Crystal Tower Striker, The Moogle's Paw, and Cuff-a-Cur.",
+      "location": "The Gold Saucer",
+      "npc_location": null
+    },
+    {
+      "name": "Zodiac Weapon Zeta Upgrade System",
+      "description": "A system to upgrade Zodiac Weapons to item level 135 using mahatma, soul resonance, and materia infusion.",
+      "location": "North Shroud",
+      "npc_location": "Jalzahn"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Green Tea Set",
+      "description": "Far more bitter than its black counterpart, green tea is by far the beverage of choice in far-eastern Doma. To offset the sharpness of its flavor, it is oft accompanied by something sweet, such as sticky rice cakes.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Bunny Crown",
+      "description": "Head piece, fits all female characters.",
+      "image_url": null
+    },
+    {
+      "name": "Sharlayan Goggles",
+      "description": "Head piece.",
+      "image_url": null
+    },
+    {
+      "name": "Racing Chocobo Mask",
+      "description": "Head piece.",
+      "image_url": null
+    },
+    {
+      "name": "Gambler's Trenchcoat",
+      "description": "Body piece.",
+      "image_url": null
+    },
+    {
+      "name": "Bunny Bustier",
+      "description": "Body piece, fits all female characters.",
+      "image_url": null
+    },
+    {
+      "name": "Riviera Doublet",
+      "description": "Body piece, fits all male characters.",
+      "image_url": null
+    },
+    {
+      "name": "Riviera Dress",
+      "description": "Body piece, fits all female characters.",
+      "image_url": null
+    },
+    {
+      "name": "Oasis Doublet",
+      "description": "Body piece, fits all male characters.",
+      "image_url": null
+    },
+    {
+      "name": "Oasis Tunic",
+      "description": "Body piece, fits all female characters.",
+      "image_url": null
+    },
+    {
+      "name": "Glade Tunic",
+      "description": "Body piece.",
+      "image_url": null
+    },
+    {
+      "name": "Gambler's Gloves",
+      "description": "Hands piece.",
+      "image_url": null
+    },
+    {
+      "name": "Bunny Loops",
+      "description": "Hands piece, fits all female characters.",
+      "image_url": null
+    },
+    {
+      "name": "Claws of the Beast",
+      "description": "Hands piece.",
+      "image_url": null
+    },
+    {
+      "name": "Gambler's Trousers",
+      "description": "Legs piece.",
+      "image_url": null
+    },
+    {
+      "name": "Bunny Tights",
+      "description": "Legs piece, fits all female characters.",
+      "image_url": null
+    },
+    {
+      "name": "Riviera Slops",
+      "description": "Legs piece, fits all male characters.",
+      "image_url": null
+    },
+    {
+      "name": "Oasis Halftrews",
+      "description": "Legs piece, fits all male characters.",
+      "image_url": null
+    },
+    {
+      "name": "Oasis Sarouels",
+      "description": "Legs piece, fits all female characters.",
+      "image_url": null
+    },
+    {
+      "name": "Glade Slops",
+      "description": "Legs piece.",
+      "image_url": null
+    },
+    {
+      "name": "Gambler's Boots",
+      "description": "Feet piece.",
+      "image_url": null
+    },
+    {
+      "name": "Bunny Pumps",
+      "description": "Feet piece, fits all female characters.",
+      "image_url": null
+    },
+    {
+      "name": "Glade Shoes",
+      "description": "Feet piece.",
+      "image_url": null
+    }
+  ]
+}

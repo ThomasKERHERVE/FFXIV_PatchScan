@@ -1,0 +1,197 @@
+{
+  "patch_title": "Patch 2.55 Notes",
+  "patch_date": "2015-03-31",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/ca7d7d74c94b623db3991220110aa80df21ff1fc",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "The Steps of Faith",
+      "description": "A new trial where players must defend constructs along the bridge toward Ishgard.",
+      "location": "Coerthas Central Highlands",
+      "npc_location": "Marcelain (Coerthas Central Highlands X:18 Y:14)"
+    },
+    {
+      "name": "Mask of Grief",
+      "description": "Main scenario quest.",
+      "location": "The Rising Stones",
+      "npc_location": "Minfilia (The Rising Stones X:6 Y:5)"
+    },
+    {
+      "name": "Defenders for Ishgard",
+      "description": "Main scenario quest.",
+      "location": "The Rising Stones",
+      "npc_location": "Alphinaud (The Rising Stones X:6 Y:5)"
+    },
+    {
+      "name": "The Wyrm's Roar",
+      "description": "Main scenario quest.",
+      "location": "Coerthas Central Highlands",
+      "npc_location": "Alphinaud (Coerthas Central Highlands X:18 Y:15)"
+    },
+    {
+      "name": "Committed to the Cause",
+      "description": "Main scenario quest.",
+      "location": "Intercessory",
+      "npc_location": "Alphinaud (Intercessory X:6 Y:6)"
+    },
+    {
+      "name": "Volunteer Dragonslayers",
+      "description": "Main scenario quest.",
+      "location": "The Rising Stones",
+      "npc_location": "Minfilia (The Rising Stones X:6 Y:5)"
+    },
+    {
+      "name": "An Allied Perspective",
+      "description": "Main scenario quest.",
+      "location": "Mor Dhona",
+      "npc_location": "Tataru (Mor Dhona X:22 Y:8)"
+    },
+    {
+      "name": "Administrative Decision",
+      "description": "Main scenario quest.",
+      "location": "The Rising Stones",
+      "npc_location": "Minfilia (The Rising Stones X:6 Y:5)"
+    },
+    {
+      "name": "An Unexpected Ambition",
+      "description": "Main scenario quest.",
+      "location": "The Rising Stones",
+      "npc_location": "Minfilia (The Rising Stones X:6 Y:5)"
+    },
+    {
+      "name": "Ancient Ways, Timeless Wants",
+      "description": "Main scenario quest.",
+      "location": "Limsa Lominsa – Lower Decks",
+      "npc_location": "Tataru (Limsa Lominsa – Lower Decks X:4 Y:11)"
+    },
+    {
+      "name": "Where We Are Needed",
+      "description": "Main scenario quest.",
+      "location": "The Rising Stones",
+      "npc_location": "Minfilia (The Rising Stones X:6 Y:5)"
+    },
+    {
+      "name": "The Least Among Us",
+      "description": "Main scenario quest.",
+      "location": "South Shroud",
+      "npc_location": "Unsettled Scholar (South Shroud X:17 Y:28)"
+    },
+    {
+      "name": "A Time to Every Purpose",
+      "description": "Main scenario quest.",
+      "location": "The Rising Stones",
+      "npc_location": "Minfilia (The Rising Stones X:6 Y:5)"
+    },
+    {
+      "name": "Come, but Not Gone",
+      "description": "Main scenario quest.",
+      "location": "Ul'dah – Steps of Thal",
+      "npc_location": "Minfilia (Ul'dah – Steps of Thal X:11 Y:11)"
+    },
+    {
+      "name": "The Parting Glass",
+      "description": "Main scenario quest.",
+      "location": "Ul'dah – Steps of Nald",
+      "npc_location": "Momodi (Ul'dah – Steps of Nald X:11 Y:9)"
+    },
+    {
+      "name": "Before the Dawn",
+      "description": "Main scenario quest.",
+      "location": "Coerthas Central Highlands",
+      "npc_location": "Haurchefant (Coerthas Central Highlands X:26 Y:17)"
+    },
+    {
+      "name": "Blues of Emerald Avenue",
+      "description": "Delivery Moogle side story quest.",
+      "location": "Limsa Lominsa – Lower Decks",
+      "npc_location": "Deputy Post Moogle (Limsa Lominsa – Lower Decks X:10 Y:11)"
+    },
+    {
+      "name": "Better Left Unfound",
+      "description": "Delivery Moogle side story quest.",
+      "location": "Limsa Lominsa – Lower Decks",
+      "npc_location": "Deputy Post Moogle (Limsa Lominsa – Lower Decks X:10 Y:11)"
+    },
+    {
+      "name": "The Little Postmoogle that Could",
+      "description": "Delivery Moogle side story quest.",
+      "location": "Limsa Lominsa – Lower Decks",
+      "npc_location": "Deputy Post Moogle (Limsa Lominsa – Lower Decks X:10 Y:11)"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Starlight Interior Wall",
+      "description": "An interior wall themed for the Starlight Celebration.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Postmoogle Cap",
+      "description": "A hat that can be used for glamour.",
+      "image_url": null
+    },
+    {
+      "name": "The Best Gown Ever",
+      "description": "An item that can be stored in the Armoire for glamour.",
+      "image_url": null
+    },
+    {
+      "name": "Ironworks Fishing Rod",
+      "description": "An item that can be stored in the Armoire for glamour.",
+      "image_url": null
+    },
+    {
+      "name": "Master Rogue's Ring",
+      "description": "An item that can be stored in the Armoire for glamour.",
+      "image_url": null
+    },
+    {
+      "name": "Hitsuji Kabuto",
+      "description": "An item that can be stored in the Armoire for glamour.",
+      "image_url": null
+    },
+    {
+      "name": "Black Hitsuji Kabuto",
+      "description": "An item that can be stored in the Armoire for glamour.",
+      "image_url": null
+    },
+    {
+      "name": "Crimson Hitsuji Kabuto",
+      "description": "An item that can be stored in the Armoire for glamour.",
+      "image_url": null
+    },
+    {
+      "name": "White Hitsuji Kabuto",
+      "description": "An item that can be stored in the Armoire for glamour.",
+      "image_url": null
+    },
+    {
+      "name": "Starlight Sugarloaf Hat",
+      "description": "An item that can be stored in the Armoire for glamour.",
+      "image_url": null
+    },
+    {
+      "name": "Starlight Tunic",
+      "description": "An item that can be stored in the Armoire for glamour.",
+      "image_url": null
+    },
+    {
+      "name": "Starlight Tights",
+      "description": "An item that can be stored in the Armoire for glamour.",
+      "image_url": null
+    },
+    {
+      "name": "Starlight Boots",
+      "description": "An item that can be stored in the Armoire for glamour.",
+      "image_url": null
+    },
+    {
+      "name": "False Mustache",
+      "description": "An item that can be stored in the Armoire for glamour.",
+      "image_url": null
+    }
+  ]
+}

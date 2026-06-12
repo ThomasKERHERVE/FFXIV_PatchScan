@@ -1,0 +1,548 @@
+{
+  "patch_title": "Patch 5.3 Notes",
+  "patch_date": "2020-09-09",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/c2f8c5ba14d9cfaa09d5aab63c5c2da260eae21a",
+  "jobs_pve": [
+    {
+      "job": "Warrior",
+      "changes": [
+        "Berserk: The additional effect 'Extends Storm's Eye duration by 15s to a maximum of 60s' has been added.",
+        "Mythril Tempest: The combo bonus 'Extends Storm's Eye duration by 10s to a maximum of 30s' has been changed to 'Extends Storm's Eye duration by 30s to a maximum of 60s.'",
+        "Storm's Eye: Now extends Storm's Eye duration by 30s to a maximum of 60s.",
+        "Inner Release: The additional effect 'Extends Storm's Eye duration by 15s to a maximum of 60s' has been added.",
+        "Nascent Flash: No longer requires a target party member to execute."
+      ]
+    },
+    {
+      "job": "Gunbreaker",
+      "changes": [
+        "Brutal Shell: Cure potency has been increased from 150 to 200. Effect duration has been increased from 10 to 30 seconds. Barrier effect can now be refreshed."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Perfect Balance: Recast time has been reduced from 120 to 90 seconds.",
+        "Form Shift: Additional effect extending the duration of Greased Lightning no longer requires Coeurl Form."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Sidewinder: Potency when target is suffering from both Caustic Bite and Stormbite has been increased from 300 to 350.",
+        "Refulgent Arrow: Potency has been increased from 330 to 340.",
+        "Burst Shot: Potency has been increased from 230 to 240."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Hypercharge: Description now clearly states the Overheat effect only applies to machinist actions."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Tri-disaster: Potency has been reduced from 300 to 150."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Succor: MP cost has been reduced from 1,300 to 1,100."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Lightspeed: The effect 'Reduces MP cost for spells by 50%' has been removed.",
+        "Helios: MP cost has been reduced from 900 to 700.",
+        "Benefic II: MP cost has been reduced from 900 to 700.",
+        "Draw: The additional effect 'Restores 8% of maximum MP' has been added.",
+        "Aspected Benefic: MP cost when under the effect of Diurnal Sect has been reduced from 500 to 400. MP cost when under the effect of Nocturnal Sect has been reduced from 900 to 700.",
+        "Aspected Helios: MP cost has been reduced from 1,000 to 800.",
+        "Combust II: MP cost has been reduced from 500 to 400.",
+        "Sleeve Draw: The effect of this action has been completely revamped. Now draws a card (arcanum) from your divining deck; cannot draw an arcanum if aligned with its Seal of Arcana (when aligned with all three, any may be drawn); adds effect: Restores 8% of maximum MP.",
+        "Horoscope: The healing effect can now also be triggered when the effect of Horoscope or Horoscope Helios expires.",
+        "Neutral Sect: When executed while Nocturnal Sect is active, the healing over time effects of both Aspected Benefic and Aspected Helios can now be stacked."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Shared Tank Actions",
+      "changes": [
+        "Reprisal: Reduction to target's damage dealt has been changed from 10% to 20%."
+      ]
+    },
+    {
+      "job": "Shared Range DPS Actions",
+      "changes": [
+        "Concentrate: Recast time has been reduced from 30 to 15 seconds."
+      ]
+    },
+    {
+      "job": "Shared Magic DPS Actions",
+      "changes": [
+        "Drain: Maximum potency has been increased from 1,800 to 2,400.",
+        "Addle: Reduction to target's damage dealt has been changed from 20% to 40%.",
+        "Swiftcast: Recast time has been reduced from 30 to 15 seconds.",
+        "Manaward: Recast time has been reduced from 45 to 30 seconds.",
+        "Aetheric Burst: Recast time has been reduced from 60 to 45 seconds."
+      ]
+    },
+    {
+      "job": "Shared Healer Actions",
+      "changes": [
+        "Attunement: Recast time has been reduced from 60 to 30 seconds.",
+        "Rescue: Effect now ignores knockback resistance and can no longer be prevented by enfeeblements; The additional effect 'Removes Holmgang effect from target' has been added."
+      ]
+    },
+    {
+      "job": "Paladin",
+      "changes": [
+        "Confiteor: Additional effect now also lowers target's healing potency by 10%.",
+        "Hallowed Ground: Recast time has been reduced from 90 to 60 seconds; Effect duration has been reduced from 6 to 5 seconds.",
+        "Testudo: Recast time has been reduced from 60 to 45 seconds."
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "Heavy Swing: The additional effect 'Increases Beast Gauge by 10' has been added.",
+        "Shake It Off: Recast time has been reduced from 60 to 45 seconds.",
+        "Chaotic Cyclone: Increase to target's damage taken has been changed from 5% to 10%."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Edge of Shadow: Reduction to target's HP recovered by healing actions has been changed from 20% to 10%; Duration of effect reducing target's HP recovered by healing actions has been increased from 6 to 10 seconds.",
+        "Flood of Shadow: Duration of effect reducing target's HP recovered by healing actions has been increased from 6 to 10 seconds.",
+        "Dark Missionary: Recast time has been reduced from 60 to 45 seconds."
+      ]
+    },
+    {
+      "job": "Gunbreaker",
+      "changes": [
+        "Bow Shock: The additional effect 'Removes all Regen and barrier effects from targets' has been removed; The Draw Power bonus 'Heavy +50%' has been added; The Draw Fortitude bonus 'Bind' has been added.",
+        "Lightning Shot: The additional effect 'Extends Fast Draw duration to maximum' has been removed; The additional effect 'Increases potency of next weaponskill by 50%' has been added.",
+        "Gnashing Fang: The additional effect 'Grants Fast Draw, reducing weaponskill recast time by 5%' has been removed; The additional effect 'Absorbs 100% of damage dealt as HP' has been added.",
+        "Savage Claw: The additional effect 'Grants Fast Draw, reducing weaponskill recast time by 5%' has been removed; The additional effect 'Absorbs 100% of damage dealt as HP' has been added.",
+        "Wicked Talon: The additional effect 'Grants Fast Draw, reducing weaponskill recast time by 5%' has been removed; The additional effect 'Absorbs 100% of damage dealt as HP' has been added.",
+        "Burst Strike: The additional effect 'Grants Fast Draw, reducing weaponskill recast time by 5%' has been removed.",
+        "Fated Circle: The additional effect 'Grants Fast Draw, reducing weaponskill recast time by 5%' has been removed.",
+        "Draw and Junction: New action added.",
+        "Heart of Light: Removed."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Riddle of Earth: Barrier strength has been increased from a heal potency of 2,000 to 2,500.",
+        "Tornado Kick: Potency has been increased from 1,800 to 2,000.",
+        "The Forbidden Chakra: Potency has been increased from 1,800 to 2,000."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Hissatsu: Chiten: Potency has been increased from 1,000 to 1,200."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Quick Nock: Potency has been increased from 600 to 800.",
+        "Empyreal Arrow: Potency has been increased from 800 to 1,000.",
+        "Repelling Shot: Potency has been increased from 400 to 800."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Spread Shot: Potency has been increased from 600 to 800.",
+        "Auto Crossbow: Potency has been increased from 1,400 to 1,600.",
+        "Ricochet: Potency has been increased from 600 to 800.",
+        "Wildfire: Portion of damage compiled has been increased from 25% to 33%.",
+        "Bioblaster: Potency has been increased from 1,400 to 1,600.",
+        "Blank: Potency has been increased from 600 to 800.",
+        "Air Anchor: Potency has been increased from 1,600 to 2,000."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Fire: MP cost has been increased from 0 to 1,000; Increase to damage dealt from Astral Fire has been changed from 10% to 20%.",
+        "Blizzard: Reduction to spell cast and recast times from Umbral Ice has been changed from 10% to 20%.",
+        "Fire IV: MP cost has been reduced from 2,500 to 2,000.",
+        "Flare: MP cost has been reduced from 5,000 to 4,000; Increase to damage dealt from Astral Fire has been changed from 10% to 20%.",
+        "Freeze: Reduction to spell cast and recast times from Umbral Ice has been changed from 10% to 20%.",
+        "Thunder: Cast time has been made instant.",
+        "Thunder II: Cast time has been made instant.",
+        "Xenoglossy: Potency has been reduced from 3,200 to 2,400.",
+        "Foul: Potency has been reduced from 2,400 to 1,800; Cast time has been made instant.",
+        "Enochian: Time required to acquire Polyglot has been reduced from 30 to 15 seconds.",
+        "Night Wing: Recast time has been reduced from 60 to 45 seconds."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Outburst: Cast time has been reduced from 2 to 1.5 seconds.",
+        "Fester: Potency has been increased from 800 to 1,000.",
+        "Painflare: Recast time has been reduced from 60 to 45 seconds."
+      ]
+    },
+    {
+      "job": "Scholar",
+      "changes": [
+        "Biolysis: Reduction to target's HP recovered by healing actions has been changed from 20% to 15%.",
+        "Dissipation: Increase to healing potency has been changed from 50% to 40%."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Combust III: The additional effect 'Lengthens weaponskill cast time and recast time as well as spell cast time and recast time of target by 10%' has been changed to 'Reduces target's damage dealt and healing potency by 10%.'",
+        "Divination: Recast time has been reduced from 90 to 60 seconds."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "The Heroes' Gauntlet",
+      "description": "A new dungeon introduced in Patch 5.3.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Puppets' Bunker",
+      "description": "A new alliance raid dungeon developed by Yoko Taro and Yosuke Saito.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Akh Afah Amphitheatre (Unreal)",
+      "description": "An Unreal trial, designed as a high-level challenge version of a familiar duty.",
+      "location": null,
+      "npc_location": "Idyllshire (X:7.0 Y:5.9)"
+    },
+    {
+      "name": "In the Name of the Light",
+      "description": "New main scenario quest.",
+      "location": "The Crystarium (X:12.5 Y:16.2)",
+      "npc_location": "Manager of Suites"
+    },
+    {
+      "name": "We Can Rebuild Her",
+      "description": "New Chronicles of a New Era quest.",
+      "location": "Kholusia (X:34.7 Y:18.2)",
+      "npc_location": "Dig Site Chief"
+    },
+    {
+      "name": "Sleep Now in Sapphire",
+      "description": "New Chronicles of a New Era quest.",
+      "location": "The Lochs (X:11.3 Y:22.5)",
+      "npc_location": "Resistance Officer"
+    },
+    {
+      "name": "O Crafter, My Crafter",
+      "description": "Custom Deliveries quest for Ehll Tou.",
+      "location": "The Firmament (X:13.5 Y:11.2)",
+      "npc_location": "Ehll Tou"
+    },
+    {
+      "name": "An Ode to Unity",
+      "description": "Custom Deliveries quest for Ehll Tou.",
+      "location": "The Firmament (X:13.5 Y:11.2)",
+      "npc_location": "Ehll Tou"
+    },
+    {
+      "name": "On Ehll Tou's Wings",
+      "description": "Custom Deliveries quest.",
+      "location": "The Firmament (X:13.5 Y:11.2)",
+      "npc_location": "Hautdilong"
+    },
+    {
+      "name": "Fantastic Mr. Faux",
+      "description": "Quest to unlock Faux Hollows and Unreal trials.",
+      "location": "Idyllshire (X:7.0 Y:5.9)",
+      "npc_location": "Painfully Ishgardian Man"
+    },
+    {
+      "name": "It's Dwarfin' Time",
+      "description": "Main quest to unlock dwarf tribe daily quests.",
+      "location": "Kholusia (X:15.7 Y:30.3)",
+      "npc_location": "Affable Townsdwarf"
+    },
+    {
+      "name": "Faux Hollows",
+      "description": "A mini-game accessed after completing an Unreal trial.",
+      "location": null,
+      "npc_location": "Idyllshire (X:5.7 Y:6.1)"
+    },
+    {
+      "name": "Quest Sync",
+      "description": "Automatic level adjustment system for dwarf tribe quests.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Trial Synthesis",
+      "description": "A system allowing players to practice crafting recipes without consuming materials.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Sundry Splendors",
+      "description": "A consolidated shop system for gear and items exchangeable for tomestones and scrips.",
+      "location": "Various city-states",
+      "npc_location": "Rowena's Representative"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Small Smithy Walls",
+      "description": "A set of four walls designed for those who wish to transform their estate into a smithy.",
+      "image_url": null
+    },
+    {
+      "name": "Medium Smithy Walls",
+      "description": "A set of four walls designed for those who wish to transform their estate into a smithy.",
+      "image_url": null
+    },
+    {
+      "name": "Large Smithy Walls",
+      "description": "A set of four walls designed for those who wish to transform their estate into a smithy.",
+      "image_url": null
+    },
+    {
+      "name": "Factory Interior Wall",
+      "description": "An industrial wall resembling those seen in the Copied Factory.",
+      "image_url": null
+    },
+    {
+      "name": "Factory Flooring",
+      "description": "Rusted metal factory flooring.",
+      "image_url": null
+    },
+    {
+      "name": "Factory Chandelier",
+      "description": "A rusted metal lighting fixture unlike any to which you are accustomed.",
+      "image_url": null
+    },
+    {
+      "name": "Wooden Footbridge",
+      "description": "Outdoor Furnishing - For those who find walking on the ground simply too pedestrian.",
+      "image_url": null
+    },
+    {
+      "name": "Gulg Planter",
+      "description": "Outdoor Furnishing - An alpine shrub from the heights of Kholusia.",
+      "image_url": null
+    },
+    {
+      "name": "Nomad's Tent",
+      "description": "Outdoor Furnishing - A little piece of the Azim Steppe, created by trade-minded Xaela using traditional methods and materials.",
+      "image_url": null
+    },
+    {
+      "name": "Red Brick Kitchen",
+      "description": "Outdoor Furnishing - This rustic outdoor cooking facility is more than capable of keeping any amount of garden party guests well fed.",
+      "image_url": null
+    },
+    {
+      "name": "Floor Sofa",
+      "description": "Furnishing - A spacious seating option for those who prefer to remain at floor level.",
+      "image_url": null
+    },
+    {
+      "name": "Indoor Pond",
+      "description": "Furnishing - Bring the outdoors indoors with this perfect imitation of nature.",
+      "image_url": null
+    },
+    {
+      "name": "Factory Automatic Door",
+      "description": "Furnishing - The internal mechanisms that allow this door to open and close on its own remain something of a mystery.",
+      "image_url": null
+    },
+    {
+      "name": "Factory Partition",
+      "description": "Furnishing - A rusted chain-link barrier.",
+      "image_url": null
+    },
+    {
+      "name": "Factory Bench",
+      "description": "Furnishing - An iron bench that remains sturdy despite having seen better days.",
+      "image_url": null
+    },
+    {
+      "name": "Marble Alcove Bed",
+      "description": "Furnishing - This indulgent bed frame constitutes an entire wall.",
+      "image_url": null
+    },
+    {
+      "name": "Verdant Shelf Partition",
+      "description": "Table - A charming open partition with ample shelf space in the middle and overflowing planters above.",
+      "image_url": null
+    },
+    {
+      "name": "Wooden Staircase Bookshelf",
+      "description": "Table - Versatile book storage that doubles as tiered shelving for other knickknacks.",
+      "image_url": null
+    },
+    {
+      "name": "Sapphire Weapon Bust",
+      "description": "Tabletop - The chest of this Garlond Ironworks scale replica of a select portion of the Sapphire Weapon glows ominously.",
+      "image_url": null
+    },
+    {
+      "name": "Ironfrog Keeper",
+      "description": "Tabletop - This diminutive automaton has ample space for storing the energy-rich crystals.",
+      "image_url": null
+    },
+    {
+      "name": "Gemseeker's Pack",
+      "description": "Tabletop - This bag is bursting with unpolished gems and crystals.",
+      "image_url": null
+    },
+    {
+      "name": "Dwarven Floor Lamp",
+      "description": "Tabletop - A low-lying lamp designed for use in narrow, enclosed spaces.",
+      "image_url": null
+    },
+    {
+      "name": "Takoyaki Boat",
+      "description": "Tabletop - A steaming and sauce-slathered serving of enough doughy fried octopus to share.",
+      "image_url": null
+    },
+    {
+      "name": "Barrel Table",
+      "description": "Tabletop - This reused cask screams adventure.",
+      "image_url": null
+    },
+    {
+      "name": "Giant Beaver Burger Set",
+      "description": "Tabletop - No actual beavers were harmed in the making of this massive burger.",
+      "image_url": null
+    },
+    {
+      "name": "Factory Railing",
+      "description": "Tabletop - An industrial safety rail.",
+      "image_url": null
+    },
+    {
+      "name": "Sliced Watermelon",
+      "description": "Tabletop - This juicy, fresh-cut watermelon makes the perfect summer treat.",
+      "image_url": null
+    },
+    {
+      "name": "Cracked Arch Window",
+      "description": "Wall-mounted - Too competent to smash your own windows? This is the product for you!",
+      "image_url": null
+    },
+    {
+      "name": "Industrial Wall Pipes",
+      "description": "Wall-mounted - These decorative pipes were designed by the employees of Garlond Ironworks.",
+      "image_url": null
+    },
+    {
+      "name": "Watts's Sketches",
+      "description": "Wall-mounted - Illustrations depicting a concept for a form of wheeled transportation.",
+      "image_url": null
+    },
+    {
+      "name": "Bluebird Mobile",
+      "description": "Wall-mounted - A revolving display of bluebirds.",
+      "image_url": null
+    },
+    {
+      "name": "Stage Curtain",
+      "description": "Wall-mounted - This sumptuous curtain impresses upon audiences that what they are about to witness is no two-gil production.",
+      "image_url": null
+    },
+    {
+      "name": "Factory Grate",
+      "description": "Wall-mounted - A rusted piece of grating.",
+      "image_url": null
+    },
+    {
+      "name": "Factory Staircase",
+      "description": "Wall-mounted - These metallic stairs make a satisfying clunking noise when stepped on.",
+      "image_url": null
+    },
+    {
+      "name": "Factory Beam",
+      "description": "Wall-mounted - A giant steel beam.",
+      "image_url": null
+    },
+    {
+      "name": "Factory Wall Lamp",
+      "description": "Wall-mounted - A grimy lamp extracted from the machine graveyard.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Red Cosmos Corsage",
+      "description": "Head item level 1 / Equipment level 1",
+      "image_url": null
+    },
+    {
+      "name": "Blue Cosmos Corsage",
+      "description": "Head item level 1 / Equipment level 1",
+      "image_url": null
+    },
+    {
+      "name": "Yellow Cosmos Corsage",
+      "description": "Head item level 1 / Equipment level 1",
+      "image_url": null
+    },
+    {
+      "name": "Green Cosmos Corsage",
+      "description": "Head item level 1 / Equipment level 1",
+      "image_url": null
+    },
+    {
+      "name": "Orange Cosmos Corsage",
+      "description": "Head item level 1 / Equipment level 1",
+      "image_url": null
+    },
+    {
+      "name": "Purple Cosmos Corsage",
+      "description": "Head item level 1 / Equipment level 1",
+      "image_url": null
+    },
+    {
+      "name": "White Cosmos Corsage",
+      "description": "Head item level 1 / Equipment level 1",
+      "image_url": null
+    },
+    {
+      "name": "Black Cosmos Corsage",
+      "description": "Head item level 1 / Equipment level 1",
+      "image_url": null
+    },
+    {
+      "name": "Rainbow Cosmos Corsage",
+      "description": "Head item level 1 / Equipment level 1",
+      "image_url": null
+    },
+    {
+      "name": "Vermilion Paper Parasol",
+      "description": "Fashion accessory, waterproof parasol",
+      "image_url": null
+    },
+    {
+      "name": "Plum Paper Parasol",
+      "description": "Fashion accessory, paper parasol",
+      "image_url": null
+    },
+    {
+      "name": "Gold Paper Parasol",
+      "description": "Fashion accessory, paper parasol",
+      "image_url": null
+    }
+  ]
+}

@@ -1,0 +1,542 @@
+{
+  "patch_title": "Patch 3.3 Notes (Full Release)",
+  "patch_date": "2016-06-07",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/197e9c8b2f04efdecffe26bebe43b40551d1e3e8",
+  "jobs_pve": [
+    {
+      "job": "Rogue / Ninja",
+      "changes": [
+        "Death Blossom: Potency increased from 100 to 110; TP cost reduced from 120 to 100.",
+        "Katon: Potency increased from 180 to 250.",
+        "Doton: Potency increased from 30 to 40."
+      ]
+    },
+    {
+      "job": "Archer / Bard",
+      "changes": [
+        "Venomous Bite: Potency of the venom effect increased from 35 to 40.",
+        "Windbite: Potency of the wind damage over time effect increased from 45 to 50.",
+        "Blunt Arrow: Potency increased from 50 to 100.",
+        "Flaming Arrow: Potency increased from 35 to 40.",
+        "Mage's Ballad: Damage reduction on self changed from 15% to 10%; Cast time reduced from 3 to 1.5 seconds.",
+        "Army's Paeon: Damage reduction on self changed from 15% to 10%; Cast time reduced from 3 to 1.5 seconds.",
+        "Foe Requiem: Cast time reduced from 3 to 1.5 seconds.",
+        "Battle Voice: Recast time reduced from 300 to 180 seconds.",
+        "Empyreal Arrow: Potency increased from 220 to 230.",
+        "Sidewinder: Potency when target is suffering from both Venomous Bite and Windbite increased from 250 to 260."
+      ]
+    },
+    {
+      "job": "Summoner",
+      "changes": [
+        "Wind Blade (Garuda-Egi): Potency increased from 100 to 110.",
+        "Burning Strike (Ifrit-Egi): Potency increased from 120 to 135."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "Spread: Recast time reduced from 60 to 30 seconds.",
+        "Aspected Helios: Damage nullified by the magicked barrier when Nocturnal Sect is active increased from 100% to 120% of HP restored.",
+        "Collective Unconscious: Can now be canceled by mechanics that launch the player into the air."
+      ]
+    }
+  ],
+  "jobs_pvp": [
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Darkside: The increased damage effect has been increased from 15% to 20%. (PvP only)",
+        "Sole Survivor: The marked target will now take an additional 10% damage from attacks. (PvP only)"
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Shadow Fang: Targets will now receive 20% less HP recovery via healing magic. (PvP only)"
+      ]
+    },
+    {
+      "job": "Thaumaturge / Arcanist / Black Mage / Summoner / Conjurer / White Mage / Scholar / Astrologian",
+      "changes": [
+        "Aetheric Burst: Recast time has been reduced from 180 to 120 seconds.",
+        "Enhanced Aetheric Burst: Recast time reduction has been changed from 150 to 90 seconds."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Sohr Khai",
+      "description": "New dungeon.",
+      "location": "The Dravanian Forelands",
+      "npc_location": "The Dravanian Forelands (X:16.7 Y:23.2)"
+    },
+    {
+      "name": "Hullbreaker Isle (Hard)",
+      "description": "New dungeon.",
+      "location": "Limsa Lominsa - Upper Decks",
+      "npc_location": "Limsa Lominsa - Upper Decks (X:11.0 Y:10.4)"
+    },
+    {
+      "name": "The Weeping City of Mhach",
+      "description": "New alliance raid dungeon.",
+      "location": "The Sea of Clouds",
+      "npc_location": "The Sea of Clouds (X:6.2 Y:5.8)"
+    },
+    {
+      "name": "The Final Steps of Faith",
+      "description": "New trial.",
+      "location": "The Churning Mists",
+      "npc_location": "The Churning Mists (X:7.4 Y:26.7)"
+    },
+    {
+      "name": "The Minstrel's Ballad: Nidhogg's Rage",
+      "description": "New trial.",
+      "location": "Mor Dhona",
+      "npc_location": "Mor Dhona (X:21.7 Y:8.6)"
+    },
+    {
+      "name": "The Aquapolis",
+      "description": "Special instance accessed after opening treasure coffers from dragonskin treasure maps.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Fields of Glory (Shatter)",
+      "description": "New PvP encounter added to Frontline.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Moogle beast tribe quests",
+      "description": "New beast tribe questline for Disciples of the Hand.",
+      "location": "The Churning Mists",
+      "npc_location": "The Churning Mists (X:15.7 Y:28.8)"
+    },
+    {
+      "name": "Raid Finder",
+      "description": "System to register for instanced raids without forming a party.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Flowerpot",
+      "description": "New furnishing allowing indoor cultivation.",
+      "location": "Mist, The Lavender Beds, The Goblet",
+      "npc_location": null
+    },
+    {
+      "name": "Flower vase",
+      "description": "New furnishing to display bouquets in estates.",
+      "location": "Mist, The Lavender Beds, The Goblet",
+      "npc_location": null
+    },
+    {
+      "name": "Main Scenario Quests",
+      "description": "New main scenario questline added.",
+      "location": "The Pillars, Foundation, Dravanian Forelands, The Churning Mists",
+      "npc_location": null
+    },
+    {
+      "name": "The Warring Triad",
+      "description": "New Chronicles of a New Era quests.",
+      "location": "Rising Stones",
+      "npc_location": "Rising Stones (X:6.1 Y:5.2)"
+    },
+    {
+      "name": "Anima Weapon Enhancements",
+      "description": "System to enhance anima weapons.",
+      "location": "Idyllshire",
+      "npc_location": "Idyllshire (X:6.4 Y:4.7)"
+    }
+  ],
+  "housing": [
+    {
+      "name": "Flowerpot",
+      "description": "A new furnishing allowing players to cultivate crops indoors.",
+      "image_url": null
+    },
+    {
+      "name": "Flower vase",
+      "description": "A new furnishing allowing players to display bouquets in their estates.",
+      "image_url": null
+    },
+    {
+      "name": "Markworthy Mogsofa",
+      "description": "A sofa so soft, you will forget you are the only one sitting on it...",
+      "image_url": null
+    },
+    {
+      "name": "Chirurgeon's Curtain",
+      "description": "A curtain which diverts prying eyes from the mending process.",
+      "image_url": null
+    },
+    {
+      "name": "Hat Stand",
+      "description": "A hat stand designed in the alpine fashion.",
+      "image_url": null
+    },
+    {
+      "name": "Level 6 Aetherial Wheel Stand",
+      "description": "A metal stand upon which aetherial wheels are placed and spun to charge.",
+      "image_url": null
+    },
+    {
+      "name": "Indirect Stand Lighting",
+      "description": "A standing light focused in a single direction for a dramatic theatrical effect.",
+      "image_url": null
+    },
+    {
+      "name": "Staggered Shelves",
+      "description": "A bookshelf with crannies of various sizes, designed in the Doman fashion.",
+      "image_url": null
+    },
+    {
+      "name": "Ashtray",
+      "description": "A clay bowl for the neat disposal of fogweed ash.",
+      "image_url": null
+    },
+    {
+      "name": "Riviera Flowerpot",
+      "description": "A vase decorated in the riviera fashion.",
+      "image_url": null
+    },
+    {
+      "name": "Glade Flowerpot",
+      "description": "A vase decorated in the glade fashion.",
+      "image_url": null
+    },
+    {
+      "name": "Oasis Flowerpot",
+      "description": "A vase decorated in the oasis fashion.",
+      "image_url": null
+    },
+    {
+      "name": "Riviera Planter",
+      "description": "A garden planter designed in the riviera style.",
+      "image_url": null
+    },
+    {
+      "name": "Glade Planter",
+      "description": "A garden planter designed in the glade style.",
+      "image_url": null
+    },
+    {
+      "name": "Oasis Planter",
+      "description": "A garden planter designed in the oasis style.",
+      "image_url": null
+    },
+    {
+      "name": "Dragon Floor Lamp",
+      "description": "A sober floor lamp designed in the likeness of a dragon.",
+      "image_url": null
+    },
+    {
+      "name": "Alpine Breakfast",
+      "description": "A hearty breakfast. Cannot be retrieved once placed.",
+      "image_url": null
+    },
+    {
+      "name": "Stuffed Bear",
+      "description": "A stuffed bear furnishing.",
+      "image_url": null
+    },
+    {
+      "name": "Indirect Lighting",
+      "description": "A footlight focused in a single direction for dramatic theatrical effect.",
+      "image_url": null
+    },
+    {
+      "name": "Miniature Nidhogg",
+      "description": "A statuette depicting the dreadwyrm, Nidhogg.",
+      "image_url": null
+    },
+    {
+      "name": "Sharlayan Flooring",
+      "description": "Elegant marbled flooring.",
+      "image_url": null
+    },
+    {
+      "name": "Gold Saucer Chandellier",
+      "description": "A chandelier used in the Manderville Gold Saucer.",
+      "image_url": null
+    },
+    {
+      "name": "Bluesky Interior Wall",
+      "description": "A cheery interior wall.",
+      "image_url": null
+    },
+    {
+      "name": "Morning Glories",
+      "description": "Brilliant purple flowers that will follow the sun.",
+      "image_url": null
+    },
+    {
+      "name": "Beach Chair",
+      "description": "A brightly striped lounging space.",
+      "image_url": null
+    },
+    {
+      "name": "Large Garden Pond",
+      "description": "A large decorative outdoor pond encircled by mossy stones.",
+      "image_url": null
+    },
+    {
+      "name": "Oriental Deck",
+      "description": "A roofed, wooden deck with a Far Eastern aesthetic.",
+      "image_url": null
+    },
+    {
+      "name": "Oriental Wood Bridge",
+      "description": "An arched bridge colored brilliant vermillion.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Hyperconductive Almace Replica",
+      "description": "Replica version of the Hyperconductive Almace",
+      "image_url": null
+    },
+    {
+      "name": "Hyperconductive Ukonvasara Replica",
+      "description": "Replica version of the Hyperconductive Ukonvasara",
+      "image_url": null
+    },
+    {
+      "name": "Hyperconductive Nothung Replica",
+      "description": "Replica version of the Hyperconductive Nothung",
+      "image_url": null
+    },
+    {
+      "name": "Hyperconductive Verethragna Replicas",
+      "description": "Replica version of the Hyperconductive Verethragna",
+      "image_url": null
+    },
+    {
+      "name": "Hyperconductive Rhongomiant Replica",
+      "description": "Replica version of the Hyperconductive Rhongomiant",
+      "image_url": null
+    },
+    {
+      "name": "Hyperconductive Gandiva Replica",
+      "description": "Replica version of the Hyperconductive Gandiva",
+      "image_url": null
+    },
+    {
+      "name": "Hyperconductive Kannagi Replicas",
+      "description": "Replica version of the Hyperconductive Kannagi",
+      "image_url": null
+    },
+    {
+      "name": "Hyperconductive Armageddon Replica",
+      "description": "Replica version of the Hyperconductive Armageddon",
+      "image_url": null
+    },
+    {
+      "name": "Hyperconductive Majestas Replica",
+      "description": "Replica version of the Hyperconductive Majestas",
+      "image_url": null
+    },
+    {
+      "name": "Hyperconductive Hvergelmir Replica",
+      "description": "Replica version of the Hyperconductive Hvergelmir",
+      "image_url": null
+    },
+    {
+      "name": "Hyperconductive Draconomicon Replica",
+      "description": "Replica version of the Hyperconductive Draconomicon",
+      "image_url": null
+    },
+    {
+      "name": "Hyperconductive Tetrabiblos Replica",
+      "description": "Replica version of the Hyperconductive Tetrabiblos",
+      "image_url": null
+    },
+    {
+      "name": "Hyperconductive Deneb Replica",
+      "description": "Replica version of the Hyperconductive Deneb",
+      "image_url": null
+    },
+    {
+      "name": "Hyperconductive Ancile Replica",
+      "description": "Replica version of the Hyperconductive Ancile",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Coronet of Fending",
+      "description": "Dyeable replica of the Dreadwyrm Coronet of Fending",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Barbut of Maiming",
+      "description": "Dyeable replica of the Dreadwyrm Barbut of Maiming",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Circlet of Striking",
+      "description": "Dyeable replica of the Dreadwyrm Circlet of Striking",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Chapeau of Aiming",
+      "description": "Dyeable replica of the Dreadwyrm Chapeau of Aiming",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Hood of Healing",
+      "description": "Dyeable replica of the Dreadwyrm Hood of Healing",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Petasos of Casting",
+      "description": "Dyeable replica of the Dreadwyrm Petasos of Casting",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Circlet of Scouting",
+      "description": "Dyeable replica of the Dreadwyrm Circlet of Scouting",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Armor of Fending",
+      "description": "Dyeable replica of the Dreadwyrm Armor of Fending",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Mail of Maiming",
+      "description": "Dyeable replica of the Dreadwyrm Mail of Maiming",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Cyclas of Striking",
+      "description": "Dyeable replica of the Dreadwyrm Cyclas of Striking",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Tabard of Aiming",
+      "description": "Dyeable replica of the Dreadwyrm Tabard of Aiming",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Robe of Healing",
+      "description": "Dyeable replica of the Dreadwyrm Robe of Healing",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Robe of Casting",
+      "description": "Dyeable replica of the Dreadwyrm Robe of Casting",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Cyclas of Scouting",
+      "description": "Dyeable replica of the Dreadwyrm Cyclas of Scouting",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Gauntlets of Fending",
+      "description": "Dyeable replica of the Dreadwyrm Gauntlets of Fending",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Vambraces of Maiming",
+      "description": "Dyeable replica of the Dreadwyrm Vambraces of Maiming",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Bracers of Striking",
+      "description": "Dyeable replica of the Dreadwyrm Bracers of Striking",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Bracers of Aiming",
+      "description": "Dyeable replica of the Dreadwyrm Bracers of Aiming",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Gloves of Healing",
+      "description": "Dyeable replica of the Dreadwyrm Gloves of Healing",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Gloves of Casting",
+      "description": "Dyeable replica of the Dreadwyrm Gloves of Casting",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Bracers of Scouting",
+      "description": "Dyeable replica of the Dreadwyrm Bracers of Scouting",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Sarouel of Fending",
+      "description": "Dyeable replica of the Dreadwyrm Sarouel of Fending",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Breeches of Maiming",
+      "description": "Dyeable replica of the Dreadwyrm Breeches of Maiming",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Slops of Striking",
+      "description": "Dyeable replica of the Dreadwyrm Slops of Striking",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Breeches of Aiming",
+      "description": "Dyeable replica of the Dreadwyrm Breeches of Aiming",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Tonban of Healing",
+      "description": "Dyeable replica of the Dreadwyrm Tonban of Healing",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Tonban of Casting",
+      "description": "Dyeable replica of the Dreadwyrm Tonban of Casting",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Slops of Scouting",
+      "description": "Dyeable replica of the Dreadwyrm Slops of Scouting",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Sabatons of Fending",
+      "description": "Dyeable replica of the Dreadwyrm Sabatons of Fending",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Greaves of Maiming",
+      "description": "Dyeable replica of the Dreadwyrm Greaves of Maiming",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Boots of Striking",
+      "description": "Dyeable replica of the Dreadwyrm Boots of Striking",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Greaves of Aiming",
+      "description": "Dyeable replica of the Dreadwyrm Greaves of Aiming",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Shoes of Healing",
+      "description": "Dyeable replica of the Dreadwyrm Shoes of Healing",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Shoes of Casting",
+      "description": "Dyeable replica of the Dreadwyrm Shoes of Casting",
+      "image_url": null
+    },
+    {
+      "name": "Replica Dreadwyrm Boots of Scouting",
+      "description": "Dyeable replica of the Dreadwyrm Boots of Scouting",
+      "image_url": null
+    }
+  ]
+}

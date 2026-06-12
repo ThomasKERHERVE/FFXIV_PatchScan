@@ -1,0 +1,151 @@
+{
+  "patch_title": "Patch 4.35 Notes",
+  "patch_date": "2018-07-03",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/9bec77e23715121624f84c7a17c0ad0afa003977",
+  "jobs_pve": [],
+  "jobs_pvp": [
+    {
+      "job": "Paladin",
+      "changes": [
+        "Cover: The additional effect 'increases damage taken to self by 10%' has been added.",
+        "Hallowed Ground: Recast time reduced from 120 to 90 seconds."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Hyoton: Potency reduced from 1,250 to 750."
+      ]
+    },
+    {
+      "job": "Samurai",
+      "changes": [
+        "Midare Setsugekka: Potency increased from 3,000 to 3,500."
+      ]
+    },
+    {
+      "job": "Black Mage",
+      "changes": [
+        "Fire IV: Casting time reduced from 2.3 to 1.8 seconds.",
+        "Blizzard IV: Casting time reduced from 2.3 to 1.8 seconds."
+      ]
+    },
+    {
+      "job": "Astrologian",
+      "changes": [
+        "The Balance: Duration reduced from 30 to 15 seconds.",
+        "The Bole: Duration reduced from 30 to 15 seconds.",
+        "The Ewer: Duration reduced from 30 to 15 seconds; MP recovered increased from 200 to 400.",
+        "The Spire: Duration reduced from 30 to 15 seconds; TP recovered increased from 50 to 100."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Heaven-on-High",
+      "description": "An ever-changing deep dungeon where players start at level 61 and progress through floors, using separate save data and aetherpool gear.",
+      "location": "The Ruby Sea",
+      "npc_location": "Crick (X:21.4 Y:9.2)"
+    },
+    {
+      "name": "In the Eye of the Hingan",
+      "description": "Side story quest featuring Hildibrand.",
+      "location": "Kugane (X:13.2 Y:13.3)",
+      "npc_location": "Shigure"
+    },
+    {
+      "name": "The Blade Mislaid",
+      "description": "Side story quest featuring Hildibrand.",
+      "location": "Kugane (X:10.0 Y:7.8)",
+      "npc_location": "Shigure"
+    },
+    {
+      "name": "Knocking on Heaven's Door",
+      "description": "Side quest to unlock Heaven-on-High.",
+      "location": "The Ruby Sea (X:6.2 Y:11.7)",
+      "npc_location": "Hamakaze"
+    },
+    {
+      "name": "On the Shoulders of Giants",
+      "description": "Side quest for Heaven-on-High progression.",
+      "location": "The Ruby Sea (X:21.4 Y:9.2)",
+      "npc_location": "Kyusei"
+    },
+    {
+      "name": "Deep Dungeon System",
+      "description": "Instance-based progression system with separate levels, aetherpool gear, pomanders, and magicite.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Feast",
+      "description": "PvP competitive system currently in pre-season.",
+      "location": "Crystal Tower Training Grounds",
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Odder Otter Hanging Andon Lamp",
+      "description": "A festive ceiling lamp with an odder otter motif.",
+      "image_url": null
+    },
+    {
+      "name": "Miniature Heaven-on-High",
+      "description": "Relive the adventure that you have relived over and over again...over again!",
+      "image_url": null
+    },
+    {
+      "name": "Odder Otter Bench",
+      "description": "A bench with an odder otter motif.",
+      "image_url": null
+    },
+    {
+      "name": "Odder Otter Andon Lamp",
+      "description": "An outdoor lamp with an odder otter motif.",
+      "image_url": null
+    },
+    {
+      "name": "Odder Otter Screen",
+      "description": "A screen with an odder otter motif.",
+      "image_url": null
+    },
+    {
+      "name": "Odder Otter Chair",
+      "description": "A chair with an odder otter motif.",
+      "image_url": null
+    },
+    {
+      "name": "Odder Otter Dining Table",
+      "description": "A dining table with an odder otter motif.",
+      "image_url": null
+    },
+    {
+      "name": "Empyrean Shrine",
+      "description": "Small shrines such as this are said to mark the boundaries between our world and the heavens.",
+      "image_url": null
+    },
+    {
+      "name": "Odder Otter Wall Lantern",
+      "description": "A wall lantern with an odder otter motif.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Aegis Shield Zeta Replica",
+      "description": "An entry in the Eorzea Database with user-submitted images.",
+      "image_url": null
+    },
+    {
+      "name": "Aegis Shield Zeta",
+      "description": "An entry in the Eorzea Database with user-submitted images.",
+      "image_url": null
+    },
+    {
+      "name": "Shield of the Fury",
+      "description": "An entry in the Eorzea Database with user-submitted images.",
+      "image_url": null
+    }
+  ]
+}

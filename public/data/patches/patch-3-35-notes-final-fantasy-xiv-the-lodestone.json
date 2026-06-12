@@ -1,0 +1,265 @@
+{
+  "patch_title": "Patch 3.35 Notes",
+  "patch_date": "2016-07-19",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/498f86d8acb4d44925b3f83e96c82c85a550f9a0",
+  "jobs_pve": [],
+  "jobs_pvp": [
+    {
+      "job": "Marauder",
+      "changes": [
+        "Thrill of War: Duration has been reduced from 20 seconds to 15 seconds.",
+        "≪Enhanced Thrill of War II≫: Duration has been reduced from 25 seconds to 20 seconds; HP increase has been reduced from 15% to 10%.",
+        "≪Enhanced Thrill of War III≫: HP increase has been reduced from 25% to 20%; HP restoration has been reduced from 15% to 10%.",
+        "≪Enhanced Thrill of War III≫: HP restoration has been reduced from 25% to 20%.",
+        "Weapon Throw: Can now only be used by gladiator, marauder, paladin, warrior, and dark knight."
+      ]
+    },
+    {
+      "job": "Warrior",
+      "changes": [
+        "Thrill of War: Duration has been reduced from 20 seconds to 15 seconds.",
+        "≪Enhanced Thrill of War II≫: Duration has been reduced from 25 seconds to 20 seconds; HP increase has been reduced from 15% to 10%.",
+        "≪Enhanced Thrill of War III≫: HP increase has been reduced from 25% to 20%; HP restoration has been reduced from 15% to 10%.",
+        "≪Enhanced Thrill of War III≫: HP restoration has been reduced from 25% to 20%.",
+        "Weapon Throw: Can now only be used by gladiator, marauder, paladin, warrior, and dark knight.",
+        "Enliven: This weaponskill will no longer restore TP, and instead will remove directional requirements from all other weaponskills; Recast time has been reduced from 240 seconds to 150 seconds; Now has a duration of 10 seconds.",
+        "≪Enhanced Enliven≫: Recast time has been reduced from 180 seconds to 120 seconds.",
+        "≪Enhanced Enliven II≫: Duration increased to 15 seconds."
+      ]
+    },
+    {
+      "job": "Pugilist",
+      "changes": [
+        "Weapon Throw: Can no longer be used.",
+        "Enliven: This weaponskill will no longer restore TP, and instead will remove directional requirements from all other weaponskills; Can now only be used by pugilist, lancer, rogue, monk, dragoon, and ninja; Recast time has been reduced from 240 seconds to 150 seconds; Now has a duration of 10 seconds.",
+        "≪Enhanced Enliven≫: Recast time has been reduced from 180 seconds to 120 seconds.",
+        "≪Enhanced Enliven II≫: Duration increased to 15 seconds."
+      ]
+    },
+    {
+      "job": "Lancer",
+      "changes": [
+        "Weapon Throw: Can no longer be used.",
+        "Impulse Rush: This weaponskill will no longer have its direction requirements nullified; Critical hit rate increase has been reduced from 20% to 10%.",
+        "≪Enhanced Impulse Rush III≫: Critical hit rate increase has been reduced from 30% to 20%.",
+        "Enliven: This weaponskill will no longer restore TP, and instead will remove directional requirements from all other weaponskills; Can now only be used by pugilist, lancer, rogue, monk, dragoon, and ninja; Recast time has been reduced from 240 seconds to 150 seconds; Now has a duration of 10 seconds.",
+        "≪Enhanced Enliven≫: Recast time has been reduced from 180 seconds to 120 seconds.",
+        "≪Enhanced Enliven II≫: Duration increased to 15 seconds."
+      ]
+    },
+    {
+      "job": "Rogue",
+      "changes": [
+        "Weapon Throw: Can no longer be used.",
+        "Enliven: This weaponskill will no longer restore TP, and instead will remove directional requirements from all other weaponskills; Can now only be used by pugilist, lancer, rogue, monk, dragoon, and ninja; Recast time has been reduced from 240 seconds to 150 seconds; Now has a duration of 10 seconds.",
+        "≪Enhanced Enliven≫: Recast time has been reduced from 180 seconds to 120 seconds.",
+        "≪Enhanced Enliven II≫: Duration increased to 15 seconds."
+      ]
+    },
+    {
+      "job": "Monk",
+      "changes": [
+        "Enliven: This weaponskill will no longer restore TP, and instead will remove directional requirements from all other weaponskills; Can now only be used by pugilist, lancer, rogue, monk, dragoon, and ninja; Recast time has been reduced from 240 seconds to 150 seconds; Now has a duration of 10 seconds.",
+        "≪Enhanced Enliven≫: Recast time has been reduced from 180 seconds to 120 seconds.",
+        "≪Enhanced Enliven II≫: Duration increased to 15 seconds."
+      ]
+    },
+    {
+      "job": "Dragoon",
+      "changes": [
+        "Impulse Rush: This weaponskill will no longer have its direction requirements nullified; Critical hit rate increase has been reduced from 20% to 10%.",
+        "≪Enhanced Impulse Rush III≫: Critical hit rate increase has been reduced from 30% to 20%.",
+        "Enliven: This weaponskill will no longer restore TP, and instead will remove directional requirements from all other weaponskills; Can now only be used by pugilist, lancer, rogue, monk, dragoon, and ninja; Recast time has been reduced from 240 seconds to 150 seconds; Now has a duration of 10 seconds.",
+        "≪Enhanced Enliven≫: Recast time has been reduced from 180 seconds to 120 seconds.",
+        "≪Enhanced Enliven II≫: Duration increased to 15 seconds."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Enliven: This weaponskill will no longer restore TP, and instead will remove directional requirements from all other weaponskills; Can now only be used by pugilist, lancer, rogue, monk, dragoon, and ninja; Recast time has been reduced from 240 seconds to 150 seconds; Now has a duration of 10 seconds.",
+        "≪Enhanced Enliven≫: Recast time has been reduced from 180 seconds to 120 seconds.",
+        "≪Enhanced Enliven II≫: Duration increased to 15 seconds."
+      ]
+    },
+    {
+      "job": "Gladiator",
+      "changes": [
+        "Weapon Throw: Can now only be used by gladiator, marauder, paladin, warrior, and dark knight.",
+        "Enliven: This weaponskill will no longer restore TP, and instead will remove directional requirements from all other weaponskills; Recast time has been reduced from 240 seconds to 150 seconds; Now has a duration of 10 seconds.",
+        "≪Enhanced Enliven≫: Recast time has been reduced from 180 seconds to 120 seconds.",
+        "≪Enhanced Enliven II≫: Duration increased to 15 seconds."
+      ]
+    },
+    {
+      "job": "Paladin",
+      "changes": [
+        "Weapon Throw: Can now only be used by gladiator, marauder, paladin, warrior, and dark knight.",
+        "Enliven: This weaponskill will no longer restore TP, and instead will remove directional requirements from all other weaponskills; Recast time has been reduced from 240 seconds to 150 seconds; Now has a duration of 10 seconds.",
+        "≪Enhanced Enliven≫: Recast time has been reduced from 180 seconds to 120 seconds.",
+        "≪Enhanced Enliven II≫: Duration increased to 15 seconds."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Weapon Throw: Can now only be used by gladiator, marauder, paladin, warrior, and dark knight.",
+        "Enliven: This weaponskill will no longer restore TP, and instead will remove directional requirements from all other weaponskills; Recast time has been reduced from 240 seconds to 150 seconds; Now has a duration of 10 seconds.",
+        "≪Enhanced Enliven≫: Recast time has been reduced from 180 seconds to 120 seconds.",
+        "≪Enhanced Enliven II≫: Duration increased to 15 seconds."
+      ]
+    },
+    {
+      "job": "Archer",
+      "changes": [
+        "Enliven: This weaponskill will no longer restore TP, and instead will remove directional requirements from all other weaponskills; Recast time has been reduced from 240 seconds to 150 seconds; Now has a duration of 10 seconds.",
+        "≪Enhanced Enliven≫: Recast time has been reduced from 180 seconds to 120 seconds.",
+        "≪Enhanced Enliven II≫: Duration increased to 15 seconds."
+      ]
+    },
+    {
+      "job": "Bard",
+      "changes": [
+        "Enliven: This weaponskill will no longer restore TP, and instead will remove directional requirements from all other weaponskills; Recast time has been reduced from 240 seconds to 150 seconds; Now has a duration of 10 seconds.",
+        "≪Enhanced Enliven≫: Recast time has been reduced from 180 seconds to 120 seconds.",
+        "≪Enhanced Enliven II≫: Duration increased to 15 seconds."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Enliven: This weaponskill will no longer restore TP, and instead will remove directional requirements from all other weaponskills; Recast time has been reduced from 240 seconds to 150 seconds; Now has a duration of 10 seconds.",
+        "≪Enhanced Enliven≫: Recast time has been reduced from 180 seconds to 120 seconds.",
+        "≪Enhanced Enliven II≫: Duration increased to 15 seconds."
+      ]
+    },
+    {
+      "job": "General",
+      "changes": [
+        "The potency of the Adrenaline Rush action, Raw Destruction, has been decreased."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "Palace of the Dead",
+      "description": "An ever-changing deep dungeon where players start at level 1 and progress through floors to gain strength, leveling up to 60 within the instance.",
+      "location": "South Shroud (Quarrymill)",
+      "npc_location": "Wood Wailer expeditionary (South Shroud, Quarrymill X:25.2 Y:20.6)"
+    },
+    {
+      "name": "The House That Death Built",
+      "description": "Side story quest required to access the Palace of the Dead.",
+      "location": "New Gridania (X:12.0 Y:13.1)",
+      "npc_location": "Nojiro Marujiro"
+    },
+    {
+      "name": "The Nightmare's End",
+      "description": "Side story quest required to progress further in the Palace of the Dead.",
+      "location": "South Shroud (X:25.0 Y:20.6)",
+      "npc_location": "Balan"
+    },
+    {
+      "name": "The Feast (Season Two)",
+      "description": "Competitive PvP season featuring solo and party rankings with seasonal rewards.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Fields of Glory (Shatter)",
+      "description": "PvP battlefield map adjustments including victory requirement changes and balance adjustments.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Ranked PvP",
+      "description": "New achievement subcategory added to the Battle category.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "Garden Pond",
+      "description": "An outdoor furnishing item. Recipes were adjusted in patch 3.35.",
+      "image_url": null
+    },
+    {
+      "name": "Large Garden Pond",
+      "description": "An outdoor furnishing item. Recipes were adjusted in patch 3.35.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Padjali Blade",
+      "description": "Gladiator's Arm, Item Level: 235 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Padjali Knuckles",
+      "description": "Pugilist's Arm, Item Level: 235 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Padjali Axe",
+      "description": "Marauder's Arm, Item Level: 235 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Padjali Spear",
+      "description": "Lancer's Arm, Item Level: 235 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Padjali Longbow",
+      "description": "Archer's Arm, Item Level: 235 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Padjali Daggers",
+      "description": "Rogue's Arm, Item Level: 235 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Padjali Greatsword",
+      "description": "Dark Knight's Arm, Item Level: 235 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Padjali Revolver",
+      "description": "Machinist's Arm, Item Level: 235 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Padjali Cane",
+      "description": "Two-handed Conjurer's Arm, Item Level: 235 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Padjali Rod",
+      "description": "Two-handed Thaumaturge's Arm, Item Level: 235 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Padjali Grimoire",
+      "description": "Arcanist's Grimoire, Item Level: 235 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Padjali Codex",
+      "description": "Arcanist's Grimoire, Item Level: 235 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Padjali Astrometer",
+      "description": "Astrologian's Arm, Item Level: 235 / Equipment Level: 60",
+      "image_url": null
+    },
+    {
+      "name": "Padjali Shield",
+      "description": "Shield, Item Level: 235 / Equipment Level: 60",
+      "image_url": null
+    }
+  ]
+}

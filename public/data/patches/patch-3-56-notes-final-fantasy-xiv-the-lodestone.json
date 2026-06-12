@@ -1,0 +1,516 @@
+{
+  "patch_title": "Patch 3.56 Notes",
+  "patch_date": "2017-03-28",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/26738a49887f2b9f9e6b0aa67ae5f7d1a09dd1f2",
+  "jobs_pve": [],
+  "jobs_pvp": [
+    {
+      "job": "White Mage",
+      "changes": [
+        "Sacred Prism: Damage reduction has been changed from 40% to 30%."
+      ]
+    },
+    {
+      "job": "Machinist",
+      "changes": [
+        "Between the Eyes: Potency when target is bound, stunned, or asleep has been reduced from 3 times normal damage to 2.5 times normal damage."
+      ]
+    },
+    {
+      "job": "Dark Knight",
+      "changes": [
+        "Damage bonuses for dark knight have been increased in PvP encounters."
+      ]
+    },
+    {
+      "job": "Ninja",
+      "changes": [
+        "Damage bonuses for ninja have been increased in PvP encounters."
+      ]
+    },
+    {
+      "job": "Pugilist/Monk",
+      "changes": [
+        "Steel Peak: Stun duration has been reduced from 3 to 2 seconds."
+      ]
+    }
+  ],
+  "new_content": [
+    {
+      "name": "The Obvious Solution",
+      "description": "Main scenario quest.",
+      "location": "The Rising Stones",
+      "npc_location": "Alisaie"
+    },
+    {
+      "name": "???",
+      "description": "Main scenario quest.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Alexander: The Creator (Savage)",
+      "description": "Adjustments include removal of weekly restrictions, direct access to areas, Duty Finder support, and the addition of the Echo.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Feast",
+      "description": "Season Four begins. Features new rewards and adjustments to PvP actions and the adrenaline gauge.",
+      "location": "Wolves' Den",
+      "npc_location": null
+    },
+    {
+      "name": "The Fold",
+      "description": "PvP arena receiving new quick chat options.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Party Finder",
+      "description": "Gamepad/controller control adjustments for improved navigation.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Free Trial",
+      "description": "14-day limit removed; character data can now be transferred to the full version.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [
+    {
+      "name": "He Who Continues the Attack Orchestrion Roll",
+      "description": "Music roll for He Who Continues the Attack. Use to add to your orchestrion list.",
+      "image_url": null
+    },
+    {
+      "name": "Imperial Will Orchestrion Roll",
+      "description": "Music roll for Imperial Will. Use to add to your orchestrion list.",
+      "image_url": null
+    },
+    {
+      "name": "Steel Reason Orchestrion Roll",
+      "description": "Music roll for Steel Reason. Use to add to your orchestrion list.",
+      "image_url": null
+    }
+  ],
+  "glamour": [
+    {
+      "name": "Tarnished Fanged Wolf",
+      "description": "Gladiator's Arm, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Darkness",
+      "description": "Marauder's Arm, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Hell Light",
+      "description": "Dark Knight's Arm, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Makai Fists",
+      "description": "Pugilist's Arm, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished White Night",
+      "description": "Lancer's Arm, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Makai Bow",
+      "description": "Archer's Arm, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Silver Wolves",
+      "description": "Rogue's Arm, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Makai Hand Mortar",
+      "description": "Machinist's Arm, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Mado Staff",
+      "description": "Two-handed Conjurer's Arm, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Mado Brush",
+      "description": "Two-handed Thaumaturge's Arm, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Mado Chronicle",
+      "description": "Arcanist's Grimoire, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Makai Chronicle",
+      "description": "Arcanist's Grimoire, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Mado Sphere",
+      "description": "Astrologian's Arm, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Divine Beast Shield",
+      "description": "Shield, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Face of the Golden Wolf",
+      "description": "Head, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Face of Undying Twilight",
+      "description": "Head, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Face of Pressing Darkness",
+      "description": "Head, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Face of the White Night",
+      "description": "Head, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Face of the Silver Wolf",
+      "description": "Head, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Mauler's Facemask",
+      "description": "Head, Fits: All ♂, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Manhandler's Facemask",
+      "description": "Head, Fits: All ♀, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Marksman's Eyepatch",
+      "description": "Head, Fits: All ♂, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Markswoman's Ribbon",
+      "description": "Head, Fits: All ♀, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Sun Guide's Circlet",
+      "description": "Head, Fits: All ♂, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Moon Guide's Circlet",
+      "description": "Head, Fits: All ♀, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Priest's Coronet",
+      "description": "Head, Fits: All ♂, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Priestess's Headdress",
+      "description": "Head, Fits: All ♀, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Scion Adventurer's Monocle",
+      "description": "Head, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Body of the Golden Wolf",
+      "description": "Body, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Body of Undying Twilight",
+      "description": "Body, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Body of Pressing Darkness",
+      "description": "Body, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Body of the White Night",
+      "description": "Body, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Body of the Silver Wolf",
+      "description": "Body, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Mauler's Oilskin",
+      "description": "Body, Fits: All ♂, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Manhandler's Jerkin",
+      "description": "Body, Fits: All ♀, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Marksman's Battlegarb",
+      "description": "Body, Fits: All ♂, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Markswoman's Battledress",
+      "description": "Body, Fits: All ♀, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Sun Guide's Oilskin",
+      "description": "Body, Fits: All ♂, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Moon Guide's Gown",
+      "description": "Body, Fits: All ♀, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Priest's Doublet Robe",
+      "description": "Body, Fits: All ♂, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Priestess's Jerkin",
+      "description": "Body, Fits: All ♀, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Scion Adventurer's Jacket",
+      "description": "Body, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Hands of the Golden Wolf",
+      "description": "Hands, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Hands of Undying Twilight",
+      "description": "Hands, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Hands of Pressing Darkness",
+      "description": "Hands, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Hands of the White Night",
+      "description": "Hands, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Hands of the Silver Wolf",
+      "description": "Hands, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Mauler's Fingerless Gloves",
+      "description": "Hands, Fits: All ♂, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Manhandler's Fingerless Gloves",
+      "description": "Hands, Fits: All ♀, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Marksman's Fingerless Gloves",
+      "description": "Hands, Fits: All ♂, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Markswoman's Fingerless Gloves",
+      "description": "Hands, Fits: All ♀, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Sun Guide's Fingerless Gloves",
+      "description": "Hands, Fits: All ♂, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Moon Guide's Fingerless Gloves",
+      "description": "Hands, Fits: All ♀, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Priest's Fingerless Gloves",
+      "description": "Hands, Fits: All ♂, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Priestess's Fingerless Gloves",
+      "description": "Hands, Fits: All ♀, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Legs of the Golden Wolf",
+      "description": "Legs, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Legs of Undying Twilight",
+      "description": "Legs, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Legs of Pressing Darkness",
+      "description": "Legs, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Legs of the White Night",
+      "description": "Legs, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Legs of the Silver Wolf",
+      "description": "Legs, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Mauler's Leggings",
+      "description": "Legs, Fits: All ♂, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Manhandler's Quartertights",
+      "description": "Legs, Fits: All ♀, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Marksman's Slops",
+      "description": "Legs, Fits: All ♂, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Markswoman's Quartertights",
+      "description": "Legs, Fits: All ♀, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Sun Guide's Slops",
+      "description": "Legs, Fits: All ♂, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Moon Guide's Quartertights",
+      "description": "Legs, Fits: All ♀, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Priest's Slops",
+      "description": "Legs, Fits: All ♂, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Priestess's Skirt",
+      "description": "Legs, Fits: All ♀, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Scion Adventurer's Bottoms",
+      "description": "Legs, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Feet of the Golden Wolf",
+      "description": "Feet, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Feet of Undying Twilight",
+      "description": "Feet, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Feet of Pressing Darkness",
+      "description": "Feet, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Feet of the White Night",
+      "description": "Feet, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Tarnished Feet of the Silver Wolf",
+      "description": "Feet, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Mauler's Boots",
+      "description": "Feet, Fits: All ♂, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Manhandler's Longboots",
+      "description": "Feet, Fits: All ♀, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Marksman's Boots",
+      "description": "Feet, Fits: All ♂, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Markswoman's Longboots",
+      "description": "Feet, Fits: All ♀, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Sun Guide's Boots",
+      "description": "Feet, Fits: All ♂, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Moon Guide's Longboots",
+      "description": "Feet, Fits: All ♀, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Priest's Boots",
+      "description": "Feet, Fits: All ♂, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Common Makai Priestess's Longboots",
+      "description": "Feet, Fits: All ♀, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    },
+    {
+      "name": "Scion Adventurer's Boots",
+      "description": "Feet, Item Level: 1 / Equipment Level: 1",
+      "image_url": null
+    }
+  ]
+}

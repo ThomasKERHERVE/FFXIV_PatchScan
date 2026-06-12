@@ -1,0 +1,56 @@
+{
+  "patch_title": "Patch 3.51 Notes",
+  "patch_date": "2017-01-29",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/12ed915838dbdc22fe36871a2604f9b1d97b848d",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Anima weapon story quests",
+      "description": "Adjustments to the anima weapon questline, including lowering the Allagan tomestones cost for Aether Oil.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Fires of Sohm Al",
+      "description": "Side quest associated with an orchestrion roll reward.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Party Finder",
+      "description": "System allowing players to recruit or join parties; updated to allow joining while queued for a duty and added sound notifications upon recruitment completion.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Deep Dungeon",
+      "description": "A battle system area; patch notes reference the restriction of pomander usage to this specific area.",
+      "location": null,
+      "npc_location": null
+    }
+  ],
+  "housing": [],
+  "glamour": [
+    {
+      "name": "Shiva's Diamond Shield",
+      "description": "A shield crafted from the crystalline remains of the primal Shiva.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/p/hIKumMfCocoSfxWeUUUIL78Jhg.png"
+    },
+    {
+      "name": "Aegis Shield",
+      "description": "An ancient and legendary shield once wielded by a hero of old.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/q/GJ-lsgAtsCCDwCm9te3a5sCjpU.png"
+    },
+    {
+      "name": "Aegis Shield Replica",
+      "description": "A decorative replica of the legendary Aegis Shield, primarily used for glamour.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/K/vZf_pjL1HRJCDF9mxKFKb8iISc.png"
+    },
+    {
+      "name": "Aegis Shield Zeta Replica",
+      "description": "A high-fidelity replica of the perfected Zeta form of the Aegis Shield, used for glamour purposes.",
+      "image_url": "https://lds-img.finalfantasyxiv.com/h/_/qP22LgUoAFKDTRayb_TEYu6d7g.png"
+    }
+  ]
+}
