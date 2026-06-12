@@ -206,7 +206,7 @@ def ask_gemini(prompt, retries=3):
             raw = response.text
             clean = raw.replace("```json", "").replace("```", "").strip()
 
-            time.sleep(15)  # petite pause avant le prochain appel
+            time.sleep(20)  # petite pause avant le prochain appel
 
             return json.loads(clean)
 
@@ -456,6 +456,10 @@ def main():
             )
 
             filename = slugify(title)
+            
+            if any(p["file"] == filename for p in index):
+                print(f"Skipping {title}")
+                continue
 
             print(f"Processing {title}")
 
