@@ -79,7 +79,8 @@ def get_latest_patch_url(existing_files):
         patch_url = BASE_URL + match
 
         try:
-            title, _ = fetch_patch_content(patch_url)
+            result = fetch_patch_content(patch_url)
+            title = result[0]
             filename = slugify(title)
 
             print(f"Checking: {title}")
