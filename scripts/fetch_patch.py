@@ -61,12 +61,8 @@ def slugify(title):
 # Patch discovery
 # ======================================================
 
-def get_latest_patch_url():
-    res = requests.get(
-        PATCHNOTE_LOG,
-        headers=HEADERS,
-        timeout=60
-    )
+def get_latest_patch_url(existing_files):
+    res = requests.get(PATCHNOTE_LOG, headers=HEADERS, timeout=15)
     res.raise_for_status()
 
     matches = re.findall(
@@ -77,7 +73,25 @@ def get_latest_patch_url():
     if not matches:
         raise ValueError("No patch URL found")
 
-    return BASE_URL + matches[0]
+    print(f"Found {len(matches)} patch links")
+
+    for match in matches:
+        patch_url = BASE_URL + match
+
+        try:
+            title, _ = fetch_patch_content(patch_url)
+            filename = slugify(title)
+
+            print(f"Checking: {title}")
+
+            if filename not in existing_files:
+                print(f"New patch found: {title}")
+                return patch_url
+
+        except Exception as e:
+            print(f"Failed to inspect {patch_url}: {e}")
+
+    return None
 
 # def get_legacy_patch_urls():
     archive_url = (
@@ -509,9 +523,16 @@ def save_patch(filename, data):
 #     print("Done.")
 
 def main():
-    print("Fetching latest patch...")
+    print("Loading index...")
+    index = load_index()
+    existing_files = {p["file"] for p in index}
 
-    patch_url = get_latest_patch_url()
+    print("Fetching latest patch...")
+    patch_url = get_latest_patch_url(existing_files)
+
+    if not patch_url:
+        print("No new patch detected.")
+        return
 
     index = load_index()
 
