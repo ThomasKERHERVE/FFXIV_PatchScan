@@ -65,7 +65,7 @@ def get_latest_patch_url():
     res = requests.get(
         PATCHNOTE_LOG,
         headers=HEADERS,
-        timeout=20
+        timeout=60
     )
     res.raise_for_status()
 
