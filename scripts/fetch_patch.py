@@ -6,7 +6,6 @@ import time
 import requests
 from datetime import datetime
 from bs4 import BeautifulSoup
-from google import genai
 
 BASE_URL = "https://na.finalfantasyxiv.com"
 PATCHNOTE_LOG = f"{BASE_URL}/lodestone/special/patchnote_log"
@@ -15,7 +14,7 @@ DATA_DIR = "public/data"
 PATCHES_DIR = f"{DATA_DIR}/patches"
 INDEX_FILE = f"{DATA_DIR}/index.json"
 
-client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+GEMINI_API_KEY = os.environ["GEMINI_API_KEY"]
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; FFXIVPatchScan/2.0)"
@@ -210,27 +209,32 @@ def fetch_patch_content(url):
 # Gemini helper
 # ======================================================
 
-def ask_gemini(prompt, retries=3):
-    for attempt in range(retries):
-        try:
-            response = client.models.generate_content(
-                model="gemini-2.0-flash",
-                contents=prompt
-            )
+def ask_gemini(prompt):
+    url = (
+        "https://generativelanguage.googleapis.com/v1beta/"
+        f"models/gemini-1.5-flash:generateContent?key={GEMINI_API_KEY}"
+    )
 
-            raw = response.text
-            clean = raw.replace("```json", "").replace("```", "").strip()
+    payload = {
+        "contents": [
+            {
+                "parts": [
+                    {"text": prompt}
+                ]
+            }
+        ]
+    }
 
-            time.sleep(20)  # petite pause avant le prochain appel
+    res = requests.post(url, json=payload, timeout=60)
+    res.raise_for_status()
 
-            return json.loads(clean)
+    data = res.json()
 
-        except HeaderError:
-            wait = (attempt + 1) * 15
-            print(f"Gemini indisponible, nouvelle tentative dans {wait}s...")
-            time.sleep(wait)
+    raw = data["candidates"][0]["content"]["parts"][0]["text"]
 
-    raise RuntimeError("Impossible de contacter Gemini après plusieurs tentatives")
+    clean = raw.replace("```json", "").replace("```", "").strip()
+
+    return json.loads(clean) if clean else {}
 
 
 # ======================================================
