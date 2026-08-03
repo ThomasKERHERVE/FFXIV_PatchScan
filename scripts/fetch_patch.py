@@ -211,8 +211,8 @@ def fetch_patch_content(url):
 
 def ask_gemini(prompt):
     url = (
-    "https://generativelanguage.googleapis.com/v1/"
-    f"models/gemini-1.5-flash:generateContent?key={GEMINI_API_KEY}"
+        "https://generativelanguage.googleapis.com/v1beta/"
+        f"models/gemini-1.5-flash-8b:generateContent?key={GEMINI_API_KEY}"
     )
 
     payload = {
@@ -226,6 +226,12 @@ def ask_gemini(prompt):
     }
 
     res = requests.post(url, json=payload, timeout=60)
+
+    print("Gemini status:", res.status_code)
+
+    if not res.ok:
+        print(res.text)
+
     res.raise_for_status()
 
     data = res.json()
