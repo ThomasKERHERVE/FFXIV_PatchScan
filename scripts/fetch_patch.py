@@ -212,7 +212,7 @@ def fetch_patch_content(url):
 def ask_gemini(prompt):
     url = (
         "https://generativelanguage.googleapis.com/v1beta/"
-        f"models/gemini-1.5-flash-8b:generateContent?key={GEMINI_API_KEY}"
+        f"models/gemini-2.0-flash:generateContent?key={GEMINI_API_KEY}"
     )
 
     payload = {
