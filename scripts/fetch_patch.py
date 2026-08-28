@@ -209,38 +209,23 @@ def fetch_patch_content(url):
 # Gemini helper
 # ======================================================
 
-def ask_gemini(prompt):
-    url = (
-        "https://generativelanguage.googleapis.com/v1beta/"
-        f"models/gemini-2.0-flash:generateContent?key={GEMINI_API_KEY}"
+def ask_groq(prompt):
+    response = requests.post(
+        GROQ_URL,
+        headers={
+            "Authorization": f"Bearer {GROQ_API_KEY}",
+            "Content-Type": "application/json"
+        },
+        json={
+            "model": "llama-3.3-70b-versatile",
+            "messages": [{"role": "user", "content": prompt}],
+            "temperature": 0.1,
+            "max_tokens": 4096
+        },
+        timeout=30
     )
-
-    payload = {
-        "contents": [
-            {
-                "parts": [
-                    {"text": prompt}
-                ]
-            }
-        ]
-    }
-
-    res = requests.post(url, json=payload, timeout=60)
-
-    print("Gemini status:", res.status_code)
-
-    if not res.ok:
-        print(res.text)
-
-    res.raise_for_status()
-
-    data = res.json()
-
-    raw = data["candidates"][0]["content"]["parts"][0]["text"]
-
-    clean = raw.replace("```json", "").replace("```", "").strip()
-
-    return json.loads(clean) if clean else {}
+    response.raise_for_status()
+    return response.json()["choices"][0]["message"]["content"]
 
 
 # ======================================================
