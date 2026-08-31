@@ -132,7 +132,7 @@ def ask_groq(prompt):
             "Content-Type": "application/json"
         },
         json={
-            "model": "llama3-8b-8192",
+            "model": "meta-llama/llama-4-scout-17b-16e-instruct",
             "messages": [{"role": "user", "content": prompt}],
             "temperature": 0.1,
             "max_tokens": 4096
