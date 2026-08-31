@@ -132,7 +132,7 @@ def ask_groq(prompt):
             "Content-Type": "application/json"
         },
         json={
-            "model": "meta-llama/llama-4-scout-17b-16e-instruct",
+            "model": "openai/gpt-oss-20b",
             "messages": [{"role": "user", "content": prompt}],
             "temperature": 0.1,
             "max_tokens": 4096
@@ -353,16 +353,6 @@ def save_patch(filename, data):
 # ======================================================
 
 def main():
-        # Temporary: list available models
-    response = requests.get(
-        "https://api.groq.com/openai/v1/models",
-        headers={"Authorization": f"Bearer {GROQ_API_KEY}"}
-    )
-    print("Available models:")
-    for model in response.json().get("data", []):
-        print(f"  - {model['id']}")
-    return
-
     print("Loading index...")
     index = load_index()
     existing_files = {p["file"] for p in index}
