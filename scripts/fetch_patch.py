@@ -139,6 +139,8 @@ def ask_groq(prompt):
         },
         timeout=30
     )
+    print(f"Groq status: {response.status_code}")
+    print(f"Groq response: {response.text[:500]}")
     response.raise_for_status()
     raw = response.json()["choices"][0]["message"]["content"]
     clean = raw.replace("```json", "").replace("```", "").strip()
