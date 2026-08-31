@@ -353,6 +353,16 @@ def save_patch(filename, data):
 # ======================================================
 
 def main():
+        # Temporary: list available models
+    response = requests.get(
+        "https://api.groq.com/openai/v1/models",
+        headers={"Authorization": f"Bearer {GROQ_API_KEY}"}
+    )
+    print("Available models:")
+    for model in response.json().get("data", []):
+        print(f"  - {model['id']}")
+    return
+
     print("Loading index...")
     index = load_index()
     existing_files = {p["file"] for p in index}
