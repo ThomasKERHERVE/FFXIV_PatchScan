@@ -1,10 +1,9 @@
 import os
 import re
 import json
-from tarfile import HeaderError
-import time
+import datetime
 import requests
-from datetime import datetime
+import time
 from bs4 import BeautifulSoup
 
 BASE_URL = "https://na.finalfantasyxiv.com"
@@ -14,7 +13,8 @@ DATA_DIR = "public/data"
 PATCHES_DIR = f"{DATA_DIR}/patches"
 INDEX_FILE = f"{DATA_DIR}/index.json"
 
-GEMINI_API_KEY = os.environ["GEMINI_API_KEY"]
+GROQ_API_KEY = os.environ["GROQ_API_KEY"]
+GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; FFXIVPatchScan/2.0)"
@@ -27,7 +27,7 @@ HEADERS = {
 
 def normalize_date(date_str):
     if not date_str:
-        return datetime.today().date().isoformat()
+        return datetime.date.today().isoformat()
 
     formats = [
         "%Y-%m-%d",
@@ -39,14 +39,13 @@ def normalize_date(date_str):
 
     for fmt in formats:
         try:
-            return datetime.strptime(
-                date_str,
-                fmt
+            return datetime.datetime.strptime(
+                date_str, fmt
             ).date().isoformat()
         except ValueError:
             pass
 
-    return datetime.today().date().isoformat()
+    return datetime.date.today().isoformat()
 
 
 def slugify(title):
@@ -78,8 +77,7 @@ def get_latest_patch_url(existing_files):
         patch_url = BASE_URL + match
 
         try:
-            result = fetch_patch_content(patch_url)
-            title = result[0]
+            title, _, _ = fetch_patch_content(patch_url)
             filename = slugify(title)
 
             print(f"Checking: {title}")
@@ -93,111 +91,28 @@ def get_latest_patch_url(existing_files):
 
     return None
 
-# def get_legacy_patch_urls():
-    archive_url = (
-        "https://na.finalfantasyxiv.com/lodestone/topics/"
-    )
-
-    res = requests.get(
-        archive_url,
-        headers=HEADERS,
-        timeout=20
-    )
-
-    print(res.url)
-
-    with open("legacy.html", "w", encoding="utf-8") as f:
-        f.write(res.text)
-
-    return []
-
-def get_all_patch_urls():
-    urls = []
-    seen_pages = set()
-
-    page = 1
-
-    while True:
-        url = f"{BASE_URL}/lodestone/topics/?page={page}"
-
-        print(f"Page {page}")
-
-        res = requests.get(
-            url,
-            headers=HEADERS,
-            timeout=20
-        )
-        res.raise_for_status()
-
-        matches = re.findall(
-            r'/lodestone/topics/detail/[a-f0-9]+',
-            res.text
-        )
-
-        matches = tuple(sorted(set(matches)))
-
-        if matches in seen_pages:
-            print("Last page reached")
-            break
-
-        seen_pages.add(matches)
-
-        for match in matches:
-            topic_url = BASE_URL + match
-
-            try:
-                title, _, _ = fetch_patch_content(topic_url)
-
-                if "Patch" not in title:
-                    continue
-
-                if "Notes" not in title:
-                    continue
-
-                if "Preliminary" in title:
-                    continue
-
-                print("PATCH :", title)
-
-                urls.append(topic_url)
-
-            except Exception as e:
-                print(f"Error {topic_url}: {e}")
-
-        page += 1
-
-    return list(dict.fromkeys(urls))
 
 # ======================================================
 # HTML Extraction
 # ======================================================
 
 def fetch_patch_content(url):
-    res = requests.get(
-        url,
-        headers=HEADERS,
-        timeout=20
-    )
+    res = requests.get(url, headers=HEADERS, timeout=20)
     res.raise_for_status()
 
     html = res.text
-
     soup = BeautifulSoup(html, "html.parser")
 
     title_tag = soup.find("title")
-    title = title_tag.get_text(strip=True) if title_tag else "Patch Notes"
+    title = title_tag.get_text(strip=True).split("|")[0].strip() if title_tag else "Patch Notes"
 
     images = []
-
     for img in soup.find_all("img"):
         src = img.get("src")
-
         if not src:
             continue
-
         if src.startswith("/"):
             src = BASE_URL + src
-
         images.append(src)
 
     text = soup.get_text("\n", strip=True)
@@ -206,7 +121,7 @@ def fetch_patch_content(url):
 
 
 # ======================================================
-# Gemini helper
+# Groq helper
 # ======================================================
 
 def ask_groq(prompt):
@@ -225,7 +140,9 @@ def ask_groq(prompt):
         timeout=30
     )
     response.raise_for_status()
-    return response.json()["choices"][0]["message"]["content"]
+    raw = response.json()["choices"][0]["message"]["content"]
+    clean = raw.replace("```json", "").replace("```", "").strip()
+    return json.loads(clean)
 
 
 # ======================================================
@@ -243,7 +160,7 @@ Extract only:
 
 Rules:
 - patch_date MUST be YYYY-MM-DD
-- date of the patch you analize
+- date of the patch you analyze
 - do not invent information
 - return valid JSON only
 
@@ -251,16 +168,14 @@ Title:
 {title}
 
 Content:
-{content[:30000]}
+{content[:5000]}
 """
 
-    data = ask_gemini(prompt)
+    data = ask_groq(prompt)
 
     return {
         "patch_title": data.get("patch_title", title),
-        "patch_date": normalize_date(
-            data.get("patch_date")
-        ),
+        "patch_date": normalize_date(data.get("patch_date")),
         "patch_url": patch_url
     }
 
@@ -280,7 +195,6 @@ Return:
   ]
 }}
 
-
 Rules:
 - include every affected job
 - do not summarize excessively
@@ -291,7 +205,7 @@ Content:
 {content}
 """
 
-    return ask_gemini(prompt).get("jobs_pve", [])
+    return ask_groq(prompt).get("jobs_pve", [])
 
 
 def extract_jobs_pvp(content):
@@ -315,7 +229,7 @@ Content:
 {content}
 """
 
-    return ask_gemini(prompt).get("jobs_pvp", [])
+    return ask_groq(prompt).get("jobs_pvp", [])
 
 
 def extract_new_content(content):
@@ -344,12 +258,13 @@ Return:
 }}
 
 Do not invent information.
+Valid JSON only.
 
 Content:
 {content}
 """
 
-    return ask_gemini(prompt).get("new_content", [])
+    return ask_groq(prompt).get("new_content", [])
 
 
 def extract_housing(content, images):
@@ -371,11 +286,13 @@ Return:
   ]
 }}
 
+Valid JSON only.
+
 Content:
 {content}
 """
 
-    return ask_gemini(prompt).get("housing", [])
+    return ask_groq(prompt).get("housing", [])
 
 
 def extract_glamour(content, images):
@@ -397,11 +314,13 @@ Return:
   ]
 }}
 
+Valid JSON only.
+
 Content:
 {content}
 """
 
-    return ask_gemini(prompt).get("glamour", [])
+    return ask_groq(prompt).get("glamour", [])
 
 
 # ======================================================
@@ -412,111 +331,24 @@ def load_index():
     if os.path.exists(INDEX_FILE):
         with open(INDEX_FILE, "r", encoding="utf-8") as f:
             return json.load(f)
-
     return []
 
 
 def save_index(index):
     os.makedirs(DATA_DIR, exist_ok=True)
-
-    with open(
-        INDEX_FILE,
-        "w",
-        encoding="utf-8"
-    ) as f:
-        json.dump(
-            index,
-            f,
-            ensure_ascii=False,
-            indent=2
-        )
+    with open(INDEX_FILE, "w", encoding="utf-8") as f:
+        json.dump(index, f, ensure_ascii=False, indent=2)
 
 
 def save_patch(filename, data):
     os.makedirs(PATCHES_DIR, exist_ok=True)
-
-    with open(
-        f"{PATCHES_DIR}/{filename}",
-        "w",
-        encoding="utf-8"
-    ) as f:
-        json.dump(
-            data,
-            f,
-            ensure_ascii=False,
-            indent=2
-        )
+    with open(f"{PATCHES_DIR}/{filename}", "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
 
 
 # ======================================================
 # Main
 # ======================================================
-
-# def main():
-#     patch_urls = get_all_patch_urls()
-# 
-#     index = load_index()
-# 
-#     print(f"Found {len(patch_urls)} patches")  
-# 
-#     for patch_url in patch_urls:
-#         try:
-#             title, content, images = fetch_patch_content(
-#                 patch_url
-#             )
-# 
-#             filename = slugify(title)
-#             
-#             if any(p["file"] == filename for p in index):
-#                 print(f"Skipping {title}")
-#                 continue
-# 
-#             print(f"Processing {title}")
-# 
-#             metadata = extract_patch_metadata(
-#                 title,
-#                 content,
-#                 patch_url
-#             )
-# 
-#             data = {
-#                 "patch_title": metadata["patch_title"],
-#                 "patch_date": metadata["patch_date"],
-#                 "patch_url": metadata["patch_url"],
-#                 "jobs_pve": extract_jobs_pve(content),
-#                 "jobs_pvp": extract_jobs_pvp(content),
-#                 "new_content": extract_new_content(content),
-#                 "housing": extract_housing(
-#                     content,
-#                     images
-#                 ),
-#                 "glamour": extract_glamour(
-#                     content,
-#                     images
-#                 )
-#             }
-# 
-#             save_patch(
-#                 filename,
-#                 data
-#             )
-# 
-#             index.append({
-#                 "title": data["patch_title"],
-#                 "date": data["patch_date"],
-#                 "file": filename
-#             })
-# 
-#             save_index(index)
-# 
-#             print(f"Saved {title}")
-# 
-#         except Exception as e:
-#             print(
-#                 f"Error processing {patch_url}: {e}"
-#             )
-# 
-#     print("Done.")
 
 def main():
     print("Loading index...")
@@ -530,12 +362,7 @@ def main():
         print("No new patch detected.")
         return
 
-    index = load_index()
-
-    title, content, images = fetch_patch_content(
-        patch_url
-    )
-
+    title, content, images = fetch_patch_content(patch_url)
     filename = slugify(title)
 
     if any(p["file"] == filename for p in index):
@@ -544,11 +371,7 @@ def main():
 
     print("Analyzing patch...")
 
-    metadata = extract_patch_metadata(
-        title,
-        content,
-        patch_url
-    )
+    metadata = extract_patch_metadata(title, content, patch_url)
 
     data = {
         "patch_title": metadata["patch_title"],
@@ -570,7 +393,6 @@ def main():
     })
 
     save_index(index)
-
     print("Patch added successfully.")
 
 
