@@ -172,32 +172,32 @@ def ask_groq(prompt):
         print(f"Groq response: {response.text[:500]}")
         
         if response.status_code == 429:
-            wait = 60
-            print(f"Rate limited, waiting {wait}s...")
-            time.sleep(wait)
+            print(f"Rate limited, waiting 60s...")
+            time.sleep(60)
             continue
             
         response.raise_for_status()
         raw = response.json()["choices"][0]["message"]["content"]
         clean = raw.replace("```json", "").replace("```", "").strip()
-        return json.loads(clean)
 
-    raw = response.json()["choices"][0]["message"]["content"]
-    clean = raw.replace("```json", "").replace("```", "").strip()
+        if not clean:
+            print("  Warning: empty response from Groq")
+            return {}
 
-    try:
-        return json.loads(clean)
-    except json.JSONDecodeError:
-    # Try to fix truncated JSON by finding last complete object
-        print("  Warning: truncated JSON, attempting repair...")
-        last_bracket = max(clean.rfind("}]"), clean.rfind("}}"))
-        if last_bracket > 0:
-            clean = clean[:last_bracket + 2]
-            try:
-                return json.loads(clean)
-            except:
-                pass
-        return {}
+        try:
+            return json.loads(clean)
+        except json.JSONDecodeError:
+            print("  Warning: truncated JSON, attempting repair...")
+            last_bracket = max(clean.rfind("}]"), clean.rfind("}}"))
+            if last_bracket > 0:
+                clean = clean[:last_bracket + 2]
+                try:
+                    return json.loads(clean)
+                except:
+                    pass
+            return {}
+
+    return {}
     
 
 # ======================================================
