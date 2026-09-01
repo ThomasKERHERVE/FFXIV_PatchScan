@@ -125,26 +125,39 @@ def fetch_patch_content(url):
 # ======================================================
 
 def ask_groq(prompt):
-    response = requests.post(
-        GROQ_URL,
-        headers={
-            "Authorization": f"Bearer {GROQ_API_KEY}",
-            "Content-Type": "application/json"
-        },
-        json={
-            "model": "openai/gpt-oss-20b",
-            "messages": [{"role": "user", "content": prompt}],
-            "temperature": 0.1,
-            "max_tokens": 4096
-        },
-        timeout=30
-    )
-    print(f"Groq status: {response.status_code}")
-    print(f"Groq response: {response.text[:500]}")
-    response.raise_for_status()
-    raw = response.json()["choices"][0]["message"]["content"]
-    clean = raw.replace("```json", "").replace("```", "").strip()
-    return json.loads(clean)
+    time.sleep(30)
+    model = get_best_model()
+    
+    for attempt in range(3):
+        response = requests.post(
+            GROQ_URL,
+            headers={
+                "Authorization": f"Bearer {GROQ_API_KEY}",
+                "Content-Type": "application/json"
+            },
+            json={
+                "model": model,
+                "messages": [{"role": "user", "content": prompt}],
+                "temperature": 0.1,
+                "max_tokens": 2048
+            },
+            timeout=30
+        )
+        print(f"Groq status: {response.status_code}")
+        print(f"Groq response: {response.text[:500]}")
+        
+        if response.status_code == 429:
+            wait = 60
+            print(f"Rate limited, waiting {wait}s...")
+            time.sleep(wait)
+            continue
+            
+        response.raise_for_status()
+        raw = response.json()["choices"][0]["message"]["content"]
+        clean = raw.replace("```json", "").replace("```", "").strip()
+        return json.loads(clean)
+    
+    raise Exception("Failed after 3 attempts")
 
 
 # ======================================================
