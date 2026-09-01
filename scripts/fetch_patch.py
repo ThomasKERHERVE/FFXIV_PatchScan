@@ -124,6 +124,31 @@ def fetch_patch_content(url):
 # Groq helper
 # ======================================================
 
+def get_best_model():
+    """Get the first available text generation model."""
+    # Priority list — update if needed
+    preferred = [
+        "openai/gpt-oss-20b",
+        "openai/gpt-oss-120b",
+        "qwen/qwen3.6-27b",
+        "qwen/qwen3.8-27b",
+        "groq/compound-mini",
+        "groq/compound",
+    ]
+
+    response = requests.get(
+        "https://api.groq.com/openai/v1/models",
+        headers={"Authorization": f"Bearer {GROQ_API_KEY}"}
+    )
+    available = {m["id"] for m in response.json().get("data", [])}
+
+    for model in preferred:
+        if model in available:
+            print(f"Using model: {model}")
+            return model
+
+    raise ValueError("No suitable model available!")
+
 def ask_groq(prompt):
     time.sleep(30)
     model = get_best_model()
