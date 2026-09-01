@@ -181,9 +181,16 @@ def ask_groq(prompt):
         raw = response.json()["choices"][0]["message"]["content"]
         clean = raw.replace("```json", "").replace("```", "").strip()
         return json.loads(clean)
-    
-    raise Exception("Failed after 3 attempts")
 
+    raw = response.json()["choices"][0]["message"]["content"]
+    clean = raw.replace("```json", "").replace("```", "").strip()
+
+    if not clean:
+        print("  Warning: empty response from Groq")
+        return {}
+
+    return json.loads(clean)
+    
 
 # ======================================================
 # Structured extraction
