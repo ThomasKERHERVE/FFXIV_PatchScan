@@ -203,9 +203,7 @@ Rules:
 - no PvP changes
 - valid JSON only
 
-Content:
-{content}
-"""
+\n\nContent:\n{content[:8000]}"""
 
     return ask_groq(prompt).get("jobs_pve", [])
 
@@ -227,9 +225,7 @@ Return:
 
 Valid JSON only.
 
-Content:
-{content}
-"""
+\n\nContent:\n{content[:8000]}"""
 
     return ask_groq(prompt).get("jobs_pvp", [])
 
@@ -262,9 +258,7 @@ Return:
 Do not invent information.
 Valid JSON only.
 
-Content:
-{content}
-"""
+\n\nContent:\n{content[:8000]}"""
 
     return ask_groq(prompt).get("new_content", [])
 
@@ -290,9 +284,7 @@ Return:
 
 Valid JSON only.
 
-Content:
-{content}
-"""
+\n\nContent:\n{content[:8000]}"""
 
     return ask_groq(prompt).get("housing", [])
 
@@ -318,9 +310,7 @@ Return:
 
 Valid JSON only.
 
-Content:
-{content}
-"""
+\n\nContent:\n{content[:8000]}"""
 
     return ask_groq(prompt).get("glamour", [])
 
