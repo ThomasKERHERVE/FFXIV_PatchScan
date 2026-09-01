@@ -164,7 +164,7 @@ def ask_groq(prompt):
                 "model": model,
                 "messages": [{"role": "user", "content": prompt}],
                 "temperature": 0.1,
-                "max_tokens": 2048
+                "max_tokens": 4096
             },
             timeout=30
         )
@@ -185,11 +185,19 @@ def ask_groq(prompt):
     raw = response.json()["choices"][0]["message"]["content"]
     clean = raw.replace("```json", "").replace("```", "").strip()
 
-    if not clean:
-        print("  Warning: empty response from Groq")
+    try:
+        return json.loads(clean)
+    except json.JSONDecodeError:
+    # Try to fix truncated JSON by finding last complete object
+        print("  Warning: truncated JSON, attempting repair...")
+        last_bracket = max(clean.rfind("}]"), clean.rfind("}}"))
+        if last_bracket > 0:
+            clean = clean[:last_bracket + 2]
+            try:
+                return json.loads(clean)
+            except:
+                pass
         return {}
-
-    return json.loads(clean)
     
 
 # ======================================================
