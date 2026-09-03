@@ -59,8 +59,30 @@ def slugify(title):
 # Patch discovery
 # ======================================================
 
+PATCH_VERSION_RE = re.compile(
+    r"\bPatch\s+(\d+)(?:\.(\d+))?(?:\.(\d+))?",
+    re.IGNORECASE
+)
+
+
+def parse_patch_version(title):
+    match = PATCH_VERSION_RE.search(title)
+
+    if not match:
+        return None
+
+    return tuple(
+        int(value or 0)
+        for value in match.groups()
+    )
+
+
 def get_latest_patch_url(existing_files):
-    res = requests.get(PATCHNOTE_LOG, headers=HEADERS, timeout=15)
+    res = requests.get(
+        PATCHNOTE_LOG,
+        headers=HEADERS,
+        timeout=15
+    )
     res.raise_for_status()
 
     matches = re.findall(
@@ -73,23 +95,59 @@ def get_latest_patch_url(existing_files):
 
     print(f"Found {len(matches)} patch links")
 
+    patches = []
+
     for match in matches:
         patch_url = BASE_URL + match
 
         try:
-            title, _, _ = fetch_patch_content(patch_url)
+            title, date, _ = fetch_patch_content(patch_url)
+
+            version = parse_patch_version(title)
+
+            if version is None:
+                print(f"Skipping non-patch page: {title}")
+                continue
+
             filename = slugify(title)
 
-            print(f"Checking: {title}")
+            print(f"Found patch: {title} -> version {version}")
 
-            if filename not in existing_files:
-                print(f"New patch found: {title}")
-                return patch_url
+            patches.append({
+                "url": patch_url,
+                "title": title,
+                "date": date,
+                "version": version,
+                "filename": filename,
+            })
 
         except Exception as e:
             print(f"Failed to inspect {patch_url}: {e}")
 
-    return None
+    if not patches:
+        return None
+
+    # Le plus gros numéro de patch gagne
+    patches.sort(
+        key=lambda p: p["version"],
+        reverse=True
+    )
+
+    latest = patches[0]
+
+    print(
+        f"Latest patch detected: "
+        f"{latest['title']} "
+        f"(version {latest['version']})"
+    )
+
+    if latest["filename"] in existing_files:
+        print("Latest patch already exists.")
+        return None
+
+    print(f"New patch found: {latest['title']}")
+
+    return latest["url"]
 
 
 # ======================================================
