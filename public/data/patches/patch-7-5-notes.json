@@ -1,0 +1,141 @@
+{
+  "patch_title": "Patch 7.5 Notes",
+  "patch_date": "2026-05-13",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/07320affa7e0fcd9685afcbe54fbf55405b6d822/",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Unmaking",
+      "description": "New trial added.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Echoes of Vana'diel - Windurst: The Third Walk",
+      "description": "New trial added.",
+      "location": "Windurst",
+      "npc_location": null
+    },
+    {
+      "name": "The Occult Crescent: North Horn",
+      "description": "New trial added.",
+      "location": "North Horn",
+      "npc_location": null
+    },
+    {
+      "name": "Dancing Mad (Ultimate)",
+      "description": "New trial added.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Echoes of Vana'diel",
+      "description": "Alliance Raid added.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Auxesia",
+      "description": "New cosmic exploration destination.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "New custom deliveries client Tiisol Ja",
+      "description": "New custom deliveries client.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Tool Enhancement Quests - Cosmic Tools",
+      "description": "New quest added.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Weapon Enhancement Quests - Phantom Weapons",
+      "description": "New quest added.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Inconceivably Further Hildibrand Adventures sidequests",
+      "description": "New sidequests added.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Allied Society capstone sidequests",
+      "description": "New sidequests added.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "New main scenario quests",
+      "description": "New main scenario quests added.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Chronicles of a New Era quests",
+      "description": "New quests added.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "The Wing Spirit Cometh",
+      "description": "New sidequest added.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Tonawawtan Boy",
+      "description": "New sidequest added.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Battle System",
+      "description": "System update.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "PvP",
+      "description": "System update.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Crystalline Conflict",
+      "description": "System update.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Frontline",
+      "description": "System update.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Graphical Update",
+      "description": "System update.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Crystalline Conflict arena",
+      "description": "New arena added.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Archeia Harmonias",
+      "description": "New system added.",
+      "location": null,
+      "npc_location": null
+    }
+  ]
+}
