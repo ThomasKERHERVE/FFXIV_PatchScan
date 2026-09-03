@@ -315,57 +315,57 @@ Valid JSON only.
 
     return ask_groq(prompt).get("new_content", [])
 
-
-def extract_housing(content, images):
-    prompt = f"""
-Extract ALL housing items.
-
-Available images:
-{json.dumps(images[:300])}
-
-Return:
-
-{{
-  "housing": [
-    {{
-      "name": "",
-      "description": "",
-      "image_url": null
-    }}
-  ]
-}}
-
-Valid JSON only.
-
-\n\nContent:\n{content[:8000]}"""
-
-    return ask_groq(prompt).get("housing", [])
-
-
-def extract_glamour(content, images):
-    prompt = f"""
-Extract ALL glamour items.
-
-Available images:
-{json.dumps(images[:300])}
-
-Return:
-
-{{
-  "glamour": [
-    {{
-      "name": "",
-      "description": "",
-      "image_url": null
-    }}
-  ]
-}}
-
-Valid JSON only.
-
-\n\nContent:\n{content[:8000]}"""
-
-    return ask_groq(prompt).get("glamour", [])
+#
+#def extract_housing(content, images):
+#    prompt = f"""
+#Extract ALL housing items.
+#
+#Available images:
+#{json.dumps(images[:300])}
+#
+#Return:
+#
+#{{
+#  "housing": [
+#    {{
+#      "name": "",
+#      "description": "",
+#      "image_url": null
+#    }}
+#  ]
+#}}
+#
+#Valid JSON only.
+#
+#\n\nContent:\n{content[:8000]}"""
+#
+#    return ask_groq(prompt).get("housing", [])
+#
+#
+#def extract_glamour(content, images):
+#    prompt = f"""
+#Extract ALL glamour items.
+#
+#Available images:
+#{json.dumps(images[:300])}
+#
+#Return:
+#
+#{{
+#  "glamour": [
+#    {{
+#      "name": "",
+#      "description": "",
+#      "image_url": null
+#    }}
+#  ]
+#}}
+#
+#Valid JSON only.
+#
+#\n\nContent:\n{content[:8000]}"""
+#
+#    return ask_groq(prompt).get("glamour", [])
 
 
 # ======================================================
@@ -425,8 +425,8 @@ def main():
         "jobs_pve": extract_jobs_pve(content),
         "jobs_pvp": extract_jobs_pvp(content),
         "new_content": extract_new_content(content),
-        "housing": extract_housing(content, images),
-        "glamour": extract_glamour(content, images)
+#        "housing": extract_housing(content, images),
+#        "glamour": extract_glamour(content, images)
     }
 
     save_patch(filename, data)
