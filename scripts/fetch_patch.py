@@ -295,10 +295,9 @@ Content:
 
 def extract_jobs_pve(content):
     prompt = f"""
-Extract ALL PvE job balance changes.
+Extract ALL PvE job balance changes from these FFXIV patch notes.
 
-Return:
-
+Return ONLY this JSON:
 {{
   "jobs_pve": [
     {{
@@ -309,22 +308,28 @@ Return:
 }}
 
 Rules:
-- include every affected job
-- do not summarize excessively
-- no PvP changes
-- valid JSON only
+- Include every affected PvE job.
+- Include every relevant change for each job.
+- Do NOT include PvP changes.
+- Keep each change concise.
+- Do not invent information.
+- If there are no PvE job changes, return {{"jobs_pve":[]}}.
+- Return valid JSON only.
+- No markdown.
+- No explanation.
 
-\n\nContent:\n{content[:8000]}"""
+PATCH NOTES:
+{content}
+"""
 
     return ask_groq(prompt).get("jobs_pve", [])
 
 
 def extract_jobs_pvp(content):
     prompt = f"""
-Extract ALL PvP job balance changes.
+Extract ALL PvP job balance changes from these FFXIV patch notes.
 
-Return:
-
+Return ONLY this JSON:
 {{
   "jobs_pvp": [
     {{
@@ -334,26 +339,38 @@ Return:
   ]
 }}
 
-Valid JSON only.
+Rules:
+- Include every affected PvP job.
+- Include every relevant change for each job.
+- Do NOT include PvE changes.
+- Keep each change concise.
+- Do not invent information.
+- If there are no PvP job changes, return {{"jobs_pvp":[]}}.
+- Return valid JSON only.
+- No markdown.
+- No explanation.
 
-\n\nContent:\n{content[:8000]}"""
+PATCH NOTES:
+{content}
+"""
 
     return ask_groq(prompt).get("jobs_pvp", [])
 
 
 def extract_new_content(content):
     prompt = f"""
-Extract all:
+Extract the major NEW CONTENT introduced by this FFXIV patch.
 
-- dungeons
-- raids
-- trials
-- quests
-- systems
+Look ONLY for:
+- new dungeons
+- new raids
+- new trials
+- major quests
+- new systems
 - exploration zones
 - major features
 
-Return:
+Return ONLY this JSON:
 
 {{
   "new_content": [
@@ -366,10 +383,25 @@ Return:
   ]
 }}
 
-Do not invent information.
-Valid JSON only.
+Rules:
+- Include only content that is actually NEW in this patch.
+- Do not include minor bug fixes.
+- Do not include balance changes.
+- Do not include ordinary item changes.
+- Include every major new content item you can find.
+- Keep descriptions SHORT: maximum 1 sentence.
+- location must contain only an in-game location and coordinates when available.
+- npc_location must contain only the NPC name and location when available.
+- Use null when the information is not present.
+- Do not invent information.
+- If there is no new content, return {{"new_content":[]}}.
+- Return valid JSON only.
+- No markdown.
+- No explanation.
 
-\n\nContent:\n{content[:8000]}"""
+PATCH NOTES:
+{content}
+"""
 
     return ask_groq(prompt).get("new_content", [])
 
