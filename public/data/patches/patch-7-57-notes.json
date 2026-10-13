@@ -1,0 +1,21 @@
+{
+  "patch_title": "Patch 7.57 Notes",
+  "patch_date": "2026-10-25",
+  "patch_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/6f063f4b9a856812a296954827b771da1426b4fb/",
+  "jobs_pve": [],
+  "jobs_pvp": [],
+  "new_content": [
+    {
+      "name": "Same-Region Player Matching",
+      "description": "Enables matchmaking across all logical data centers within the same physical data center in Japanese servers.",
+      "location": null,
+      "npc_location": null
+    },
+    {
+      "name": "Crucible Rankings Season 1",
+      "description": "Introduces a seasonal ranking system for the Crucible of the Unbroken with leaderboards and rewards.",
+      "location": null,
+      "npc_location": "Lauda in the Central Shroud (X:21.9 Y:22.8)"
+    }
+  ]
+}
